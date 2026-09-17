@@ -1,0 +1,1203 @@
+InvoiceID,InvoiceDate,Client,BusinessUnit,Region,Revenue,COGS,GrossMargin,PaymentStatus
+INV-100001,2024-01-28,Falcon Aerospace,Retail & Consumer,India,107909.56,55679.05,52230.51,Paid
+INV-100002,2024-01-02,Meridian Health Group,Banking & Financial Services,UAE,90242.74,44197.77,46044.97,Paid
+INV-100003,2024-01-08,BlueHarbor Financial,Technology & Telecom,UAE,17519.43,8398.66,9120.77,Outstanding
+INV-100004,2024-01-24,Solstice Retail Co,Technology & Telecom,UAE,13243.57,8163.12,5080.45,Paid
+INV-100005,2024-01-14,Vantage Telecom,Healthcare & Life Sciences,USA,138096.43,91530.72,46565.71,Paid
+INV-100006,2024-01-18,CedarPoint Logistics,Banking & Financial Services,KSA,13197.62,8684.34,4513.28,Paid
+INV-100007,2024-01-27,Northbridge Bank,Technology & Telecom,UK,85035.04,44624.14,40410.9,Paid
+INV-100008,2024-01-06,Horizon Insurance,Technology & Telecom,UAE,179804.17,93544.22,86259.95,Paid
+INV-100009,2024-01-27,Apex Manufacturing,Technology & Telecom,KSA,158827.05,82425.6,76401.45,Paid
+INV-100010,2024-01-16,Meridian Health Group,Public Sector,UAE,66922.64,30220.53,36702.11,Paid
+INV-100011,2024-01-12,Willow Pharma,Retail & Consumer,UK,157625.94,80338.6,77287.34,Outstanding
+INV-100012,2024-01-06,BlueHarbor Financial,Banking & Financial Services,UK,184853.64,105920.09,78933.55,Paid
+INV-100013,2024-01-06,Granite Construction Group,Banking & Financial Services,KSA,154210.88,93094.19,61116.69,Paid
+INV-100014,2024-01-26,Apex Manufacturing,Banking & Financial Services,USA,77381.28,42266.45,35114.83,Paid
+INV-100015,2024-01-09,Keystone Energy,Retail & Consumer,UK,176628.53,114254.45,62374.08,Paid
+INV-100016,2024-01-18,Keystone Energy,Public Sector,UK,164445.72,89461.28,74984.44,Outstanding
+INV-100017,2024-01-03,Coral Bay Hospitality,Retail & Consumer,USA,59940.97,33412.82,26528.15,Paid
+INV-100018,2024-01-04,Ironclad Public Utilities,Banking & Financial Services,KSA,72004.2,33006.36,38997.84,Outstanding
+INV-100019,2024-01-05,Horizon Insurance,Public Sector,USA,93556.96,48584.84,44972.12,Paid
+INV-100020,2024-01-10,Vantage Telecom,Retail & Consumer,India,151670.02,78981.84,72688.18,Paid
+INV-100021,2024-01-03,Keystone Energy,Technology & Telecom,USA,34967.79,16623.91,18343.88,Paid
+INV-100022,2024-01-06,Granite Construction Group,Technology & Telecom,India,115014.42,71628.48,43385.94,Paid
+INV-100023,2024-01-23,Horizon Insurance,Public Sector,KSA,11042.97,5984.45,5058.52,Paid
+INV-100024,2024-01-23,Granite Construction Group,Retail & Consumer,UAE,143655.44,67984.55,75670.89,Overdue
+INV-100025,2024-01-15,Apex Manufacturing,Healthcare & Life Sciences,USA,105426.33,60322.33,45104.0,Paid
+INV-100026,2024-01-19,Northbridge Bank,Technology & Telecom,KSA,62289.97,32863.79,29426.18,Paid
+INV-100027,2024-01-09,Coral Bay Hospitality,Public Sector,KSA,136150.77,77809.36,58341.41,Overdue
+INV-100028,2024-01-09,Granite Construction Group,Technology & Telecom,USA,12106.24,6575.93,5530.31,Paid
+INV-100029,2024-01-06,CedarPoint Logistics,Banking & Financial Services,UAE,183754.51,90370.71,93383.8,Paid
+INV-100030,2024-01-08,Horizon Insurance,Healthcare & Life Sciences,India,22560.33,13920.35,8639.98,Paid
+INV-100031,2024-01-17,Meridian Health Group,Technology & Telecom,UAE,63039.1,39154.47,23884.63,Paid
+INV-100032,2024-01-21,Northbridge Bank,Healthcare & Life Sciences,UK,33183.14,20378.16,12804.98,Outstanding
+INV-100033,2024-01-23,BlueHarbor Financial,Banking & Financial Services,UAE,43866.53,20370.34,23496.19,Paid
+INV-100034,2024-01-20,Meridian Health Group,Public Sector,UK,105484.3,61836.18,43648.12,Paid
+INV-100035,2024-01-10,Meridian Health Group,Banking & Financial Services,India,13740.77,6225.08,7515.69,Outstanding
+INV-100036,2024-01-24,Zenith Media,Banking & Financial Services,KSA,26927.99,16390.19,10537.8,Paid
+INV-100037,2024-01-04,Ironclad Public Utilities,Technology & Telecom,USA,81444.54,51273.82,30170.72,Paid
+INV-100038,2024-01-25,Keystone Energy,Healthcare & Life Sciences,India,129022.49,76364.92,52657.57,Paid
+INV-100039,2024-01-28,Willow Pharma,Public Sector,India,25438.43,15238.72,10199.71,Outstanding
+INV-100040,2024-01-21,Zenith Media,Public Sector,India,161518.42,106907.56,54610.86,Paid
+INV-100041,2024-01-06,Meridian Health Group,Healthcare & Life Sciences,UK,68308.52,36044.38,32264.14,Paid
+INV-100042,2024-01-27,Northbridge Bank,Technology & Telecom,KSA,106785.77,64656.54,42129.23,Outstanding
+INV-100043,2024-01-25,Coral Bay Hospitality,Banking & Financial Services,UK,32355.52,18042.6,14312.92,Paid
+INV-100044,2024-01-14,Willow Pharma,Healthcare & Life Sciences,UK,27815.35,15175.09,12640.26,Paid
+INV-100045,2024-01-27,Coral Bay Hospitality,Public Sector,UAE,145917.91,81436.17,64481.74,Paid
+INV-100046,2024-01-13,Solstice Retail Co,Healthcare & Life Sciences,USA,163603.4,95750.21,67853.19,Paid
+INV-100047,2024-01-27,Apex Manufacturing,Technology & Telecom,UAE,102778.87,57719.37,45059.5,Paid
+INV-100048,2024-01-01,Northbridge Bank,Technology & Telecom,UK,107059.5,50787.93,56271.57,Paid
+INV-100049,2024-01-18,Granite Construction Group,Retail & Consumer,USA,10641.61,6557.82,4083.79,Paid
+INV-100050,2024-01-01,Granite Construction Group,Retail & Consumer,UK,161482.29,91256.11,70226.18,Paid
+INV-100051,2024-01-07,Falcon Aerospace,Retail & Consumer,India,42365.37,26548.15,15817.22,Paid
+INV-100052,2024-01-13,Solstice Retail Co,Healthcare & Life Sciences,UAE,77154.44,35394.74,41759.7,Overdue
+INV-100053,2024-01-13,Falcon Aerospace,Technology & Telecom,USA,70376.85,39048.97,31327.88,Outstanding
+INV-100054,2024-01-14,Northbridge Bank,Technology & Telecom,UK,128756.53,68498.05,60258.48,Overdue
+INV-100055,2024-01-12,Willow Pharma,Banking & Financial Services,KSA,110317.36,74572.86,35744.5,Paid
+INV-100056,2024-01-10,Meridian Health Group,Retail & Consumer,UAE,138236.58,88873.38,49363.2,Paid
+INV-100057,2024-02-12,Meridian Health Group,Banking & Financial Services,UK,172210.62,86113.01,86097.61,Paid
+INV-100058,2024-02-28,Zenith Media,Public Sector,India,166023.48,80688.14,85335.34,Paid
+INV-100059,2024-02-05,Willow Pharma,Banking & Financial Services,USA,103260.27,51742.71,51517.56,Paid
+INV-100060,2024-02-10,Coral Bay Hospitality,Retail & Consumer,USA,19674.64,8960.31,10714.33,Paid
+INV-100061,2024-02-01,Willow Pharma,Technology & Telecom,USA,151258.3,70661.33,80596.97,Paid
+INV-100062,2024-02-03,Zenith Media,Healthcare & Life Sciences,UAE,34082.74,18224.36,15858.38,Paid
+INV-100063,2024-02-13,Apex Manufacturing,Retail & Consumer,USA,183081.63,111790.7,71290.93,Paid
+INV-100064,2024-02-03,Vantage Telecom,Public Sector,India,49183.04,28353.46,20829.58,Paid
+INV-100065,2024-02-16,CedarPoint Logistics,Banking & Financial Services,UAE,163842.21,84134.87,79707.34,Paid
+INV-100066,2024-02-26,Horizon Insurance,Healthcare & Life Sciences,UK,97484.89,61993.42,35491.47,Paid
+INV-100067,2024-02-11,Zenith Media,Banking & Financial Services,India,91625.18,52860.05,38765.13,Paid
+INV-100068,2024-02-11,Solstice Retail Co,Public Sector,UAE,168332.41,110888.92,57443.49,Paid
+INV-100069,2024-02-17,Solstice Retail Co,Healthcare & Life Sciences,USA,73864.53,42800.14,31064.39,Paid
+INV-100070,2024-02-21,CedarPoint Logistics,Retail & Consumer,India,35393.31,22879.61,12513.7,Paid
+INV-100071,2024-02-01,Granite Construction Group,Public Sector,UK,36457.38,22563.51,13893.87,Paid
+INV-100072,2024-02-12,Horizon Insurance,Retail & Consumer,UK,142232.97,91568.51,50664.46,Paid
+INV-100073,2024-02-15,BlueHarbor Financial,Technology & Telecom,UK,33018.32,17577.76,15440.56,Paid
+INV-100074,2024-02-04,Northbridge Bank,Technology & Telecom,KSA,18822.87,10635.1,8187.77,Paid
+INV-100075,2024-02-08,BlueHarbor Financial,Retail & Consumer,UK,102085.88,60994.27,41091.61,Outstanding
+INV-100076,2024-02-08,Falcon Aerospace,Banking & Financial Services,KSA,25293.36,13232.26,12061.1,Outstanding
+INV-100077,2024-02-10,Northbridge Bank,Healthcare & Life Sciences,UK,60481.71,28230.81,32250.9,Outstanding
+INV-100078,2024-02-06,Zenith Media,Retail & Consumer,UK,126894.25,68289.94,58604.31,Overdue
+INV-100079,2024-02-17,Solstice Retail Co,Retail & Consumer,India,144392.27,78075.54,66316.73,Paid
+INV-100080,2024-02-02,Solstice Retail Co,Technology & Telecom,KSA,106235.09,68181.5,38053.59,Outstanding
+INV-100081,2024-02-13,BlueHarbor Financial,Technology & Telecom,India,32090.89,17727.76,14363.13,Paid
+INV-100082,2024-02-11,Solstice Retail Co,Technology & Telecom,UAE,160161.02,98094.39,62066.63,Paid
+INV-100083,2024-02-12,Willow Pharma,Public Sector,UK,92232.18,56176.28,36055.9,Overdue
+INV-100084,2024-02-16,Solstice Retail Co,Healthcare & Life Sciences,USA,84329.02,47722.5,36606.52,Overdue
+INV-100085,2024-02-17,Northbridge Bank,Technology & Telecom,UAE,149127.61,84840.62,64286.99,Paid
+INV-100086,2024-02-12,Ironclad Public Utilities,Healthcare & Life Sciences,KSA,18183.59,9582.03,8601.56,Paid
+INV-100087,2024-02-27,Horizon Insurance,Banking & Financial Services,India,147512.6,89699.46,57813.14,Overdue
+INV-100088,2024-02-03,Granite Construction Group,Healthcare & Life Sciences,UK,43402.62,23705.11,19697.51,Paid
+INV-100089,2024-02-11,Ironclad Public Utilities,Technology & Telecom,UK,176423.42,110899.35,65524.07,Paid
+INV-100090,2024-02-17,Falcon Aerospace,Retail & Consumer,UK,87691.04,54320.34,33370.7,Overdue
+INV-100091,2024-02-06,Keystone Energy,Technology & Telecom,UK,133790.35,70799.21,62991.14,Paid
+INV-100092,2024-02-27,Zenith Media,Banking & Financial Services,USA,132690.08,60553.5,72136.58,Outstanding
+INV-100093,2024-02-24,Horizon Insurance,Healthcare & Life Sciences,KSA,92403.67,59865.76,32537.91,Paid
+INV-100094,2024-02-21,Apex Manufacturing,Healthcare & Life Sciences,KSA,18555.63,9101.44,9454.19,Paid
+INV-100095,2024-02-27,Apex Manufacturing,Banking & Financial Services,UAE,142799.08,91714.25,51084.83,Paid
+INV-100096,2024-02-04,Falcon Aerospace,Technology & Telecom,UK,115394.27,77637.7,37756.57,Paid
+INV-100097,2024-02-12,Solstice Retail Co,Banking & Financial Services,India,35897.79,23444.83,12452.96,Paid
+INV-100098,2024-02-02,Horizon Insurance,Retail & Consumer,USA,79534.25,45914.77,33619.48,Paid
+INV-100099,2024-02-19,Solstice Retail Co,Banking & Financial Services,UK,177097.64,80014.24,97083.4,Paid
+INV-100100,2024-02-19,Solstice Retail Co,Banking & Financial Services,KSA,140197.29,95169.76,45027.53,Outstanding
+INV-100101,2024-02-16,Northbridge Bank,Banking & Financial Services,India,40636.1,22001.59,18634.51,Paid
+INV-100102,2024-02-15,Northbridge Bank,Technology & Telecom,USA,12473.37,5818.01,6655.36,Paid
+INV-100103,2024-02-25,Keystone Energy,Healthcare & Life Sciences,UAE,78810.99,38981.82,39829.17,Paid
+INV-100104,2024-02-07,Keystone Energy,Retail & Consumer,UAE,174621.13,90275.15,84345.98,Paid
+INV-100105,2024-02-13,Solstice Retail Co,Technology & Telecom,UK,40486.55,26756.29,13730.26,Overdue
+INV-100106,2024-02-15,Vantage Telecom,Banking & Financial Services,UK,36304.01,18663.4,17640.61,Paid
+INV-100107,2024-03-02,Keystone Energy,Public Sector,UAE,103567.83,69423.34,34144.49,Paid
+INV-100108,2024-03-20,Granite Construction Group,Retail & Consumer,India,18773.21,12251.86,6521.35,Overdue
+INV-100109,2024-03-24,Zenith Media,Public Sector,India,27244.45,16042.44,11202.01,Overdue
+INV-100110,2024-03-16,Vantage Telecom,Healthcare & Life Sciences,UK,132026.44,89513.99,42512.45,Paid
+INV-100111,2024-03-13,Coral Bay Hospitality,Banking & Financial Services,KSA,166380.96,79382.15,86998.81,Paid
+INV-100112,2024-03-14,CedarPoint Logistics,Banking & Financial Services,India,180564.42,104644.09,75920.33,Paid
+INV-100113,2024-03-27,Solstice Retail Co,Technology & Telecom,UK,88103.56,52734.63,35368.93,Paid
+INV-100114,2024-03-07,Apex Manufacturing,Healthcare & Life Sciences,USA,122080.27,64929.18,57151.09,Overdue
+INV-100115,2024-03-01,Apex Manufacturing,Retail & Consumer,USA,140558.59,82208.27,58350.32,Outstanding
+INV-100116,2024-03-27,Willow Pharma,Banking & Financial Services,USA,160071.76,88041.91,72029.85,Paid
+INV-100117,2024-03-01,BlueHarbor Financial,Technology & Telecom,India,141376.11,91144.07,50232.04,Paid
+INV-100118,2024-03-19,Northbridge Bank,Public Sector,UAE,125724.0,83247.42,42476.58,Paid
+INV-100119,2024-03-12,Ironclad Public Utilities,Banking & Financial Services,KSA,40952.23,19160.87,21791.36,Paid
+INV-100120,2024-03-19,Keystone Energy,Healthcare & Life Sciences,USA,13765.67,7014.72,6750.95,Paid
+INV-100121,2024-03-07,Ironclad Public Utilities,Healthcare & Life Sciences,KSA,167079.15,88577.69,78501.46,Paid
+INV-100122,2024-03-03,Vantage Telecom,Healthcare & Life Sciences,UAE,177460.59,89844.05,87616.54,Paid
+INV-100123,2024-03-04,Solstice Retail Co,Retail & Consumer,India,68897.29,46429.05,22468.24,Overdue
+INV-100124,2024-03-22,Keystone Energy,Healthcare & Life Sciences,India,58211.34,36855.31,21356.03,Paid
+INV-100125,2024-03-18,Vantage Telecom,Technology & Telecom,USA,97259.97,56168.44,41091.53,Paid
+INV-100126,2024-03-07,Willow Pharma,Healthcare & Life Sciences,USA,42274.46,26566.37,15708.09,Paid
+INV-100127,2024-03-05,Horizon Insurance,Healthcare & Life Sciences,UK,170687.15,100053.73,70633.42,Paid
+INV-100128,2024-03-18,Granite Construction Group,Public Sector,UAE,69387.07,43139.53,26247.54,Paid
+INV-100129,2024-03-19,Meridian Health Group,Healthcare & Life Sciences,India,141220.57,66487.65,74732.92,Paid
+INV-100130,2024-03-20,Apex Manufacturing,Retail & Consumer,USA,77529.46,51073.69,26455.77,Overdue
+INV-100131,2024-03-16,Ironclad Public Utilities,Healthcare & Life Sciences,UAE,28869.08,14602.77,14266.31,Paid
+INV-100132,2024-03-09,Vantage Telecom,Banking & Financial Services,UK,89382.07,52309.92,37072.15,Paid
+INV-100133,2024-03-09,Meridian Health Group,Banking & Financial Services,UK,40258.66,25291.34,14967.32,Paid
+INV-100134,2024-03-04,Ironclad Public Utilities,Healthcare & Life Sciences,UK,68515.92,46369.95,22145.97,Overdue
+INV-100135,2024-03-04,Solstice Retail Co,Healthcare & Life Sciences,UK,87001.92,53218.02,33783.9,Outstanding
+INV-100136,2024-03-09,CedarPoint Logistics,Healthcare & Life Sciences,UK,30675.26,16792.16,13883.1,Outstanding
+INV-100137,2024-03-13,CedarPoint Logistics,Healthcare & Life Sciences,USA,119431.29,64694.45,54736.84,Paid
+INV-100138,2024-03-15,Keystone Energy,Healthcare & Life Sciences,UAE,165593.05,90731.15,74861.9,Paid
+INV-100139,2024-03-18,Northbridge Bank,Banking & Financial Services,USA,112977.19,67985.64,44991.55,Paid
+INV-100140,2024-03-04,CedarPoint Logistics,Healthcare & Life Sciences,India,18811.94,9184.54,9627.4,Paid
+INV-100141,2024-03-09,CedarPoint Logistics,Healthcare & Life Sciences,India,70768.75,37018.63,33750.12,Paid
+INV-100142,2024-03-08,Willow Pharma,Healthcare & Life Sciences,UAE,110993.94,52629.5,58364.44,Paid
+INV-100143,2024-03-05,Coral Bay Hospitality,Technology & Telecom,UK,170366.6,94728.76,75637.84,Paid
+INV-100144,2024-03-28,Apex Manufacturing,Public Sector,KSA,74262.03,46078.64,28183.39,Paid
+INV-100145,2024-03-09,Solstice Retail Co,Banking & Financial Services,USA,104510.35,64052.83,40457.52,Paid
+INV-100146,2024-03-01,Willow Pharma,Public Sector,UAE,112554.03,69701.26,42852.77,Paid
+INV-100147,2024-03-21,Granite Construction Group,Public Sector,UK,95196.96,52284.75,42912.21,Paid
+INV-100148,2024-03-25,Zenith Media,Public Sector,KSA,178210.71,116290.39,61920.32,Paid
+INV-100149,2024-03-28,Ironclad Public Utilities,Public Sector,USA,84109.71,39692.49,44417.22,Overdue
+INV-100150,2024-03-10,Northbridge Bank,Healthcare & Life Sciences,India,90706.78,52144.37,38562.41,Paid
+INV-100151,2024-03-26,Horizon Insurance,Banking & Financial Services,USA,67037.21,37929.31,29107.9,Paid
+INV-100152,2024-03-06,Willow Pharma,Public Sector,USA,42002.66,26038.62,15964.04,Paid
+INV-100153,2024-03-01,Willow Pharma,Technology & Telecom,UK,31890.7,20134.62,11756.08,Outstanding
+INV-100154,2024-04-12,BlueHarbor Financial,Technology & Telecom,KSA,124547.8,78359.41,46188.39,Paid
+INV-100155,2024-04-19,Keystone Energy,Healthcare & Life Sciences,India,138469.15,64863.83,73605.32,Paid
+INV-100156,2024-04-01,Solstice Retail Co,Public Sector,KSA,38552.59,25059.28,13493.31,Paid
+INV-100157,2024-04-21,Coral Bay Hospitality,Healthcare & Life Sciences,India,137092.49,82618.56,54473.93,Paid
+INV-100158,2024-04-19,Solstice Retail Co,Retail & Consumer,UK,38462.29,20945.54,17516.75,Paid
+INV-100159,2024-04-26,Keystone Energy,Healthcare & Life Sciences,UAE,24043.22,16049.47,7993.75,Paid
+INV-100160,2024-04-20,Vantage Telecom,Retail & Consumer,UAE,58882.81,34262.82,24619.99,Paid
+INV-100161,2024-04-06,Granite Construction Group,Banking & Financial Services,USA,132283.32,72230.17,60053.15,Outstanding
+INV-100162,2024-04-27,Northbridge Bank,Healthcare & Life Sciences,UK,78534.84,40078.18,38456.66,Paid
+INV-100163,2024-04-03,Zenith Media,Banking & Financial Services,USA,71951.25,35591.92,36359.33,Outstanding
+INV-100164,2024-04-03,Zenith Media,Retail & Consumer,UAE,11321.06,5697.53,5623.53,Paid
+INV-100165,2024-04-07,Willow Pharma,Banking & Financial Services,USA,46870.27,25088.21,21782.06,Outstanding
+INV-100166,2024-04-03,Ironclad Public Utilities,Healthcare & Life Sciences,KSA,36377.01,23367.19,13009.82,Paid
+INV-100167,2024-04-14,Ironclad Public Utilities,Healthcare & Life Sciences,UK,158835.5,96859.54,61975.96,Paid
+INV-100168,2024-04-11,Keystone Energy,Public Sector,KSA,89668.44,53943.41,35725.03,Paid
+INV-100169,2024-04-27,Horizon Insurance,Technology & Telecom,UAE,171453.99,106665.53,64788.46,Paid
+INV-100170,2024-04-17,Apex Manufacturing,Technology & Telecom,KSA,77193.25,38614.33,38578.92,Paid
+INV-100171,2024-04-07,Northbridge Bank,Banking & Financial Services,USA,65624.9,36520.04,29104.86,Paid
+INV-100172,2024-04-28,BlueHarbor Financial,Banking & Financial Services,UK,154230.74,92781.82,61448.92,Paid
+INV-100173,2024-04-26,Falcon Aerospace,Banking & Financial Services,KSA,181997.87,118989.04,63008.83,Paid
+INV-100174,2024-04-14,Meridian Health Group,Banking & Financial Services,USA,53838.61,33050.81,20787.8,Paid
+INV-100175,2024-04-27,Solstice Retail Co,Healthcare & Life Sciences,UAE,76868.83,39470.99,37397.84,Paid
+INV-100176,2024-04-13,Meridian Health Group,Healthcare & Life Sciences,UK,39625.85,22113.99,17511.86,Outstanding
+INV-100177,2024-04-14,CedarPoint Logistics,Technology & Telecom,UK,166290.32,103594.2,62696.12,Paid
+INV-100178,2024-04-02,Granite Construction Group,Retail & Consumer,USA,59740.2,35452.55,24287.65,Paid
+INV-100179,2024-04-04,Keystone Energy,Technology & Telecom,UAE,91788.52,59425.73,32362.79,Outstanding
+INV-100180,2024-04-16,Coral Bay Hospitality,Technology & Telecom,UAE,184646.96,118590.52,66056.44,Overdue
+INV-100181,2024-04-02,Ironclad Public Utilities,Public Sector,KSA,38521.09,23512.76,15008.33,Paid
+INV-100182,2024-04-09,Horizon Insurance,Public Sector,KSA,86817.45,44391.5,42425.95,Paid
+INV-100183,2024-04-25,Granite Construction Group,Technology & Telecom,KSA,46767.3,24760.04,22007.26,Paid
+INV-100184,2024-04-15,Granite Construction Group,Healthcare & Life Sciences,USA,153832.91,89484.28,64348.63,Overdue
+INV-100185,2024-04-18,Granite Construction Group,Banking & Financial Services,KSA,71531.57,37016.66,34514.91,Paid
+INV-100186,2024-04-18,Willow Pharma,Healthcare & Life Sciences,UK,157045.81,75612.46,81433.35,Overdue
+INV-100187,2024-04-24,Northbridge Bank,Retail & Consumer,UK,38613.32,21956.12,16657.2,Paid
+INV-100188,2024-04-28,Meridian Health Group,Banking & Financial Services,UAE,113424.76,56966.61,56458.15,Paid
+INV-100189,2024-04-03,Falcon Aerospace,Retail & Consumer,UK,139319.58,71278.81,68040.77,Paid
+INV-100190,2024-04-01,Willow Pharma,Retail & Consumer,KSA,64867.81,37992.57,26875.24,Paid
+INV-100191,2024-04-14,Ironclad Public Utilities,Healthcare & Life Sciences,UK,102452.6,52273.93,50178.67,Paid
+INV-100192,2024-04-15,Horizon Insurance,Technology & Telecom,UK,138455.94,71654.83,66801.11,Outstanding
+INV-100193,2024-04-13,Keystone Energy,Public Sector,India,56817.9,31540.66,25277.24,Paid
+INV-100194,2024-04-12,Meridian Health Group,Public Sector,UK,157253.72,105594.98,51658.74,Paid
+INV-100195,2024-04-25,Horizon Insurance,Technology & Telecom,UK,31253.13,20366.82,10886.31,Paid
+INV-100196,2024-04-23,BlueHarbor Financial,Public Sector,UAE,73090.51,37882.44,35208.07,Paid
+INV-100197,2024-04-02,Coral Bay Hospitality,Retail & Consumer,USA,140138.43,81474.84,58663.59,Paid
+INV-100198,2024-04-25,Apex Manufacturing,Technology & Telecom,KSA,110105.05,52332.84,57772.21,Outstanding
+INV-100199,2024-04-27,Horizon Insurance,Retail & Consumer,UAE,131458.26,78803.54,52654.72,Outstanding
+INV-100200,2024-04-25,BlueHarbor Financial,Banking & Financial Services,India,180803.86,96471.23,84332.63,Paid
+INV-100201,2024-04-09,Northbridge Bank,Retail & Consumer,UAE,48337.17,24508.64,23828.53,Paid
+INV-100202,2024-05-15,Coral Bay Hospitality,Healthcare & Life Sciences,KSA,12787.81,7175.25,5612.56,Paid
+INV-100203,2024-05-04,Northbridge Bank,Technology & Telecom,UK,132049.22,86381.68,45667.54,Outstanding
+INV-100204,2024-05-28,Keystone Energy,Healthcare & Life Sciences,KSA,138076.51,75492.62,62583.89,Outstanding
+INV-100205,2024-05-25,Keystone Energy,Public Sector,India,145369.97,85955.94,59414.03,Outstanding
+INV-100206,2024-05-25,Apex Manufacturing,Public Sector,USA,84270.7,42147.73,42122.97,Paid
+INV-100207,2024-05-19,Falcon Aerospace,Public Sector,UAE,76536.32,47669.03,28867.29,Paid
+INV-100208,2024-05-28,Vantage Telecom,Retail & Consumer,KSA,131258.48,80005.7,51252.78,Outstanding
+INV-100209,2024-05-26,Granite Construction Group,Technology & Telecom,UK,12260.46,7896.74,4363.72,Paid
+INV-100210,2024-05-04,Zenith Media,Banking & Financial Services,India,109067.3,52567.14,56500.16,Outstanding
+INV-100211,2024-05-03,Northbridge Bank,Retail & Consumer,USA,82797.98,50592.59,32205.39,Outstanding
+INV-100212,2024-05-06,Zenith Media,Technology & Telecom,UK,13263.9,7160.83,6103.07,Paid
+INV-100213,2024-05-22,Granite Construction Group,Banking & Financial Services,UK,143052.07,83386.84,59665.23,Paid
+INV-100214,2024-05-17,Apex Manufacturing,Healthcare & Life Sciences,USA,110899.71,69462.0,41437.71,Overdue
+INV-100215,2024-05-18,Meridian Health Group,Public Sector,USA,172696.51,97197.7,75498.81,Paid
+INV-100216,2024-05-03,BlueHarbor Financial,Retail & Consumer,KSA,144752.86,72908.76,71844.1,Outstanding
+INV-100217,2024-05-20,Willow Pharma,Banking & Financial Services,USA,82851.29,53108.13,29743.16,Paid
+INV-100218,2024-05-23,Solstice Retail Co,Technology & Telecom,USA,59672.8,27267.34,32405.46,Overdue
+INV-100219,2024-05-11,Coral Bay Hospitality,Healthcare & Life Sciences,UAE,127399.21,64286.05,63113.16,Paid
+INV-100220,2024-05-19,Falcon Aerospace,Public Sector,UAE,27992.99,14906.89,13086.1,Overdue
+INV-100221,2024-05-03,BlueHarbor Financial,Technology & Telecom,UAE,183917.45,108093.31,75824.14,Overdue
+INV-100222,2024-05-20,CedarPoint Logistics,Public Sector,UK,41603.61,22241.66,19361.95,Outstanding
+INV-100223,2024-05-25,Solstice Retail Co,Retail & Consumer,KSA,107369.78,60975.82,46393.96,Paid
+INV-100224,2024-05-23,Falcon Aerospace,Healthcare & Life Sciences,UAE,131435.33,82810.34,48624.99,Paid
+INV-100225,2024-05-01,Apex Manufacturing,Public Sector,UAE,81328.5,45987.98,35340.52,Paid
+INV-100226,2024-05-11,Falcon Aerospace,Technology & Telecom,India,125408.29,75984.15,49424.14,Outstanding
+INV-100227,2024-05-25,Ironclad Public Utilities,Banking & Financial Services,UAE,75191.62,48552.0,26639.62,Overdue
+INV-100228,2024-05-15,Keystone Energy,Healthcare & Life Sciences,USA,24488.19,11027.98,13460.21,Paid
+INV-100229,2024-05-14,Meridian Health Group,Technology & Telecom,UAE,173834.09,117300.65,56533.44,Paid
+INV-100230,2024-05-18,Northbridge Bank,Technology & Telecom,UAE,44034.91,25013.19,19021.72,Paid
+INV-100231,2024-05-06,Coral Bay Hospitality,Banking & Financial Services,UK,36202.12,17541.78,18660.34,Overdue
+INV-100232,2024-05-27,BlueHarbor Financial,Public Sector,KSA,123276.91,77318.13,45958.78,Paid
+INV-100233,2024-05-28,Zenith Media,Public Sector,India,141151.07,64498.12,76652.95,Paid
+INV-100234,2024-05-11,Apex Manufacturing,Healthcare & Life Sciences,USA,97852.7,57074.97,40777.73,Overdue
+INV-100235,2024-05-01,Solstice Retail Co,Technology & Telecom,India,23720.66,12959.98,10760.68,Paid
+INV-100236,2024-05-13,Keystone Energy,Public Sector,UAE,135304.13,88414.27,46889.86,Paid
+INV-100237,2024-05-02,Solstice Retail Co,Technology & Telecom,UK,77368.62,35092.69,42275.93,Outstanding
+INV-100238,2024-05-21,Solstice Retail Co,Banking & Financial Services,KSA,118607.38,65820.76,52786.62,Paid
+INV-100239,2024-05-09,Keystone Energy,Technology & Telecom,KSA,127035.66,82947.11,44088.55,Paid
+INV-100240,2024-05-21,Vantage Telecom,Retail & Consumer,USA,75522.88,45292.65,30230.23,Paid
+INV-100241,2024-05-01,CedarPoint Logistics,Public Sector,UK,167298.28,78409.57,88888.71,Paid
+INV-100242,2024-05-07,Granite Construction Group,Healthcare & Life Sciences,India,36728.21,23935.34,12792.87,Paid
+INV-100243,2024-05-08,Ironclad Public Utilities,Banking & Financial Services,USA,23934.39,15868.21,8066.18,Outstanding
+INV-100244,2024-05-19,CedarPoint Logistics,Healthcare & Life Sciences,UAE,40327.21,26582.84,13744.37,Outstanding
+INV-100245,2024-05-15,BlueHarbor Financial,Banking & Financial Services,KSA,115977.94,69502.77,46475.17,Paid
+INV-100246,2024-05-25,Solstice Retail Co,Retail & Consumer,KSA,74451.58,35779.96,38671.62,Paid
+INV-100247,2024-05-09,Northbridge Bank,Retail & Consumer,India,47348.14,29627.75,17720.39,Outstanding
+INV-100248,2024-05-25,Granite Construction Group,Banking & Financial Services,USA,152282.0,96188.58,56093.42,Paid
+INV-100249,2024-05-09,Falcon Aerospace,Banking & Financial Services,KSA,162645.6,104129.92,58515.68,Outstanding
+INV-100250,2024-05-15,Coral Bay Hospitality,Healthcare & Life Sciences,UAE,70353.24,43258.48,27094.76,Outstanding
+INV-100251,2024-05-14,Vantage Telecom,Public Sector,India,56930.81,34945.78,21985.03,Paid
+INV-100252,2024-05-26,Vantage Telecom,Healthcare & Life Sciences,KSA,83736.09,45022.11,38713.98,Outstanding
+INV-100253,2024-05-05,Ironclad Public Utilities,Public Sector,USA,80172.22,46870.34,33301.88,Paid
+INV-100254,2024-05-28,Ironclad Public Utilities,Retail & Consumer,USA,152537.6,102595.55,49942.05,Paid
+INV-100255,2024-06-06,Willow Pharma,Banking & Financial Services,India,40921.16,23350.43,17570.73,Paid
+INV-100256,2024-06-13,BlueHarbor Financial,Public Sector,USA,30799.52,16578.81,14220.71,Paid
+INV-100257,2024-06-12,Apex Manufacturing,Public Sector,USA,80248.11,39602.69,40645.42,Paid
+INV-100258,2024-06-24,Ironclad Public Utilities,Public Sector,USA,124342.86,60367.66,63975.2,Overdue
+INV-100259,2024-06-24,Granite Construction Group,Public Sector,KSA,46114.52,28722.15,17392.37,Outstanding
+INV-100260,2024-06-15,Zenith Media,Technology & Telecom,USA,99113.91,60789.2,38324.71,Overdue
+INV-100261,2024-06-09,Solstice Retail Co,Retail & Consumer,UK,10187.24,4868.75,5318.49,Outstanding
+INV-100262,2024-06-20,Solstice Retail Co,Banking & Financial Services,USA,175712.3,111703.87,64008.43,Paid
+INV-100263,2024-06-25,Meridian Health Group,Retail & Consumer,KSA,114752.69,71328.92,43423.77,Overdue
+INV-100264,2024-06-03,Meridian Health Group,Healthcare & Life Sciences,KSA,79233.82,36189.74,43044.08,Paid
+INV-100265,2024-06-20,Horizon Insurance,Banking & Financial Services,UK,172600.49,83497.67,89102.82,Paid
+INV-100266,2024-06-24,Granite Construction Group,Retail & Consumer,KSA,158964.55,103369.0,55595.55,Overdue
+INV-100267,2024-06-26,Meridian Health Group,Healthcare & Life Sciences,India,28922.95,14373.23,14549.72,Overdue
+INV-100268,2024-06-16,Apex Manufacturing,Retail & Consumer,KSA,167500.6,107875.71,59624.89,Paid
+INV-100269,2024-06-27,Northbridge Bank,Public Sector,USA,103605.88,61978.93,41626.95,Paid
+INV-100270,2024-06-20,Horizon Insurance,Healthcare & Life Sciences,KSA,60542.71,27402.36,33140.35,Paid
+INV-100271,2024-06-01,Northbridge Bank,Public Sector,KSA,49335.21,31637.67,17697.54,Overdue
+INV-100272,2024-06-04,Keystone Energy,Technology & Telecom,UK,83774.97,55857.31,27917.66,Overdue
+INV-100273,2024-06-19,Horizon Insurance,Public Sector,USA,78920.14,52129.59,26790.55,Outstanding
+INV-100274,2024-06-01,Keystone Energy,Banking & Financial Services,India,79206.79,38042.46,41164.33,Paid
+INV-100275,2024-06-20,Apex Manufacturing,Retail & Consumer,KSA,119146.72,53692.16,65454.56,Paid
+INV-100276,2024-06-16,BlueHarbor Financial,Banking & Financial Services,USA,84218.58,44352.64,39865.94,Paid
+INV-100277,2024-06-10,Granite Construction Group,Retail & Consumer,UAE,62802.76,39750.54,23052.22,Outstanding
+INV-100278,2024-06-22,Horizon Insurance,Banking & Financial Services,KSA,64283.82,43186.13,21097.69,Paid
+INV-100279,2024-06-02,Apex Manufacturing,Public Sector,India,158524.38,74870.21,83654.17,Outstanding
+INV-100280,2024-06-12,Apex Manufacturing,Technology & Telecom,KSA,121698.35,56815.26,64883.09,Paid
+INV-100281,2024-06-06,Vantage Telecom,Technology & Telecom,UAE,142089.77,88836.36,53253.41,Paid
+INV-100282,2024-06-24,Solstice Retail Co,Retail & Consumer,USA,139725.32,81638.79,58086.53,Paid
+INV-100283,2024-06-02,Ironclad Public Utilities,Healthcare & Life Sciences,USA,93717.43,46698.69,47018.74,Paid
+INV-100284,2024-06-28,Horizon Insurance,Healthcare & Life Sciences,India,158765.79,82783.19,75982.6,Outstanding
+INV-100285,2024-06-14,Horizon Insurance,Public Sector,USA,8015.12,4106.26,3908.86,Paid
+INV-100286,2024-06-11,Apex Manufacturing,Public Sector,UK,161282.24,101305.79,59976.45,Paid
+INV-100287,2024-06-25,Keystone Energy,Banking & Financial Services,UK,81196.38,37961.72,43234.66,Overdue
+INV-100288,2024-06-28,Meridian Health Group,Technology & Telecom,UAE,181009.9,110100.01,70909.89,Paid
+INV-100289,2024-06-18,Meridian Health Group,Technology & Telecom,KSA,178099.41,86963.36,91136.05,Overdue
+INV-100290,2024-06-09,CedarPoint Logistics,Banking & Financial Services,India,70246.52,34722.48,35524.04,Paid
+INV-100291,2024-06-12,Ironclad Public Utilities,Banking & Financial Services,USA,148677.1,84306.34,64370.76,Paid
+INV-100292,2024-06-09,Coral Bay Hospitality,Banking & Financial Services,UAE,64810.09,41613.82,23196.27,Paid
+INV-100293,2024-06-22,Willow Pharma,Public Sector,UK,126426.61,64128.83,62297.78,Paid
+INV-100294,2024-06-01,Keystone Energy,Technology & Telecom,UAE,122450.41,78232.27,44218.14,Paid
+INV-100295,2024-06-01,Horizon Insurance,Banking & Financial Services,USA,51511.9,33000.64,18511.26,Paid
+INV-100296,2024-06-25,CedarPoint Logistics,Retail & Consumer,UAE,103504.99,70019.45,33485.54,Paid
+INV-100297,2024-06-01,Ironclad Public Utilities,Public Sector,KSA,39543.36,25109.34,14434.02,Paid
+INV-100298,2024-06-24,Ironclad Public Utilities,Technology & Telecom,UK,144103.34,90273.74,53829.6,Paid
+INV-100299,2024-06-13,Vantage Telecom,Public Sector,India,170014.92,97778.52,72236.4,Paid
+INV-100300,2024-06-13,Falcon Aerospace,Banking & Financial Services,UK,102549.54,46440.89,56108.65,Paid
+INV-100301,2024-07-23,Ironclad Public Utilities,Retail & Consumer,UAE,179836.23,96732.36,83103.87,Paid
+INV-100302,2024-07-11,Willow Pharma,Public Sector,KSA,161450.44,99477.08,61973.36,Paid
+INV-100303,2024-07-15,Solstice Retail Co,Healthcare & Life Sciences,UAE,173059.68,101954.19,71105.49,Paid
+INV-100304,2024-07-25,Horizon Insurance,Banking & Financial Services,USA,168695.3,110832.92,57862.38,Paid
+INV-100305,2024-07-16,Apex Manufacturing,Banking & Financial Services,USA,135410.66,79780.9,55629.76,Paid
+INV-100306,2024-07-20,Ironclad Public Utilities,Healthcare & Life Sciences,UAE,181291.49,111421.19,69870.3,Overdue
+INV-100307,2024-07-07,Meridian Health Group,Public Sector,India,161220.53,75473.45,85747.08,Paid
+INV-100308,2024-07-09,Granite Construction Group,Technology & Telecom,UK,25746.02,13571.13,12174.89,Outstanding
+INV-100309,2024-07-08,CedarPoint Logistics,Public Sector,UAE,68695.11,43558.11,25137.0,Paid
+INV-100310,2024-07-10,Falcon Aerospace,Banking & Financial Services,UAE,113137.93,61406.05,51731.88,Outstanding
+INV-100311,2024-07-16,Granite Construction Group,Healthcare & Life Sciences,KSA,11201.83,5622.81,5579.02,Paid
+INV-100312,2024-07-16,Apex Manufacturing,Technology & Telecom,India,72314.45,37173.87,35140.58,Paid
+INV-100313,2024-07-03,Zenith Media,Public Sector,KSA,170580.5,111890.91,58689.59,Outstanding
+INV-100314,2024-07-20,Granite Construction Group,Banking & Financial Services,India,77101.07,35997.61,41103.46,Overdue
+INV-100315,2024-07-16,CedarPoint Logistics,Healthcare & Life Sciences,USA,56196.98,36616.37,19580.61,Paid
+INV-100316,2024-07-25,BlueHarbor Financial,Healthcare & Life Sciences,UK,39824.95,20913.87,18911.08,Overdue
+INV-100317,2024-07-24,BlueHarbor Financial,Banking & Financial Services,India,49079.78,22239.53,26840.25,Paid
+INV-100318,2024-07-27,Meridian Health Group,Public Sector,India,10910.57,5848.21,5062.36,Outstanding
+INV-100319,2024-07-13,Keystone Energy,Technology & Telecom,UAE,46246.48,24940.73,21305.75,Paid
+INV-100320,2024-07-08,CedarPoint Logistics,Banking & Financial Services,UK,49861.21,26981.5,22879.71,Paid
+INV-100321,2024-07-21,Zenith Media,Banking & Financial Services,India,15790.97,9760.63,6030.34,Paid
+INV-100322,2024-07-19,Falcon Aerospace,Technology & Telecom,India,156223.28,92716.05,63507.23,Paid
+INV-100323,2024-07-06,Northbridge Bank,Healthcare & Life Sciences,USA,15752.91,7517.31,8235.6,Paid
+INV-100324,2024-07-20,Granite Construction Group,Healthcare & Life Sciences,UAE,33339.74,16040.04,17299.7,Paid
+INV-100325,2024-07-12,CedarPoint Logistics,Healthcare & Life Sciences,KSA,143828.49,79942.13,63886.36,Overdue
+INV-100326,2024-07-21,Apex Manufacturing,Public Sector,India,48933.94,23282.09,25651.85,Paid
+INV-100327,2024-07-02,BlueHarbor Financial,Banking & Financial Services,UAE,118320.73,67761.41,50559.32,Paid
+INV-100328,2024-07-10,Zenith Media,Technology & Telecom,India,170349.97,113781.88,56568.09,Paid
+INV-100329,2024-07-10,Horizon Insurance,Retail & Consumer,USA,176472.01,81192.0,95280.01,Outstanding
+INV-100330,2024-07-03,Ironclad Public Utilities,Retail & Consumer,India,171854.01,86232.85,85621.16,Paid
+INV-100331,2024-07-13,Coral Bay Hospitality,Banking & Financial Services,USA,29377.28,16922.65,12454.63,Paid
+INV-100332,2024-07-28,Falcon Aerospace,Retail & Consumer,USA,45410.96,29692.07,15718.89,Paid
+INV-100333,2024-07-06,Granite Construction Group,Retail & Consumer,UK,181522.11,88235.55,93286.56,Overdue
+INV-100334,2024-07-02,Granite Construction Group,Retail & Consumer,KSA,29832.59,17654.99,12177.6,Paid
+INV-100335,2024-07-14,Willow Pharma,Technology & Telecom,UK,10136.68,6821.85,3314.83,Paid
+INV-100336,2024-07-15,Granite Construction Group,Technology & Telecom,KSA,62798.66,34369.9,28428.76,Paid
+INV-100337,2024-07-13,Horizon Insurance,Technology & Telecom,KSA,142125.19,93435.01,48690.18,Paid
+INV-100338,2024-07-17,Solstice Retail Co,Healthcare & Life Sciences,India,149560.53,69465.51,80095.02,Paid
+INV-100339,2024-07-03,Northbridge Bank,Banking & Financial Services,India,177016.03,107378.97,69637.06,Outstanding
+INV-100340,2024-07-14,Vantage Telecom,Banking & Financial Services,UK,95977.93,45262.67,50715.26,Paid
+INV-100341,2024-07-06,CedarPoint Logistics,Public Sector,UK,109258.45,58550.13,50708.32,Paid
+INV-100342,2024-07-15,Horizon Insurance,Banking & Financial Services,KSA,51417.21,26997.7,24419.51,Overdue
+INV-100343,2024-07-12,Horizon Insurance,Banking & Financial Services,UK,179447.36,110959.89,68487.47,Paid
+INV-100344,2024-07-15,Meridian Health Group,Retail & Consumer,UK,111283.86,58250.77,53033.09,Paid
+INV-100345,2024-07-14,Ironclad Public Utilities,Banking & Financial Services,USA,120788.83,69121.28,51667.55,Paid
+INV-100346,2024-07-04,Zenith Media,Technology & Telecom,USA,46021.03,24203.49,21817.54,Outstanding
+INV-100347,2024-08-18,Vantage Telecom,Retail & Consumer,USA,95596.62,56808.89,38787.73,Outstanding
+INV-100348,2024-08-25,BlueHarbor Financial,Public Sector,UAE,74243.19,41413.05,32830.14,Paid
+INV-100349,2024-08-09,Vantage Telecom,Technology & Telecom,UK,149828.13,70479.38,79348.75,Paid
+INV-100350,2024-08-20,Zenith Media,Banking & Financial Services,UAE,107768.17,52559.26,55208.91,Paid
+INV-100351,2024-08-05,BlueHarbor Financial,Technology & Telecom,KSA,46411.46,29961.89,16449.57,Overdue
+INV-100352,2024-08-19,Willow Pharma,Technology & Telecom,KSA,147145.71,70725.6,76420.11,Paid
+INV-100353,2024-08-05,Horizon Insurance,Retail & Consumer,UAE,40929.66,23696.4,17233.26,Paid
+INV-100354,2024-08-15,Vantage Telecom,Healthcare & Life Sciences,UK,173454.52,113790.85,59663.67,Paid
+INV-100355,2024-08-08,Ironclad Public Utilities,Public Sector,KSA,53716.85,29600.03,24116.82,Overdue
+INV-100356,2024-08-21,Keystone Energy,Healthcare & Life Sciences,KSA,135604.62,88077.54,47527.08,Paid
+INV-100357,2024-08-04,Northbridge Bank,Healthcare & Life Sciences,KSA,129423.86,58886.43,70537.43,Paid
+INV-100358,2024-08-25,Willow Pharma,Banking & Financial Services,UAE,82920.53,40916.87,42003.66,Paid
+INV-100359,2024-08-16,Coral Bay Hospitality,Retail & Consumer,India,32479.12,21798.4,10680.72,Paid
+INV-100360,2024-08-26,Ironclad Public Utilities,Public Sector,USA,34435.09,20312.05,14123.04,Outstanding
+INV-100361,2024-08-11,CedarPoint Logistics,Retail & Consumer,UAE,66101.26,33831.13,32270.13,Paid
+INV-100362,2024-08-14,Keystone Energy,Technology & Telecom,UAE,169926.46,93763.74,76162.72,Overdue
+INV-100363,2024-08-08,Willow Pharma,Public Sector,USA,20290.89,11702.9,8587.99,Paid
+INV-100364,2024-08-07,Northbridge Bank,Banking & Financial Services,UK,147582.63,99836.21,47746.42,Paid
+INV-100365,2024-08-15,Solstice Retail Co,Technology & Telecom,KSA,169709.14,95603.19,74105.95,Outstanding
+INV-100366,2024-08-23,Vantage Telecom,Healthcare & Life Sciences,UAE,81307.64,50164.75,31142.89,Paid
+INV-100367,2024-08-26,BlueHarbor Financial,Technology & Telecom,India,137230.05,62646.03,74584.02,Outstanding
+INV-100368,2024-08-26,Northbridge Bank,Healthcare & Life Sciences,USA,71986.6,36335.18,35651.42,Paid
+INV-100369,2024-08-10,CedarPoint Logistics,Public Sector,India,37995.43,21497.33,16498.1,Paid
+INV-100370,2024-08-16,Falcon Aerospace,Retail & Consumer,UAE,136842.92,62762.53,74080.39,Paid
+INV-100371,2024-08-22,Willow Pharma,Banking & Financial Services,KSA,166911.81,85485.08,81426.73,Paid
+INV-100372,2024-08-05,Apex Manufacturing,Retail & Consumer,USA,37559.79,20819.09,16740.7,Paid
+INV-100373,2024-08-02,Ironclad Public Utilities,Banking & Financial Services,UK,154981.94,70233.55,84748.39,Paid
+INV-100374,2024-08-12,Willow Pharma,Technology & Telecom,KSA,150458.5,90627.59,59830.91,Paid
+INV-100375,2024-08-15,Keystone Energy,Retail & Consumer,UK,137020.35,70569.13,66451.22,Paid
+INV-100376,2024-08-17,CedarPoint Logistics,Public Sector,UK,122286.93,60903.68,61383.25,Paid
+INV-100377,2024-08-23,Ironclad Public Utilities,Public Sector,UK,140495.4,90322.79,50172.61,Paid
+INV-100378,2024-08-17,Zenith Media,Public Sector,UAE,53610.68,35393.55,18217.13,Paid
+INV-100379,2024-08-01,Northbridge Bank,Public Sector,USA,165307.7,105332.34,59975.36,Paid
+INV-100380,2024-08-14,Ironclad Public Utilities,Healthcare & Life Sciences,KSA,153767.65,96607.27,57160.38,Paid
+INV-100381,2024-08-09,Vantage Telecom,Healthcare & Life Sciences,KSA,139918.38,94351.54,45566.84,Paid
+INV-100382,2024-08-23,Meridian Health Group,Healthcare & Life Sciences,UAE,35779.88,20611.08,15168.8,Outstanding
+INV-100383,2024-08-11,Granite Construction Group,Banking & Financial Services,UAE,66329.34,34246.69,32082.65,Paid
+INV-100384,2024-08-15,Horizon Insurance,Banking & Financial Services,UAE,131865.18,64872.93,66992.25,Paid
+INV-100385,2024-08-17,Willow Pharma,Healthcare & Life Sciences,KSA,169002.58,107793.68,61208.9,Paid
+INV-100386,2024-08-06,Apex Manufacturing,Retail & Consumer,KSA,154327.83,102427.86,51899.97,Paid
+INV-100387,2024-08-17,BlueHarbor Financial,Technology & Telecom,USA,131206.74,60980.85,70225.89,Outstanding
+INV-100388,2024-08-18,Coral Bay Hospitality,Healthcare & Life Sciences,KSA,44290.23,25287.41,19002.82,Outstanding
+INV-100389,2024-08-13,Northbridge Bank,Retail & Consumer,USA,180138.01,93082.41,87055.6,Outstanding
+INV-100390,2024-08-24,Northbridge Bank,Technology & Telecom,UAE,182778.58,90655.17,92123.41,Paid
+INV-100391,2024-08-19,Ironclad Public Utilities,Retail & Consumer,UK,62152.68,38655.64,23497.04,Overdue
+INV-100392,2024-08-17,Coral Bay Hospitality,Retail & Consumer,UK,12336.75,7479.44,4857.31,Paid
+INV-100393,2024-08-13,Falcon Aerospace,Technology & Telecom,USA,55673.1,34977.19,20695.91,Paid
+INV-100394,2024-09-15,Coral Bay Hospitality,Healthcare & Life Sciences,UAE,159567.94,103297.65,56270.29,Paid
+INV-100395,2024-09-19,Vantage Telecom,Technology & Telecom,UAE,16973.07,9757.66,7215.41,Paid
+INV-100396,2024-09-14,BlueHarbor Financial,Banking & Financial Services,UK,78937.37,35656.33,43281.04,Paid
+INV-100397,2024-09-09,CedarPoint Logistics,Retail & Consumer,UK,129135.94,70180.34,58955.6,Paid
+INV-100398,2024-09-12,Apex Manufacturing,Public Sector,UK,65077.84,40535.02,24542.82,Outstanding
+INV-100399,2024-09-01,CedarPoint Logistics,Banking & Financial Services,KSA,53093.53,29154.68,23938.85,Paid
+INV-100400,2024-09-26,Northbridge Bank,Technology & Telecom,USA,87014.72,49583.99,37430.73,Paid
+INV-100401,2024-09-03,Granite Construction Group,Public Sector,KSA,59537.11,27578.94,31958.17,Paid
+INV-100402,2024-09-09,BlueHarbor Financial,Retail & Consumer,India,65542.01,31813.99,33728.02,Paid
+INV-100403,2024-09-10,Horizon Insurance,Banking & Financial Services,USA,112204.93,62681.17,49523.76,Paid
+INV-100404,2024-09-14,Solstice Retail Co,Healthcare & Life Sciences,KSA,101683.21,67090.01,34593.2,Paid
+INV-100405,2024-09-24,Coral Bay Hospitality,Healthcare & Life Sciences,India,153243.06,99526.84,53716.22,Paid
+INV-100406,2024-09-20,Apex Manufacturing,Banking & Financial Services,KSA,80253.04,36955.23,43297.81,Paid
+INV-100407,2024-09-14,Granite Construction Group,Retail & Consumer,KSA,170186.33,96652.18,73534.15,Paid
+INV-100408,2024-09-24,Solstice Retail Co,Banking & Financial Services,India,137444.0,78937.96,58506.04,Outstanding
+INV-100409,2024-09-03,Vantage Telecom,Banking & Financial Services,USA,145504.06,74779.59,70724.47,Paid
+INV-100410,2024-09-03,Horizon Insurance,Public Sector,UAE,111347.08,61201.86,50145.22,Overdue
+INV-100411,2024-09-19,Apex Manufacturing,Public Sector,UK,161637.16,106912.98,54724.18,Outstanding
+INV-100412,2024-09-04,Solstice Retail Co,Retail & Consumer,India,183235.78,105856.21,77379.57,Paid
+INV-100413,2024-09-11,CedarPoint Logistics,Technology & Telecom,USA,55843.42,25298.86,30544.56,Paid
+INV-100414,2024-09-23,Apex Manufacturing,Healthcare & Life Sciences,India,141371.45,75896.31,65475.14,Outstanding
+INV-100415,2024-09-21,Horizon Insurance,Public Sector,UAE,109427.53,61782.9,47644.63,Paid
+INV-100416,2024-09-21,Ironclad Public Utilities,Retail & Consumer,UAE,165223.99,96561.85,68662.14,Outstanding
+INV-100417,2024-09-09,Northbridge Bank,Healthcare & Life Sciences,UK,8192.89,5038.32,3154.57,Paid
+INV-100418,2024-09-17,Solstice Retail Co,Banking & Financial Services,KSA,179592.1,95429.51,84162.59,Overdue
+INV-100419,2024-09-28,Granite Construction Group,Healthcare & Life Sciences,India,100143.46,59126.76,41016.7,Paid
+INV-100420,2024-09-19,Apex Manufacturing,Healthcare & Life Sciences,India,35180.98,17671.13,17509.85,Outstanding
+INV-100421,2024-09-12,Falcon Aerospace,Technology & Telecom,UK,58569.39,32240.16,26329.23,Overdue
+INV-100422,2024-09-24,CedarPoint Logistics,Banking & Financial Services,India,19804.78,13008.8,6795.98,Paid
+INV-100423,2024-09-25,Keystone Energy,Public Sector,KSA,43659.59,24676.31,18983.28,Paid
+INV-100424,2024-09-13,Zenith Media,Public Sector,India,147247.29,83872.05,63375.24,Outstanding
+INV-100425,2024-09-21,Granite Construction Group,Retail & Consumer,UAE,108987.62,53034.46,55953.16,Paid
+INV-100426,2024-09-18,Solstice Retail Co,Technology & Telecom,UAE,138418.67,73768.39,64650.28,Paid
+INV-100427,2024-09-16,Willow Pharma,Public Sector,India,37337.1,20408.37,16928.73,Paid
+INV-100428,2024-09-07,Keystone Energy,Public Sector,KSA,25462.29,17210.06,8252.23,Paid
+INV-100429,2024-09-21,BlueHarbor Financial,Technology & Telecom,KSA,157286.12,78507.22,78778.9,Paid
+INV-100430,2024-09-03,CedarPoint Logistics,Banking & Financial Services,USA,171428.16,108615.63,62812.53,Outstanding
+INV-100431,2024-09-13,Coral Bay Hospitality,Public Sector,KSA,60197.49,29119.74,31077.75,Paid
+INV-100432,2024-09-19,Zenith Media,Retail & Consumer,USA,63296.44,37551.07,25745.37,Paid
+INV-100433,2024-09-05,Keystone Energy,Technology & Telecom,KSA,49695.28,27622.56,22072.72,Paid
+INV-100434,2024-09-19,Falcon Aerospace,Technology & Telecom,UAE,87704.87,49605.43,38099.44,Paid
+INV-100435,2024-09-02,Solstice Retail Co,Healthcare & Life Sciences,KSA,91460.16,58564.74,32895.42,Paid
+INV-100436,2024-09-23,Willow Pharma,Technology & Telecom,India,153834.21,100110.97,53723.24,Outstanding
+INV-100437,2024-09-26,Falcon Aerospace,Technology & Telecom,UAE,126784.49,73155.1,53629.39,Outstanding
+INV-100438,2024-09-26,Apex Manufacturing,Public Sector,India,132478.25,61766.43,70711.82,Outstanding
+INV-100439,2024-09-03,BlueHarbor Financial,Technology & Telecom,India,63555.79,37273.57,26282.22,Outstanding
+INV-100440,2024-09-15,Coral Bay Hospitality,Public Sector,UAE,157209.75,97824.99,59384.76,Outstanding
+INV-100441,2024-09-02,Meridian Health Group,Retail & Consumer,USA,19469.95,10974.16,8495.79,Outstanding
+INV-100442,2024-09-23,Ironclad Public Utilities,Retail & Consumer,India,98257.21,57967.89,40289.32,Paid
+INV-100443,2024-09-17,Solstice Retail Co,Technology & Telecom,USA,45187.33,23073.65,22113.68,Outstanding
+INV-100444,2024-09-01,BlueHarbor Financial,Healthcare & Life Sciences,USA,12045.18,5851.28,6193.9,Outstanding
+INV-100445,2024-09-04,BlueHarbor Financial,Banking & Financial Services,KSA,50089.77,27138.84,22950.93,Paid
+INV-100446,2024-09-03,Meridian Health Group,Public Sector,UAE,119870.17,63142.82,56727.35,Outstanding
+INV-100447,2024-09-26,Keystone Energy,Public Sector,UAE,35379.48,20535.19,14844.29,Outstanding
+INV-100448,2024-10-26,Falcon Aerospace,Technology & Telecom,UAE,98401.61,47309.28,51092.33,Paid
+INV-100449,2024-10-25,Falcon Aerospace,Technology & Telecom,UAE,170027.28,91686.45,78340.83,Overdue
+INV-100450,2024-10-16,Northbridge Bank,Banking & Financial Services,UAE,88478.64,42500.69,45977.95,Paid
+INV-100451,2024-10-08,Ironclad Public Utilities,Public Sector,KSA,76609.14,45164.15,31444.99,Paid
+INV-100452,2024-10-15,Horizon Insurance,Public Sector,UK,125059.47,73749.89,51309.58,Paid
+INV-100453,2024-10-17,Vantage Telecom,Retail & Consumer,UAE,82467.99,43330.15,39137.84,Overdue
+INV-100454,2024-10-12,BlueHarbor Financial,Public Sector,KSA,184388.24,91075.26,93312.98,Outstanding
+INV-100455,2024-10-06,Northbridge Bank,Technology & Telecom,UK,49794.24,23570.56,26223.68,Paid
+INV-100456,2024-10-28,Meridian Health Group,Retail & Consumer,India,68226.66,31372.18,36854.48,Paid
+INV-100457,2024-10-16,Apex Manufacturing,Banking & Financial Services,India,30475.17,14370.0,16105.17,Overdue
+INV-100458,2024-10-09,Ironclad Public Utilities,Healthcare & Life Sciences,USA,56471.18,36090.65,20380.53,Paid
+INV-100459,2024-10-03,Horizon Insurance,Retail & Consumer,USA,103118.9,48886.01,54232.89,Paid
+INV-100460,2024-10-23,Meridian Health Group,Retail & Consumer,UK,176322.37,105762.07,70560.3,Paid
+INV-100461,2024-10-28,Granite Construction Group,Healthcare & Life Sciences,KSA,181066.51,114516.26,66550.25,Paid
+INV-100462,2024-10-21,Vantage Telecom,Technology & Telecom,USA,183314.99,87291.13,96023.86,Paid
+INV-100463,2024-10-21,Zenith Media,Public Sector,USA,21212.66,9728.53,11484.13,Outstanding
+INV-100464,2024-10-05,Keystone Energy,Technology & Telecom,USA,87014.34,40225.9,46788.44,Paid
+INV-100465,2024-10-09,Falcon Aerospace,Retail & Consumer,India,71217.41,40440.59,30776.82,Paid
+INV-100466,2024-10-08,Apex Manufacturing,Public Sector,India,12378.93,7738.01,4640.92,Paid
+INV-100467,2024-10-07,Willow Pharma,Technology & Telecom,India,152149.42,70790.64,81358.78,Paid
+INV-100468,2024-10-22,Ironclad Public Utilities,Retail & Consumer,UK,46697.47,26369.13,20328.34,Paid
+INV-100469,2024-10-15,Zenith Media,Banking & Financial Services,India,111065.71,62706.64,48359.07,Paid
+INV-100470,2024-10-18,Ironclad Public Utilities,Healthcare & Life Sciences,UK,49333.29,27975.93,21357.36,Paid
+INV-100471,2024-10-18,Willow Pharma,Banking & Financial Services,KSA,107993.47,50800.94,57192.53,Paid
+INV-100472,2024-10-06,Keystone Energy,Retail & Consumer,KSA,184279.57,92537.24,91742.33,Paid
+INV-100473,2024-10-24,Meridian Health Group,Technology & Telecom,India,20208.14,10706.29,9501.85,Paid
+INV-100474,2024-10-15,Coral Bay Hospitality,Healthcare & Life Sciences,USA,84616.3,45649.15,38967.15,Paid
+INV-100475,2024-10-13,Horizon Insurance,Retail & Consumer,UK,157840.95,96768.24,61072.71,Paid
+INV-100476,2024-10-18,Willow Pharma,Banking & Financial Services,India,139512.85,81144.78,58368.07,Paid
+INV-100477,2024-10-20,Falcon Aerospace,Banking & Financial Services,UK,55389.05,36796.88,18592.17,Paid
+INV-100478,2024-10-06,BlueHarbor Financial,Banking & Financial Services,UK,8519.92,3859.69,4660.23,Paid
+INV-100479,2024-10-21,Meridian Health Group,Public Sector,UAE,79594.64,45919.47,33675.17,Paid
+INV-100480,2024-10-09,Keystone Energy,Banking & Financial Services,KSA,147429.21,76510.74,70918.47,Outstanding
+INV-100481,2024-10-23,BlueHarbor Financial,Banking & Financial Services,USA,53160.76,30799.44,22361.32,Outstanding
+INV-100482,2024-10-19,Granite Construction Group,Technology & Telecom,India,12571.99,8538.03,4033.96,Paid
+INV-100483,2024-10-07,Coral Bay Hospitality,Technology & Telecom,India,125605.51,85322.79,40282.72,Paid
+INV-100484,2024-10-24,Granite Construction Group,Healthcare & Life Sciences,UK,178228.55,106209.14,72019.41,Paid
+INV-100485,2024-10-18,Ironclad Public Utilities,Public Sector,UK,133153.19,65650.89,67502.3,Paid
+INV-100486,2024-10-13,BlueHarbor Financial,Technology & Telecom,UK,89363.31,52541.17,36822.14,Paid
+INV-100487,2024-10-24,BlueHarbor Financial,Technology & Telecom,UAE,8264.73,5615.04,2649.69,Paid
+INV-100488,2024-10-02,Keystone Energy,Healthcare & Life Sciences,India,38779.61,25925.33,12854.28,Paid
+INV-100489,2024-10-09,Granite Construction Group,Healthcare & Life Sciences,KSA,128368.74,86666.24,41702.5,Overdue
+INV-100490,2024-10-24,Ironclad Public Utilities,Public Sector,UAE,20809.58,14095.8,6713.78,Outstanding
+INV-100491,2024-10-20,BlueHarbor Financial,Public Sector,KSA,165725.28,93185.85,72539.43,Paid
+INV-100492,2024-10-21,Meridian Health Group,Technology & Telecom,UK,116725.47,61316.06,55409.41,Paid
+INV-100493,2024-10-06,Horizon Insurance,Technology & Telecom,UAE,56559.56,25801.76,30757.8,Paid
+INV-100494,2024-10-12,Vantage Telecom,Retail & Consumer,UAE,89052.05,57513.13,31538.92,Paid
+INV-100495,2024-10-02,Keystone Energy,Retail & Consumer,KSA,161734.01,86800.32,74933.69,Paid
+INV-100496,2024-10-07,Coral Bay Hospitality,Technology & Telecom,KSA,94662.08,45390.03,49272.05,Paid
+INV-100497,2024-10-20,Ironclad Public Utilities,Public Sector,India,138106.35,82567.51,55538.84,Paid
+INV-100498,2024-10-15,CedarPoint Logistics,Public Sector,KSA,121166.5,68068.01,53098.49,Paid
+INV-100499,2024-10-07,Zenith Media,Retail & Consumer,UAE,60857.61,28015.54,32842.07,Outstanding
+INV-100500,2024-11-07,Northbridge Bank,Healthcare & Life Sciences,India,68759.69,42464.59,26295.1,Paid
+INV-100501,2024-11-05,Granite Construction Group,Retail & Consumer,India,162875.86,88253.62,74622.24,Paid
+INV-100502,2024-11-25,Coral Bay Hospitality,Public Sector,KSA,109361.34,56775.89,52585.45,Paid
+INV-100503,2024-11-24,Vantage Telecom,Banking & Financial Services,India,171751.8,88190.85,83560.95,Paid
+INV-100504,2024-11-12,CedarPoint Logistics,Technology & Telecom,India,110705.96,54858.55,55847.41,Paid
+INV-100505,2024-11-19,Meridian Health Group,Retail & Consumer,USA,89063.95,50670.57,38393.38,Paid
+INV-100506,2024-11-01,Vantage Telecom,Banking & Financial Services,KSA,162848.2,73584.22,89263.98,Overdue
+INV-100507,2024-11-14,CedarPoint Logistics,Retail & Consumer,KSA,86023.77,51583.74,34440.03,Paid
+INV-100508,2024-11-17,Coral Bay Hospitality,Healthcare & Life Sciences,UAE,131610.62,83574.06,48036.56,Paid
+INV-100509,2024-11-10,Northbridge Bank,Banking & Financial Services,USA,93034.92,47069.9,45965.02,Paid
+INV-100510,2024-11-08,Ironclad Public Utilities,Banking & Financial Services,India,24301.56,11298.58,13002.98,Paid
+INV-100511,2024-11-26,Apex Manufacturing,Public Sector,UK,38236.95,18120.24,20116.71,Paid
+INV-100512,2024-11-20,Apex Manufacturing,Public Sector,UAE,105136.3,49664.61,55471.69,Paid
+INV-100513,2024-11-25,Falcon Aerospace,Public Sector,India,82914.31,39769.1,43145.21,Outstanding
+INV-100514,2024-11-01,Zenith Media,Banking & Financial Services,UK,121689.72,73000.51,48689.21,Paid
+INV-100515,2024-11-26,Zenith Media,Technology & Telecom,USA,124208.59,62875.63,61332.96,Paid
+INV-100516,2024-11-13,CedarPoint Logistics,Retail & Consumer,KSA,133090.99,65896.07,67194.92,Paid
+INV-100517,2024-11-14,Northbridge Bank,Healthcare & Life Sciences,KSA,17598.68,11800.89,5797.79,Paid
+INV-100518,2024-11-05,Falcon Aerospace,Retail & Consumer,UAE,127524.58,84238.64,43285.94,Paid
+INV-100519,2024-11-13,Horizon Insurance,Banking & Financial Services,UAE,59201.87,28729.64,30472.23,Paid
+INV-100520,2024-11-24,Apex Manufacturing,Banking & Financial Services,UAE,63761.57,32448.37,31313.2,Overdue
+INV-100521,2024-11-14,Ironclad Public Utilities,Healthcare & Life Sciences,UAE,24894.38,16126.1,8768.28,Paid
+INV-100522,2024-11-09,Vantage Telecom,Public Sector,KSA,30784.32,19891.67,10892.65,Paid
+INV-100523,2024-11-06,Northbridge Bank,Retail & Consumer,KSA,161823.79,94672.49,67151.3,Paid
+INV-100524,2024-11-22,Northbridge Bank,Retail & Consumer,UK,32751.35,14945.5,17805.85,Overdue
+INV-100525,2024-11-18,Granite Construction Group,Banking & Financial Services,UAE,28155.31,14015.12,14140.19,Paid
+INV-100526,2024-11-06,Vantage Telecom,Healthcare & Life Sciences,USA,25882.09,13003.16,12878.93,Paid
+INV-100527,2024-11-07,Solstice Retail Co,Public Sector,UK,177098.16,84449.44,92648.72,Paid
+INV-100528,2024-11-22,Vantage Telecom,Public Sector,India,67389.71,43653.79,23735.92,Paid
+INV-100529,2024-11-10,CedarPoint Logistics,Healthcare & Life Sciences,KSA,61857.43,34957.95,26899.48,Paid
+INV-100530,2024-11-19,Ironclad Public Utilities,Technology & Telecom,UK,148370.08,72679.14,75690.94,Outstanding
+INV-100531,2024-11-24,BlueHarbor Financial,Technology & Telecom,KSA,55369.22,34409.05,20960.17,Overdue
+INV-100532,2024-11-16,CedarPoint Logistics,Healthcare & Life Sciences,UK,140812.69,83985.08,56827.61,Paid
+INV-100533,2024-11-20,Horizon Insurance,Public Sector,USA,120744.79,64347.35,56397.44,Outstanding
+INV-100534,2024-11-11,Zenith Media,Healthcare & Life Sciences,India,79643.56,50025.02,29618.54,Paid
+INV-100535,2024-11-03,BlueHarbor Financial,Technology & Telecom,India,152091.12,88125.51,63965.61,Paid
+INV-100536,2024-11-21,Apex Manufacturing,Technology & Telecom,KSA,73442.55,37209.4,36233.15,Outstanding
+INV-100537,2024-11-16,Northbridge Bank,Public Sector,UK,81718.57,38751.11,42967.46,Paid
+INV-100538,2024-11-06,Vantage Telecom,Healthcare & Life Sciences,UK,158272.3,96630.45,61641.85,Paid
+INV-100539,2024-11-24,Keystone Energy,Technology & Telecom,India,171513.3,92715.89,78797.41,Paid
+INV-100540,2024-11-23,Falcon Aerospace,Healthcare & Life Sciences,India,44882.96,26190.5,18692.46,Paid
+INV-100541,2024-11-05,Solstice Retail Co,Public Sector,USA,165216.08,102768.64,62447.44,Paid
+INV-100542,2024-11-04,Vantage Telecom,Technology & Telecom,UK,171508.87,83125.02,88383.85,Paid
+INV-100543,2024-11-23,Apex Manufacturing,Banking & Financial Services,KSA,121448.79,78769.81,42678.98,Paid
+INV-100544,2024-11-22,Vantage Telecom,Public Sector,KSA,65344.74,32598.89,32745.85,Paid
+INV-100545,2024-11-22,BlueHarbor Financial,Public Sector,India,96537.4,52970.86,43566.54,Overdue
+INV-100546,2024-11-10,Northbridge Bank,Technology & Telecom,UAE,77613.46,44537.09,33076.37,Overdue
+INV-100547,2024-11-25,Apex Manufacturing,Public Sector,KSA,117016.27,72897.82,44118.45,Outstanding
+INV-100548,2024-11-22,Granite Construction Group,Banking & Financial Services,UK,25024.13,16213.19,8810.94,Outstanding
+INV-100549,2024-12-03,Meridian Health Group,Technology & Telecom,USA,124072.83,75655.49,48417.34,Paid
+INV-100550,2024-12-13,Vantage Telecom,Banking & Financial Services,UK,150733.34,84262.39,66470.95,Paid
+INV-100551,2024-12-20,Apex Manufacturing,Healthcare & Life Sciences,UAE,174908.32,89726.22,85182.1,Paid
+INV-100552,2024-12-05,Zenith Media,Technology & Telecom,USA,167978.96,76328.42,91650.54,Paid
+INV-100553,2024-12-04,Willow Pharma,Retail & Consumer,USA,44817.14,21526.45,23290.69,Paid
+INV-100554,2024-12-15,BlueHarbor Financial,Healthcare & Life Sciences,USA,143973.83,90716.38,53257.45,Paid
+INV-100555,2024-12-27,Solstice Retail Co,Retail & Consumer,India,156384.17,97301.14,59083.03,Paid
+INV-100556,2024-12-27,BlueHarbor Financial,Retail & Consumer,India,140865.51,70035.01,70830.5,Paid
+INV-100557,2024-12-28,Ironclad Public Utilities,Banking & Financial Services,UK,32548.95,21614.85,10934.1,Overdue
+INV-100558,2024-12-09,Falcon Aerospace,Retail & Consumer,UAE,46095.99,29443.89,16652.1,Outstanding
+INV-100559,2024-12-13,Zenith Media,Banking & Financial Services,UAE,40129.41,21875.77,18253.64,Paid
+INV-100560,2024-12-22,Ironclad Public Utilities,Technology & Telecom,UAE,117814.67,65251.01,52563.66,Paid
+INV-100561,2024-12-04,BlueHarbor Financial,Public Sector,KSA,46665.79,23368.12,23297.67,Paid
+INV-100562,2024-12-19,Meridian Health Group,Technology & Telecom,UAE,38056.06,23998.59,14057.47,Paid
+INV-100563,2024-12-19,Meridian Health Group,Technology & Telecom,KSA,108480.51,55605.48,52875.03,Paid
+INV-100564,2024-12-09,Granite Construction Group,Banking & Financial Services,KSA,48076.59,24644.08,23432.51,Paid
+INV-100565,2024-12-22,Apex Manufacturing,Technology & Telecom,UK,124252.09,61775.31,62476.78,Paid
+INV-100566,2024-12-26,Coral Bay Hospitality,Banking & Financial Services,India,16069.51,9313.42,6756.09,Paid
+INV-100567,2024-12-07,Meridian Health Group,Banking & Financial Services,UAE,161100.61,90785.59,70315.02,Paid
+INV-100568,2024-12-10,Meridian Health Group,Retail & Consumer,USA,24131.94,13082.05,11049.89,Overdue
+INV-100569,2024-12-10,Falcon Aerospace,Public Sector,UAE,144583.65,66644.24,77939.41,Paid
+INV-100570,2024-12-14,Keystone Energy,Banking & Financial Services,KSA,101745.72,65227.41,36518.31,Paid
+INV-100571,2024-12-24,Keystone Energy,Banking & Financial Services,UK,170128.22,115657.91,54470.31,Paid
+INV-100572,2024-12-04,Keystone Energy,Public Sector,USA,15001.32,7758.01,7243.31,Paid
+INV-100573,2024-12-05,Horizon Insurance,Public Sector,India,61518.32,31378.07,30140.25,Paid
+INV-100574,2024-12-16,Vantage Telecom,Retail & Consumer,KSA,21219.62,9848.41,11371.21,Overdue
+INV-100575,2024-12-04,Falcon Aerospace,Banking & Financial Services,UK,156208.02,103639.77,52568.25,Paid
+INV-100576,2024-12-16,Keystone Energy,Public Sector,UK,18400.64,9651.19,8749.45,Paid
+INV-100577,2024-12-26,Zenith Media,Banking & Financial Services,UK,28533.09,18594.68,9938.41,Paid
+INV-100578,2024-12-15,Ironclad Public Utilities,Retail & Consumer,UAE,184355.5,95827.01,88528.49,Paid
+INV-100579,2024-12-03,Solstice Retail Co,Public Sector,USA,150131.75,70607.1,79524.65,Paid
+INV-100580,2024-12-05,Solstice Retail Co,Public Sector,UK,158641.94,82301.38,76340.56,Outstanding
+INV-100581,2024-12-28,Keystone Energy,Banking & Financial Services,USA,45723.44,25162.16,20561.28,Outstanding
+INV-100582,2024-12-20,CedarPoint Logistics,Technology & Telecom,UK,60137.83,32991.72,27146.11,Paid
+INV-100583,2024-12-10,Vantage Telecom,Public Sector,UAE,14639.13,8732.9,5906.23,Overdue
+INV-100584,2024-12-06,Meridian Health Group,Technology & Telecom,UAE,146494.96,99574.65,46920.31,Paid
+INV-100585,2024-12-03,Falcon Aerospace,Healthcare & Life Sciences,UAE,69658.14,45396.56,24261.58,Paid
+INV-100586,2024-12-22,Meridian Health Group,Retail & Consumer,KSA,66674.84,36305.91,30368.93,Paid
+INV-100587,2024-12-27,Falcon Aerospace,Healthcare & Life Sciences,UK,19757.99,11380.79,8377.2,Paid
+INV-100588,2024-12-24,CedarPoint Logistics,Healthcare & Life Sciences,India,39063.56,23472.4,15591.16,Paid
+INV-100589,2024-12-16,Keystone Energy,Banking & Financial Services,UAE,32590.73,17388.96,15201.77,Paid
+INV-100590,2024-12-09,Keystone Energy,Technology & Telecom,USA,104076.22,63705.15,40371.07,Outstanding
+INV-100591,2024-12-19,Coral Bay Hospitality,Retail & Consumer,UK,77105.53,39704.34,37401.19,Overdue
+INV-100592,2024-12-21,Vantage Telecom,Banking & Financial Services,UAE,73356.23,42979.04,30377.19,Paid
+INV-100593,2024-12-07,BlueHarbor Financial,Technology & Telecom,India,174217.18,115142.46,59074.72,Paid
+INV-100594,2025-01-06,Granite Construction Group,Public Sector,India,164912.75,106517.09,58395.66,Outstanding
+INV-100595,2025-01-25,Falcon Aerospace,Banking & Financial Services,UK,35623.03,19342.15,16280.88,Paid
+INV-100596,2025-01-16,BlueHarbor Financial,Retail & Consumer,UAE,53841.33,35051.35,18789.98,Paid
+INV-100597,2025-01-09,Falcon Aerospace,Banking & Financial Services,UAE,60048.67,40818.39,19230.28,Paid
+INV-100598,2025-01-21,Zenith Media,Healthcare & Life Sciences,UAE,182668.67,98085.19,84583.48,Paid
+INV-100599,2025-01-15,Zenith Media,Healthcare & Life Sciences,India,15172.97,9272.2,5900.77,Paid
+INV-100600,2025-01-14,Keystone Energy,Banking & Financial Services,UAE,179409.39,121192.31,58217.08,Paid
+INV-100601,2025-01-26,Coral Bay Hospitality,Public Sector,UAE,126999.9,86017.46,40982.44,Paid
+INV-100602,2025-01-06,Apex Manufacturing,Healthcare & Life Sciences,USA,32907.19,18378.46,14528.73,Paid
+INV-100603,2025-01-06,Coral Bay Hospitality,Banking & Financial Services,UAE,70157.86,44362.99,25794.87,Paid
+INV-100604,2025-01-05,Vantage Telecom,Healthcare & Life Sciences,USA,34210.73,16771.73,17439.0,Paid
+INV-100605,2025-01-17,Northbridge Bank,Public Sector,India,91374.51,59325.4,32049.11,Paid
+INV-100606,2025-01-09,CedarPoint Logistics,Public Sector,USA,113402.7,51864.55,61538.15,Paid
+INV-100607,2025-01-08,Northbridge Bank,Public Sector,India,88069.69,55887.51,32182.18,Paid
+INV-100608,2025-01-01,Keystone Energy,Banking & Financial Services,UAE,173674.21,92015.5,81658.71,Paid
+INV-100609,2025-01-21,Vantage Telecom,Retail & Consumer,UK,172193.27,84011.09,88182.18,Outstanding
+INV-100610,2025-01-04,Ironclad Public Utilities,Healthcare & Life Sciences,UAE,148103.58,81521.62,66581.96,Paid
+INV-100611,2025-01-08,Apex Manufacturing,Public Sector,UAE,113986.71,63468.15,50518.56,Paid
+INV-100612,2025-01-10,Solstice Retail Co,Public Sector,UAE,158713.25,72287.19,86426.06,Paid
+INV-100613,2025-01-11,Ironclad Public Utilities,Retail & Consumer,India,50937.51,23826.34,27111.17,Paid
+INV-100614,2025-01-16,Granite Construction Group,Public Sector,UAE,172580.78,88086.35,84494.43,Outstanding
+INV-100615,2025-01-18,BlueHarbor Financial,Technology & Telecom,India,137699.21,81879.51,55819.7,Paid
+INV-100616,2025-01-08,Solstice Retail Co,Banking & Financial Services,USA,127321.84,84421.74,42900.1,Paid
+INV-100617,2025-01-21,BlueHarbor Financial,Healthcare & Life Sciences,India,96096.77,63416.87,32679.9,Paid
+INV-100618,2025-01-22,Falcon Aerospace,Healthcare & Life Sciences,UK,106821.07,67063.88,39757.19,Paid
+INV-100619,2025-01-09,Meridian Health Group,Healthcare & Life Sciences,USA,136393.21,83923.65,52469.56,Paid
+INV-100620,2025-01-11,Zenith Media,Technology & Telecom,USA,109900.48,57517.01,52383.47,Outstanding
+INV-100621,2025-01-10,CedarPoint Logistics,Retail & Consumer,UK,146811.87,86067.28,60744.59,Paid
+INV-100622,2025-01-27,Coral Bay Hospitality,Retail & Consumer,KSA,109936.52,68095.92,41840.6,Paid
+INV-100623,2025-01-12,Ironclad Public Utilities,Technology & Telecom,USA,120861.0,73553.37,47307.63,Paid
+INV-100624,2025-01-24,Coral Bay Hospitality,Public Sector,USA,83959.69,45067.07,38892.62,Paid
+INV-100625,2025-01-25,BlueHarbor Financial,Retail & Consumer,UK,89366.5,45014.93,44351.57,Paid
+INV-100626,2025-01-15,CedarPoint Logistics,Technology & Telecom,UAE,22690.0,11871.86,10818.14,Paid
+INV-100627,2025-01-19,Meridian Health Group,Healthcare & Life Sciences,UK,125507.14,58473.25,67033.89,Outstanding
+INV-100628,2025-01-09,Northbridge Bank,Healthcare & Life Sciences,India,46931.5,21340.41,25591.09,Paid
+INV-100629,2025-01-28,Apex Manufacturing,Technology & Telecom,USA,116639.17,69660.88,46978.29,Paid
+INV-100630,2025-01-28,Horizon Insurance,Retail & Consumer,India,89390.26,57441.61,31948.65,Paid
+INV-100631,2025-01-24,CedarPoint Logistics,Banking & Financial Services,USA,57911.2,28513.32,29397.88,Paid
+INV-100632,2025-01-25,Keystone Energy,Retail & Consumer,KSA,45628.76,25909.16,19719.6,Paid
+INV-100633,2025-01-24,Horizon Insurance,Banking & Financial Services,UK,133570.53,69563.17,64007.36,Paid
+INV-100634,2025-01-11,CedarPoint Logistics,Healthcare & Life Sciences,UK,114262.41,60028.27,54234.14,Paid
+INV-100635,2025-01-27,Apex Manufacturing,Retail & Consumer,USA,172285.48,92751.56,79533.92,Outstanding
+INV-100636,2025-01-15,Ironclad Public Utilities,Technology & Telecom,UAE,36700.82,17904.3,18796.52,Paid
+INV-100637,2025-01-11,Vantage Telecom,Healthcare & Life Sciences,KSA,124317.14,73687.0,50630.14,Overdue
+INV-100638,2025-01-11,Horizon Insurance,Retail & Consumer,KSA,172772.39,111457.96,61314.43,Outstanding
+INV-100639,2025-01-01,Keystone Energy,Healthcare & Life Sciences,USA,76476.85,35225.29,41251.56,Paid
+INV-100640,2025-01-20,Ironclad Public Utilities,Technology & Telecom,UK,40536.32,26462.18,14074.14,Overdue
+INV-100641,2025-01-06,Meridian Health Group,Technology & Telecom,KSA,25559.95,13239.11,12320.84,Overdue
+INV-100642,2025-01-18,Solstice Retail Co,Healthcare & Life Sciences,UAE,61460.28,33414.25,28046.03,Paid
+INV-100643,2025-02-20,CedarPoint Logistics,Healthcare & Life Sciences,USA,39168.45,21284.44,17884.01,Paid
+INV-100644,2025-02-12,Apex Manufacturing,Banking & Financial Services,UK,47168.47,22594.94,24573.53,Paid
+INV-100645,2025-02-10,Vantage Telecom,Banking & Financial Services,KSA,111787.39,63162.75,48624.64,Outstanding
+INV-100646,2025-02-04,Granite Construction Group,Retail & Consumer,UAE,40735.54,18753.39,21982.15,Overdue
+INV-100647,2025-02-12,Northbridge Bank,Banking & Financial Services,USA,50366.64,25485.99,24880.65,Overdue
+INV-100648,2025-02-01,Vantage Telecom,Technology & Telecom,USA,94236.8,55491.49,38745.31,Paid
+INV-100649,2025-02-14,Falcon Aerospace,Banking & Financial Services,KSA,133445.77,79940.31,53505.46,Paid
+INV-100650,2025-02-23,BlueHarbor Financial,Healthcare & Life Sciences,KSA,156978.48,84236.5,72741.98,Paid
+INV-100651,2025-02-20,Willow Pharma,Technology & Telecom,UAE,98999.73,52939.83,46059.9,Paid
+INV-100652,2025-02-05,Northbridge Bank,Technology & Telecom,USA,184557.66,117514.5,67043.16,Paid
+INV-100653,2025-02-05,Northbridge Bank,Retail & Consumer,India,136671.27,92226.55,44444.72,Paid
+INV-100654,2025-02-25,Meridian Health Group,Technology & Telecom,UK,90388.76,56928.94,33459.82,Paid
+INV-100655,2025-02-27,Horizon Insurance,Retail & Consumer,UK,59263.68,36672.42,22591.26,Paid
+INV-100656,2025-02-12,Apex Manufacturing,Banking & Financial Services,UAE,116844.16,77975.44,38868.72,Paid
+INV-100657,2025-02-16,Falcon Aerospace,Public Sector,UAE,170839.42,103207.24,67632.18,Paid
+INV-100658,2025-02-16,BlueHarbor Financial,Technology & Telecom,India,18339.16,8998.35,9340.81,Paid
+INV-100659,2025-02-03,Meridian Health Group,Healthcare & Life Sciences,UAE,146724.37,71429.51,75294.86,Paid
+INV-100660,2025-02-24,Apex Manufacturing,Public Sector,UAE,79999.96,37364.88,42635.08,Overdue
+INV-100661,2025-02-13,Northbridge Bank,Healthcare & Life Sciences,KSA,51525.45,31187.82,20337.63,Outstanding
+INV-100662,2025-02-16,Falcon Aerospace,Public Sector,UK,12255.15,7288.33,4966.82,Paid
+INV-100663,2025-02-16,Vantage Telecom,Retail & Consumer,KSA,31980.54,15850.74,16129.8,Paid
+INV-100664,2025-02-13,Coral Bay Hospitality,Retail & Consumer,USA,35490.29,23064.11,12426.18,Outstanding
+INV-100665,2025-02-16,Willow Pharma,Retail & Consumer,USA,73071.27,36590.74,36480.53,Paid
+INV-100666,2025-02-02,Meridian Health Group,Retail & Consumer,KSA,115310.5,56996.82,58313.68,Paid
+INV-100667,2025-02-08,Willow Pharma,Healthcare & Life Sciences,UK,154941.52,97267.5,57674.02,Overdue
+INV-100668,2025-02-08,Granite Construction Group,Public Sector,USA,168691.9,81673.13,87018.77,Paid
+INV-100669,2025-02-21,Vantage Telecom,Healthcare & Life Sciences,India,85411.61,50210.99,35200.62,Outstanding
+INV-100670,2025-02-16,Zenith Media,Technology & Telecom,UK,116431.23,55789.92,60641.31,Outstanding
+INV-100671,2025-02-26,Willow Pharma,Retail & Consumer,UAE,94887.31,54784.25,40103.06,Outstanding
+INV-100672,2025-02-07,BlueHarbor Financial,Retail & Consumer,USA,20669.37,13985.91,6683.46,Outstanding
+INV-100673,2025-02-28,Solstice Retail Co,Banking & Financial Services,UAE,25410.05,13040.49,12369.56,Paid
+INV-100674,2025-02-10,Zenith Media,Technology & Telecom,India,36969.14,20275.1,16694.04,Paid
+INV-100675,2025-02-26,BlueHarbor Financial,Technology & Telecom,KSA,162256.3,86778.57,75477.73,Paid
+INV-100676,2025-02-26,Apex Manufacturing,Healthcare & Life Sciences,India,63918.31,33841.42,30076.89,Paid
+INV-100677,2025-02-20,Apex Manufacturing,Retail & Consumer,UK,63580.72,39599.05,23981.67,Outstanding
+INV-100678,2025-02-14,BlueHarbor Financial,Retail & Consumer,USA,86107.77,44561.3,41546.47,Paid
+INV-100679,2025-02-04,Solstice Retail Co,Retail & Consumer,USA,58972.3,31523.64,27448.66,Paid
+INV-100680,2025-02-19,Horizon Insurance,Technology & Telecom,KSA,63737.55,42734.24,21003.31,Paid
+INV-100681,2025-02-28,Ironclad Public Utilities,Technology & Telecom,India,75804.72,50305.99,25498.73,Paid
+INV-100682,2025-02-14,Solstice Retail Co,Banking & Financial Services,UK,143567.07,89393.41,54173.66,Outstanding
+INV-100683,2025-02-20,Solstice Retail Co,Public Sector,KSA,138926.03,84952.61,53973.42,Outstanding
+INV-100684,2025-02-05,Ironclad Public Utilities,Healthcare & Life Sciences,India,129212.22,66148.5,63063.72,Paid
+INV-100685,2025-02-22,Solstice Retail Co,Public Sector,UAE,61305.63,39836.13,21469.5,Paid
+INV-100686,2025-02-16,Keystone Energy,Banking & Financial Services,KSA,34079.94,16871.38,17208.56,Outstanding
+INV-100687,2025-02-24,Coral Bay Hospitality,Banking & Financial Services,India,169195.28,113981.3,55213.98,Overdue
+INV-100688,2025-03-23,Zenith Media,Healthcare & Life Sciences,India,28570.48,16272.12,12298.36,Paid
+INV-100689,2025-03-05,Apex Manufacturing,Banking & Financial Services,KSA,48741.55,28782.95,19958.6,Paid
+INV-100690,2025-03-05,Horizon Insurance,Technology & Telecom,USA,128472.27,85790.17,42682.1,Paid
+INV-100691,2025-03-23,Vantage Telecom,Technology & Telecom,KSA,130734.55,86688.37,44046.18,Paid
+INV-100692,2025-03-15,CedarPoint Logistics,Banking & Financial Services,UK,94418.07,59121.35,35296.72,Paid
+INV-100693,2025-03-28,BlueHarbor Financial,Healthcare & Life Sciences,UK,119534.81,72235.79,47299.02,Outstanding
+INV-100694,2025-03-26,BlueHarbor Financial,Healthcare & Life Sciences,UAE,27969.8,18945.09,9024.71,Paid
+INV-100695,2025-03-05,Northbridge Bank,Banking & Financial Services,USA,59715.49,39481.75,20233.74,Paid
+INV-100696,2025-03-07,Zenith Media,Retail & Consumer,USA,44026.62,29865.71,14160.91,Paid
+INV-100697,2025-03-17,Zenith Media,Technology & Telecom,USA,75441.54,50380.56,25060.98,Paid
+INV-100698,2025-03-21,Willow Pharma,Public Sector,USA,79768.49,49174.86,30593.63,Paid
+INV-100699,2025-03-22,Willow Pharma,Healthcare & Life Sciences,UK,9544.69,5031.78,4512.91,Paid
+INV-100700,2025-03-01,Ironclad Public Utilities,Retail & Consumer,UK,163177.33,95925.53,67251.8,Outstanding
+INV-100701,2025-03-04,CedarPoint Logistics,Technology & Telecom,India,108581.89,69688.62,38893.27,Paid
+INV-100702,2025-03-19,Solstice Retail Co,Retail & Consumer,USA,73417.64,47680.95,25736.69,Paid
+INV-100703,2025-03-10,CedarPoint Logistics,Banking & Financial Services,UAE,21707.81,14256.65,7451.16,Paid
+INV-100704,2025-03-23,Meridian Health Group,Technology & Telecom,India,147313.72,84268.92,63044.8,Paid
+INV-100705,2025-03-19,Coral Bay Hospitality,Banking & Financial Services,KSA,176443.58,109176.61,67266.97,Paid
+INV-100706,2025-03-08,Horizon Insurance,Retail & Consumer,UAE,18841.45,8744.89,10096.56,Paid
+INV-100707,2025-03-22,CedarPoint Logistics,Technology & Telecom,UK,166171.59,87769.18,78402.41,Paid
+INV-100708,2025-03-09,Zenith Media,Retail & Consumer,KSA,100472.0,60337.65,40134.35,Outstanding
+INV-100709,2025-03-17,Falcon Aerospace,Healthcare & Life Sciences,UK,62922.09,32941.94,29980.15,Paid
+INV-100710,2025-03-13,Vantage Telecom,Banking & Financial Services,USA,121131.62,57381.88,63749.74,Outstanding
+INV-100711,2025-03-27,Keystone Energy,Retail & Consumer,UK,57884.31,27512.28,30372.03,Outstanding
+INV-100712,2025-03-02,Coral Bay Hospitality,Retail & Consumer,UAE,24144.26,16013.5,8130.76,Paid
+INV-100713,2025-03-23,Keystone Energy,Technology & Telecom,UAE,79649.33,46949.39,32699.94,Outstanding
+INV-100714,2025-03-04,Falcon Aerospace,Healthcare & Life Sciences,UK,132205.63,72748.03,59457.6,Paid
+INV-100715,2025-03-14,Coral Bay Hospitality,Technology & Telecom,UK,181628.61,103345.33,78283.28,Paid
+INV-100716,2025-03-15,Meridian Health Group,Public Sector,USA,91194.04,58479.91,32714.13,Paid
+INV-100717,2025-03-03,Ironclad Public Utilities,Public Sector,KSA,125527.22,61101.78,64425.44,Outstanding
+INV-100718,2025-03-18,Zenith Media,Banking & Financial Services,India,161076.24,84815.19,76261.05,Paid
+INV-100719,2025-03-19,CedarPoint Logistics,Healthcare & Life Sciences,India,71107.06,40815.26,30291.8,Paid
+INV-100720,2025-03-08,BlueHarbor Financial,Retail & Consumer,UK,132889.3,76471.07,56418.23,Paid
+INV-100721,2025-03-17,Vantage Telecom,Healthcare & Life Sciences,USA,124135.65,77858.71,46276.94,Paid
+INV-100722,2025-03-15,Horizon Insurance,Healthcare & Life Sciences,UK,78831.81,38049.44,40782.37,Outstanding
+INV-100723,2025-03-27,CedarPoint Logistics,Public Sector,UAE,19776.84,10401.78,9375.06,Paid
+INV-100724,2025-03-07,Keystone Energy,Technology & Telecom,UK,105005.38,61857.94,43147.44,Paid
+INV-100725,2025-03-07,Zenith Media,Healthcare & Life Sciences,UAE,34837.61,19806.95,15030.66,Paid
+INV-100726,2025-03-19,Keystone Energy,Technology & Telecom,KSA,92781.2,49951.28,42829.92,Outstanding
+INV-100727,2025-03-26,Granite Construction Group,Healthcare & Life Sciences,India,64048.07,38219.62,25828.45,Paid
+INV-100728,2025-03-10,Solstice Retail Co,Retail & Consumer,KSA,162837.44,87157.41,75680.03,Paid
+INV-100729,2025-03-07,Meridian Health Group,Healthcare & Life Sciences,UAE,150271.15,83766.64,66504.51,Paid
+INV-100730,2025-03-01,Coral Bay Hospitality,Public Sector,UK,30135.91,18565.95,11569.96,Outstanding
+INV-100731,2025-03-16,Granite Construction Group,Healthcare & Life Sciences,USA,161110.16,103796.92,57313.24,Outstanding
+INV-100732,2025-03-10,Apex Manufacturing,Technology & Telecom,UAE,29394.09,18365.13,11028.96,Paid
+INV-100733,2025-03-07,CedarPoint Logistics,Healthcare & Life Sciences,UK,123487.76,81743.29,41744.47,Paid
+INV-100734,2025-03-05,Granite Construction Group,Public Sector,UAE,9525.76,6274.64,3251.12,Paid
+INV-100735,2025-03-10,Northbridge Bank,Healthcare & Life Sciences,India,32923.77,17051.11,15872.66,Outstanding
+INV-100736,2025-03-27,Vantage Telecom,Banking & Financial Services,India,138778.11,77880.69,60897.42,Outstanding
+INV-100737,2025-03-14,Apex Manufacturing,Banking & Financial Services,USA,155656.7,98102.91,57553.79,Paid
+INV-100738,2025-03-12,Falcon Aerospace,Public Sector,USA,119668.74,56832.76,62835.98,Overdue
+INV-100739,2025-04-02,CedarPoint Logistics,Technology & Telecom,UK,144230.75,78395.98,65834.77,Overdue
+INV-100740,2025-04-25,Ironclad Public Utilities,Technology & Telecom,USA,159280.91,78811.78,80469.13,Paid
+INV-100741,2025-04-27,Northbridge Bank,Banking & Financial Services,USA,134271.78,65126.92,69144.86,Paid
+INV-100742,2025-04-07,Solstice Retail Co,Technology & Telecom,India,42740.97,23744.55,18996.42,Paid
+INV-100743,2025-04-20,Solstice Retail Co,Banking & Financial Services,USA,21441.17,10922.68,10518.49,Paid
+INV-100744,2025-04-08,Apex Manufacturing,Banking & Financial Services,India,130710.46,73197.25,57513.21,Paid
+INV-100745,2025-04-04,Northbridge Bank,Banking & Financial Services,India,95232.99,56884.96,38348.03,Paid
+INV-100746,2025-04-03,Keystone Energy,Retail & Consumer,UAE,139904.23,66051.87,73852.36,Paid
+INV-100747,2025-04-05,Willow Pharma,Healthcare & Life Sciences,UK,9577.66,5420.01,4157.65,Paid
+INV-100748,2025-04-28,CedarPoint Logistics,Public Sector,USA,135044.9,81562.75,53482.15,Outstanding
+INV-100749,2025-04-28,Keystone Energy,Retail & Consumer,USA,88661.43,51241.9,37419.53,Paid
+INV-100750,2025-04-12,Vantage Telecom,Retail & Consumer,India,97845.22,60092.41,37752.81,Outstanding
+INV-100751,2025-04-13,Keystone Energy,Banking & Financial Services,USA,41079.72,21166.25,19913.47,Outstanding
+INV-100752,2025-04-23,Ironclad Public Utilities,Banking & Financial Services,India,76039.49,51187.41,24852.08,Outstanding
+INV-100753,2025-04-08,Keystone Energy,Technology & Telecom,UK,158992.29,96368.26,62624.03,Paid
+INV-100754,2025-04-23,Northbridge Bank,Healthcare & Life Sciences,UAE,174806.79,116846.62,57960.17,Paid
+INV-100755,2025-04-05,Zenith Media,Technology & Telecom,UK,72581.49,45660.76,26920.73,Paid
+INV-100756,2025-04-06,BlueHarbor Financial,Public Sector,India,54704.93,35802.38,18902.55,Outstanding
+INV-100757,2025-04-23,Falcon Aerospace,Healthcare & Life Sciences,India,8462.63,5386.41,3076.22,Paid
+INV-100758,2025-04-22,Northbridge Bank,Public Sector,UK,125540.54,58986.85,66553.69,Paid
+INV-100759,2025-04-25,Granite Construction Group,Banking & Financial Services,India,23224.91,10579.88,12645.03,Paid
+INV-100760,2025-04-21,Horizon Insurance,Healthcare & Life Sciences,KSA,95704.79,45588.46,50116.33,Paid
+INV-100761,2025-04-14,Willow Pharma,Banking & Financial Services,KSA,182938.3,95797.78,87140.52,Paid
+INV-100762,2025-04-02,BlueHarbor Financial,Public Sector,KSA,151692.76,71381.17,80311.59,Paid
+INV-100763,2025-04-19,Willow Pharma,Banking & Financial Services,USA,17277.5,11036.41,6241.09,Paid
+INV-100764,2025-04-26,Meridian Health Group,Public Sector,UK,100224.28,61862.16,38362.12,Paid
+INV-100765,2025-04-08,Zenith Media,Public Sector,UAE,38707.76,23149.19,15558.57,Paid
+INV-100766,2025-04-20,Willow Pharma,Retail & Consumer,UAE,67313.22,43927.24,23385.98,Paid
+INV-100767,2025-04-09,Ironclad Public Utilities,Banking & Financial Services,USA,138908.33,64086.03,74822.3,Paid
+INV-100768,2025-04-14,Falcon Aerospace,Technology & Telecom,UK,83171.46,42064.93,41106.53,Paid
+INV-100769,2025-04-05,Solstice Retail Co,Public Sector,UAE,98596.55,62754.55,35842.0,Paid
+INV-100770,2025-04-28,Falcon Aerospace,Technology & Telecom,USA,19820.03,12807.73,7012.3,Overdue
+INV-100771,2025-04-28,Horizon Insurance,Technology & Telecom,India,144131.33,92930.83,51200.5,Paid
+INV-100772,2025-04-03,Keystone Energy,Healthcare & Life Sciences,UAE,183850.95,119232.44,64618.51,Paid
+INV-100773,2025-04-01,CedarPoint Logistics,Public Sector,KSA,127358.74,79037.16,48321.58,Overdue
+INV-100774,2025-04-10,BlueHarbor Financial,Technology & Telecom,KSA,115024.87,68130.24,46894.63,Paid
+INV-100775,2025-04-05,Meridian Health Group,Public Sector,USA,182776.07,113651.82,69124.25,Paid
+INV-100776,2025-04-12,Ironclad Public Utilities,Healthcare & Life Sciences,UK,184769.58,114315.59,70453.99,Paid
+INV-100777,2025-04-23,Granite Construction Group,Banking & Financial Services,UK,151776.12,83210.1,68566.02,Paid
+INV-100778,2025-04-22,Coral Bay Hospitality,Technology & Telecom,UK,78468.74,51516.82,26951.92,Outstanding
+INV-100779,2025-04-17,Coral Bay Hospitality,Healthcare & Life Sciences,UK,172050.14,94534.96,77515.18,Paid
+INV-100780,2025-04-06,Northbridge Bank,Banking & Financial Services,UK,163600.32,103057.22,60543.1,Outstanding
+INV-100781,2025-04-14,Keystone Energy,Technology & Telecom,KSA,112806.04,55538.63,57267.41,Paid
+INV-100782,2025-04-07,Apex Manufacturing,Public Sector,USA,9981.17,6096.74,3884.43,Outstanding
+INV-100783,2025-04-11,Falcon Aerospace,Technology & Telecom,UAE,176079.62,119309.33,56770.29,Paid
+INV-100784,2025-04-20,Solstice Retail Co,Public Sector,USA,127648.16,78407.74,49240.42,Paid
+INV-100785,2025-04-19,Apex Manufacturing,Retail & Consumer,USA,111320.57,70792.91,40527.66,Outstanding
+INV-100786,2025-04-15,Meridian Health Group,Healthcare & Life Sciences,India,68427.52,38293.61,30133.91,Paid
+INV-100787,2025-04-01,BlueHarbor Financial,Retail & Consumer,USA,155962.42,83820.73,72141.69,Outstanding
+INV-100788,2025-04-01,Zenith Media,Healthcare & Life Sciences,USA,73376.28,45542.6,27833.68,Paid
+INV-100789,2025-05-25,Keystone Energy,Banking & Financial Services,India,30089.33,16590.89,13498.44,Paid
+INV-100790,2025-05-27,CedarPoint Logistics,Technology & Telecom,USA,111140.08,64625.86,46514.22,Paid
+INV-100791,2025-05-18,Ironclad Public Utilities,Retail & Consumer,UK,70112.64,33047.37,37065.27,Outstanding
+INV-100792,2025-05-28,Meridian Health Group,Banking & Financial Services,India,101028.04,46377.62,54650.42,Paid
+INV-100793,2025-05-09,Granite Construction Group,Banking & Financial Services,UAE,135156.68,66529.01,68627.67,Overdue
+INV-100794,2025-05-16,Willow Pharma,Healthcare & Life Sciences,USA,175777.26,101787.51,73989.75,Paid
+INV-100795,2025-05-25,Falcon Aerospace,Technology & Telecom,UAE,118883.31,71067.12,47816.19,Paid
+INV-100796,2025-05-05,Ironclad Public Utilities,Healthcare & Life Sciences,UAE,29857.94,18456.68,11401.26,Paid
+INV-100797,2025-05-21,Falcon Aerospace,Banking & Financial Services,UAE,121943.04,65852.63,56090.41,Paid
+INV-100798,2025-05-13,Apex Manufacturing,Retail & Consumer,KSA,109176.86,73462.82,35714.04,Overdue
+INV-100799,2025-05-14,CedarPoint Logistics,Healthcare & Life Sciences,KSA,36683.02,23687.18,12995.84,Overdue
+INV-100800,2025-05-02,Vantage Telecom,Banking & Financial Services,USA,10774.88,5265.4,5509.48,Paid
+INV-100801,2025-05-09,Granite Construction Group,Technology & Telecom,KSA,11506.89,5538.3,5968.59,Paid
+INV-100802,2025-05-19,Keystone Energy,Technology & Telecom,UK,32584.03,19921.95,12662.08,Outstanding
+INV-100803,2025-05-10,CedarPoint Logistics,Healthcare & Life Sciences,UK,175298.75,108509.7,66789.05,Paid
+INV-100804,2025-05-26,Willow Pharma,Retail & Consumer,UK,164490.94,100139.99,64350.95,Paid
+INV-100805,2025-05-25,Horizon Insurance,Technology & Telecom,USA,73043.71,39724.2,33319.51,Outstanding
+INV-100806,2025-05-07,Horizon Insurance,Banking & Financial Services,UK,104066.78,58628.91,45437.87,Paid
+INV-100807,2025-05-11,Falcon Aerospace,Retail & Consumer,India,174334.74,87226.65,87108.09,Paid
+INV-100808,2025-05-22,Horizon Insurance,Technology & Telecom,UK,166649.25,112370.28,54278.97,Paid
+INV-100809,2025-05-17,CedarPoint Logistics,Public Sector,KSA,125927.5,81940.22,43987.28,Paid
+INV-100810,2025-05-12,Granite Construction Group,Retail & Consumer,USA,139229.45,69974.97,69254.48,Outstanding
+INV-100811,2025-05-13,BlueHarbor Financial,Healthcare & Life Sciences,UK,155286.12,77587.45,77698.67,Paid
+INV-100812,2025-05-26,Coral Bay Hospitality,Retail & Consumer,KSA,35303.57,22875.15,12428.42,Outstanding
+INV-100813,2025-05-20,Apex Manufacturing,Retail & Consumer,USA,91366.92,60538.96,30827.96,Paid
+INV-100814,2025-05-07,Vantage Telecom,Healthcare & Life Sciences,UK,144547.27,85329.05,59218.22,Paid
+INV-100815,2025-05-28,Horizon Insurance,Healthcare & Life Sciences,UK,184436.58,112288.13,72148.45,Outstanding
+INV-100816,2025-05-11,Northbridge Bank,Retail & Consumer,UAE,143079.14,90397.76,52681.38,Paid
+INV-100817,2025-05-15,CedarPoint Logistics,Banking & Financial Services,USA,38951.72,19939.47,19012.25,Paid
+INV-100818,2025-05-25,Willow Pharma,Banking & Financial Services,UAE,89045.76,45812.6,43233.16,Overdue
+INV-100819,2025-05-08,Granite Construction Group,Healthcare & Life Sciences,USA,16085.08,8967.61,7117.47,Outstanding
+INV-100820,2025-05-12,Keystone Energy,Healthcare & Life Sciences,USA,63707.61,37971.99,25735.62,Paid
+INV-100821,2025-05-18,Vantage Telecom,Public Sector,UAE,19228.11,9261.66,9966.45,Paid
+INV-100822,2025-05-21,Meridian Health Group,Retail & Consumer,UAE,127755.38,77739.07,50016.31,Paid
+INV-100823,2025-05-04,Horizon Insurance,Retail & Consumer,UAE,124454.25,83467.35,40986.9,Paid
+INV-100824,2025-05-15,Vantage Telecom,Retail & Consumer,KSA,164595.15,79340.11,85255.04,Overdue
+INV-100825,2025-05-27,Horizon Insurance,Healthcare & Life Sciences,KSA,140855.63,83485.32,57370.31,Paid
+INV-100826,2025-05-12,Vantage Telecom,Banking & Financial Services,UAE,27766.53,14021.27,13745.26,Overdue
+INV-100827,2025-05-15,Northbridge Bank,Retail & Consumer,KSA,78995.59,38902.93,40092.66,Paid
+INV-100828,2025-05-06,Solstice Retail Co,Public Sector,UK,156767.22,84257.67,72509.55,Paid
+INV-100829,2025-05-07,Meridian Health Group,Banking & Financial Services,USA,72335.5,36268.46,36067.04,Outstanding
+INV-100830,2025-05-09,Willow Pharma,Retail & Consumer,India,59782.34,40027.19,19755.15,Paid
+INV-100831,2025-05-03,Northbridge Bank,Public Sector,UAE,111474.26,58475.07,52999.19,Outstanding
+INV-100832,2025-05-22,Falcon Aerospace,Retail & Consumer,India,154697.13,80738.42,73958.71,Paid
+INV-100833,2025-06-28,Apex Manufacturing,Banking & Financial Services,UK,32021.1,15782.87,16238.23,Paid
+INV-100834,2025-06-04,BlueHarbor Financial,Technology & Telecom,KSA,51798.78,26290.02,25508.76,Paid
+INV-100835,2025-06-14,Zenith Media,Banking & Financial Services,India,154990.59,83097.73,71892.86,Paid
+INV-100836,2025-06-14,Granite Construction Group,Technology & Telecom,India,164285.72,80495.73,83789.99,Paid
+INV-100837,2025-06-21,Coral Bay Hospitality,Retail & Consumer,USA,28979.51,19544.15,9435.36,Outstanding
+INV-100838,2025-06-14,BlueHarbor Financial,Healthcare & Life Sciences,UAE,112280.51,74618.16,37662.35,Overdue
+INV-100839,2025-06-26,Vantage Telecom,Banking & Financial Services,USA,155309.68,78480.27,76829.41,Paid
+INV-100840,2025-06-24,Keystone Energy,Public Sector,USA,67476.8,31509.19,35967.61,Outstanding
+INV-100841,2025-06-20,Northbridge Bank,Retail & Consumer,India,13750.04,7230.93,6519.11,Overdue
+INV-100842,2025-06-14,Coral Bay Hospitality,Healthcare & Life Sciences,KSA,169845.18,103927.71,65917.47,Outstanding
+INV-100843,2025-06-26,Vantage Telecom,Banking & Financial Services,KSA,176551.48,88191.35,88360.13,Paid
+INV-100844,2025-06-17,Zenith Media,Public Sector,USA,101914.9,46763.65,55151.25,Paid
+INV-100845,2025-06-12,Zenith Media,Banking & Financial Services,India,123087.68,57008.35,66079.33,Overdue
+INV-100846,2025-06-22,Zenith Media,Healthcare & Life Sciences,UK,60707.05,27963.22,32743.83,Paid
+INV-100847,2025-06-16,Coral Bay Hospitality,Healthcare & Life Sciences,KSA,26950.85,13710.73,13240.12,Paid
+INV-100848,2025-06-20,Granite Construction Group,Retail & Consumer,UK,75011.62,36943.62,38068.0,Paid
+INV-100849,2025-06-21,Meridian Health Group,Retail & Consumer,India,112513.2,70000.31,42512.89,Paid
+INV-100850,2025-06-10,Vantage Telecom,Banking & Financial Services,USA,158598.6,78778.84,79819.76,Paid
+INV-100851,2025-06-02,BlueHarbor Financial,Public Sector,India,47829.22,30274.72,17554.5,Paid
+INV-100852,2025-06-04,Falcon Aerospace,Public Sector,UK,93605.01,56723.4,36881.61,Paid
+INV-100853,2025-06-22,Northbridge Bank,Technology & Telecom,KSA,128947.63,61427.97,67519.66,Outstanding
+INV-100854,2025-06-26,Ironclad Public Utilities,Healthcare & Life Sciences,UK,167875.25,112608.58,55266.67,Paid
+INV-100855,2025-06-27,Keystone Energy,Technology & Telecom,KSA,159730.26,90586.82,69143.44,Paid
+INV-100856,2025-06-16,Solstice Retail Co,Public Sector,UAE,139624.15,86310.83,53313.32,Paid
+INV-100857,2025-06-08,Zenith Media,Public Sector,KSA,35741.37,20964.17,14777.2,Paid
+INV-100858,2025-06-14,Ironclad Public Utilities,Banking & Financial Services,India,86349.68,52350.48,33999.2,Outstanding
+INV-100859,2025-06-15,Meridian Health Group,Banking & Financial Services,India,32232.89,18314.22,13918.67,Outstanding
+INV-100860,2025-06-20,Northbridge Bank,Technology & Telecom,India,69287.51,40659.09,28628.42,Paid
+INV-100861,2025-06-01,CedarPoint Logistics,Healthcare & Life Sciences,UAE,53010.31,27729.33,25280.98,Paid
+INV-100862,2025-06-18,Northbridge Bank,Healthcare & Life Sciences,UK,139405.02,79428.92,59976.1,Outstanding
+INV-100863,2025-06-10,Coral Bay Hospitality,Public Sector,UAE,165008.62,102519.61,62489.01,Paid
+INV-100864,2025-06-15,Keystone Energy,Banking & Financial Services,KSA,113216.82,64045.59,49171.23,Paid
+INV-100865,2025-06-24,Northbridge Bank,Healthcare & Life Sciences,UAE,56179.51,33092.82,23086.69,Paid
+INV-100866,2025-06-03,Horizon Insurance,Technology & Telecom,UK,128257.34,66494.69,61762.65,Outstanding
+INV-100867,2025-06-04,Willow Pharma,Healthcare & Life Sciences,KSA,147618.96,84820.65,62798.31,Paid
+INV-100868,2025-06-03,Meridian Health Group,Healthcare & Life Sciences,USA,125710.45,69476.85,56233.6,Paid
+INV-100869,2025-06-02,Zenith Media,Retail & Consumer,UAE,51132.13,26311.98,24820.15,Paid
+INV-100870,2025-06-18,Coral Bay Hospitality,Retail & Consumer,KSA,34354.81,16238.29,18116.52,Outstanding
+INV-100871,2025-06-24,Solstice Retail Co,Retail & Consumer,KSA,38764.83,24317.88,14446.95,Paid
+INV-100872,2025-06-21,Falcon Aerospace,Banking & Financial Services,UK,100566.02,61993.21,38572.81,Paid
+INV-100873,2025-06-22,Vantage Telecom,Technology & Telecom,UAE,50047.95,29029.23,21018.72,Paid
+INV-100874,2025-06-15,Falcon Aerospace,Technology & Telecom,KSA,138675.45,81548.59,57126.86,Outstanding
+INV-100875,2025-06-02,Ironclad Public Utilities,Retail & Consumer,UK,83828.69,41274.15,42554.54,Paid
+INV-100876,2025-06-25,CedarPoint Logistics,Healthcare & Life Sciences,UAE,53485.31,32891.99,20593.32,Paid
+INV-100877,2025-06-18,Apex Manufacturing,Banking & Financial Services,UK,28202.76,14257.4,13945.36,Paid
+INV-100878,2025-06-06,Zenith Media,Banking & Financial Services,USA,156317.13,81870.7,74446.43,Paid
+INV-100879,2025-06-25,Apex Manufacturing,Banking & Financial Services,USA,73722.65,46142.42,27580.23,Overdue
+INV-100880,2025-06-12,Granite Construction Group,Banking & Financial Services,USA,54875.16,32804.04,22071.12,Paid
+INV-100881,2025-06-13,Keystone Energy,Retail & Consumer,UK,115174.9,55584.17,59590.73,Paid
+INV-100882,2025-06-16,CedarPoint Logistics,Technology & Telecom,UAE,114207.05,63306.05,50901.0,Paid
+INV-100883,2025-06-23,Vantage Telecom,Technology & Telecom,UK,137981.99,87825.9,50156.09,Outstanding
+INV-100884,2025-06-12,Coral Bay Hospitality,Technology & Telecom,KSA,157822.95,79750.95,78072.0,Paid
+INV-100885,2025-06-25,Meridian Health Group,Healthcare & Life Sciences,UK,143389.5,77113.01,66276.49,Outstanding
+INV-100886,2025-06-15,Coral Bay Hospitality,Healthcare & Life Sciences,UAE,73889.19,41652.54,32236.65,Paid
+INV-100887,2025-06-02,Vantage Telecom,Public Sector,USA,92575.44,47759.11,44816.33,Paid
+INV-100888,2025-07-10,Solstice Retail Co,Healthcare & Life Sciences,India,126097.39,84627.16,41470.23,Paid
+INV-100889,2025-07-24,Granite Construction Group,Technology & Telecom,UK,39135.85,21430.03,17705.82,Paid
+INV-100890,2025-07-25,Northbridge Bank,Retail & Consumer,UAE,20676.45,11478.08,9198.37,Paid
+INV-100891,2025-07-06,Falcon Aerospace,Retail & Consumer,KSA,118839.08,56272.82,62566.26,Paid
+INV-100892,2025-07-24,Coral Bay Hospitality,Healthcare & Life Sciences,UAE,114370.89,77518.36,36852.53,Paid
+INV-100893,2025-07-13,Vantage Telecom,Technology & Telecom,India,92818.01,59737.24,33080.77,Paid
+INV-100894,2025-07-16,BlueHarbor Financial,Public Sector,USA,76587.35,43457.05,33130.3,Paid
+INV-100895,2025-07-01,Vantage Telecom,Technology & Telecom,USA,106895.68,71737.37,35158.31,Paid
+INV-100896,2025-07-21,Horizon Insurance,Public Sector,KSA,94096.58,55401.32,38695.26,Paid
+INV-100897,2025-07-06,BlueHarbor Financial,Healthcare & Life Sciences,UAE,143494.89,83604.46,59890.43,Paid
+INV-100898,2025-07-02,Granite Construction Group,Public Sector,UAE,125053.75,61096.69,63957.06,Paid
+INV-100899,2025-07-09,CedarPoint Logistics,Public Sector,KSA,57588.24,26493.28,31094.96,Paid
+INV-100900,2025-07-06,BlueHarbor Financial,Healthcare & Life Sciences,USA,24671.24,14184.48,10486.76,Paid
+INV-100901,2025-07-01,Coral Bay Hospitality,Healthcare & Life Sciences,India,92927.12,52901.23,40025.89,Paid
+INV-100902,2025-07-13,Coral Bay Hospitality,Banking & Financial Services,UK,131284.63,82409.42,48875.21,Paid
+INV-100903,2025-07-24,Zenith Media,Technology & Telecom,India,127854.7,72997.19,54857.51,Outstanding
+INV-100904,2025-07-20,Falcon Aerospace,Retail & Consumer,USA,92440.38,47654.65,44785.73,Outstanding
+INV-100905,2025-07-05,Ironclad Public Utilities,Public Sector,UAE,63883.12,42409.92,21473.2,Paid
+INV-100906,2025-07-26,Apex Manufacturing,Banking & Financial Services,UAE,57411.2,37107.35,20303.85,Paid
+INV-100907,2025-07-18,BlueHarbor Financial,Retail & Consumer,USA,138585.18,79986.54,58598.64,Paid
+INV-100908,2025-07-26,Keystone Energy,Banking & Financial Services,UK,21623.6,10781.3,10842.3,Paid
+INV-100909,2025-07-04,BlueHarbor Financial,Healthcare & Life Sciences,UAE,183788.16,91163.84,92624.32,Paid
+INV-100910,2025-07-06,Ironclad Public Utilities,Technology & Telecom,India,155406.14,85968.38,69437.76,Paid
+INV-100911,2025-07-16,Meridian Health Group,Technology & Telecom,USA,62000.63,33754.37,28246.26,Outstanding
+INV-100912,2025-07-17,Coral Bay Hospitality,Banking & Financial Services,UAE,109590.7,71790.29,37800.41,Overdue
+INV-100913,2025-07-06,Falcon Aerospace,Public Sector,USA,17478.7,9997.68,7481.02,Paid
+INV-100914,2025-07-16,Meridian Health Group,Healthcare & Life Sciences,UAE,96427.62,52840.81,43586.81,Paid
+INV-100915,2025-07-23,Vantage Telecom,Healthcare & Life Sciences,UAE,76856.09,48770.52,28085.57,Paid
+INV-100916,2025-07-17,BlueHarbor Financial,Banking & Financial Services,KSA,21608.07,12774.73,8833.34,Paid
+INV-100917,2025-07-23,Horizon Insurance,Public Sector,UAE,141513.4,65159.01,76354.39,Overdue
+INV-100918,2025-07-12,Zenith Media,Banking & Financial Services,KSA,92291.23,44998.32,47292.91,Paid
+INV-100919,2025-07-14,CedarPoint Logistics,Public Sector,India,97123.42,51339.6,45783.82,Paid
+INV-100920,2025-07-05,Falcon Aerospace,Public Sector,USA,105024.09,67330.83,37693.26,Outstanding
+INV-100921,2025-07-11,Zenith Media,Retail & Consumer,KSA,114864.93,55761.09,59103.84,Paid
+INV-100922,2025-07-24,Meridian Health Group,Technology & Telecom,India,20343.95,11963.17,8380.78,Paid
+INV-100923,2025-07-27,CedarPoint Logistics,Public Sector,UAE,119395.0,76878.42,42516.58,Paid
+INV-100924,2025-07-04,Zenith Media,Technology & Telecom,UK,166951.36,109863.82,57087.54,Paid
+INV-100925,2025-07-18,Willow Pharma,Healthcare & Life Sciences,UK,151564.36,72439.93,79124.43,Paid
+INV-100926,2025-07-27,Vantage Telecom,Public Sector,USA,54218.27,27618.13,26600.14,Paid
+INV-100927,2025-07-13,Willow Pharma,Public Sector,India,64346.01,30344.14,34001.87,Paid
+INV-100928,2025-07-26,Granite Construction Group,Banking & Financial Services,USA,50897.97,33378.58,17519.39,Outstanding
+INV-100929,2025-07-20,Ironclad Public Utilities,Technology & Telecom,USA,125081.52,66001.17,59080.35,Paid
+INV-100930,2025-07-26,Falcon Aerospace,Public Sector,UK,131150.14,68243.5,62906.64,Overdue
+INV-100931,2025-07-02,Coral Bay Hospitality,Technology & Telecom,KSA,119445.88,78878.87,40567.01,Outstanding
+INV-100932,2025-07-15,Willow Pharma,Public Sector,USA,161325.13,98666.8,62658.33,Outstanding
+INV-100933,2025-07-03,Falcon Aerospace,Healthcare & Life Sciences,India,123200.53,76988.01,46212.52,Paid
+INV-100934,2025-07-20,BlueHarbor Financial,Public Sector,UAE,19778.03,9838.09,9939.94,Outstanding
+INV-100935,2025-07-04,Vantage Telecom,Technology & Telecom,UK,13094.57,7977.92,5116.65,Outstanding
+INV-100936,2025-07-06,Falcon Aerospace,Healthcare & Life Sciences,India,180507.91,110553.85,69954.06,Paid
+INV-100937,2025-07-04,Solstice Retail Co,Healthcare & Life Sciences,KSA,138090.63,92157.84,45932.79,Overdue
+INV-100938,2025-07-06,Coral Bay Hospitality,Healthcare & Life Sciences,UAE,80887.66,53373.19,27514.47,Paid
+INV-100939,2025-07-18,BlueHarbor Financial,Retail & Consumer,India,167616.37,79056.81,88559.56,Paid
+INV-100940,2025-07-18,Falcon Aerospace,Retail & Consumer,India,55516.62,28768.83,26747.79,Paid
+INV-100941,2025-07-27,Solstice Retail Co,Banking & Financial Services,KSA,130683.52,66161.1,64522.42,Paid
+INV-100942,2025-07-03,Northbridge Bank,Public Sector,India,85741.63,45506.39,40235.24,Paid
+INV-100943,2025-08-14,Willow Pharma,Public Sector,UK,124354.49,83985.44,40369.05,Paid
+INV-100944,2025-08-12,Northbridge Bank,Public Sector,USA,58446.27,30453.65,27992.62,Paid
+INV-100945,2025-08-15,Ironclad Public Utilities,Public Sector,USA,133082.59,87351.24,45731.35,Paid
+INV-100946,2025-08-03,CedarPoint Logistics,Retail & Consumer,KSA,61114.5,32066.85,29047.65,Overdue
+INV-100947,2025-08-27,Northbridge Bank,Public Sector,KSA,76241.2,35642.87,40598.33,Paid
+INV-100948,2025-08-06,Northbridge Bank,Healthcare & Life Sciences,India,75849.56,44887.44,30962.12,Overdue
+INV-100949,2025-08-16,Ironclad Public Utilities,Healthcare & Life Sciences,UAE,120248.68,58938.07,61310.61,Paid
+INV-100950,2025-08-14,Willow Pharma,Technology & Telecom,UK,111206.23,73997.13,37209.1,Overdue
+INV-100951,2025-08-13,Solstice Retail Co,Healthcare & Life Sciences,USA,69414.42,34935.86,34478.56,Paid
+INV-100952,2025-08-18,Ironclad Public Utilities,Retail & Consumer,UAE,155753.29,92482.55,63270.74,Paid
+INV-100953,2025-08-10,Ironclad Public Utilities,Banking & Financial Services,USA,148369.77,93501.38,54868.39,Paid
+INV-100954,2025-08-06,Horizon Insurance,Healthcare & Life Sciences,India,8389.51,4594.66,3794.85,Outstanding
+INV-100955,2025-08-10,Willow Pharma,Healthcare & Life Sciences,India,80589.74,40001.64,40588.1,Outstanding
+INV-100956,2025-08-16,Coral Bay Hospitality,Public Sector,KSA,176552.14,89898.85,86653.29,Paid
+INV-100957,2025-08-24,Meridian Health Group,Public Sector,UK,85203.86,50340.79,34863.07,Paid
+INV-100958,2025-08-08,Coral Bay Hospitality,Technology & Telecom,India,151712.56,74402.48,77310.08,Outstanding
+INV-100959,2025-08-11,Solstice Retail Co,Technology & Telecom,USA,175214.46,101191.88,74022.58,Paid
+INV-100960,2025-08-19,Apex Manufacturing,Retail & Consumer,KSA,68184.57,43744.4,24440.17,Paid
+INV-100961,2025-08-20,Solstice Retail Co,Public Sector,USA,150832.04,102173.64,48658.4,Paid
+INV-100962,2025-08-20,Keystone Energy,Technology & Telecom,UAE,52026.75,28520.63,23506.12,Paid
+INV-100963,2025-08-28,Horizon Insurance,Retail & Consumer,KSA,65120.72,30744.08,34376.64,Outstanding
+INV-100964,2025-08-18,BlueHarbor Financial,Retail & Consumer,UAE,53774.73,25739.71,28035.02,Outstanding
+INV-100965,2025-08-11,Vantage Telecom,Banking & Financial Services,UAE,142877.92,90524.45,52353.47,Paid
+INV-100966,2025-08-09,Solstice Retail Co,Public Sector,USA,176068.57,87826.75,88241.82,Paid
+INV-100967,2025-08-14,Willow Pharma,Public Sector,UK,126052.28,71693.41,54358.87,Paid
+INV-100968,2025-08-01,Apex Manufacturing,Public Sector,USA,116198.42,59190.23,57008.19,Paid
+INV-100969,2025-08-01,Willow Pharma,Banking & Financial Services,UK,131949.57,85329.34,46620.23,Paid
+INV-100970,2025-08-03,Ironclad Public Utilities,Banking & Financial Services,UAE,157791.44,93551.68,64239.76,Paid
+INV-100971,2025-08-23,Northbridge Bank,Healthcare & Life Sciences,USA,54145.66,36213.78,17931.88,Outstanding
+INV-100972,2025-08-14,Meridian Health Group,Retail & Consumer,UK,93036.9,49537.89,43499.01,Paid
+INV-100973,2025-08-01,Northbridge Bank,Retail & Consumer,UAE,104079.06,58928.74,45150.32,Paid
+INV-100974,2025-08-22,BlueHarbor Financial,Technology & Telecom,India,54154.42,35415.27,18739.15,Paid
+INV-100975,2025-08-21,Vantage Telecom,Retail & Consumer,KSA,179629.24,96034.39,83594.85,Paid
+INV-100976,2025-08-09,Ironclad Public Utilities,Public Sector,India,11300.44,7622.97,3677.47,Paid
+INV-100977,2025-08-23,Granite Construction Group,Banking & Financial Services,India,146332.55,79599.28,66733.27,Overdue
+INV-100978,2025-08-27,Granite Construction Group,Healthcare & Life Sciences,UK,68738.56,31652.67,37085.89,Paid
+INV-100979,2025-08-23,Keystone Energy,Healthcare & Life Sciences,USA,84930.13,47431.32,37498.81,Outstanding
+INV-100980,2025-08-02,Ironclad Public Utilities,Healthcare & Life Sciences,India,149872.1,71729.61,78142.49,Paid
+INV-100981,2025-08-16,CedarPoint Logistics,Banking & Financial Services,KSA,103388.36,67243.53,36144.83,Paid
+INV-100982,2025-08-26,Willow Pharma,Healthcare & Life Sciences,UK,162794.36,84522.27,78272.09,Paid
+INV-100983,2025-08-08,Falcon Aerospace,Technology & Telecom,KSA,99562.42,51387.16,48175.26,Paid
+INV-100984,2025-08-17,Zenith Media,Public Sector,UAE,126797.65,62770.97,64026.68,Paid
+INV-100985,2025-08-25,Vantage Telecom,Banking & Financial Services,UAE,11847.21,5547.78,6299.43,Paid
+INV-100986,2025-08-26,Apex Manufacturing,Public Sector,USA,74794.93,39394.24,35400.69,Overdue
+INV-100987,2025-08-17,Falcon Aerospace,Healthcare & Life Sciences,UAE,142359.29,85105.39,57253.9,Paid
+INV-100988,2025-08-16,Solstice Retail Co,Technology & Telecom,UK,69999.23,37553.96,32445.27,Paid
+INV-100989,2025-08-07,Keystone Energy,Healthcare & Life Sciences,UK,65975.98,31915.0,34060.98,Paid
+INV-100990,2025-08-20,Vantage Telecom,Retail & Consumer,India,128360.5,63999.97,64360.53,Paid
+INV-100991,2025-08-08,BlueHarbor Financial,Public Sector,USA,74821.03,46382.48,28438.55,Paid
+INV-100992,2025-08-08,Meridian Health Group,Public Sector,UAE,127344.95,61714.42,65630.53,Paid
+INV-100993,2025-08-02,Apex Manufacturing,Technology & Telecom,UAE,92389.67,59472.04,32917.63,Outstanding
+INV-100994,2025-08-28,Keystone Energy,Healthcare & Life Sciences,UAE,164805.86,85589.32,79216.54,Paid
+INV-100995,2025-08-05,Apex Manufacturing,Technology & Telecom,UK,38631.5,21058.01,17573.49,Paid
+INV-100996,2025-08-17,Vantage Telecom,Technology & Telecom,UK,103258.35,63010.59,40247.76,Overdue
+INV-100997,2025-09-16,Keystone Energy,Public Sector,UK,152027.97,77677.51,74350.46,Paid
+INV-100998,2025-09-27,Ironclad Public Utilities,Retail & Consumer,India,123061.19,82010.23,41050.96,Outstanding
+INV-100999,2025-09-15,Willow Pharma,Retail & Consumer,KSA,111975.67,72240.16,39735.51,Outstanding
+INV-101000,2025-09-16,Granite Construction Group,Retail & Consumer,UAE,178327.64,112403.81,65923.83,Paid
+INV-101001,2025-09-28,Apex Manufacturing,Technology & Telecom,USA,92131.6,41989.45,50142.15,Paid
+INV-101002,2025-09-20,Northbridge Bank,Technology & Telecom,UK,90702.52,42495.85,48206.67,Outstanding
+INV-101003,2025-09-16,CedarPoint Logistics,Healthcare & Life Sciences,India,23623.24,12353.32,11269.92,Paid
+INV-101004,2025-09-02,Falcon Aerospace,Healthcare & Life Sciences,UAE,118092.28,54722.01,63370.27,Paid
+INV-101005,2025-09-12,Ironclad Public Utilities,Retail & Consumer,UAE,148946.65,79790.44,69156.21,Outstanding
+INV-101006,2025-09-17,Solstice Retail Co,Healthcare & Life Sciences,India,135856.21,71865.65,63990.56,Paid
+INV-101007,2025-09-07,Falcon Aerospace,Technology & Telecom,India,51542.32,34501.46,17040.86,Paid
+INV-101008,2025-09-22,BlueHarbor Financial,Technology & Telecom,UAE,119739.71,79093.7,40646.01,Paid
+INV-101009,2025-09-19,Zenith Media,Banking & Financial Services,India,90555.46,58567.42,31988.04,Paid
+INV-101010,2025-09-25,Meridian Health Group,Banking & Financial Services,KSA,152243.1,88990.7,63252.4,Paid
+INV-101011,2025-09-20,Zenith Media,Technology & Telecom,UAE,21923.6,13342.05,8581.55,Outstanding
+INV-101012,2025-09-03,Ironclad Public Utilities,Public Sector,UK,155538.01,105537.55,50000.46,Outstanding
+INV-101013,2025-09-26,Meridian Health Group,Retail & Consumer,USA,46061.45,30915.62,15145.83,Paid
+INV-101014,2025-09-15,BlueHarbor Financial,Technology & Telecom,UAE,63216.74,32902.73,30314.01,Paid
+INV-101015,2025-09-17,Keystone Energy,Banking & Financial Services,USA,121782.01,72949.77,48832.24,Outstanding
+INV-101016,2025-09-14,Falcon Aerospace,Banking & Financial Services,India,135536.85,83844.16,51692.69,Paid
+INV-101017,2025-09-01,Falcon Aerospace,Technology & Telecom,USA,164722.55,100955.0,63767.55,Paid
+INV-101018,2025-09-19,Willow Pharma,Healthcare & Life Sciences,India,79528.54,53676.09,25852.45,Paid
+INV-101019,2025-09-23,Northbridge Bank,Public Sector,USA,20000.49,12304.62,7695.87,Paid
+INV-101020,2025-09-06,Willow Pharma,Healthcare & Life Sciences,UAE,137209.11,79866.38,57342.73,Outstanding
+INV-101021,2025-09-22,BlueHarbor Financial,Retail & Consumer,UAE,63851.6,41042.56,22809.04,Paid
+INV-101022,2025-09-09,Ironclad Public Utilities,Public Sector,UK,38928.13,18910.51,20017.62,Paid
+INV-101023,2025-09-13,CedarPoint Logistics,Banking & Financial Services,KSA,162993.7,93288.6,69705.1,Paid
+INV-101024,2025-09-18,Horizon Insurance,Technology & Telecom,India,87838.9,44449.67,43389.23,Overdue
+INV-101025,2025-09-11,Zenith Media,Banking & Financial Services,India,88319.58,54789.0,33530.58,Paid
+INV-101026,2025-09-01,Horizon Insurance,Technology & Telecom,India,161059.69,103134.76,57924.93,Paid
+INV-101027,2025-09-24,CedarPoint Logistics,Public Sector,India,57918.6,26285.66,31632.94,Paid
+INV-101028,2025-09-12,Keystone Energy,Healthcare & Life Sciences,USA,93110.6,46732.38,46378.22,Paid
+INV-101029,2025-09-16,Coral Bay Hospitality,Technology & Telecom,UK,62886.6,40840.11,22046.49,Outstanding
+INV-101030,2025-09-12,Horizon Insurance,Banking & Financial Services,KSA,23960.55,11904.03,12056.52,Paid
+INV-101031,2025-09-07,Coral Bay Hospitality,Healthcare & Life Sciences,UAE,33019.7,18763.34,14256.36,Paid
+INV-101032,2025-09-07,Keystone Energy,Technology & Telecom,India,102608.58,48027.28,54581.3,Overdue
+INV-101033,2025-09-04,Keystone Energy,Public Sector,USA,72548.34,35446.48,37101.86,Outstanding
+INV-101034,2025-09-20,Coral Bay Hospitality,Public Sector,India,68839.71,40835.86,28003.85,Paid
+INV-101035,2025-09-26,Granite Construction Group,Public Sector,USA,61735.18,40363.96,21371.22,Paid
+INV-101036,2025-09-26,Keystone Energy,Healthcare & Life Sciences,USA,181319.48,95368.1,85951.38,Outstanding
+INV-101037,2025-09-06,Zenith Media,Banking & Financial Services,UK,89546.65,55905.46,33641.19,Paid
+INV-101038,2025-09-25,Coral Bay Hospitality,Healthcare & Life Sciences,UAE,112004.61,58415.03,53589.58,Overdue
+INV-101039,2025-09-18,Meridian Health Group,Public Sector,UAE,137624.11,93354.99,44269.12,Paid
+INV-101040,2025-09-20,Zenith Media,Retail & Consumer,UK,41466.91,19872.65,21594.26,Paid
+INV-101041,2025-09-19,Horizon Insurance,Healthcare & Life Sciences,UAE,129977.32,84686.64,45290.68,Outstanding
+INV-101042,2025-09-04,Willow Pharma,Healthcare & Life Sciences,UAE,156753.72,97056.62,59697.1,Paid
+INV-101043,2025-09-10,Meridian Health Group,Public Sector,India,35388.56,23287.75,12100.81,Paid
+INV-101044,2025-09-11,Meridian Health Group,Retail & Consumer,UK,23597.43,11972.76,11624.67,Paid
+INV-101045,2025-09-02,CedarPoint Logistics,Healthcare & Life Sciences,UAE,176551.77,92472.06,84079.71,Paid
+INV-101046,2025-09-03,Northbridge Bank,Retail & Consumer,India,9816.5,5413.0,4403.5,Paid
+INV-101047,2025-09-12,Keystone Energy,Banking & Financial Services,USA,184967.51,114733.95,70233.56,Overdue
+INV-101048,2025-09-27,Coral Bay Hospitality,Retail & Consumer,India,64598.7,35113.19,29485.51,Paid
+INV-101049,2025-10-26,Willow Pharma,Retail & Consumer,India,182867.74,95058.75,87808.99,Outstanding
+INV-101050,2025-10-20,Willow Pharma,Healthcare & Life Sciences,USA,112609.16,54335.34,58273.82,Overdue
+INV-101051,2025-10-03,Horizon Insurance,Retail & Consumer,KSA,17748.52,9239.18,8509.34,Overdue
+INV-101052,2025-10-23,Keystone Energy,Banking & Financial Services,UAE,82225.13,38980.27,43244.86,Paid
+INV-101053,2025-10-25,Falcon Aerospace,Technology & Telecom,USA,24511.17,11361.93,13149.24,Outstanding
+INV-101054,2025-10-24,Falcon Aerospace,Healthcare & Life Sciences,KSA,125555.22,60369.39,65185.83,Paid
+INV-101055,2025-10-05,BlueHarbor Financial,Public Sector,KSA,81880.37,46327.53,35552.84,Paid
+INV-101056,2025-10-06,Falcon Aerospace,Banking & Financial Services,UK,70983.62,42359.36,28624.26,Paid
+INV-101057,2025-10-01,Zenith Media,Public Sector,USA,145900.13,97688.72,48211.41,Outstanding
+INV-101058,2025-10-03,Vantage Telecom,Retail & Consumer,UK,109409.53,72697.35,36712.18,Paid
+INV-101059,2025-10-21,Northbridge Bank,Retail & Consumer,USA,48779.84,29378.69,19401.15,Paid
+INV-101060,2025-10-23,Apex Manufacturing,Healthcare & Life Sciences,KSA,105574.47,58577.89,46996.58,Paid
+INV-101061,2025-10-15,Solstice Retail Co,Healthcare & Life Sciences,UAE,16252.88,9726.36,6526.52,Paid
+INV-101062,2025-10-26,Coral Bay Hospitality,Retail & Consumer,USA,95322.2,45719.21,49602.99,Paid
+INV-101063,2025-10-10,Coral Bay Hospitality,Technology & Telecom,UAE,33620.41,17832.91,15787.5,Paid
+INV-101064,2025-10-26,Solstice Retail Co,Banking & Financial Services,India,127809.78,72557.04,55252.74,Paid
+INV-101065,2025-10-02,Willow Pharma,Healthcare & Life Sciences,USA,78699.76,50004.5,28695.26,Paid
+INV-101066,2025-10-09,Coral Bay Hospitality,Banking & Financial Services,KSA,148059.2,94950.86,53108.34,Paid
+INV-101067,2025-10-26,BlueHarbor Financial,Retail & Consumer,India,164894.37,84195.51,80698.86,Paid
+INV-101068,2025-10-09,Willow Pharma,Public Sector,India,15373.47,8967.37,6406.1,Paid
+INV-101069,2025-10-23,Falcon Aerospace,Public Sector,USA,97395.52,53587.0,43808.52,Paid
+INV-101070,2025-10-27,Vantage Telecom,Banking & Financial Services,UAE,167402.67,88007.37,79395.3,Paid
+INV-101071,2025-10-17,BlueHarbor Financial,Healthcare & Life Sciences,KSA,99123.73,55825.64,43298.09,Outstanding
+INV-101072,2025-10-20,Apex Manufacturing,Technology & Telecom,India,83325.53,56326.67,26998.86,Overdue
+INV-101073,2025-10-02,Zenith Media,Healthcare & Life Sciences,UAE,44462.63,26747.4,17715.23,Paid
+INV-101074,2025-10-03,Falcon Aerospace,Healthcare & Life Sciences,KSA,157272.22,71605.56,85666.66,Paid
+INV-101075,2025-10-16,Granite Construction Group,Healthcare & Life Sciences,USA,75647.73,50085.16,25562.57,Overdue
+INV-101076,2025-10-07,Horizon Insurance,Technology & Telecom,UAE,141398.77,83643.27,57755.5,Outstanding
+INV-101077,2025-10-09,Northbridge Bank,Healthcare & Life Sciences,India,29461.82,18143.68,11318.14,Outstanding
+INV-101078,2025-10-19,Ironclad Public Utilities,Retail & Consumer,KSA,107141.15,71642.06,35499.09,Paid
+INV-101079,2025-10-15,Horizon Insurance,Banking & Financial Services,USA,133899.73,64013.19,69886.54,Overdue
+INV-101080,2025-10-18,Willow Pharma,Banking & Financial Services,India,49304.44,27182.27,22122.17,Paid
+INV-101081,2025-10-07,Ironclad Public Utilities,Retail & Consumer,UAE,177444.36,96535.6,80908.76,Paid
+INV-101082,2025-10-24,Zenith Media,Public Sector,India,136982.17,65614.7,71367.47,Paid
+INV-101083,2025-10-17,Apex Manufacturing,Banking & Financial Services,USA,53285.01,30235.12,23049.89,Paid
+INV-101084,2025-10-23,Zenith Media,Public Sector,UK,155744.23,81967.81,73776.42,Paid
+INV-101085,2025-10-18,Ironclad Public Utilities,Healthcare & Life Sciences,India,145050.81,96608.2,48442.61,Paid
+INV-101086,2025-10-01,Zenith Media,Healthcare & Life Sciences,USA,168403.28,103549.15,64854.13,Paid
+INV-101087,2025-10-14,Coral Bay Hospitality,Healthcare & Life Sciences,KSA,51448.07,25632.65,25815.42,Outstanding
+INV-101088,2025-10-27,Coral Bay Hospitality,Retail & Consumer,UK,102726.48,53268.4,49458.08,Paid
+INV-101089,2025-10-13,Apex Manufacturing,Technology & Telecom,UK,96921.58,57230.91,39690.67,Paid
+INV-101090,2025-10-09,CedarPoint Logistics,Public Sector,KSA,92894.51,47545.66,45348.85,Overdue
+INV-101091,2025-10-12,CedarPoint Logistics,Public Sector,UK,67245.96,31487.95,35758.01,Paid
+INV-101092,2025-10-23,Meridian Health Group,Technology & Telecom,India,166808.49,101293.82,65514.67,Paid
+INV-101093,2025-10-18,Ironclad Public Utilities,Healthcare & Life Sciences,USA,131903.58,74177.99,57725.59,Outstanding
+INV-101094,2025-10-17,Horizon Insurance,Banking & Financial Services,UAE,132918.47,68713.6,64204.87,Paid
+INV-101095,2025-10-27,Falcon Aerospace,Healthcare & Life Sciences,UK,86546.01,54086.15,32459.86,Paid
+INV-101096,2025-11-09,Ironclad Public Utilities,Public Sector,UK,83118.94,43801.05,39317.89,Overdue
+INV-101097,2025-11-21,BlueHarbor Financial,Retail & Consumer,India,20733.64,11038.25,9695.39,Paid
+INV-101098,2025-11-14,Horizon Insurance,Banking & Financial Services,USA,79384.55,45388.86,33995.69,Paid
+INV-101099,2025-11-24,Keystone Energy,Banking & Financial Services,UAE,108133.24,53796.86,54336.38,Outstanding
+INV-101100,2025-11-07,Zenith Media,Healthcare & Life Sciences,UAE,155807.43,84304.38,71503.05,Paid
+INV-101101,2025-11-06,Meridian Health Group,Retail & Consumer,USA,92145.8,55014.67,37131.13,Paid
+INV-101102,2025-11-24,Solstice Retail Co,Healthcare & Life Sciences,USA,57695.29,33147.88,24547.41,Paid
+INV-101103,2025-11-02,Horizon Insurance,Public Sector,KSA,92888.73,50563.82,42324.91,Overdue
+INV-101104,2025-11-03,Falcon Aerospace,Public Sector,India,85153.23,51914.2,33239.03,Outstanding
+INV-101105,2025-11-10,Northbridge Bank,Retail & Consumer,UAE,148473.2,73524.38,74948.82,Outstanding
+INV-101106,2025-11-08,Northbridge Bank,Banking & Financial Services,India,162072.66,89283.51,72789.15,Paid
+INV-101107,2025-11-04,Granite Construction Group,Public Sector,UK,78843.39,49023.27,29820.12,Paid
+INV-101108,2025-11-08,CedarPoint Logistics,Retail & Consumer,India,81778.71,37097.09,44681.62,Overdue
+INV-101109,2025-11-28,Solstice Retail Co,Technology & Telecom,UAE,116864.6,64346.38,52518.22,Paid
+INV-101110,2025-11-11,Keystone Energy,Technology & Telecom,KSA,95751.75,44147.1,51604.65,Paid
+INV-101111,2025-11-23,BlueHarbor Financial,Retail & Consumer,USA,109489.25,51966.85,57522.4,Paid
+INV-101112,2025-11-22,Willow Pharma,Public Sector,India,80351.94,49813.68,30538.26,Paid
+INV-101113,2025-11-03,Granite Construction Group,Public Sector,India,138601.75,67812.83,70788.92,Paid
+INV-101114,2025-11-16,CedarPoint Logistics,Healthcare & Life Sciences,USA,51524.33,23418.34,28105.99,Outstanding
+INV-101115,2025-11-13,CedarPoint Logistics,Retail & Consumer,USA,32560.47,21498.47,11062.0,Paid
+INV-101116,2025-11-16,BlueHarbor Financial,Retail & Consumer,KSA,174803.57,93568.77,81234.8,Outstanding
+INV-101117,2025-11-25,Horizon Insurance,Retail & Consumer,UK,8447.4,4891.65,3555.75,Paid
+INV-101118,2025-11-19,Zenith Media,Technology & Telecom,India,22546.94,14197.66,8349.28,Overdue
+INV-101119,2025-11-12,Meridian Health Group,Public Sector,USA,19447.31,10912.92,8534.39,Paid
+INV-101120,2025-11-20,Solstice Retail Co,Public Sector,India,60911.55,38526.38,22385.17,Paid
+INV-101121,2025-11-18,CedarPoint Logistics,Healthcare & Life Sciences,UAE,84011.59,43130.4,40881.19,Paid
+INV-101122,2025-11-19,Coral Bay Hospitality,Healthcare & Life Sciences,USA,146170.36,77084.28,69086.08,Outstanding
+INV-101123,2025-11-11,Horizon Insurance,Technology & Telecom,UK,84884.03,45601.75,39282.28,Overdue
+INV-101124,2025-11-24,Keystone Energy,Banking & Financial Services,UK,11317.34,5941.75,5375.59,Overdue
+INV-101125,2025-11-18,Horizon Insurance,Healthcare & Life Sciences,India,47409.95,29685.36,17724.59,Outstanding
+INV-101126,2025-11-19,Falcon Aerospace,Technology & Telecom,UAE,67522.55,36760.71,30761.84,Paid
+INV-101127,2025-11-02,Solstice Retail Co,Banking & Financial Services,USA,55016.77,32507.93,22508.84,Outstanding
+INV-101128,2025-11-12,BlueHarbor Financial,Healthcare & Life Sciences,India,161127.82,85321.7,75806.12,Overdue
+INV-101129,2025-11-04,Apex Manufacturing,Technology & Telecom,UAE,183957.35,110874.36,73082.99,Paid
+INV-101130,2025-11-10,CedarPoint Logistics,Retail & Consumer,UK,88509.19,44485.14,44024.05,Overdue
+INV-101131,2025-11-23,Horizon Insurance,Healthcare & Life Sciences,UAE,152900.55,91989.64,60910.91,Outstanding
+INV-101132,2025-11-17,Apex Manufacturing,Healthcare & Life Sciences,KSA,70374.38,37580.97,32793.41,Paid
+INV-101133,2025-11-24,BlueHarbor Financial,Retail & Consumer,UAE,47515.39,24336.6,23178.79,Outstanding
+INV-101134,2025-11-12,Horizon Insurance,Banking & Financial Services,UK,102512.2,66773.71,35738.49,Outstanding
+INV-101135,2025-11-18,Vantage Telecom,Public Sector,India,34841.81,22576.16,12265.65,Paid
+INV-101136,2025-11-24,CedarPoint Logistics,Retail & Consumer,USA,11124.57,6989.64,4134.93,Overdue
+INV-101137,2025-11-16,Granite Construction Group,Retail & Consumer,UK,140190.21,72804.24,67385.97,Paid
+INV-101138,2025-11-05,Keystone Energy,Public Sector,UAE,123690.94,67110.24,56580.7,Outstanding
+INV-101139,2025-11-08,Granite Construction Group,Retail & Consumer,UAE,145474.95,79200.24,66274.71,Paid
+INV-101140,2025-11-04,Willow Pharma,Retail & Consumer,UK,8332.93,3784.78,4548.15,Paid
+INV-101141,2025-11-24,BlueHarbor Financial,Public Sector,UK,120146.94,56719.41,63427.53,Outstanding
+INV-101142,2025-11-23,Falcon Aerospace,Public Sector,UK,135504.47,86116.68,49387.79,Paid
+INV-101143,2025-11-11,Horizon Insurance,Banking & Financial Services,USA,69826.01,36550.33,33275.68,Paid
+INV-101144,2025-11-25,Coral Bay Hospitality,Healthcare & Life Sciences,UK,174172.92,93314.63,80858.29,Paid
+INV-101145,2025-11-13,Northbridge Bank,Banking & Financial Services,UK,12495.5,7371.73,5123.77,Paid
+INV-101146,2025-11-22,Northbridge Bank,Banking & Financial Services,UK,69584.43,42160.86,27423.57,Paid
+INV-101147,2025-11-15,Granite Construction Group,Banking & Financial Services,UK,140697.73,93736.62,46961.11,Overdue
+INV-101148,2025-11-23,Granite Construction Group,Retail & Consumer,USA,13919.51,8002.17,5917.34,Overdue
+INV-101149,2025-11-23,Solstice Retail Co,Public Sector,India,63545.44,30025.82,33519.62,Paid
+INV-101150,2025-11-18,Meridian Health Group,Retail & Consumer,USA,151444.75,76382.77,75061.98,Overdue
+INV-101151,2025-11-07,BlueHarbor Financial,Technology & Telecom,UK,127803.5,67886.19,59917.31,Paid
+INV-101152,2025-12-02,Vantage Telecom,Retail & Consumer,India,132471.88,77721.21,54750.67,Outstanding
+INV-101153,2025-12-09,Northbridge Bank,Technology & Telecom,KSA,31512.58,18082.43,13430.15,Paid
+INV-101154,2025-12-20,Vantage Telecom,Healthcare & Life Sciences,India,153188.29,95475.33,57712.96,Paid
+INV-101155,2025-12-28,Meridian Health Group,Retail & Consumer,KSA,16341.72,9113.16,7228.56,Paid
+INV-101156,2025-12-13,Solstice Retail Co,Technology & Telecom,India,180677.78,90726.18,89951.6,Paid
+INV-101157,2025-12-03,CedarPoint Logistics,Technology & Telecom,USA,81286.21,50948.89,30337.32,Paid
+INV-101158,2025-12-22,Coral Bay Hospitality,Banking & Financial Services,KSA,132536.08,85678.67,46857.41,Paid
+INV-101159,2025-12-12,Falcon Aerospace,Banking & Financial Services,UK,127217.36,63928.67,63288.69,Paid
+INV-101160,2025-12-01,Zenith Media,Retail & Consumer,USA,152035.37,82047.61,69987.76,Outstanding
+INV-101161,2025-12-08,Solstice Retail Co,Retail & Consumer,KSA,175899.29,106236.02,69663.27,Outstanding
+INV-101162,2025-12-05,Granite Construction Group,Public Sector,India,133234.93,84468.47,48766.46,Outstanding
+INV-101163,2025-12-03,Zenith Media,Public Sector,UK,83962.07,49046.7,34915.37,Paid
+INV-101164,2025-12-09,Falcon Aerospace,Healthcare & Life Sciences,KSA,149027.21,72760.57,76266.64,Paid
+INV-101165,2025-12-16,CedarPoint Logistics,Healthcare & Life Sciences,UK,22621.68,10742.75,11878.93,Outstanding
+INV-101166,2025-12-13,Ironclad Public Utilities,Healthcare & Life Sciences,India,151372.12,98238.05,53134.07,Paid
+INV-101167,2025-12-07,Apex Manufacturing,Retail & Consumer,India,74825.0,40078.47,34746.53,Paid
+INV-101168,2025-12-17,CedarPoint Logistics,Retail & Consumer,India,58694.61,27444.1,31250.51,Paid
+INV-101169,2025-12-15,Granite Construction Group,Public Sector,India,23103.07,12426.46,10676.61,Paid
+INV-101170,2025-12-27,Coral Bay Hospitality,Banking & Financial Services,India,33556.05,16690.71,16865.34,Outstanding
+INV-101171,2025-12-14,Meridian Health Group,Public Sector,KSA,86686.97,57974.56,28712.41,Outstanding
+INV-101172,2025-12-16,Horizon Insurance,Banking & Financial Services,USA,145811.2,74987.12,70824.08,Paid
+INV-101173,2025-12-09,Horizon Insurance,Technology & Telecom,KSA,37348.81,24934.34,12414.47,Outstanding
+INV-101174,2025-12-04,Vantage Telecom,Healthcare & Life Sciences,KSA,65284.84,44014.96,21269.88,Paid
+INV-101175,2025-12-01,Solstice Retail Co,Technology & Telecom,KSA,103881.37,68522.87,35358.5,Paid
+INV-101176,2025-12-10,Northbridge Bank,Public Sector,UK,163485.6,88417.15,75068.45,Outstanding
+INV-101177,2025-12-14,Keystone Energy,Technology & Telecom,UAE,137619.68,62263.33,75356.35,Outstanding
+INV-101178,2025-12-05,BlueHarbor Financial,Banking & Financial Services,USA,49991.18,27842.96,22148.22,Overdue
+INV-101179,2025-12-27,CedarPoint Logistics,Banking & Financial Services,UK,82528.99,46302.02,36226.97,Paid
+INV-101180,2025-12-02,Falcon Aerospace,Technology & Telecom,KSA,177647.62,100329.54,77318.08,Paid
+INV-101181,2025-12-10,Coral Bay Hospitality,Public Sector,USA,77871.08,35925.43,41945.65,Paid
+INV-101182,2025-12-27,Coral Bay Hospitality,Technology & Telecom,USA,47359.55,23775.6,23583.95,Paid
+INV-101183,2025-12-14,BlueHarbor Financial,Retail & Consumer,India,148864.61,75778.28,73086.33,Outstanding
+INV-101184,2025-12-11,Horizon Insurance,Banking & Financial Services,USA,116478.77,63165.73,53313.04,Paid
+INV-101185,2025-12-26,Ironclad Public Utilities,Banking & Financial Services,UK,146879.06,74546.96,72332.1,Overdue
+INV-101186,2025-12-05,Northbridge Bank,Public Sector,UK,122195.61,61437.22,60758.39,Paid
+INV-101187,2025-12-18,Zenith Media,Banking & Financial Services,USA,87761.26,40564.0,47197.26,Paid
+INV-101188,2025-12-18,Willow Pharma,Retail & Consumer,USA,109574.67,54042.28,55532.39,Paid
+INV-101189,2025-12-06,Ironclad Public Utilities,Technology & Telecom,UK,176943.79,98441.87,78501.92,Paid
+INV-101190,2025-12-13,CedarPoint Logistics,Healthcare & Life Sciences,UAE,113909.92,67964.55,45945.37,Paid
+INV-101191,2025-12-06,Granite Construction Group,Retail & Consumer,KSA,79070.65,35644.49,43426.16,Paid
+INV-101192,2025-12-12,BlueHarbor Financial,Public Sector,UAE,105421.32,59806.58,45614.74,Paid
+INV-101193,2025-12-08,Coral Bay Hospitality,Banking & Financial Services,KSA,161076.59,106866.74,54209.85,Paid
+INV-101194,2025-12-10,Granite Construction Group,Retail & Consumer,USA,48849.9,27639.36,21210.54,Paid
+INV-101195,2025-12-08,Falcon Aerospace,Public Sector,UAE,8754.33,4668.51,4085.82,Paid
+INV-101196,2025-12-13,Zenith Media,Banking & Financial Services,UK,63135.22,41745.23,21389.99,Overdue
+INV-101197,2025-12-03,Vantage Telecom,Retail & Consumer,UAE,12601.7,6142.98,6458.72,Paid
+INV-101198,2025-12-03,Northbridge Bank,Banking & Financial Services,KSA,169226.14,85669.89,83556.25,Overdue
+INV-101199,2025-12-16,CedarPoint Logistics,Retail & Consumer,USA,176417.71,103040.03,73377.68,Overdue
+INV-101200,2025-12-20,Ironclad Public Utilities,Banking & Financial Services,KSA,67980.83,42448.89,25531.94,Outstanding
+INV-101201,2025-12-01,Meridian Health Group,Technology & Telecom,UK,22415.93,12592.47,9823.46,Paid
+INV-101202,2025-12-19,Northbridge Bank,Retail & Consumer,UK,96556.11,63605.14,32950.97,Paid

@@ -1,0 +1,1091 @@
+AdjID,Date,Description,TaxTreatment,AccountingAmount_AED,AdjustmentDirection
+CT-9001,2025-01-04,Client Entertainment,Disallowed 50%,12673.22,Add
+CT-9002,2025-01-27,Exempt Dividend Income,Exempt Income,30202.84,Add
+CT-9003,2025-01-03,Related Party Management Fee,Transfer Pricing Adj.,5720.91,Add
+CT-9004,2025-01-05,Client Entertainment,Disallowed 50%,45870.49,Add
+CT-9005,2025-01-25,Related Party Management Fee,Transfer Pricing Adj.,48745.3,Add
+CT-9006,2025-01-20,Donations - Non Qualifying,Fully Disallowed,59674.31,Add
+CT-9007,2025-01-07,Interest Income - Related Party,Related Party Adj.,63089.98,Deduct
+CT-9008,2025-01-12,Entertainment Expense,Disallowed 50%,13610.29,Add
+CT-9009,2025-01-17,Interest Income - Related Party,Related Party Adj.,59675.31,Deduct
+CT-9010,2025-01-05,Bad Debts Written Off (realized),Deduct,40123.81,Deduct
+CT-9011,2025-01-05,Entertainment Expense,Disallowed 50%,30041.2,Add
+CT-9012,2025-01-10,Donations - Non Qualifying,Fully Disallowed,9148.97,Add
+CT-9013,2025-01-14,Related Party Management Fee,Transfer Pricing Adj.,24166.1,Add
+CT-9014,2025-01-17,Exempt Dividend Income,Exempt Income,45264.01,Add
+CT-9015,2025-01-28,UAE Government Grant Income,Exempt Income,41752.52,Add
+CT-9016,2025-01-19,Client Entertainment,Disallowed 50%,57746.93,Add
+CT-9017,2025-01-04,UAE Government Grant Income,Exempt Income,27229.05,Add
+CT-9018,2025-01-28,Interest Income - Related Party,Related Party Adj.,52226.87,Deduct
+CT-9019,2025-01-10,Exempt Dividend Income,Exempt Income,4718.75,Add
+CT-9020,2025-01-06,Depreciation - Tax (per schedule),Deduct,3550.96,Deduct
+CT-9021,2025-01-25,Client Entertainment,Disallowed 50%,5829.3,Add
+CT-9022,2025-01-26,Entertainment Expense,Disallowed 50%,57529.47,Add
+CT-9023,2025-01-04,Provision for Doubtful Debts (unrealized),Add Back,1891.4,Add
+CT-9024,2025-01-25,Provision for Doubtful Debts (unrealized),Add Back,53770.55,Add
+CT-9025,2025-01-18,Client Entertainment,Disallowed 50%,64104.75,Add
+CT-9026,2025-01-24,Entertainment Expense,Disallowed 50%,18335.98,Add
+CT-9027,2025-01-18,Provision for Doubtful Debts (unrealized),Add Back,57349.01,Add
+CT-9028,2025-01-20,UAE Government Grant Income,Exempt Income,6512.55,Add
+CT-9029,2025-01-09,Bad Debts Written Off (realized),Deduct,61817.94,Deduct
+CT-9030,2025-01-18,Entertainment Expense,Disallowed 50%,54995.42,Add
+CT-9031,2025-01-19,Donations - Non Qualifying,Fully Disallowed,19666.15,Add
+CT-9032,2025-01-19,Depreciation - Tax (per schedule),Deduct,19030.2,Deduct
+CT-9033,2025-01-13,Depreciation - Tax (per schedule),Deduct,3484.17,Deduct
+CT-9034,2025-01-26,Entertainment Expense,Disallowed 50%,40776.4,Add
+CT-9035,2025-01-17,UAE Government Grant Income,Exempt Income,23605.75,Add
+CT-9036,2025-01-05,Entertainment Expense,Disallowed 50%,29029.07,Add
+CT-9037,2025-01-09,UAE Government Grant Income,Exempt Income,64320.19,Add
+CT-9038,2025-01-20,Depreciation - Tax (per schedule),Deduct,27991.92,Deduct
+CT-9039,2025-01-20,Exempt Dividend Income,Exempt Income,16159.17,Add
+CT-9040,2025-01-27,Related Party Management Fee,Transfer Pricing Adj.,37834.41,Add
+CT-9041,2025-01-02,Depreciation - Tax (per schedule),Deduct,39504.66,Deduct
+CT-9042,2025-01-20,Bad Debts Written Off (realized),Deduct,18649.79,Deduct
+CT-9043,2025-01-05,Depreciation - Accounting,Add Back,6698.57,Add
+CT-9044,2025-01-01,Related Party Management Fee,Transfer Pricing Adj.,42641.07,Add
+CT-9045,2025-01-15,Depreciation - Accounting,Add Back,42749.82,Add
+CT-9046,2025-01-14,Related Party Management Fee,Transfer Pricing Adj.,30963.66,Add
+CT-9047,2025-01-07,Fines & Penalties,Fully Disallowed,22527.04,Add
+CT-9048,2025-01-18,Related Party Management Fee,Transfer Pricing Adj.,52112.87,Add
+CT-9049,2025-01-25,Depreciation - Accounting,Add Back,31700.27,Add
+CT-9050,2025-01-20,Provision for Doubtful Debts (unrealized),Add Back,41720.51,Add
+CT-9051,2025-01-04,Depreciation - Tax (per schedule),Deduct,14484.2,Deduct
+CT-9052,2025-01-10,Provision for Doubtful Debts (unrealized),Add Back,63887.3,Add
+CT-9053,2025-01-21,Bad Debts Written Off (realized),Deduct,10742.43,Deduct
+CT-9054,2025-01-10,Provision for Doubtful Debts (unrealized),Add Back,9710.28,Add
+CT-9055,2025-01-17,Related Party Management Fee,Transfer Pricing Adj.,48861.29,Add
+CT-9056,2025-01-01,Depreciation - Tax (per schedule),Deduct,40232.95,Deduct
+CT-9057,2025-01-22,Fines & Penalties,Fully Disallowed,65744.79,Add
+CT-9058,2025-01-26,Provision for Doubtful Debts (unrealized),Add Back,10110.23,Add
+CT-9059,2025-01-03,Bad Debts Written Off (realized),Deduct,65161.44,Deduct
+CT-9060,2025-01-13,Client Entertainment,Disallowed 50%,51943.91,Add
+CT-9061,2025-01-18,Fines & Penalties,Fully Disallowed,52620.42,Add
+CT-9062,2025-01-25,Provision for Doubtful Debts (unrealized),Add Back,30453.19,Add
+CT-9063,2025-01-17,Donations - Non Qualifying,Fully Disallowed,22011.36,Add
+CT-9064,2025-01-13,Fines & Penalties,Fully Disallowed,19459.54,Add
+CT-9065,2025-01-21,Exempt Dividend Income,Exempt Income,41033.99,Add
+CT-9066,2025-01-21,Related Party Management Fee,Transfer Pricing Adj.,28968.77,Add
+CT-9067,2025-01-12,Entertainment Expense,Disallowed 50%,9808.24,Add
+CT-9068,2025-01-16,Provision for Doubtful Debts (unrealized),Add Back,11967.19,Add
+CT-9069,2025-01-22,UAE Government Grant Income,Exempt Income,34156.25,Add
+CT-9070,2025-01-03,Depreciation - Accounting,Add Back,4479.55,Add
+CT-9071,2025-01-16,Depreciation - Tax (per schedule),Deduct,56153.68,Deduct
+CT-9072,2025-01-23,Fines & Penalties,Fully Disallowed,15217.74,Add
+CT-9073,2025-01-09,Fines & Penalties,Fully Disallowed,22932.24,Add
+CT-9074,2025-01-11,Fines & Penalties,Fully Disallowed,65408.09,Add
+CT-9075,2025-01-24,Fines & Penalties,Fully Disallowed,24214.48,Add
+CT-9076,2025-01-01,Provision for Doubtful Debts (unrealized),Add Back,56770.96,Add
+CT-9077,2025-01-27,Exempt Dividend Income,Exempt Income,22848.43,Add
+CT-9078,2025-01-10,Exempt Dividend Income,Exempt Income,57206.1,Add
+CT-9079,2025-01-03,Interest Income - Related Party,Related Party Adj.,27466.85,Deduct
+CT-9080,2025-01-12,Bad Debts Written Off (realized),Deduct,13453.56,Deduct
+CT-9081,2025-01-05,Entertainment Expense,Disallowed 50%,24075.37,Add
+CT-9082,2025-01-24,Entertainment Expense,Disallowed 50%,43124.84,Add
+CT-9083,2025-01-25,Donations - Non Qualifying,Fully Disallowed,23475.45,Add
+CT-9084,2025-01-04,Client Entertainment,Disallowed 50%,14029.78,Add
+CT-9085,2025-01-14,Exempt Dividend Income,Exempt Income,19600.97,Add
+CT-9086,2025-01-27,Entertainment Expense,Disallowed 50%,23404.24,Add
+CT-9087,2025-01-22,Interest Income - Related Party,Related Party Adj.,16790.71,Deduct
+CT-9088,2025-01-05,Fines & Penalties,Fully Disallowed,17606.33,Add
+CT-9089,2025-01-04,UAE Government Grant Income,Exempt Income,49235.59,Add
+CT-9090,2025-01-05,Entertainment Expense,Disallowed 50%,41701.35,Add
+CT-9091,2025-01-09,Interest Income - Related Party,Related Party Adj.,19512.69,Deduct
+CT-9092,2025-01-04,UAE Government Grant Income,Exempt Income,16543.68,Add
+CT-9093,2025-01-21,Depreciation - Accounting,Add Back,61933.43,Add
+CT-9094,2025-01-01,Client Entertainment,Disallowed 50%,20188.99,Add
+CT-9095,2025-02-16,Exempt Dividend Income,Exempt Income,63094.82,Add
+CT-9096,2025-02-23,Exempt Dividend Income,Exempt Income,16292.63,Add
+CT-9097,2025-02-21,Donations - Non Qualifying,Fully Disallowed,46780.78,Add
+CT-9098,2025-02-16,Bad Debts Written Off (realized),Deduct,59750.73,Deduct
+CT-9099,2025-02-05,Interest Income - Related Party,Related Party Adj.,52176.93,Deduct
+CT-9100,2025-02-02,UAE Government Grant Income,Exempt Income,59612.41,Add
+CT-9101,2025-02-04,Fines & Penalties,Fully Disallowed,7928.48,Add
+CT-9102,2025-02-05,Provision for Doubtful Debts (unrealized),Add Back,63382.25,Add
+CT-9103,2025-02-16,Donations - Non Qualifying,Fully Disallowed,7666.51,Add
+CT-9104,2025-02-28,Interest Income - Related Party,Related Party Adj.,64031.44,Deduct
+CT-9105,2025-02-17,Related Party Management Fee,Transfer Pricing Adj.,61429.89,Add
+CT-9106,2025-02-21,Client Entertainment,Disallowed 50%,34899.51,Add
+CT-9107,2025-02-26,Entertainment Expense,Disallowed 50%,65347.59,Add
+CT-9108,2025-02-05,Related Party Management Fee,Transfer Pricing Adj.,39196.33,Add
+CT-9109,2025-02-14,Depreciation - Accounting,Add Back,12314.55,Add
+CT-9110,2025-02-17,Depreciation - Tax (per schedule),Deduct,67559.74,Deduct
+CT-9111,2025-02-14,Interest Income - Related Party,Related Party Adj.,51695.57,Deduct
+CT-9112,2025-02-12,Donations - Non Qualifying,Fully Disallowed,46672.3,Add
+CT-9113,2025-02-10,Exempt Dividend Income,Exempt Income,32985.85,Add
+CT-9114,2025-02-14,Depreciation - Tax (per schedule),Deduct,59144.98,Deduct
+CT-9115,2025-02-10,Donations - Non Qualifying,Fully Disallowed,52521.77,Add
+CT-9116,2025-02-18,Exempt Dividend Income,Exempt Income,36258.12,Add
+CT-9117,2025-02-25,Fines & Penalties,Fully Disallowed,14495.54,Add
+CT-9118,2025-02-05,Bad Debts Written Off (realized),Deduct,56293.67,Deduct
+CT-9119,2025-02-24,Depreciation - Tax (per schedule),Deduct,22169.29,Deduct
+CT-9120,2025-02-11,Fines & Penalties,Fully Disallowed,10029.39,Add
+CT-9121,2025-02-03,Donations - Non Qualifying,Fully Disallowed,23241.22,Add
+CT-9122,2025-02-22,Bad Debts Written Off (realized),Deduct,66004.82,Deduct
+CT-9123,2025-02-18,Exempt Dividend Income,Exempt Income,51855.6,Add
+CT-9124,2025-02-08,Entertainment Expense,Disallowed 50%,23519.39,Add
+CT-9125,2025-02-08,Depreciation - Accounting,Add Back,23871.23,Add
+CT-9126,2025-02-06,Exempt Dividend Income,Exempt Income,50458.41,Add
+CT-9127,2025-02-06,Exempt Dividend Income,Exempt Income,65485.19,Add
+CT-9128,2025-02-15,Entertainment Expense,Disallowed 50%,67136.26,Add
+CT-9129,2025-02-13,Provision for Doubtful Debts (unrealized),Add Back,32942.21,Add
+CT-9130,2025-02-18,Provision for Doubtful Debts (unrealized),Add Back,48621.32,Add
+CT-9131,2025-02-16,Fines & Penalties,Fully Disallowed,37432.32,Add
+CT-9132,2025-02-23,Depreciation - Accounting,Add Back,22843.37,Add
+CT-9133,2025-02-24,Exempt Dividend Income,Exempt Income,31208.62,Add
+CT-9134,2025-02-21,Related Party Management Fee,Transfer Pricing Adj.,10103.9,Add
+CT-9135,2025-02-03,Bad Debts Written Off (realized),Deduct,22341.5,Deduct
+CT-9136,2025-02-07,Related Party Management Fee,Transfer Pricing Adj.,57493.26,Add
+CT-9137,2025-02-18,UAE Government Grant Income,Exempt Income,62101.83,Add
+CT-9138,2025-02-04,Depreciation - Tax (per schedule),Deduct,41677.79,Deduct
+CT-9139,2025-02-23,Depreciation - Tax (per schedule),Deduct,53179.52,Deduct
+CT-9140,2025-02-04,Fines & Penalties,Fully Disallowed,27842.81,Add
+CT-9141,2025-02-16,Related Party Management Fee,Transfer Pricing Adj.,45046.84,Add
+CT-9142,2025-02-03,Depreciation - Accounting,Add Back,48839.51,Add
+CT-9143,2025-02-09,Depreciation - Accounting,Add Back,54058.43,Add
+CT-9144,2025-02-27,Donations - Non Qualifying,Fully Disallowed,1752.21,Add
+CT-9145,2025-02-13,Client Entertainment,Disallowed 50%,2512.48,Add
+CT-9146,2025-02-10,Client Entertainment,Disallowed 50%,19944.64,Add
+CT-9147,2025-02-26,Depreciation - Tax (per schedule),Deduct,10965.39,Deduct
+CT-9148,2025-02-10,Interest Income - Related Party,Related Party Adj.,26899.76,Deduct
+CT-9149,2025-02-10,Depreciation - Tax (per schedule),Deduct,48570.52,Deduct
+CT-9150,2025-02-07,Depreciation - Accounting,Add Back,63449.64,Add
+CT-9151,2025-02-20,Client Entertainment,Disallowed 50%,41078.09,Add
+CT-9152,2025-02-04,Bad Debts Written Off (realized),Deduct,7929.53,Deduct
+CT-9153,2025-02-08,Related Party Management Fee,Transfer Pricing Adj.,58111.0,Add
+CT-9154,2025-02-09,Donations - Non Qualifying,Fully Disallowed,55942.74,Add
+CT-9155,2025-02-06,Interest Income - Related Party,Related Party Adj.,63533.65,Deduct
+CT-9156,2025-02-20,Interest Income - Related Party,Related Party Adj.,30237.05,Deduct
+CT-9157,2025-02-01,Bad Debts Written Off (realized),Deduct,3394.61,Deduct
+CT-9158,2025-02-26,Entertainment Expense,Disallowed 50%,51129.73,Add
+CT-9159,2025-02-10,Related Party Management Fee,Transfer Pricing Adj.,21619.21,Add
+CT-9160,2025-02-16,Depreciation - Accounting,Add Back,41383.74,Add
+CT-9161,2025-02-18,Depreciation - Tax (per schedule),Deduct,50636.38,Deduct
+CT-9162,2025-02-18,UAE Government Grant Income,Exempt Income,25170.33,Add
+CT-9163,2025-02-03,UAE Government Grant Income,Exempt Income,28988.16,Add
+CT-9164,2025-02-17,UAE Government Grant Income,Exempt Income,36790.42,Add
+CT-9165,2025-02-16,Client Entertainment,Disallowed 50%,57218.32,Add
+CT-9166,2025-02-23,Exempt Dividend Income,Exempt Income,28330.82,Add
+CT-9167,2025-02-19,Fines & Penalties,Fully Disallowed,9187.64,Add
+CT-9168,2025-02-20,Interest Income - Related Party,Related Party Adj.,11704.18,Deduct
+CT-9169,2025-02-14,Depreciation - Accounting,Add Back,15953.8,Add
+CT-9170,2025-02-16,Donations - Non Qualifying,Fully Disallowed,35745.44,Add
+CT-9171,2025-02-02,Depreciation - Accounting,Add Back,40294.2,Add
+CT-9172,2025-02-06,Donations - Non Qualifying,Fully Disallowed,15756.69,Add
+CT-9173,2025-02-28,Fines & Penalties,Fully Disallowed,13883.41,Add
+CT-9174,2025-02-18,Interest Income - Related Party,Related Party Adj.,22879.29,Deduct
+CT-9175,2025-02-15,Entertainment Expense,Disallowed 50%,63303.7,Add
+CT-9176,2025-02-07,Entertainment Expense,Disallowed 50%,20774.21,Add
+CT-9177,2025-02-10,Related Party Management Fee,Transfer Pricing Adj.,9324.35,Add
+CT-9178,2025-02-24,UAE Government Grant Income,Exempt Income,64129.76,Add
+CT-9179,2025-02-13,Exempt Dividend Income,Exempt Income,16019.83,Add
+CT-9180,2025-02-15,Exempt Dividend Income,Exempt Income,32311.02,Add
+CT-9181,2025-02-16,Bad Debts Written Off (realized),Deduct,49583.3,Deduct
+CT-9182,2025-02-01,Depreciation - Accounting,Add Back,1924.12,Add
+CT-9183,2025-02-14,Donations - Non Qualifying,Fully Disallowed,28278.84,Add
+CT-9184,2025-02-01,Depreciation - Tax (per schedule),Deduct,28247.41,Deduct
+CT-9185,2025-02-13,Related Party Management Fee,Transfer Pricing Adj.,65804.11,Add
+CT-9186,2025-02-28,UAE Government Grant Income,Exempt Income,10760.11,Add
+CT-9187,2025-02-04,Exempt Dividend Income,Exempt Income,58191.24,Add
+CT-9188,2025-02-21,Fines & Penalties,Fully Disallowed,53865.0,Add
+CT-9189,2025-02-19,Exempt Dividend Income,Exempt Income,9949.43,Add
+CT-9190,2025-02-17,Donations - Non Qualifying,Fully Disallowed,58604.71,Add
+CT-9191,2025-03-18,Exempt Dividend Income,Exempt Income,12474.7,Add
+CT-9192,2025-03-05,Depreciation - Accounting,Add Back,52210.08,Add
+CT-9193,2025-03-26,Provision for Doubtful Debts (unrealized),Add Back,18884.96,Add
+CT-9194,2025-03-07,Donations - Non Qualifying,Fully Disallowed,41313.33,Add
+CT-9195,2025-03-24,Entertainment Expense,Disallowed 50%,61769.64,Add
+CT-9196,2025-03-27,Depreciation - Tax (per schedule),Deduct,44315.82,Deduct
+CT-9197,2025-03-22,Provision for Doubtful Debts (unrealized),Add Back,39399.69,Add
+CT-9198,2025-03-13,Entertainment Expense,Disallowed 50%,61358.91,Add
+CT-9199,2025-03-02,Related Party Management Fee,Transfer Pricing Adj.,65780.39,Add
+CT-9200,2025-03-08,Depreciation - Accounting,Add Back,37614.86,Add
+CT-9201,2025-03-09,Client Entertainment,Disallowed 50%,13583.3,Add
+CT-9202,2025-03-07,Related Party Management Fee,Transfer Pricing Adj.,62290.7,Add
+CT-9203,2025-03-24,Depreciation - Tax (per schedule),Deduct,36149.9,Deduct
+CT-9204,2025-03-18,Depreciation - Accounting,Add Back,39955.49,Add
+CT-9205,2025-03-17,Client Entertainment,Disallowed 50%,8978.93,Add
+CT-9206,2025-03-28,Related Party Management Fee,Transfer Pricing Adj.,22067.58,Add
+CT-9207,2025-03-05,Provision for Doubtful Debts (unrealized),Add Back,24873.7,Add
+CT-9208,2025-03-01,Depreciation - Accounting,Add Back,13557.49,Add
+CT-9209,2025-03-15,Provision for Doubtful Debts (unrealized),Add Back,51332.54,Add
+CT-9210,2025-03-16,Exempt Dividend Income,Exempt Income,46866.92,Add
+CT-9211,2025-03-18,UAE Government Grant Income,Exempt Income,2761.98,Add
+CT-9212,2025-03-08,UAE Government Grant Income,Exempt Income,49768.22,Add
+CT-9213,2025-03-17,Provision for Doubtful Debts (unrealized),Add Back,18285.95,Add
+CT-9214,2025-03-14,Client Entertainment,Disallowed 50%,7030.37,Add
+CT-9215,2025-03-12,UAE Government Grant Income,Exempt Income,23980.36,Add
+CT-9216,2025-03-27,Depreciation - Tax (per schedule),Deduct,50584.52,Deduct
+CT-9217,2025-03-23,Exempt Dividend Income,Exempt Income,55131.62,Add
+CT-9218,2025-03-09,Depreciation - Tax (per schedule),Deduct,39585.62,Deduct
+CT-9219,2025-03-08,Fines & Penalties,Fully Disallowed,6371.22,Add
+CT-9220,2025-03-07,Bad Debts Written Off (realized),Deduct,39658.25,Deduct
+CT-9221,2025-03-28,Client Entertainment,Disallowed 50%,15370.16,Add
+CT-9222,2025-03-23,Provision for Doubtful Debts (unrealized),Add Back,14362.51,Add
+CT-9223,2025-03-16,Provision for Doubtful Debts (unrealized),Add Back,23874.18,Add
+CT-9224,2025-03-15,Fines & Penalties,Fully Disallowed,34009.27,Add
+CT-9225,2025-03-16,Provision for Doubtful Debts (unrealized),Add Back,36057.84,Add
+CT-9226,2025-03-07,Bad Debts Written Off (realized),Deduct,25846.13,Deduct
+CT-9227,2025-03-14,Depreciation - Tax (per schedule),Deduct,53922.81,Deduct
+CT-9228,2025-03-25,Client Entertainment,Disallowed 50%,15373.14,Add
+CT-9229,2025-03-09,Depreciation - Accounting,Add Back,7438.37,Add
+CT-9230,2025-03-12,Interest Income - Related Party,Related Party Adj.,6352.75,Deduct
+CT-9231,2025-03-18,Donations - Non Qualifying,Fully Disallowed,52999.58,Add
+CT-9232,2025-03-21,Entertainment Expense,Disallowed 50%,65335.55,Add
+CT-9233,2025-03-06,Exempt Dividend Income,Exempt Income,54663.25,Add
+CT-9234,2025-03-28,Provision for Doubtful Debts (unrealized),Add Back,53810.42,Add
+CT-9235,2025-03-20,Fines & Penalties,Fully Disallowed,14267.24,Add
+CT-9236,2025-03-26,Interest Income - Related Party,Related Party Adj.,2363.57,Deduct
+CT-9237,2025-03-04,Bad Debts Written Off (realized),Deduct,57993.4,Deduct
+CT-9238,2025-03-02,Depreciation - Tax (per schedule),Deduct,59081.45,Deduct
+CT-9239,2025-03-08,Client Entertainment,Disallowed 50%,6487.23,Add
+CT-9240,2025-03-10,Interest Income - Related Party,Related Party Adj.,8566.44,Deduct
+CT-9241,2025-03-10,Exempt Dividend Income,Exempt Income,65806.66,Add
+CT-9242,2025-03-07,Depreciation - Accounting,Add Back,13698.01,Add
+CT-9243,2025-03-16,Provision for Doubtful Debts (unrealized),Add Back,66126.04,Add
+CT-9244,2025-03-03,Interest Income - Related Party,Related Party Adj.,11892.88,Deduct
+CT-9245,2025-03-20,Depreciation - Accounting,Add Back,67522.72,Add
+CT-9246,2025-03-28,Entertainment Expense,Disallowed 50%,7287.56,Add
+CT-9247,2025-03-13,UAE Government Grant Income,Exempt Income,36384.2,Add
+CT-9248,2025-03-13,Client Entertainment,Disallowed 50%,54715.16,Add
+CT-9249,2025-03-23,Depreciation - Accounting,Add Back,56396.98,Add
+CT-9250,2025-03-27,Interest Income - Related Party,Related Party Adj.,2733.45,Deduct
+CT-9251,2025-03-22,Related Party Management Fee,Transfer Pricing Adj.,66721.23,Add
+CT-9252,2025-03-03,Interest Income - Related Party,Related Party Adj.,39450.67,Deduct
+CT-9253,2025-03-16,Depreciation - Tax (per schedule),Deduct,66752.52,Deduct
+CT-9254,2025-03-01,Donations - Non Qualifying,Fully Disallowed,36765.99,Add
+CT-9255,2025-03-19,Provision for Doubtful Debts (unrealized),Add Back,31703.59,Add
+CT-9256,2025-03-08,Provision for Doubtful Debts (unrealized),Add Back,32209.03,Add
+CT-9257,2025-03-02,Provision for Doubtful Debts (unrealized),Add Back,31564.02,Add
+CT-9258,2025-03-04,Interest Income - Related Party,Related Party Adj.,46426.37,Deduct
+CT-9259,2025-03-25,Entertainment Expense,Disallowed 50%,54764.07,Add
+CT-9260,2025-03-14,Donations - Non Qualifying,Fully Disallowed,31961.6,Add
+CT-9261,2025-03-06,Depreciation - Accounting,Add Back,16377.45,Add
+CT-9262,2025-03-26,Entertainment Expense,Disallowed 50%,25694.92,Add
+CT-9263,2025-03-15,Provision for Doubtful Debts (unrealized),Add Back,39246.32,Add
+CT-9264,2025-03-12,Fines & Penalties,Fully Disallowed,61071.04,Add
+CT-9265,2025-03-04,Interest Income - Related Party,Related Party Adj.,66947.89,Deduct
+CT-9266,2025-03-21,Related Party Management Fee,Transfer Pricing Adj.,57642.64,Add
+CT-9267,2025-03-22,Depreciation - Tax (per schedule),Deduct,25567.14,Deduct
+CT-9268,2025-03-06,Bad Debts Written Off (realized),Deduct,42601.16,Deduct
+CT-9269,2025-03-04,Bad Debts Written Off (realized),Deduct,32549.19,Deduct
+CT-9270,2025-03-10,Client Entertainment,Disallowed 50%,46805.82,Add
+CT-9271,2025-03-27,Related Party Management Fee,Transfer Pricing Adj.,42635.34,Add
+CT-9272,2025-03-07,Bad Debts Written Off (realized),Deduct,46449.17,Deduct
+CT-9273,2025-03-24,Related Party Management Fee,Transfer Pricing Adj.,55256.9,Add
+CT-9274,2025-03-19,Provision for Doubtful Debts (unrealized),Add Back,1806.06,Add
+CT-9275,2025-03-14,Provision for Doubtful Debts (unrealized),Add Back,35280.43,Add
+CT-9276,2025-03-18,Exempt Dividend Income,Exempt Income,38196.34,Add
+CT-9277,2025-03-14,Related Party Management Fee,Transfer Pricing Adj.,47163.37,Add
+CT-9278,2025-03-25,Client Entertainment,Disallowed 50%,3823.07,Add
+CT-9279,2025-03-20,Exempt Dividend Income,Exempt Income,24310.99,Add
+CT-9280,2025-03-12,Bad Debts Written Off (realized),Deduct,14831.03,Deduct
+CT-9281,2025-04-16,Provision for Doubtful Debts (unrealized),Add Back,67089.62,Add
+CT-9282,2025-04-07,Interest Income - Related Party,Related Party Adj.,21007.31,Deduct
+CT-9283,2025-04-28,UAE Government Grant Income,Exempt Income,62401.08,Add
+CT-9284,2025-04-16,Provision for Doubtful Debts (unrealized),Add Back,19708.14,Add
+CT-9285,2025-04-07,Entertainment Expense,Disallowed 50%,12686.38,Add
+CT-9286,2025-04-27,Fines & Penalties,Fully Disallowed,34085.15,Add
+CT-9287,2025-04-26,Bad Debts Written Off (realized),Deduct,45247.22,Deduct
+CT-9288,2025-04-26,Depreciation - Tax (per schedule),Deduct,41036.11,Deduct
+CT-9289,2025-04-17,Depreciation - Accounting,Add Back,50400.9,Add
+CT-9290,2025-04-13,Bad Debts Written Off (realized),Deduct,45112.21,Deduct
+CT-9291,2025-04-27,Provision for Doubtful Debts (unrealized),Add Back,42664.86,Add
+CT-9292,2025-04-15,Interest Income - Related Party,Related Party Adj.,43595.38,Deduct
+CT-9293,2025-04-12,UAE Government Grant Income,Exempt Income,6707.4,Add
+CT-9294,2025-04-08,Related Party Management Fee,Transfer Pricing Adj.,55308.38,Add
+CT-9295,2025-04-09,Depreciation - Accounting,Add Back,58268.97,Add
+CT-9296,2025-04-23,Depreciation - Tax (per schedule),Deduct,44577.0,Deduct
+CT-9297,2025-04-01,Related Party Management Fee,Transfer Pricing Adj.,10125.61,Add
+CT-9298,2025-04-16,Depreciation - Tax (per schedule),Deduct,17548.95,Deduct
+CT-9299,2025-04-01,Fines & Penalties,Fully Disallowed,41434.3,Add
+CT-9300,2025-04-22,Exempt Dividend Income,Exempt Income,49710.84,Add
+CT-9301,2025-04-13,UAE Government Grant Income,Exempt Income,36360.52,Add
+CT-9302,2025-04-21,Depreciation - Tax (per schedule),Deduct,59919.92,Deduct
+CT-9303,2025-04-01,Interest Income - Related Party,Related Party Adj.,18703.43,Deduct
+CT-9304,2025-04-27,Donations - Non Qualifying,Fully Disallowed,30821.6,Add
+CT-9305,2025-04-28,Depreciation - Tax (per schedule),Deduct,20097.24,Deduct
+CT-9306,2025-04-16,Entertainment Expense,Disallowed 50%,52894.67,Add
+CT-9307,2025-04-08,Exempt Dividend Income,Exempt Income,1984.88,Add
+CT-9308,2025-04-24,Exempt Dividend Income,Exempt Income,15858.16,Add
+CT-9309,2025-04-13,Exempt Dividend Income,Exempt Income,26229.59,Add
+CT-9310,2025-04-24,Interest Income - Related Party,Related Party Adj.,14034.51,Deduct
+CT-9311,2025-04-14,Interest Income - Related Party,Related Party Adj.,9537.56,Deduct
+CT-9312,2025-04-24,Interest Income - Related Party,Related Party Adj.,26755.03,Deduct
+CT-9313,2025-04-09,Exempt Dividend Income,Exempt Income,4352.81,Add
+CT-9314,2025-04-15,Entertainment Expense,Disallowed 50%,33068.79,Add
+CT-9315,2025-04-26,Donations - Non Qualifying,Fully Disallowed,5181.61,Add
+CT-9316,2025-04-01,Depreciation - Accounting,Add Back,7309.51,Add
+CT-9317,2025-04-07,UAE Government Grant Income,Exempt Income,60014.1,Add
+CT-9318,2025-04-23,Fines & Penalties,Fully Disallowed,55418.06,Add
+CT-9319,2025-04-11,Depreciation - Accounting,Add Back,57255.66,Add
+CT-9320,2025-04-24,Client Entertainment,Disallowed 50%,4551.66,Add
+CT-9321,2025-04-17,Fines & Penalties,Fully Disallowed,28606.15,Add
+CT-9322,2025-04-15,Donations - Non Qualifying,Fully Disallowed,59311.73,Add
+CT-9323,2025-04-07,Related Party Management Fee,Transfer Pricing Adj.,40164.82,Add
+CT-9324,2025-04-13,Donations - Non Qualifying,Fully Disallowed,60741.7,Add
+CT-9325,2025-04-14,Bad Debts Written Off (realized),Deduct,20195.32,Deduct
+CT-9326,2025-04-26,Depreciation - Accounting,Add Back,47495.19,Add
+CT-9327,2025-04-24,Provision for Doubtful Debts (unrealized),Add Back,58940.64,Add
+CT-9328,2025-04-28,Entertainment Expense,Disallowed 50%,17968.06,Add
+CT-9329,2025-04-07,Fines & Penalties,Fully Disallowed,61578.03,Add
+CT-9330,2025-04-09,Interest Income - Related Party,Related Party Adj.,42685.52,Deduct
+CT-9331,2025-04-05,Client Entertainment,Disallowed 50%,23822.34,Add
+CT-9332,2025-04-25,Entertainment Expense,Disallowed 50%,48629.36,Add
+CT-9333,2025-04-27,Interest Income - Related Party,Related Party Adj.,20364.53,Deduct
+CT-9334,2025-04-03,Client Entertainment,Disallowed 50%,5049.26,Add
+CT-9335,2025-04-16,Entertainment Expense,Disallowed 50%,13406.11,Add
+CT-9336,2025-04-26,Provision for Doubtful Debts (unrealized),Add Back,4487.22,Add
+CT-9337,2025-04-28,Exempt Dividend Income,Exempt Income,8826.64,Add
+CT-9338,2025-04-13,Interest Income - Related Party,Related Party Adj.,23305.21,Deduct
+CT-9339,2025-04-09,Depreciation - Accounting,Add Back,66454.09,Add
+CT-9340,2025-04-16,Interest Income - Related Party,Related Party Adj.,60096.62,Deduct
+CT-9341,2025-04-07,Interest Income - Related Party,Related Party Adj.,43650.86,Deduct
+CT-9342,2025-04-08,Exempt Dividend Income,Exempt Income,14554.77,Add
+CT-9343,2025-04-09,Entertainment Expense,Disallowed 50%,29903.23,Add
+CT-9344,2025-04-11,Depreciation - Accounting,Add Back,15795.03,Add
+CT-9345,2025-04-12,Bad Debts Written Off (realized),Deduct,58837.03,Deduct
+CT-9346,2025-04-16,Depreciation - Accounting,Add Back,48436.66,Add
+CT-9347,2025-04-28,Exempt Dividend Income,Exempt Income,40737.8,Add
+CT-9348,2025-04-26,Depreciation - Tax (per schedule),Deduct,3024.64,Deduct
+CT-9349,2025-04-25,Depreciation - Tax (per schedule),Deduct,45967.32,Deduct
+CT-9350,2025-04-14,Related Party Management Fee,Transfer Pricing Adj.,47136.15,Add
+CT-9351,2025-04-15,Entertainment Expense,Disallowed 50%,13851.01,Add
+CT-9352,2025-04-28,Entertainment Expense,Disallowed 50%,49792.24,Add
+CT-9353,2025-04-14,Exempt Dividend Income,Exempt Income,32779.68,Add
+CT-9354,2025-04-03,Bad Debts Written Off (realized),Deduct,5520.76,Deduct
+CT-9355,2025-04-23,Related Party Management Fee,Transfer Pricing Adj.,57768.21,Add
+CT-9356,2025-04-04,Exempt Dividend Income,Exempt Income,46733.3,Add
+CT-9357,2025-04-08,Fines & Penalties,Fully Disallowed,41381.0,Add
+CT-9358,2025-04-04,UAE Government Grant Income,Exempt Income,28041.93,Add
+CT-9359,2025-04-05,Donations - Non Qualifying,Fully Disallowed,39404.03,Add
+CT-9360,2025-04-09,Donations - Non Qualifying,Fully Disallowed,34216.95,Add
+CT-9361,2025-04-19,Depreciation - Tax (per schedule),Deduct,41281.74,Deduct
+CT-9362,2025-04-22,Exempt Dividend Income,Exempt Income,65698.61,Add
+CT-9363,2025-04-07,Client Entertainment,Disallowed 50%,48042.2,Add
+CT-9364,2025-04-17,Donations - Non Qualifying,Fully Disallowed,34632.25,Add
+CT-9365,2025-04-23,Bad Debts Written Off (realized),Deduct,2097.27,Deduct
+CT-9366,2025-04-01,Exempt Dividend Income,Exempt Income,53270.35,Add
+CT-9367,2025-04-25,Bad Debts Written Off (realized),Deduct,39988.84,Deduct
+CT-9368,2025-04-25,Entertainment Expense,Disallowed 50%,43259.91,Add
+CT-9369,2025-04-12,Provision for Doubtful Debts (unrealized),Add Back,57693.98,Add
+CT-9370,2025-04-27,Client Entertainment,Disallowed 50%,60448.77,Add
+CT-9371,2025-04-16,Provision for Doubtful Debts (unrealized),Add Back,19277.32,Add
+CT-9372,2025-04-17,Entertainment Expense,Disallowed 50%,65713.59,Add
+CT-9373,2025-05-10,Exempt Dividend Income,Exempt Income,46768.57,Add
+CT-9374,2025-05-09,Bad Debts Written Off (realized),Deduct,36805.39,Deduct
+CT-9375,2025-05-26,Exempt Dividend Income,Exempt Income,65937.52,Add
+CT-9376,2025-05-17,Entertainment Expense,Disallowed 50%,16661.87,Add
+CT-9377,2025-05-14,Depreciation - Tax (per schedule),Deduct,32252.27,Deduct
+CT-9378,2025-05-23,Depreciation - Tax (per schedule),Deduct,45385.62,Deduct
+CT-9379,2025-05-10,Related Party Management Fee,Transfer Pricing Adj.,1981.38,Add
+CT-9380,2025-05-16,Depreciation - Accounting,Add Back,42742.71,Add
+CT-9381,2025-05-20,Fines & Penalties,Fully Disallowed,35685.84,Add
+CT-9382,2025-05-28,Entertainment Expense,Disallowed 50%,14077.96,Add
+CT-9383,2025-05-27,Bad Debts Written Off (realized),Deduct,38346.39,Deduct
+CT-9384,2025-05-22,Exempt Dividend Income,Exempt Income,17783.07,Add
+CT-9385,2025-05-09,Provision for Doubtful Debts (unrealized),Add Back,54938.64,Add
+CT-9386,2025-05-03,Donations - Non Qualifying,Fully Disallowed,50667.25,Add
+CT-9387,2025-05-17,Provision for Doubtful Debts (unrealized),Add Back,34247.78,Add
+CT-9388,2025-05-17,Depreciation - Tax (per schedule),Deduct,51116.49,Deduct
+CT-9389,2025-05-09,Depreciation - Accounting,Add Back,64552.99,Add
+CT-9390,2025-05-22,Entertainment Expense,Disallowed 50%,38129.92,Add
+CT-9391,2025-05-24,Interest Income - Related Party,Related Party Adj.,61416.5,Deduct
+CT-9392,2025-05-07,Interest Income - Related Party,Related Party Adj.,15838.2,Deduct
+CT-9393,2025-05-02,Fines & Penalties,Fully Disallowed,66119.23,Add
+CT-9394,2025-05-12,Bad Debts Written Off (realized),Deduct,43151.17,Deduct
+CT-9395,2025-05-23,Provision for Doubtful Debts (unrealized),Add Back,1837.75,Add
+CT-9396,2025-05-20,Depreciation - Tax (per schedule),Deduct,11775.25,Deduct
+CT-9397,2025-05-04,Interest Income - Related Party,Related Party Adj.,53452.32,Deduct
+CT-9398,2025-05-07,UAE Government Grant Income,Exempt Income,25546.6,Add
+CT-9399,2025-05-05,Related Party Management Fee,Transfer Pricing Adj.,4011.32,Add
+CT-9400,2025-05-22,Interest Income - Related Party,Related Party Adj.,64514.14,Deduct
+CT-9401,2025-05-07,Interest Income - Related Party,Related Party Adj.,28246.66,Deduct
+CT-9402,2025-05-20,Donations - Non Qualifying,Fully Disallowed,2918.5,Add
+CT-9403,2025-05-12,Fines & Penalties,Fully Disallowed,62031.92,Add
+CT-9404,2025-05-01,Provision for Doubtful Debts (unrealized),Add Back,24949.51,Add
+CT-9405,2025-05-20,Donations - Non Qualifying,Fully Disallowed,3451.88,Add
+CT-9406,2025-05-26,Related Party Management Fee,Transfer Pricing Adj.,40945.71,Add
+CT-9407,2025-05-26,Depreciation - Tax (per schedule),Deduct,19799.37,Deduct
+CT-9408,2025-05-22,Entertainment Expense,Disallowed 50%,54986.65,Add
+CT-9409,2025-05-06,Bad Debts Written Off (realized),Deduct,15363.94,Deduct
+CT-9410,2025-05-28,Entertainment Expense,Disallowed 50%,9312.09,Add
+CT-9411,2025-05-07,Related Party Management Fee,Transfer Pricing Adj.,42015.65,Add
+CT-9412,2025-05-11,Client Entertainment,Disallowed 50%,38635.34,Add
+CT-9413,2025-05-05,Entertainment Expense,Disallowed 50%,2962.44,Add
+CT-9414,2025-05-18,Donations - Non Qualifying,Fully Disallowed,6712.67,Add
+CT-9415,2025-05-25,Fines & Penalties,Fully Disallowed,48035.59,Add
+CT-9416,2025-05-17,UAE Government Grant Income,Exempt Income,58312.51,Add
+CT-9417,2025-05-02,Fines & Penalties,Fully Disallowed,55215.22,Add
+CT-9418,2025-05-04,Depreciation - Accounting,Add Back,36634.98,Add
+CT-9419,2025-05-08,UAE Government Grant Income,Exempt Income,3663.42,Add
+CT-9420,2025-05-12,Entertainment Expense,Disallowed 50%,61984.64,Add
+CT-9421,2025-05-23,Depreciation - Accounting,Add Back,36790.66,Add
+CT-9422,2025-05-17,Bad Debts Written Off (realized),Deduct,15964.72,Deduct
+CT-9423,2025-05-27,Depreciation - Tax (per schedule),Deduct,30990.42,Deduct
+CT-9424,2025-05-07,Bad Debts Written Off (realized),Deduct,41400.2,Deduct
+CT-9425,2025-05-24,Interest Income - Related Party,Related Party Adj.,55454.68,Deduct
+CT-9426,2025-05-23,Fines & Penalties,Fully Disallowed,19514.53,Add
+CT-9427,2025-05-11,Depreciation - Tax (per schedule),Deduct,43932.64,Deduct
+CT-9428,2025-05-04,Donations - Non Qualifying,Fully Disallowed,36496.74,Add
+CT-9429,2025-05-18,Depreciation - Tax (per schedule),Deduct,58558.42,Deduct
+CT-9430,2025-05-28,Fines & Penalties,Fully Disallowed,33820.3,Add
+CT-9431,2025-05-17,Related Party Management Fee,Transfer Pricing Adj.,13988.29,Add
+CT-9432,2025-05-09,Fines & Penalties,Fully Disallowed,30533.29,Add
+CT-9433,2025-05-28,Fines & Penalties,Fully Disallowed,40527.62,Add
+CT-9434,2025-05-06,Client Entertainment,Disallowed 50%,35045.48,Add
+CT-9435,2025-05-15,Depreciation - Tax (per schedule),Deduct,25781.12,Deduct
+CT-9436,2025-05-17,Related Party Management Fee,Transfer Pricing Adj.,29350.38,Add
+CT-9437,2025-05-03,Exempt Dividend Income,Exempt Income,45481.99,Add
+CT-9438,2025-05-19,Depreciation - Tax (per schedule),Deduct,61700.04,Deduct
+CT-9439,2025-05-17,Entertainment Expense,Disallowed 50%,17704.61,Add
+CT-9440,2025-05-24,Client Entertainment,Disallowed 50%,39749.97,Add
+CT-9441,2025-05-20,UAE Government Grant Income,Exempt Income,58184.06,Add
+CT-9442,2025-05-09,Depreciation - Tax (per schedule),Deduct,57690.24,Deduct
+CT-9443,2025-05-13,UAE Government Grant Income,Exempt Income,34870.23,Add
+CT-9444,2025-05-11,Client Entertainment,Disallowed 50%,46401.27,Add
+CT-9445,2025-05-25,Entertainment Expense,Disallowed 50%,56333.05,Add
+CT-9446,2025-05-10,Depreciation - Accounting,Add Back,35581.17,Add
+CT-9447,2025-05-23,Interest Income - Related Party,Related Party Adj.,50673.49,Deduct
+CT-9448,2025-05-17,Depreciation - Tax (per schedule),Deduct,50516.77,Deduct
+CT-9449,2025-05-09,Interest Income - Related Party,Related Party Adj.,10559.31,Deduct
+CT-9450,2025-05-10,Depreciation - Accounting,Add Back,28580.26,Add
+CT-9451,2025-05-11,Entertainment Expense,Disallowed 50%,17282.25,Add
+CT-9452,2025-05-28,Entertainment Expense,Disallowed 50%,31000.71,Add
+CT-9453,2025-05-12,Provision for Doubtful Debts (unrealized),Add Back,41111.37,Add
+CT-9454,2025-05-20,Depreciation - Tax (per schedule),Deduct,53626.31,Deduct
+CT-9455,2025-05-07,UAE Government Grant Income,Exempt Income,54694.9,Add
+CT-9456,2025-05-17,Depreciation - Tax (per schedule),Deduct,58752.69,Deduct
+CT-9457,2025-05-02,Exempt Dividend Income,Exempt Income,6673.9,Add
+CT-9458,2025-05-05,Exempt Dividend Income,Exempt Income,51816.05,Add
+CT-9459,2025-05-15,Related Party Management Fee,Transfer Pricing Adj.,11644.14,Add
+CT-9460,2025-06-25,Depreciation - Tax (per schedule),Deduct,21451.67,Deduct
+CT-9461,2025-06-16,Bad Debts Written Off (realized),Deduct,43234.43,Deduct
+CT-9462,2025-06-28,Depreciation - Accounting,Add Back,26244.91,Add
+CT-9463,2025-06-23,Fines & Penalties,Fully Disallowed,26100.83,Add
+CT-9464,2025-06-17,Client Entertainment,Disallowed 50%,9891.7,Add
+CT-9465,2025-06-10,Bad Debts Written Off (realized),Deduct,11367.59,Deduct
+CT-9466,2025-06-26,UAE Government Grant Income,Exempt Income,40521.84,Add
+CT-9467,2025-06-16,Donations - Non Qualifying,Fully Disallowed,33588.08,Add
+CT-9468,2025-06-16,Interest Income - Related Party,Related Party Adj.,4062.74,Deduct
+CT-9469,2025-06-28,Entertainment Expense,Disallowed 50%,48761.21,Add
+CT-9470,2025-06-20,Depreciation - Tax (per schedule),Deduct,60865.04,Deduct
+CT-9471,2025-06-10,Depreciation - Accounting,Add Back,37903.38,Add
+CT-9472,2025-06-14,Interest Income - Related Party,Related Party Adj.,47251.27,Deduct
+CT-9473,2025-06-24,Bad Debts Written Off (realized),Deduct,61109.81,Deduct
+CT-9474,2025-06-05,Client Entertainment,Disallowed 50%,30519.06,Add
+CT-9475,2025-06-11,Donations - Non Qualifying,Fully Disallowed,46570.0,Add
+CT-9476,2025-06-16,Provision for Doubtful Debts (unrealized),Add Back,45322.9,Add
+CT-9477,2025-06-12,Client Entertainment,Disallowed 50%,11743.53,Add
+CT-9478,2025-06-01,Interest Income - Related Party,Related Party Adj.,16196.29,Deduct
+CT-9479,2025-06-14,Fines & Penalties,Fully Disallowed,53138.8,Add
+CT-9480,2025-06-24,Bad Debts Written Off (realized),Deduct,19023.24,Deduct
+CT-9481,2025-06-04,Entertainment Expense,Disallowed 50%,26477.67,Add
+CT-9482,2025-06-05,Fines & Penalties,Fully Disallowed,62099.23,Add
+CT-9483,2025-06-16,Bad Debts Written Off (realized),Deduct,11310.43,Deduct
+CT-9484,2025-06-26,Provision for Doubtful Debts (unrealized),Add Back,25469.72,Add
+CT-9485,2025-06-27,Client Entertainment,Disallowed 50%,64137.27,Add
+CT-9486,2025-06-23,Depreciation - Tax (per schedule),Deduct,64570.97,Deduct
+CT-9487,2025-06-04,Related Party Management Fee,Transfer Pricing Adj.,14930.22,Add
+CT-9488,2025-06-21,Bad Debts Written Off (realized),Deduct,61775.74,Deduct
+CT-9489,2025-06-10,Entertainment Expense,Disallowed 50%,5216.16,Add
+CT-9490,2025-06-08,Depreciation - Tax (per schedule),Deduct,23869.93,Deduct
+CT-9491,2025-06-20,Depreciation - Accounting,Add Back,24987.28,Add
+CT-9492,2025-06-12,Depreciation - Tax (per schedule),Deduct,60534.06,Deduct
+CT-9493,2025-06-04,Provision for Doubtful Debts (unrealized),Add Back,54794.44,Add
+CT-9494,2025-06-22,Provision for Doubtful Debts (unrealized),Add Back,67474.83,Add
+CT-9495,2025-06-26,Donations - Non Qualifying,Fully Disallowed,15035.23,Add
+CT-9496,2025-06-28,Related Party Management Fee,Transfer Pricing Adj.,33663.01,Add
+CT-9497,2025-06-02,Provision for Doubtful Debts (unrealized),Add Back,29081.62,Add
+CT-9498,2025-06-20,Exempt Dividend Income,Exempt Income,56054.75,Add
+CT-9499,2025-06-10,Depreciation - Tax (per schedule),Deduct,51948.73,Deduct
+CT-9500,2025-06-01,UAE Government Grant Income,Exempt Income,40105.19,Add
+CT-9501,2025-06-23,Exempt Dividend Income,Exempt Income,29255.45,Add
+CT-9502,2025-06-03,Entertainment Expense,Disallowed 50%,21031.26,Add
+CT-9503,2025-06-11,Bad Debts Written Off (realized),Deduct,7404.83,Deduct
+CT-9504,2025-06-11,Related Party Management Fee,Transfer Pricing Adj.,32858.02,Add
+CT-9505,2025-06-23,Fines & Penalties,Fully Disallowed,7717.07,Add
+CT-9506,2025-06-08,Interest Income - Related Party,Related Party Adj.,31876.64,Deduct
+CT-9507,2025-06-13,Donations - Non Qualifying,Fully Disallowed,27499.44,Add
+CT-9508,2025-06-20,Entertainment Expense,Disallowed 50%,53266.02,Add
+CT-9509,2025-06-28,Related Party Management Fee,Transfer Pricing Adj.,65707.52,Add
+CT-9510,2025-06-14,Client Entertainment,Disallowed 50%,45937.27,Add
+CT-9511,2025-06-17,Entertainment Expense,Disallowed 50%,36313.56,Add
+CT-9512,2025-06-21,Exempt Dividend Income,Exempt Income,37830.39,Add
+CT-9513,2025-06-03,Related Party Management Fee,Transfer Pricing Adj.,3125.51,Add
+CT-9514,2025-06-26,Entertainment Expense,Disallowed 50%,26008.83,Add
+CT-9515,2025-06-03,Exempt Dividend Income,Exempt Income,14594.09,Add
+CT-9516,2025-06-27,Client Entertainment,Disallowed 50%,8683.79,Add
+CT-9517,2025-06-06,Donations - Non Qualifying,Fully Disallowed,13018.57,Add
+CT-9518,2025-06-02,Provision for Doubtful Debts (unrealized),Add Back,20454.86,Add
+CT-9519,2025-06-22,Interest Income - Related Party,Related Party Adj.,48592.8,Deduct
+CT-9520,2025-06-23,Related Party Management Fee,Transfer Pricing Adj.,50282.25,Add
+CT-9521,2025-06-14,Donations - Non Qualifying,Fully Disallowed,64038.66,Add
+CT-9522,2025-06-02,Donations - Non Qualifying,Fully Disallowed,34734.99,Add
+CT-9523,2025-06-22,Fines & Penalties,Fully Disallowed,61991.53,Add
+CT-9524,2025-06-18,Related Party Management Fee,Transfer Pricing Adj.,60650.0,Add
+CT-9525,2025-06-17,Exempt Dividend Income,Exempt Income,43812.72,Add
+CT-9526,2025-06-03,Fines & Penalties,Fully Disallowed,64251.86,Add
+CT-9527,2025-06-07,Exempt Dividend Income,Exempt Income,36897.67,Add
+CT-9528,2025-06-15,Exempt Dividend Income,Exempt Income,21260.75,Add
+CT-9529,2025-06-25,Exempt Dividend Income,Exempt Income,8106.09,Add
+CT-9530,2025-06-14,Provision for Doubtful Debts (unrealized),Add Back,52899.5,Add
+CT-9531,2025-06-09,Provision for Doubtful Debts (unrealized),Add Back,18022.98,Add
+CT-9532,2025-06-18,Fines & Penalties,Fully Disallowed,50653.36,Add
+CT-9533,2025-06-23,Donations - Non Qualifying,Fully Disallowed,21382.01,Add
+CT-9534,2025-06-06,Client Entertainment,Disallowed 50%,13842.01,Add
+CT-9535,2025-06-14,UAE Government Grant Income,Exempt Income,52434.0,Add
+CT-9536,2025-06-05,Depreciation - Accounting,Add Back,33468.85,Add
+CT-9537,2025-06-10,UAE Government Grant Income,Exempt Income,55775.44,Add
+CT-9538,2025-06-09,Depreciation - Accounting,Add Back,57907.13,Add
+CT-9539,2025-06-07,Bad Debts Written Off (realized),Deduct,44608.24,Deduct
+CT-9540,2025-06-25,Related Party Management Fee,Transfer Pricing Adj.,52371.42,Add
+CT-9541,2025-06-14,Bad Debts Written Off (realized),Deduct,41351.52,Deduct
+CT-9542,2025-06-20,Provision for Doubtful Debts (unrealized),Add Back,17434.59,Add
+CT-9543,2025-06-03,Related Party Management Fee,Transfer Pricing Adj.,23262.91,Add
+CT-9544,2025-06-16,Related Party Management Fee,Transfer Pricing Adj.,47588.26,Add
+CT-9545,2025-06-10,Bad Debts Written Off (realized),Deduct,56348.46,Deduct
+CT-9546,2025-06-06,Depreciation - Accounting,Add Back,42024.03,Add
+CT-9547,2025-06-15,Depreciation - Accounting,Add Back,27313.33,Add
+CT-9548,2025-06-09,Related Party Management Fee,Transfer Pricing Adj.,7372.75,Add
+CT-9549,2025-06-07,Provision for Doubtful Debts (unrealized),Add Back,55727.26,Add
+CT-9550,2025-06-11,Interest Income - Related Party,Related Party Adj.,42504.2,Deduct
+CT-9551,2025-06-11,Donations - Non Qualifying,Fully Disallowed,7608.12,Add
+CT-9552,2025-06-13,Depreciation - Tax (per schedule),Deduct,55237.73,Deduct
+CT-9553,2025-06-07,Depreciation - Accounting,Add Back,44964.03,Add
+CT-9554,2025-06-05,Interest Income - Related Party,Related Party Adj.,20063.39,Deduct
+CT-9555,2025-06-26,Related Party Management Fee,Transfer Pricing Adj.,26693.84,Add
+CT-9556,2025-07-19,Entertainment Expense,Disallowed 50%,57818.22,Add
+CT-9557,2025-07-19,Provision for Doubtful Debts (unrealized),Add Back,19339.89,Add
+CT-9558,2025-07-22,Provision for Doubtful Debts (unrealized),Add Back,27466.45,Add
+CT-9559,2025-07-04,Exempt Dividend Income,Exempt Income,5747.78,Add
+CT-9560,2025-07-06,Related Party Management Fee,Transfer Pricing Adj.,67092.48,Add
+CT-9561,2025-07-26,Fines & Penalties,Fully Disallowed,39839.81,Add
+CT-9562,2025-07-25,Fines & Penalties,Fully Disallowed,17659.05,Add
+CT-9563,2025-07-21,Related Party Management Fee,Transfer Pricing Adj.,43404.61,Add
+CT-9564,2025-07-18,Fines & Penalties,Fully Disallowed,19208.26,Add
+CT-9565,2025-07-02,Bad Debts Written Off (realized),Deduct,10635.16,Deduct
+CT-9566,2025-07-08,Donations - Non Qualifying,Fully Disallowed,32602.74,Add
+CT-9567,2025-07-25,Bad Debts Written Off (realized),Deduct,48515.67,Deduct
+CT-9568,2025-07-13,Depreciation - Accounting,Add Back,5040.04,Add
+CT-9569,2025-07-07,Related Party Management Fee,Transfer Pricing Adj.,48867.85,Add
+CT-9570,2025-07-10,Exempt Dividend Income,Exempt Income,29009.3,Add
+CT-9571,2025-07-17,UAE Government Grant Income,Exempt Income,60236.17,Add
+CT-9572,2025-07-08,Depreciation - Tax (per schedule),Deduct,34468.86,Deduct
+CT-9573,2025-07-26,Entertainment Expense,Disallowed 50%,63228.11,Add
+CT-9574,2025-07-13,Depreciation - Tax (per schedule),Deduct,23302.56,Deduct
+CT-9575,2025-07-11,Related Party Management Fee,Transfer Pricing Adj.,54705.52,Add
+CT-9576,2025-07-22,Related Party Management Fee,Transfer Pricing Adj.,53074.59,Add
+CT-9577,2025-07-22,Provision for Doubtful Debts (unrealized),Add Back,44839.79,Add
+CT-9578,2025-07-15,Depreciation - Tax (per schedule),Deduct,56407.37,Deduct
+CT-9579,2025-07-22,Exempt Dividend Income,Exempt Income,27127.31,Add
+CT-9580,2025-07-12,Entertainment Expense,Disallowed 50%,5098.43,Add
+CT-9581,2025-07-24,Depreciation - Tax (per schedule),Deduct,5962.41,Deduct
+CT-9582,2025-07-21,Fines & Penalties,Fully Disallowed,62451.51,Add
+CT-9583,2025-07-14,UAE Government Grant Income,Exempt Income,33352.0,Add
+CT-9584,2025-07-20,Depreciation - Accounting,Add Back,44003.32,Add
+CT-9585,2025-07-14,Depreciation - Accounting,Add Back,15786.56,Add
+CT-9586,2025-07-02,Donations - Non Qualifying,Fully Disallowed,12512.99,Add
+CT-9587,2025-07-09,Depreciation - Tax (per schedule),Deduct,28837.28,Deduct
+CT-9588,2025-07-09,Provision for Doubtful Debts (unrealized),Add Back,25116.26,Add
+CT-9589,2025-07-02,Depreciation - Accounting,Add Back,13308.51,Add
+CT-9590,2025-07-22,Depreciation - Accounting,Add Back,11536.55,Add
+CT-9591,2025-07-09,Exempt Dividend Income,Exempt Income,30181.04,Add
+CT-9592,2025-07-28,Bad Debts Written Off (realized),Deduct,49071.36,Deduct
+CT-9593,2025-07-08,Depreciation - Tax (per schedule),Deduct,10629.65,Deduct
+CT-9594,2025-07-19,Depreciation - Tax (per schedule),Deduct,7007.67,Deduct
+CT-9595,2025-07-17,Client Entertainment,Disallowed 50%,39514.67,Add
+CT-9596,2025-07-22,Depreciation - Tax (per schedule),Deduct,46099.55,Deduct
+CT-9597,2025-07-14,Entertainment Expense,Disallowed 50%,54997.03,Add
+CT-9598,2025-07-08,Depreciation - Tax (per schedule),Deduct,43218.74,Deduct
+CT-9599,2025-07-28,Donations - Non Qualifying,Fully Disallowed,22553.82,Add
+CT-9600,2025-07-18,Exempt Dividend Income,Exempt Income,22747.05,Add
+CT-9601,2025-07-07,Client Entertainment,Disallowed 50%,43122.88,Add
+CT-9602,2025-07-23,Fines & Penalties,Fully Disallowed,56891.55,Add
+CT-9603,2025-07-16,Interest Income - Related Party,Related Party Adj.,34796.83,Deduct
+CT-9604,2025-07-07,Provision for Doubtful Debts (unrealized),Add Back,28815.31,Add
+CT-9605,2025-07-22,Fines & Penalties,Fully Disallowed,58304.86,Add
+CT-9606,2025-07-02,Interest Income - Related Party,Related Party Adj.,47507.31,Deduct
+CT-9607,2025-07-07,Depreciation - Accounting,Add Back,10068.97,Add
+CT-9608,2025-07-13,Exempt Dividend Income,Exempt Income,7869.94,Add
+CT-9609,2025-07-24,Entertainment Expense,Disallowed 50%,62686.17,Add
+CT-9610,2025-07-03,Exempt Dividend Income,Exempt Income,42437.58,Add
+CT-9611,2025-07-02,UAE Government Grant Income,Exempt Income,56261.02,Add
+CT-9612,2025-07-05,Entertainment Expense,Disallowed 50%,25681.42,Add
+CT-9613,2025-07-09,Interest Income - Related Party,Related Party Adj.,6921.18,Deduct
+CT-9614,2025-07-27,Depreciation - Tax (per schedule),Deduct,32032.02,Deduct
+CT-9615,2025-07-10,Related Party Management Fee,Transfer Pricing Adj.,53270.72,Add
+CT-9616,2025-07-14,Interest Income - Related Party,Related Party Adj.,56820.25,Deduct
+CT-9617,2025-07-01,Depreciation - Tax (per schedule),Deduct,42605.95,Deduct
+CT-9618,2025-07-16,Depreciation - Tax (per schedule),Deduct,57841.77,Deduct
+CT-9619,2025-07-12,Entertainment Expense,Disallowed 50%,48268.82,Add
+CT-9620,2025-07-04,Interest Income - Related Party,Related Party Adj.,42759.04,Deduct
+CT-9621,2025-07-07,Client Entertainment,Disallowed 50%,54817.92,Add
+CT-9622,2025-07-17,Depreciation - Tax (per schedule),Deduct,61587.13,Deduct
+CT-9623,2025-07-28,Donations - Non Qualifying,Fully Disallowed,4475.69,Add
+CT-9624,2025-07-16,Entertainment Expense,Disallowed 50%,43229.49,Add
+CT-9625,2025-07-24,UAE Government Grant Income,Exempt Income,61140.52,Add
+CT-9626,2025-07-02,Depreciation - Tax (per schedule),Deduct,9712.93,Deduct
+CT-9627,2025-07-20,Provision for Doubtful Debts (unrealized),Add Back,6607.91,Add
+CT-9628,2025-07-05,Fines & Penalties,Fully Disallowed,61158.66,Add
+CT-9629,2025-07-19,Client Entertainment,Disallowed 50%,28196.66,Add
+CT-9630,2025-07-26,Bad Debts Written Off (realized),Deduct,20618.8,Deduct
+CT-9631,2025-07-04,Donations - Non Qualifying,Fully Disallowed,56236.55,Add
+CT-9632,2025-07-08,Depreciation - Accounting,Add Back,67889.78,Add
+CT-9633,2025-07-08,Fines & Penalties,Fully Disallowed,4407.86,Add
+CT-9634,2025-07-15,Client Entertainment,Disallowed 50%,42037.68,Add
+CT-9635,2025-07-03,Depreciation - Accounting,Add Back,18052.56,Add
+CT-9636,2025-07-14,Fines & Penalties,Fully Disallowed,29015.56,Add
+CT-9637,2025-07-02,Depreciation - Tax (per schedule),Deduct,27976.54,Deduct
+CT-9638,2025-07-13,Fines & Penalties,Fully Disallowed,16240.64,Add
+CT-9639,2025-07-12,Client Entertainment,Disallowed 50%,61637.82,Add
+CT-9640,2025-07-14,Depreciation - Tax (per schedule),Deduct,35427.8,Deduct
+CT-9641,2025-07-11,Fines & Penalties,Fully Disallowed,18161.36,Add
+CT-9642,2025-07-14,Depreciation - Tax (per schedule),Deduct,24001.74,Deduct
+CT-9643,2025-07-02,Bad Debts Written Off (realized),Deduct,64021.74,Deduct
+CT-9644,2025-07-21,Related Party Management Fee,Transfer Pricing Adj.,17589.96,Add
+CT-9645,2025-07-05,Bad Debts Written Off (realized),Deduct,51201.42,Deduct
+CT-9646,2025-07-04,Bad Debts Written Off (realized),Deduct,49647.54,Deduct
+CT-9647,2025-07-12,Entertainment Expense,Disallowed 50%,2012.29,Add
+CT-9648,2025-07-22,UAE Government Grant Income,Exempt Income,57723.01,Add
+CT-9649,2025-08-14,Exempt Dividend Income,Exempt Income,33913.98,Add
+CT-9650,2025-08-15,Interest Income - Related Party,Related Party Adj.,1682.23,Deduct
+CT-9651,2025-08-06,Client Entertainment,Disallowed 50%,52877.99,Add
+CT-9652,2025-08-03,Client Entertainment,Disallowed 50%,47905.31,Add
+CT-9653,2025-08-23,Provision for Doubtful Debts (unrealized),Add Back,31667.06,Add
+CT-9654,2025-08-06,Interest Income - Related Party,Related Party Adj.,14973.53,Deduct
+CT-9655,2025-08-26,Donations - Non Qualifying,Fully Disallowed,25770.87,Add
+CT-9656,2025-08-08,Donations - Non Qualifying,Fully Disallowed,39694.25,Add
+CT-9657,2025-08-01,UAE Government Grant Income,Exempt Income,62616.38,Add
+CT-9658,2025-08-09,Related Party Management Fee,Transfer Pricing Adj.,59025.09,Add
+CT-9659,2025-08-19,Exempt Dividend Income,Exempt Income,20244.76,Add
+CT-9660,2025-08-03,UAE Government Grant Income,Exempt Income,22758.17,Add
+CT-9661,2025-08-27,Provision for Doubtful Debts (unrealized),Add Back,23501.33,Add
+CT-9662,2025-08-19,Entertainment Expense,Disallowed 50%,61109.57,Add
+CT-9663,2025-08-28,Depreciation - Accounting,Add Back,14024.97,Add
+CT-9664,2025-08-08,Client Entertainment,Disallowed 50%,48466.54,Add
+CT-9665,2025-08-06,Entertainment Expense,Disallowed 50%,11335.73,Add
+CT-9666,2025-08-14,Provision for Doubtful Debts (unrealized),Add Back,46946.37,Add
+CT-9667,2025-08-11,UAE Government Grant Income,Exempt Income,36633.32,Add
+CT-9668,2025-08-11,Related Party Management Fee,Transfer Pricing Adj.,63268.73,Add
+CT-9669,2025-08-01,UAE Government Grant Income,Exempt Income,8839.53,Add
+CT-9670,2025-08-10,Fines & Penalties,Fully Disallowed,49429.48,Add
+CT-9671,2025-08-21,Client Entertainment,Disallowed 50%,58436.9,Add
+CT-9672,2025-08-10,Client Entertainment,Disallowed 50%,22979.09,Add
+CT-9673,2025-08-25,Exempt Dividend Income,Exempt Income,35044.21,Add
+CT-9674,2025-08-20,Depreciation - Tax (per schedule),Deduct,8052.0,Deduct
+CT-9675,2025-08-13,Donations - Non Qualifying,Fully Disallowed,14159.03,Add
+CT-9676,2025-08-08,Depreciation - Tax (per schedule),Deduct,49606.43,Deduct
+CT-9677,2025-08-08,Provision for Doubtful Debts (unrealized),Add Back,15005.0,Add
+CT-9678,2025-08-23,Entertainment Expense,Disallowed 50%,22494.66,Add
+CT-9679,2025-08-07,Depreciation - Tax (per schedule),Deduct,48043.53,Deduct
+CT-9680,2025-08-02,Bad Debts Written Off (realized),Deduct,48087.06,Deduct
+CT-9681,2025-08-18,Entertainment Expense,Disallowed 50%,39912.99,Add
+CT-9682,2025-08-25,Depreciation - Accounting,Add Back,9447.95,Add
+CT-9683,2025-08-15,Depreciation - Accounting,Add Back,17013.6,Add
+CT-9684,2025-08-05,Entertainment Expense,Disallowed 50%,44045.87,Add
+CT-9685,2025-08-01,Client Entertainment,Disallowed 50%,53788.27,Add
+CT-9686,2025-08-02,UAE Government Grant Income,Exempt Income,19425.37,Add
+CT-9687,2025-08-11,Client Entertainment,Disallowed 50%,55957.85,Add
+CT-9688,2025-08-20,UAE Government Grant Income,Exempt Income,48054.72,Add
+CT-9689,2025-08-22,Fines & Penalties,Fully Disallowed,38194.66,Add
+CT-9690,2025-08-21,Donations - Non Qualifying,Fully Disallowed,58863.46,Add
+CT-9691,2025-08-03,Interest Income - Related Party,Related Party Adj.,51032.53,Deduct
+CT-9692,2025-08-28,Bad Debts Written Off (realized),Deduct,44189.26,Deduct
+CT-9693,2025-08-17,Exempt Dividend Income,Exempt Income,26378.45,Add
+CT-9694,2025-08-20,Client Entertainment,Disallowed 50%,31691.89,Add
+CT-9695,2025-08-12,Bad Debts Written Off (realized),Deduct,26435.89,Deduct
+CT-9696,2025-08-24,Interest Income - Related Party,Related Party Adj.,7777.18,Deduct
+CT-9697,2025-08-25,Donations - Non Qualifying,Fully Disallowed,65863.51,Add
+CT-9698,2025-08-25,Interest Income - Related Party,Related Party Adj.,17392.15,Deduct
+CT-9699,2025-08-02,UAE Government Grant Income,Exempt Income,6101.09,Add
+CT-9700,2025-08-12,Related Party Management Fee,Transfer Pricing Adj.,24586.23,Add
+CT-9701,2025-08-13,Interest Income - Related Party,Related Party Adj.,7083.49,Deduct
+CT-9702,2025-08-07,Interest Income - Related Party,Related Party Adj.,52643.69,Deduct
+CT-9703,2025-08-03,Donations - Non Qualifying,Fully Disallowed,49212.05,Add
+CT-9704,2025-08-13,Bad Debts Written Off (realized),Deduct,40659.06,Deduct
+CT-9705,2025-08-01,Depreciation - Accounting,Add Back,44298.28,Add
+CT-9706,2025-08-27,Exempt Dividend Income,Exempt Income,41543.52,Add
+CT-9707,2025-08-02,Depreciation - Accounting,Add Back,49558.4,Add
+CT-9708,2025-08-23,Provision for Doubtful Debts (unrealized),Add Back,24800.64,Add
+CT-9709,2025-08-28,Related Party Management Fee,Transfer Pricing Adj.,21185.02,Add
+CT-9710,2025-08-24,Depreciation - Tax (per schedule),Deduct,56564.31,Deduct
+CT-9711,2025-08-27,Depreciation - Tax (per schedule),Deduct,39467.1,Deduct
+CT-9712,2025-08-22,Depreciation - Tax (per schedule),Deduct,32561.12,Deduct
+CT-9713,2025-08-13,Bad Debts Written Off (realized),Deduct,58190.71,Deduct
+CT-9714,2025-08-09,Depreciation - Tax (per schedule),Deduct,1945.98,Deduct
+CT-9715,2025-08-01,Provision for Doubtful Debts (unrealized),Add Back,13465.12,Add
+CT-9716,2025-08-21,Bad Debts Written Off (realized),Deduct,37275.98,Deduct
+CT-9717,2025-08-21,Depreciation - Tax (per schedule),Deduct,29787.68,Deduct
+CT-9718,2025-08-04,UAE Government Grant Income,Exempt Income,13622.14,Add
+CT-9719,2025-08-06,Interest Income - Related Party,Related Party Adj.,45498.93,Deduct
+CT-9720,2025-08-05,Provision for Doubtful Debts (unrealized),Add Back,3233.61,Add
+CT-9721,2025-08-26,Related Party Management Fee,Transfer Pricing Adj.,45233.59,Add
+CT-9722,2025-08-03,UAE Government Grant Income,Exempt Income,55968.98,Add
+CT-9723,2025-08-17,Client Entertainment,Disallowed 50%,38814.01,Add
+CT-9724,2025-08-01,Entertainment Expense,Disallowed 50%,50677.01,Add
+CT-9725,2025-08-26,Interest Income - Related Party,Related Party Adj.,60429.05,Deduct
+CT-9726,2025-08-01,Donations - Non Qualifying,Fully Disallowed,30494.35,Add
+CT-9727,2025-08-19,Interest Income - Related Party,Related Party Adj.,44681.98,Deduct
+CT-9728,2025-08-01,Depreciation - Accounting,Add Back,57647.08,Add
+CT-9729,2025-08-15,Exempt Dividend Income,Exempt Income,5971.67,Add
+CT-9730,2025-08-07,Entertainment Expense,Disallowed 50%,4757.78,Add
+CT-9731,2025-08-13,Fines & Penalties,Fully Disallowed,34723.01,Add
+CT-9732,2025-08-01,Related Party Management Fee,Transfer Pricing Adj.,12677.88,Add
+CT-9733,2025-08-26,Depreciation - Tax (per schedule),Deduct,63282.94,Deduct
+CT-9734,2025-08-17,Related Party Management Fee,Transfer Pricing Adj.,45854.07,Add
+CT-9735,2025-08-16,Bad Debts Written Off (realized),Deduct,32418.45,Deduct
+CT-9736,2025-08-03,Bad Debts Written Off (realized),Deduct,53695.5,Deduct
+CT-9737,2025-08-15,Depreciation - Accounting,Add Back,46123.13,Add
+CT-9738,2025-08-17,Fines & Penalties,Fully Disallowed,47894.43,Add
+CT-9739,2025-09-11,Client Entertainment,Disallowed 50%,8494.55,Add
+CT-9740,2025-09-25,Provision for Doubtful Debts (unrealized),Add Back,44557.39,Add
+CT-9741,2025-09-13,UAE Government Grant Income,Exempt Income,41393.22,Add
+CT-9742,2025-09-16,Depreciation - Accounting,Add Back,30361.94,Add
+CT-9743,2025-09-11,Bad Debts Written Off (realized),Deduct,14951.64,Deduct
+CT-9744,2025-09-23,Interest Income - Related Party,Related Party Adj.,25574.13,Deduct
+CT-9745,2025-09-19,Interest Income - Related Party,Related Party Adj.,47108.8,Deduct
+CT-9746,2025-09-12,Fines & Penalties,Fully Disallowed,11428.21,Add
+CT-9747,2025-09-12,Client Entertainment,Disallowed 50%,66067.14,Add
+CT-9748,2025-09-24,Provision for Doubtful Debts (unrealized),Add Back,17470.52,Add
+CT-9749,2025-09-22,Interest Income - Related Party,Related Party Adj.,63594.43,Deduct
+CT-9750,2025-09-24,Bad Debts Written Off (realized),Deduct,54505.86,Deduct
+CT-9751,2025-09-20,Exempt Dividend Income,Exempt Income,53531.98,Add
+CT-9752,2025-09-02,Fines & Penalties,Fully Disallowed,24888.44,Add
+CT-9753,2025-09-14,Bad Debts Written Off (realized),Deduct,25235.48,Deduct
+CT-9754,2025-09-26,Bad Debts Written Off (realized),Deduct,51176.0,Deduct
+CT-9755,2025-09-21,UAE Government Grant Income,Exempt Income,36408.59,Add
+CT-9756,2025-09-18,Bad Debts Written Off (realized),Deduct,14077.59,Deduct
+CT-9757,2025-09-24,Client Entertainment,Disallowed 50%,38141.28,Add
+CT-9758,2025-09-16,Client Entertainment,Disallowed 50%,34089.28,Add
+CT-9759,2025-09-10,Depreciation - Accounting,Add Back,35387.87,Add
+CT-9760,2025-09-08,Bad Debts Written Off (realized),Deduct,31499.93,Deduct
+CT-9761,2025-09-20,Depreciation - Tax (per schedule),Deduct,58910.54,Deduct
+CT-9762,2025-09-11,Interest Income - Related Party,Related Party Adj.,45833.41,Deduct
+CT-9763,2025-09-07,Related Party Management Fee,Transfer Pricing Adj.,38079.4,Add
+CT-9764,2025-09-13,Exempt Dividend Income,Exempt Income,17140.57,Add
+CT-9765,2025-09-16,Interest Income - Related Party,Related Party Adj.,39982.81,Deduct
+CT-9766,2025-09-05,Client Entertainment,Disallowed 50%,13300.01,Add
+CT-9767,2025-09-20,Entertainment Expense,Disallowed 50%,57516.5,Add
+CT-9768,2025-09-13,Donations - Non Qualifying,Fully Disallowed,5595.2,Add
+CT-9769,2025-09-19,Depreciation - Accounting,Add Back,29814.75,Add
+CT-9770,2025-09-26,Client Entertainment,Disallowed 50%,11388.81,Add
+CT-9771,2025-09-03,Bad Debts Written Off (realized),Deduct,8943.74,Deduct
+CT-9772,2025-09-19,Interest Income - Related Party,Related Party Adj.,29445.21,Deduct
+CT-9773,2025-09-12,Interest Income - Related Party,Related Party Adj.,14078.41,Deduct
+CT-9774,2025-09-07,Donations - Non Qualifying,Fully Disallowed,46603.21,Add
+CT-9775,2025-09-25,Related Party Management Fee,Transfer Pricing Adj.,6574.07,Add
+CT-9776,2025-09-07,Exempt Dividend Income,Exempt Income,33312.95,Add
+CT-9777,2025-09-13,Entertainment Expense,Disallowed 50%,22842.29,Add
+CT-9778,2025-09-26,Exempt Dividend Income,Exempt Income,10318.21,Add
+CT-9779,2025-09-16,UAE Government Grant Income,Exempt Income,49625.91,Add
+CT-9780,2025-09-11,Depreciation - Tax (per schedule),Deduct,16937.5,Deduct
+CT-9781,2025-09-23,Depreciation - Tax (per schedule),Deduct,13332.75,Deduct
+CT-9782,2025-09-20,Fines & Penalties,Fully Disallowed,5042.01,Add
+CT-9783,2025-09-18,Related Party Management Fee,Transfer Pricing Adj.,19904.93,Add
+CT-9784,2025-09-17,Bad Debts Written Off (realized),Deduct,18363.14,Deduct
+CT-9785,2025-09-18,Client Entertainment,Disallowed 50%,9063.47,Add
+CT-9786,2025-09-28,Fines & Penalties,Fully Disallowed,28314.86,Add
+CT-9787,2025-09-10,Related Party Management Fee,Transfer Pricing Adj.,40684.05,Add
+CT-9788,2025-09-15,UAE Government Grant Income,Exempt Income,25997.92,Add
+CT-9789,2025-09-06,Donations - Non Qualifying,Fully Disallowed,39443.93,Add
+CT-9790,2025-09-08,Fines & Penalties,Fully Disallowed,10640.09,Add
+CT-9791,2025-09-15,Client Entertainment,Disallowed 50%,30793.0,Add
+CT-9792,2025-09-01,Exempt Dividend Income,Exempt Income,30194.85,Add
+CT-9793,2025-09-09,Donations - Non Qualifying,Fully Disallowed,39249.26,Add
+CT-9794,2025-09-28,Related Party Management Fee,Transfer Pricing Adj.,49461.2,Add
+CT-9795,2025-09-25,Bad Debts Written Off (realized),Deduct,26339.19,Deduct
+CT-9796,2025-09-11,Related Party Management Fee,Transfer Pricing Adj.,44616.78,Add
+CT-9797,2025-09-23,Depreciation - Tax (per schedule),Deduct,65701.5,Deduct
+CT-9798,2025-09-16,Related Party Management Fee,Transfer Pricing Adj.,34414.09,Add
+CT-9799,2025-09-10,Interest Income - Related Party,Related Party Adj.,6745.36,Deduct
+CT-9800,2025-09-05,Donations - Non Qualifying,Fully Disallowed,6431.91,Add
+CT-9801,2025-09-10,Related Party Management Fee,Transfer Pricing Adj.,21534.33,Add
+CT-9802,2025-09-12,Related Party Management Fee,Transfer Pricing Adj.,22731.11,Add
+CT-9803,2025-09-23,Donations - Non Qualifying,Fully Disallowed,34943.14,Add
+CT-9804,2025-09-11,Client Entertainment,Disallowed 50%,6069.19,Add
+CT-9805,2025-09-28,Bad Debts Written Off (realized),Deduct,24889.27,Deduct
+CT-9806,2025-09-15,Interest Income - Related Party,Related Party Adj.,10858.05,Deduct
+CT-9807,2025-09-09,Fines & Penalties,Fully Disallowed,4835.89,Add
+CT-9808,2025-09-26,Exempt Dividend Income,Exempt Income,3803.52,Add
+CT-9809,2025-09-23,Donations - Non Qualifying,Fully Disallowed,26805.58,Add
+CT-9810,2025-09-12,Depreciation - Tax (per schedule),Deduct,31472.04,Deduct
+CT-9811,2025-09-20,Provision for Doubtful Debts (unrealized),Add Back,13899.14,Add
+CT-9812,2025-09-19,Depreciation - Accounting,Add Back,14605.76,Add
+CT-9813,2025-09-13,Client Entertainment,Disallowed 50%,28561.29,Add
+CT-9814,2025-09-26,Bad Debts Written Off (realized),Deduct,66435.96,Deduct
+CT-9815,2025-09-11,Exempt Dividend Income,Exempt Income,37217.62,Add
+CT-9816,2025-09-25,Entertainment Expense,Disallowed 50%,28082.43,Add
+CT-9817,2025-09-19,Depreciation - Accounting,Add Back,16650.64,Add
+CT-9818,2025-09-09,Related Party Management Fee,Transfer Pricing Adj.,62405.33,Add
+CT-9819,2025-09-23,Client Entertainment,Disallowed 50%,5519.48,Add
+CT-9820,2025-09-05,Client Entertainment,Disallowed 50%,2540.16,Add
+CT-9821,2025-09-19,Bad Debts Written Off (realized),Deduct,53338.2,Deduct
+CT-9822,2025-09-07,Bad Debts Written Off (realized),Deduct,18819.43,Deduct
+CT-9823,2025-09-19,Depreciation - Tax (per schedule),Deduct,20013.94,Deduct
+CT-9824,2025-09-01,Fines & Penalties,Fully Disallowed,9129.68,Add
+CT-9825,2025-10-17,Exempt Dividend Income,Exempt Income,54679.8,Add
+CT-9826,2025-10-20,Exempt Dividend Income,Exempt Income,59839.87,Add
+CT-9827,2025-10-20,Provision for Doubtful Debts (unrealized),Add Back,42151.16,Add
+CT-9828,2025-10-05,Related Party Management Fee,Transfer Pricing Adj.,9056.02,Add
+CT-9829,2025-10-12,Related Party Management Fee,Transfer Pricing Adj.,40483.87,Add
+CT-9830,2025-10-11,Bad Debts Written Off (realized),Deduct,66080.19,Deduct
+CT-9831,2025-10-26,Donations - Non Qualifying,Fully Disallowed,36656.51,Add
+CT-9832,2025-10-03,Exempt Dividend Income,Exempt Income,60534.64,Add
+CT-9833,2025-10-23,Client Entertainment,Disallowed 50%,7428.64,Add
+CT-9834,2025-10-07,Bad Debts Written Off (realized),Deduct,3999.32,Deduct
+CT-9835,2025-10-13,Depreciation - Accounting,Add Back,31960.7,Add
+CT-9836,2025-10-28,Entertainment Expense,Disallowed 50%,44261.21,Add
+CT-9837,2025-10-22,Provision for Doubtful Debts (unrealized),Add Back,20538.44,Add
+CT-9838,2025-10-10,Fines & Penalties,Fully Disallowed,27059.16,Add
+CT-9839,2025-10-10,Depreciation - Tax (per schedule),Deduct,61921.33,Deduct
+CT-9840,2025-10-01,Provision for Doubtful Debts (unrealized),Add Back,67277.99,Add
+CT-9841,2025-10-27,Fines & Penalties,Fully Disallowed,65440.62,Add
+CT-9842,2025-10-09,Donations - Non Qualifying,Fully Disallowed,24221.89,Add
+CT-9843,2025-10-23,Provision for Doubtful Debts (unrealized),Add Back,42928.4,Add
+CT-9844,2025-10-08,Fines & Penalties,Fully Disallowed,11081.72,Add
+CT-9845,2025-10-16,Interest Income - Related Party,Related Party Adj.,20418.64,Deduct
+CT-9846,2025-10-08,Client Entertainment,Disallowed 50%,51424.82,Add
+CT-9847,2025-10-09,Related Party Management Fee,Transfer Pricing Adj.,21124.41,Add
+CT-9848,2025-10-02,Provision for Doubtful Debts (unrealized),Add Back,26971.16,Add
+CT-9849,2025-10-27,Interest Income - Related Party,Related Party Adj.,63073.56,Deduct
+CT-9850,2025-10-02,Depreciation - Accounting,Add Back,32906.91,Add
+CT-9851,2025-10-14,UAE Government Grant Income,Exempt Income,45522.41,Add
+CT-9852,2025-10-08,Entertainment Expense,Disallowed 50%,54441.07,Add
+CT-9853,2025-10-03,Interest Income - Related Party,Related Party Adj.,36445.05,Deduct
+CT-9854,2025-10-25,Entertainment Expense,Disallowed 50%,30859.54,Add
+CT-9855,2025-10-07,Depreciation - Tax (per schedule),Deduct,8705.66,Deduct
+CT-9856,2025-10-09,Depreciation - Tax (per schedule),Deduct,10375.2,Deduct
+CT-9857,2025-10-03,Related Party Management Fee,Transfer Pricing Adj.,52209.24,Add
+CT-9858,2025-10-06,UAE Government Grant Income,Exempt Income,13291.86,Add
+CT-9859,2025-10-04,Fines & Penalties,Fully Disallowed,20855.83,Add
+CT-9860,2025-10-03,Bad Debts Written Off (realized),Deduct,23973.93,Deduct
+CT-9861,2025-10-20,Provision for Doubtful Debts (unrealized),Add Back,35720.59,Add
+CT-9862,2025-10-22,Depreciation - Tax (per schedule),Deduct,30502.15,Deduct
+CT-9863,2025-10-11,Client Entertainment,Disallowed 50%,36663.98,Add
+CT-9864,2025-10-07,Depreciation - Accounting,Add Back,9602.79,Add
+CT-9865,2025-10-13,Related Party Management Fee,Transfer Pricing Adj.,14604.41,Add
+CT-9866,2025-10-01,Depreciation - Tax (per schedule),Deduct,50099.48,Deduct
+CT-9867,2025-10-20,Fines & Penalties,Fully Disallowed,35939.59,Add
+CT-9868,2025-10-14,Client Entertainment,Disallowed 50%,23361.16,Add
+CT-9869,2025-10-11,UAE Government Grant Income,Exempt Income,51974.69,Add
+CT-9870,2025-10-21,Exempt Dividend Income,Exempt Income,9252.09,Add
+CT-9871,2025-10-12,Interest Income - Related Party,Related Party Adj.,8077.11,Deduct
+CT-9872,2025-10-06,UAE Government Grant Income,Exempt Income,32984.02,Add
+CT-9873,2025-10-11,Interest Income - Related Party,Related Party Adj.,5459.71,Deduct
+CT-9874,2025-10-10,Fines & Penalties,Fully Disallowed,50558.68,Add
+CT-9875,2025-10-03,Interest Income - Related Party,Related Party Adj.,13355.72,Deduct
+CT-9876,2025-10-21,Interest Income - Related Party,Related Party Adj.,58875.33,Deduct
+CT-9877,2025-10-10,Related Party Management Fee,Transfer Pricing Adj.,8325.83,Add
+CT-9878,2025-10-20,Fines & Penalties,Fully Disallowed,39433.52,Add
+CT-9879,2025-10-10,Depreciation - Accounting,Add Back,35001.18,Add
+CT-9880,2025-10-25,Client Entertainment,Disallowed 50%,20402.21,Add
+CT-9881,2025-10-17,Client Entertainment,Disallowed 50%,15890.54,Add
+CT-9882,2025-10-13,Depreciation - Tax (per schedule),Deduct,47608.93,Deduct
+CT-9883,2025-10-19,Interest Income - Related Party,Related Party Adj.,40141.88,Deduct
+CT-9884,2025-10-06,Client Entertainment,Disallowed 50%,20419.9,Add
+CT-9885,2025-10-01,Provision for Doubtful Debts (unrealized),Add Back,22876.25,Add
+CT-9886,2025-10-27,Client Entertainment,Disallowed 50%,56618.43,Add
+CT-9887,2025-10-15,UAE Government Grant Income,Exempt Income,3530.16,Add
+CT-9888,2025-10-05,Depreciation - Accounting,Add Back,60686.96,Add
+CT-9889,2025-10-17,Entertainment Expense,Disallowed 50%,42682.11,Add
+CT-9890,2025-10-10,Related Party Management Fee,Transfer Pricing Adj.,21631.28,Add
+CT-9891,2025-10-17,Provision for Doubtful Debts (unrealized),Add Back,42615.0,Add
+CT-9892,2025-10-13,Exempt Dividend Income,Exempt Income,65363.69,Add
+CT-9893,2025-10-10,Provision for Doubtful Debts (unrealized),Add Back,25705.14,Add
+CT-9894,2025-10-18,Exempt Dividend Income,Exempt Income,6427.84,Add
+CT-9895,2025-10-26,Fines & Penalties,Fully Disallowed,32312.85,Add
+CT-9896,2025-10-22,Interest Income - Related Party,Related Party Adj.,9787.51,Deduct
+CT-9897,2025-10-22,Provision for Doubtful Debts (unrealized),Add Back,31894.63,Add
+CT-9898,2025-10-04,Depreciation - Tax (per schedule),Deduct,64636.68,Deduct
+CT-9899,2025-10-09,Provision for Doubtful Debts (unrealized),Add Back,22259.38,Add
+CT-9900,2025-10-04,UAE Government Grant Income,Exempt Income,44011.08,Add
+CT-9901,2025-10-05,Depreciation - Tax (per schedule),Deduct,14227.35,Deduct
+CT-9902,2025-10-21,UAE Government Grant Income,Exempt Income,9059.66,Add
+CT-9903,2025-10-04,Entertainment Expense,Disallowed 50%,60846.62,Add
+CT-9904,2025-10-11,Donations - Non Qualifying,Fully Disallowed,5598.82,Add
+CT-9905,2025-10-12,Fines & Penalties,Fully Disallowed,15978.93,Add
+CT-9906,2025-10-18,Provision for Doubtful Debts (unrealized),Add Back,56616.62,Add
+CT-9907,2025-10-08,Fines & Penalties,Fully Disallowed,60499.56,Add
+CT-9908,2025-10-09,Depreciation - Accounting,Add Back,13671.55,Add
+CT-9909,2025-10-24,UAE Government Grant Income,Exempt Income,66194.26,Add
+CT-9910,2025-11-24,Fines & Penalties,Fully Disallowed,60113.63,Add
+CT-9911,2025-11-13,Depreciation - Accounting,Add Back,27736.65,Add
+CT-9912,2025-11-21,Bad Debts Written Off (realized),Deduct,56936.45,Deduct
+CT-9913,2025-11-06,Donations - Non Qualifying,Fully Disallowed,67938.29,Add
+CT-9914,2025-11-11,Entertainment Expense,Disallowed 50%,67666.9,Add
+CT-9915,2025-11-25,Donations - Non Qualifying,Fully Disallowed,63830.03,Add
+CT-9916,2025-11-18,Depreciation - Accounting,Add Back,12068.58,Add
+CT-9917,2025-11-02,Provision for Doubtful Debts (unrealized),Add Back,30827.26,Add
+CT-9918,2025-11-01,Bad Debts Written Off (realized),Deduct,33026.78,Deduct
+CT-9919,2025-11-20,Depreciation - Accounting,Add Back,52888.4,Add
+CT-9920,2025-11-21,UAE Government Grant Income,Exempt Income,14660.55,Add
+CT-9921,2025-11-25,Related Party Management Fee,Transfer Pricing Adj.,45435.02,Add
+CT-9922,2025-11-23,Exempt Dividend Income,Exempt Income,34317.3,Add
+CT-9923,2025-11-16,Provision for Doubtful Debts (unrealized),Add Back,48603.83,Add
+CT-9924,2025-11-18,Depreciation - Accounting,Add Back,4945.3,Add
+CT-9925,2025-11-28,UAE Government Grant Income,Exempt Income,59788.1,Add
+CT-9926,2025-11-05,Bad Debts Written Off (realized),Deduct,33871.86,Deduct
+CT-9927,2025-11-21,Client Entertainment,Disallowed 50%,4141.19,Add
+CT-9928,2025-11-10,Depreciation - Tax (per schedule),Deduct,13368.8,Deduct
+CT-9929,2025-11-08,UAE Government Grant Income,Exempt Income,4941.98,Add
+CT-9930,2025-11-26,Donations - Non Qualifying,Fully Disallowed,47980.71,Add
+CT-9931,2025-11-01,Depreciation - Tax (per schedule),Deduct,58322.49,Deduct
+CT-9932,2025-11-26,UAE Government Grant Income,Exempt Income,46268.75,Add
+CT-9933,2025-11-16,Interest Income - Related Party,Related Party Adj.,49026.53,Deduct
+CT-9934,2025-11-15,Fines & Penalties,Fully Disallowed,20363.21,Add
+CT-9935,2025-11-06,Fines & Penalties,Fully Disallowed,24420.24,Add
+CT-9936,2025-11-03,Provision for Doubtful Debts (unrealized),Add Back,24532.62,Add
+CT-9937,2025-11-22,Provision for Doubtful Debts (unrealized),Add Back,51038.6,Add
+CT-9938,2025-11-07,Exempt Dividend Income,Exempt Income,40908.61,Add
+CT-9939,2025-11-28,Interest Income - Related Party,Related Party Adj.,13329.14,Deduct
+CT-9940,2025-11-25,Provision for Doubtful Debts (unrealized),Add Back,51538.31,Add
+CT-9941,2025-11-19,UAE Government Grant Income,Exempt Income,48935.08,Add
+CT-9942,2025-11-06,Exempt Dividend Income,Exempt Income,22717.66,Add
+CT-9943,2025-11-04,Donations - Non Qualifying,Fully Disallowed,38444.15,Add
+CT-9944,2025-11-17,Exempt Dividend Income,Exempt Income,12755.76,Add
+CT-9945,2025-11-13,Interest Income - Related Party,Related Party Adj.,14183.17,Deduct
+CT-9946,2025-11-22,Related Party Management Fee,Transfer Pricing Adj.,14248.31,Add
+CT-9947,2025-11-27,Related Party Management Fee,Transfer Pricing Adj.,12566.4,Add
+CT-9948,2025-11-14,Bad Debts Written Off (realized),Deduct,38027.16,Deduct
+CT-9949,2025-11-24,Exempt Dividend Income,Exempt Income,2919.23,Add
+CT-9950,2025-11-21,Entertainment Expense,Disallowed 50%,19734.11,Add
+CT-9951,2025-11-15,Donations - Non Qualifying,Fully Disallowed,24926.74,Add
+CT-9952,2025-11-17,Related Party Management Fee,Transfer Pricing Adj.,16860.5,Add
+CT-9953,2025-11-19,Interest Income - Related Party,Related Party Adj.,41538.66,Deduct
+CT-9954,2025-11-03,Donations - Non Qualifying,Fully Disallowed,6206.64,Add
+CT-9955,2025-11-19,UAE Government Grant Income,Exempt Income,29854.37,Add
+CT-9956,2025-11-03,Interest Income - Related Party,Related Party Adj.,13941.24,Deduct
+CT-9957,2025-11-08,Related Party Management Fee,Transfer Pricing Adj.,14212.75,Add
+CT-9958,2025-11-24,Depreciation - Accounting,Add Back,48522.74,Add
+CT-9959,2025-11-27,Entertainment Expense,Disallowed 50%,24521.03,Add
+CT-9960,2025-11-21,Bad Debts Written Off (realized),Deduct,66896.47,Deduct
+CT-9961,2025-11-12,Entertainment Expense,Disallowed 50%,34458.61,Add
+CT-9962,2025-11-18,Entertainment Expense,Disallowed 50%,49593.75,Add
+CT-9963,2025-11-22,Depreciation - Accounting,Add Back,39161.77,Add
+CT-9964,2025-11-26,Interest Income - Related Party,Related Party Adj.,42026.54,Deduct
+CT-9965,2025-11-12,Provision for Doubtful Debts (unrealized),Add Back,14655.01,Add
+CT-9966,2025-11-14,Bad Debts Written Off (realized),Deduct,26629.34,Deduct
+CT-9967,2025-11-05,UAE Government Grant Income,Exempt Income,65219.75,Add
+CT-9968,2025-11-01,Client Entertainment,Disallowed 50%,17305.73,Add
+CT-9969,2025-11-12,Depreciation - Tax (per schedule),Deduct,62144.86,Deduct
+CT-9970,2025-11-27,Client Entertainment,Disallowed 50%,42124.01,Add
+CT-9971,2025-11-24,Depreciation - Accounting,Add Back,38237.59,Add
+CT-9972,2025-11-06,Depreciation - Tax (per schedule),Deduct,19980.61,Deduct
+CT-9973,2025-11-19,Fines & Penalties,Fully Disallowed,61364.94,Add
+CT-9974,2025-11-07,Depreciation - Tax (per schedule),Deduct,23887.02,Deduct
+CT-9975,2025-11-24,Donations - Non Qualifying,Fully Disallowed,48580.81,Add
+CT-9976,2025-11-12,Depreciation - Tax (per schedule),Deduct,42220.19,Deduct
+CT-9977,2025-11-14,Depreciation - Accounting,Add Back,7901.78,Add
+CT-9978,2025-11-12,Donations - Non Qualifying,Fully Disallowed,45353.24,Add
+CT-9979,2025-11-23,Client Entertainment,Disallowed 50%,62727.81,Add
+CT-9980,2025-11-14,Client Entertainment,Disallowed 50%,3222.99,Add
+CT-9981,2025-11-04,Bad Debts Written Off (realized),Deduct,22023.39,Deduct
+CT-9982,2025-11-28,Related Party Management Fee,Transfer Pricing Adj.,16821.1,Add
+CT-9983,2025-11-25,Provision for Doubtful Debts (unrealized),Add Back,16753.66,Add
+CT-9984,2025-11-01,Depreciation - Tax (per schedule),Deduct,50319.95,Deduct
+CT-9985,2025-11-09,Depreciation - Tax (per schedule),Deduct,50309.32,Deduct
+CT-9986,2025-11-16,Client Entertainment,Disallowed 50%,34167.21,Add
+CT-9987,2025-11-09,Fines & Penalties,Fully Disallowed,10854.34,Add
+CT-9988,2025-11-23,Fines & Penalties,Fully Disallowed,29417.31,Add
+CT-9989,2025-11-26,Bad Debts Written Off (realized),Deduct,57577.99,Deduct
+CT-9990,2025-11-02,Bad Debts Written Off (realized),Deduct,59246.95,Deduct
+CT-9991,2025-11-27,UAE Government Grant Income,Exempt Income,14715.02,Add
+CT-9992,2025-11-21,Related Party Management Fee,Transfer Pricing Adj.,12970.53,Add
+CT-9993,2025-11-17,Exempt Dividend Income,Exempt Income,8950.45,Add
+CT-9994,2025-11-26,Client Entertainment,Disallowed 50%,30849.66,Add
+CT-9995,2025-11-21,Exempt Dividend Income,Exempt Income,55764.51,Add
+CT-9996,2025-12-12,Interest Income - Related Party,Related Party Adj.,51382.76,Deduct
+CT-9997,2025-12-24,Depreciation - Accounting,Add Back,46370.58,Add
+CT-9998,2025-12-11,Related Party Management Fee,Transfer Pricing Adj.,58132.01,Add
+CT-9999,2025-12-04,Fines & Penalties,Fully Disallowed,64955.48,Add
+CT-10000,2025-12-15,Client Entertainment,Disallowed 50%,61560.0,Add
+CT-10001,2025-12-19,UAE Government Grant Income,Exempt Income,22592.06,Add
+CT-10002,2025-12-28,Provision for Doubtful Debts (unrealized),Add Back,17737.19,Add
+CT-10003,2025-12-07,Bad Debts Written Off (realized),Deduct,60761.33,Deduct
+CT-10004,2025-12-20,Client Entertainment,Disallowed 50%,7330.69,Add
+CT-10005,2025-12-04,Donations - Non Qualifying,Fully Disallowed,17367.27,Add
+CT-10006,2025-12-17,Entertainment Expense,Disallowed 50%,67754.72,Add
+CT-10007,2025-12-08,Provision for Doubtful Debts (unrealized),Add Back,12271.27,Add
+CT-10008,2025-12-24,Entertainment Expense,Disallowed 50%,55791.35,Add
+CT-10009,2025-12-19,Depreciation - Tax (per schedule),Deduct,53467.73,Deduct
+CT-10010,2025-12-01,Depreciation - Accounting,Add Back,46276.59,Add
+CT-10011,2025-12-18,Entertainment Expense,Disallowed 50%,17119.28,Add
+CT-10012,2025-12-01,Client Entertainment,Disallowed 50%,35377.18,Add
+CT-10013,2025-12-10,Donations - Non Qualifying,Fully Disallowed,48381.45,Add
+CT-10014,2025-12-23,Exempt Dividend Income,Exempt Income,64797.03,Add
+CT-10015,2025-12-02,Client Entertainment,Disallowed 50%,46554.43,Add
+CT-10016,2025-12-05,Fines & Penalties,Fully Disallowed,6003.53,Add
+CT-10017,2025-12-09,Depreciation - Accounting,Add Back,6540.88,Add
+CT-10018,2025-12-15,Entertainment Expense,Disallowed 50%,37674.23,Add
+CT-10019,2025-12-09,Entertainment Expense,Disallowed 50%,10458.61,Add
+CT-10020,2025-12-21,Provision for Doubtful Debts (unrealized),Add Back,5668.3,Add
+CT-10021,2025-12-15,Exempt Dividend Income,Exempt Income,32793.71,Add
+CT-10022,2025-12-07,Related Party Management Fee,Transfer Pricing Adj.,54203.95,Add
+CT-10023,2025-12-10,Fines & Penalties,Fully Disallowed,52005.97,Add
+CT-10024,2025-12-16,Interest Income - Related Party,Related Party Adj.,41837.73,Deduct
+CT-10025,2025-12-05,Entertainment Expense,Disallowed 50%,15440.03,Add
+CT-10026,2025-12-21,Entertainment Expense,Disallowed 50%,20126.94,Add
+CT-10027,2025-12-09,Depreciation - Accounting,Add Back,45675.39,Add
+CT-10028,2025-12-10,Donations - Non Qualifying,Fully Disallowed,49661.75,Add
+CT-10029,2025-12-02,Depreciation - Accounting,Add Back,10125.67,Add
+CT-10030,2025-12-28,Provision for Doubtful Debts (unrealized),Add Back,25521.35,Add
+CT-10031,2025-12-10,Entertainment Expense,Disallowed 50%,55018.51,Add
+CT-10032,2025-12-01,Provision for Doubtful Debts (unrealized),Add Back,1629.3,Add
+CT-10033,2025-12-07,Related Party Management Fee,Transfer Pricing Adj.,20937.68,Add
+CT-10034,2025-12-12,Client Entertainment,Disallowed 50%,17088.46,Add
+CT-10035,2025-12-15,Depreciation - Tax (per schedule),Deduct,65342.85,Deduct
+CT-10036,2025-12-02,Interest Income - Related Party,Related Party Adj.,21680.19,Deduct
+CT-10037,2025-12-05,UAE Government Grant Income,Exempt Income,32911.83,Add
+CT-10038,2025-12-22,Related Party Management Fee,Transfer Pricing Adj.,46783.83,Add
+CT-10039,2025-12-12,Donations - Non Qualifying,Fully Disallowed,41186.93,Add
+CT-10040,2025-12-23,Provision for Doubtful Debts (unrealized),Add Back,51708.87,Add
+CT-10041,2025-12-03,Bad Debts Written Off (realized),Deduct,10176.71,Deduct
+CT-10042,2025-12-25,Bad Debts Written Off (realized),Deduct,26621.9,Deduct
+CT-10043,2025-12-26,Client Entertainment,Disallowed 50%,48766.4,Add
+CT-10044,2025-12-18,Interest Income - Related Party,Related Party Adj.,60766.28,Deduct
+CT-10045,2025-12-23,Interest Income - Related Party,Related Party Adj.,38361.99,Deduct
+CT-10046,2025-12-27,Exempt Dividend Income,Exempt Income,61763.83,Add
+CT-10047,2025-12-16,Bad Debts Written Off (realized),Deduct,34158.58,Deduct
+CT-10048,2025-12-12,UAE Government Grant Income,Exempt Income,30623.97,Add
+CT-10049,2025-12-16,Client Entertainment,Disallowed 50%,15979.55,Add
+CT-10050,2025-12-05,Bad Debts Written Off (realized),Deduct,45142.74,Deduct
+CT-10051,2025-12-03,Donations - Non Qualifying,Fully Disallowed,41830.35,Add
+CT-10052,2025-12-08,Exempt Dividend Income,Exempt Income,66068.93,Add
+CT-10053,2025-12-21,Interest Income - Related Party,Related Party Adj.,31855.36,Deduct
+CT-10054,2025-12-17,Fines & Penalties,Fully Disallowed,4274.36,Add
+CT-10055,2025-12-09,Bad Debts Written Off (realized),Deduct,16450.84,Deduct
+CT-10056,2025-12-09,Depreciation - Tax (per schedule),Deduct,9274.45,Deduct
+CT-10057,2025-12-17,Depreciation - Tax (per schedule),Deduct,24215.24,Deduct
+CT-10058,2025-12-26,Provision for Doubtful Debts (unrealized),Add Back,63304.62,Add
+CT-10059,2025-12-26,Client Entertainment,Disallowed 50%,44405.83,Add
+CT-10060,2025-12-08,Bad Debts Written Off (realized),Deduct,56581.9,Deduct
+CT-10061,2025-12-18,Depreciation - Accounting,Add Back,9045.7,Add
+CT-10062,2025-12-19,Related Party Management Fee,Transfer Pricing Adj.,3536.3,Add
+CT-10063,2025-12-10,Related Party Management Fee,Transfer Pricing Adj.,28282.19,Add
+CT-10064,2025-12-08,UAE Government Grant Income,Exempt Income,46542.83,Add
+CT-10065,2025-12-04,Related Party Management Fee,Transfer Pricing Adj.,43639.83,Add
+CT-10066,2025-12-26,Depreciation - Tax (per schedule),Deduct,59778.79,Deduct
+CT-10067,2025-12-20,Depreciation - Tax (per schedule),Deduct,35414.92,Deduct
+CT-10068,2025-12-04,Donations - Non Qualifying,Fully Disallowed,61826.98,Add
+CT-10069,2025-12-08,Exempt Dividend Income,Exempt Income,43897.74,Add
+CT-10070,2025-12-05,Related Party Management Fee,Transfer Pricing Adj.,27521.29,Add
+CT-10071,2025-12-09,Entertainment Expense,Disallowed 50%,25552.86,Add
+CT-10072,2025-12-25,Depreciation - Accounting,Add Back,41463.22,Add
+CT-10073,2025-12-15,Donations - Non Qualifying,Fully Disallowed,40304.69,Add
+CT-10074,2025-12-11,Client Entertainment,Disallowed 50%,46339.1,Add
+CT-10075,2025-12-14,Depreciation - Accounting,Add Back,3567.93,Add
+CT-10076,2025-12-28,Donations - Non Qualifying,Fully Disallowed,35851.38,Add
+CT-10077,2025-12-01,Provision for Doubtful Debts (unrealized),Add Back,61110.96,Add
+CT-10078,2025-12-24,Fines & Penalties,Fully Disallowed,66478.56,Add
+CT-10079,2025-12-03,Bad Debts Written Off (realized),Deduct,65575.01,Deduct
+CT-10080,2025-12-18,Depreciation - Tax (per schedule),Deduct,14615.12,Deduct
+CT-10081,2025-12-02,Related Party Management Fee,Transfer Pricing Adj.,20060.48,Add
+CT-10082,2025-12-12,Related Party Management Fee,Transfer Pricing Adj.,61039.25,Add
+CT-10083,2025-12-24,Related Party Management Fee,Transfer Pricing Adj.,44650.58,Add
+CT-10084,2025-12-22,Depreciation - Tax (per schedule),Deduct,51758.15,Deduct
+CT-10085,2025-12-25,Depreciation - Tax (per schedule),Deduct,19254.17,Deduct
+CT-10086,2025-12-17,Entertainment Expense,Disallowed 50%,31436.68,Add
+CT-10087,2025-12-14,UAE Government Grant Income,Exempt Income,40966.52,Add
+CT-10088,2025-12-17,Bad Debts Written Off (realized),Deduct,32620.94,Deduct
+CT-10089,2025-12-26,Exempt Dividend Income,Exempt Income,37280.1,Add
+CT-10090,2025-12-06,Interest Income - Related Party,Related Party Adj.,63154.05,Deduct

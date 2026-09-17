@@ -1,0 +1,1245 @@
+DocID,Type,Date,Counterparty,VATTreatment,NetAmount_AED,VATRate,VATAmount_AED,GrossAmount_AED
+SI-5001,Sales Invoice,2026-01-23,Solstice Retail Co,Standard Rated 5%,86816.93,0.05,4340.85,91157.78
+SI-5002,Sales Invoice,2026-01-13,BlueHarbor Financial,Standard Rated 5%,34026.32,0.05,1701.32,35727.64
+SI-5003,Sales Invoice,2026-01-25,Horizon Insurance,Zero Rated,77632.77,0.0,0.0,77632.77
+SI-5004,Sales Invoice,2026-01-07,Falcon Aerospace,Zero Rated,57744.3,0.0,0.0,57744.3
+SI-5005,Sales Invoice,2026-01-09,Vantage Telecom,Zero Rated,39051.82,0.0,0.0,39051.82
+SI-5006,Sales Invoice,2026-01-27,Meridian Health Group,Zero Rated,45272.64,0.0,0.0,45272.64
+SI-5007,Sales Invoice,2026-01-22,BlueHarbor Financial,Zero Rated,46295.73,0.0,0.0,46295.73
+SI-5008,Sales Invoice,2026-01-09,BlueHarbor Financial,Standard Rated 5%,4854.48,0.05,242.72,5097.2
+SI-5009,Sales Invoice,2026-01-21,Vantage Telecom,Standard Rated 5%,33538.36,0.05,1676.92,35215.28
+SI-5010,Sales Invoice,2026-01-15,Zenith Media,Exempt,76712.47,0.0,0.0,76712.47
+SI-5011,Sales Invoice,2026-01-21,Falcon Aerospace,Standard Rated 5%,80691.03,0.05,4034.55,84725.58
+SI-5012,Sales Invoice,2026-01-02,Granite Construction Group,Zero Rated,73187.69,0.0,0.0,73187.69
+SI-5013,Sales Invoice,2026-01-19,Vantage Telecom,Standard Rated 5%,20111.28,0.05,1005.56,21116.84
+SI-5014,Sales Invoice,2026-01-24,Granite Construction Group,Standard Rated 5%,72105.93,0.05,3605.3,75711.23
+SI-5015,Sales Invoice,2026-01-25,Willow Pharma,Zero Rated,34333.12,0.0,0.0,34333.12
+SI-5016,Sales Invoice,2026-01-11,Apex Manufacturing,Standard Rated 5%,94503.58,0.05,4725.18,99228.76
+SI-5017,Sales Invoice,2026-01-09,Meridian Health Group,Standard Rated 5%,31499.72,0.05,1574.99,33074.71
+SI-5018,Sales Invoice,2026-01-19,Keystone Energy,Zero Rated,82149.46,0.0,0.0,82149.46
+SI-5019,Sales Invoice,2026-01-07,Horizon Insurance,Zero Rated,70007.92,0.0,0.0,70007.92
+SI-5020,Sales Invoice,2026-01-12,Zenith Media,Standard Rated 5%,53267.52,0.05,2663.38,55930.9
+SI-5021,Sales Invoice,2026-01-28,BlueHarbor Financial,Standard Rated 5%,81936.56,0.05,4096.83,86033.39
+SI-5022,Sales Invoice,2026-01-15,Horizon Insurance,Standard Rated 5%,48012.04,0.05,2400.6,50412.64
+SI-5023,Sales Invoice,2026-01-12,Ironclad Public Utilities,Exempt,85081.04,0.0,0.0,85081.04
+SI-5024,Sales Invoice,2026-01-10,Zenith Media,Exempt,69348.83,0.0,0.0,69348.83
+SI-5025,Sales Invoice,2026-01-04,Granite Construction Group,Zero Rated,41633.65,0.0,0.0,41633.65
+SI-5026,Sales Invoice,2026-01-19,Meridian Health Group,Standard Rated 5%,8661.47,0.05,433.07,9094.54
+SI-5027,Sales Invoice,2026-01-15,Apex Manufacturing,Standard Rated 5%,31907.28,0.05,1595.36,33502.64
+SI-5028,Sales Invoice,2026-01-12,CedarPoint Logistics,Standard Rated 5%,65298.59,0.05,3264.93,68563.52
+SI-5029,Sales Invoice,2026-01-17,BlueHarbor Financial,Standard Rated 5%,45981.46,0.05,2299.07,48280.53
+SI-5030,Sales Invoice,2026-01-13,Ironclad Public Utilities,Zero Rated,17804.76,0.0,0.0,17804.76
+SI-5031,Sales Invoice,2026-01-17,Falcon Aerospace,Exempt,23118.04,0.0,0.0,23118.04
+SI-5032,Sales Invoice,2026-01-22,CedarPoint Logistics,Standard Rated 5%,89837.87,0.05,4491.89,94329.76
+SI-5033,Sales Invoice,2026-01-20,Northbridge Bank,Standard Rated 5%,56777.27,0.05,2838.86,59616.13
+SI-5034,Sales Invoice,2026-01-13,Coral Bay Hospitality,Standard Rated 5%,91054.08,0.05,4552.7,95606.78
+SI-5035,Sales Invoice,2026-01-01,Coral Bay Hospitality,Standard Rated 5%,71489.51,0.05,3574.48,75063.99
+SI-5036,Sales Invoice,2026-01-19,Zenith Media,Standard Rated 5%,38485.01,0.05,1924.25,40409.26
+SI-5037,Sales Invoice,2026-01-28,Willow Pharma,Exempt,20561.66,0.0,0.0,20561.66
+SI-5038,Sales Invoice,2026-01-17,Falcon Aerospace,Standard Rated 5%,10158.82,0.05,507.94,10666.76
+SI-5039,Sales Invoice,2026-01-16,Solstice Retail Co,Standard Rated 5%,75142.69,0.05,3757.13,78899.82
+SI-5040,Sales Invoice,2026-01-15,Northbridge Bank,Exempt,73845.21,0.0,0.0,73845.21
+SI-5041,Sales Invoice,2026-01-15,Keystone Energy,Zero Rated,85023.73,0.0,0.0,85023.73
+SI-5042,Sales Invoice,2026-01-25,Ironclad Public Utilities,Standard Rated 5%,46623.25,0.05,2331.16,48954.41
+SI-5043,Sales Invoice,2026-01-27,Falcon Aerospace,Standard Rated 5%,55824.78,0.05,2791.24,58616.02
+SI-5044,Sales Invoice,2026-01-16,BlueHarbor Financial,Standard Rated 5%,38238.62,0.05,1911.93,40150.55
+SI-5045,Sales Invoice,2026-01-24,Apex Manufacturing,Exempt,20720.12,0.0,0.0,20720.12
+SI-5046,Sales Invoice,2026-01-26,Granite Construction Group,Zero Rated,10348.08,0.0,0.0,10348.08
+SI-5047,Sales Invoice,2026-01-25,Meridian Health Group,Standard Rated 5%,90118.08,0.05,4505.9,94623.98
+SI-5048,Sales Invoice,2026-01-18,Vantage Telecom,Standard Rated 5%,15211.45,0.05,760.57,15972.02
+SI-5049,Sales Invoice,2026-01-22,Ironclad Public Utilities,Standard Rated 5%,19687.61,0.05,984.38,20671.99
+SI-5050,Sales Invoice,2026-01-21,Granite Construction Group,Standard Rated 5%,41024.86,0.05,2051.24,43076.1
+SI-5051,Sales Invoice,2026-01-06,Keystone Energy,Standard Rated 5%,30155.19,0.05,1507.76,31662.95
+SI-5052,Sales Invoice,2026-01-25,Vantage Telecom,Standard Rated 5%,66281.39,0.05,3314.07,69595.46
+SI-5053,Sales Invoice,2026-01-07,Vantage Telecom,Standard Rated 5%,75689.21,0.05,3784.46,79473.67
+SI-5054,Sales Invoice,2026-01-09,Ironclad Public Utilities,Exempt,88545.72,0.0,0.0,88545.72
+SI-5055,Sales Invoice,2026-01-13,Horizon Insurance,Standard Rated 5%,6052.75,0.05,302.64,6355.39
+SI-5056,Sales Invoice,2026-01-13,Zenith Media,Standard Rated 5%,79941.18,0.05,3997.06,83938.24
+SI-5057,Sales Invoice,2026-01-22,Ironclad Public Utilities,Standard Rated 5%,68402.33,0.05,3420.12,71822.45
+SI-5058,Sales Invoice,2026-01-12,Keystone Energy,Standard Rated 5%,40293.23,0.05,2014.66,42307.89
+SI-5059,Sales Invoice,2026-01-15,Falcon Aerospace,Standard Rated 5%,21356.36,0.05,1067.82,22424.18
+PI-5060,Purchase Invoice,2026-01-20,Al Naboodah Logistics,Standard Rated 5%,32808.91,0.05,1640.45,34449.36
+PI-5061,Purchase Invoice,2026-01-11,Etisalat Business,Standard Rated 5%,6166.42,0.05,308.32,6474.74
+PI-5062,Purchase Invoice,2026-01-02,Gulf Marketing Agency,Zero Rated,30189.2,0.0,0.0,30189.2
+PI-5063,Purchase Invoice,2026-01-09,Al Futtaim Office Supplies,Standard Rated 5%,36251.66,0.05,1812.58,38064.24
+PI-5064,Purchase Invoice,2026-01-18,Etisalat Business,Zero Rated,37259.92,0.0,0.0,37259.92
+PI-5065,Purchase Invoice,2026-01-25,DEWA,Standard Rated 5%,22565.88,0.05,1128.29,23694.17
+PI-5066,Purchase Invoice,2026-01-19,DEWA,Standard Rated 5%,4925.3,0.05,246.27,5171.57
+PI-5067,Purchase Invoice,2026-01-12,Continental Consulting FZE,Standard Rated 5%,11120.89,0.05,556.04,11676.93
+PI-5068,Purchase Invoice,2026-01-17,DEWA,Standard Rated 5%,38037.34,0.05,1901.87,39939.21
+PI-5069,Purchase Invoice,2026-01-15,Al Futtaim Office Supplies,Standard Rated 5%,10774.62,0.05,538.73,11313.35
+PI-5070,Purchase Invoice,2026-01-12,Al Naboodah Logistics,Standard Rated 5%,40780.85,0.05,2039.04,42819.89
+PI-5071,Purchase Invoice,2026-01-28,DEWA,Standard Rated 5%,20406.36,0.05,1020.32,21426.68
+PI-5072,Purchase Invoice,2026-01-15,Al Naboodah Logistics,Zero Rated,22496.41,0.0,0.0,22496.41
+PI-5073,Purchase Invoice,2026-01-06,Continental Consulting FZE,Standard Rated 5%,1637.64,0.05,81.88,1719.52
+PI-5074,Purchase Invoice,2026-01-05,Al Futtaim Office Supplies,Standard Rated 5%,30467.43,0.05,1523.37,31990.8
+PI-5075,Purchase Invoice,2026-01-03,Dubai Facilities Mgmt,Standard Rated 5%,10837.92,0.05,541.9,11379.82
+PI-5076,Purchase Invoice,2026-01-03,Sharjah Print & Design,Standard Rated 5%,37931.52,0.05,1896.58,39828.1
+PI-5077,Purchase Invoice,2026-01-14,Prime Cloud Hosting LLC,Standard Rated 5%,23747.58,0.05,1187.38,24934.96
+PI-5078,Purchase Invoice,2026-01-22,Gulf Marketing Agency,Exempt,32690.96,0.0,0.0,32690.96
+PI-5079,Purchase Invoice,2026-01-19,Dubai Facilities Mgmt,Zero Rated,34161.06,0.0,0.0,34161.06
+PI-5080,Purchase Invoice,2026-01-17,Continental Consulting FZE,Zero Rated,7118.4,0.0,0.0,7118.4
+PI-5081,Purchase Invoice,2026-01-23,Sharjah Print & Design,Standard Rated 5%,34794.2,0.05,1739.71,36533.91
+PI-5082,Purchase Invoice,2026-01-26,Emirates IT Solutions,Standard Rated 5%,33759.71,0.05,1687.99,35447.7
+PI-5083,Purchase Invoice,2026-01-14,Etisalat Business,Exempt,15535.16,0.0,0.0,15535.16
+PI-5084,Purchase Invoice,2026-01-16,Dubai Facilities Mgmt,Exempt,34423.52,0.0,0.0,34423.52
+PI-5085,Purchase Invoice,2026-01-04,Prime Cloud Hosting LLC,Standard Rated 5%,13352.94,0.05,667.65,14020.59
+PI-5086,Purchase Invoice,2026-01-25,Al Naboodah Logistics,Standard Rated 5%,10229.87,0.05,511.49,10741.36
+PI-5087,Purchase Invoice,2026-01-01,Dubai Facilities Mgmt,Zero Rated,23603.38,0.0,0.0,23603.38
+PI-5088,Purchase Invoice,2026-01-03,Sharjah Print & Design,Standard Rated 5%,1304.52,0.05,65.23,1369.75
+PI-5089,Purchase Invoice,2026-01-10,Al Futtaim Office Supplies,Standard Rated 5%,22373.45,0.05,1118.67,23492.12
+PI-5090,Purchase Invoice,2026-01-01,DEWA,Standard Rated 5%,6727.61,0.05,336.38,7063.99
+PI-5091,Purchase Invoice,2026-01-21,Dubai Facilities Mgmt,Standard Rated 5%,30820.83,0.05,1541.04,32361.87
+PI-5092,Purchase Invoice,2026-01-16,Al Futtaim Office Supplies,Standard Rated 5%,30511.08,0.05,1525.55,32036.63
+PI-5093,Purchase Invoice,2026-01-09,DEWA,Standard Rated 5%,15712.82,0.05,785.64,16498.46
+PI-5094,Purchase Invoice,2026-01-16,Emirates IT Solutions,Standard Rated 5%,11930.21,0.05,596.51,12526.72
+PI-5095,Purchase Invoice,2026-01-23,Prime Cloud Hosting LLC,Standard Rated 5%,27829.76,0.05,1391.49,29221.25
+PI-5096,Purchase Invoice,2026-01-09,Emirates IT Solutions,Standard Rated 5%,36540.42,0.05,1827.02,38367.44
+PI-5097,Purchase Invoice,2026-01-15,Al Naboodah Logistics,Standard Rated 5%,5961.73,0.05,298.09,6259.82
+PI-5098,Purchase Invoice,2026-01-12,DEWA,Standard Rated 5%,32866.64,0.05,1643.33,34509.97
+PI-5099,Purchase Invoice,2026-01-19,Dubai Facilities Mgmt,Standard Rated 5%,28759.26,0.05,1437.96,30197.22
+SI-5100,Sales Invoice,2026-02-02,Horizon Insurance,Standard Rated 5%,19543.73,0.05,977.19,20520.92
+SI-5101,Sales Invoice,2026-02-18,Vantage Telecom,Standard Rated 5%,9041.6,0.05,452.08,9493.68
+SI-5102,Sales Invoice,2026-02-18,Keystone Energy,Standard Rated 5%,30604.27,0.05,1530.21,32134.48
+SI-5103,Sales Invoice,2026-02-19,Keystone Energy,Standard Rated 5%,22351.35,0.05,1117.57,23468.92
+SI-5104,Sales Invoice,2026-02-05,CedarPoint Logistics,Zero Rated,90663.59,0.0,0.0,90663.59
+SI-5105,Sales Invoice,2026-02-07,Keystone Energy,Standard Rated 5%,66680.3,0.05,3334.02,70014.32
+SI-5106,Sales Invoice,2026-02-01,BlueHarbor Financial,Zero Rated,68356.82,0.0,0.0,68356.82
+SI-5107,Sales Invoice,2026-02-28,BlueHarbor Financial,Standard Rated 5%,76401.51,0.05,3820.08,80221.59
+SI-5108,Sales Invoice,2026-02-20,Horizon Insurance,Standard Rated 5%,44534.51,0.05,2226.73,46761.24
+SI-5109,Sales Invoice,2026-02-16,Solstice Retail Co,Standard Rated 5%,16246.98,0.05,812.35,17059.33
+SI-5110,Sales Invoice,2026-02-18,Meridian Health Group,Standard Rated 5%,71478.92,0.05,3573.95,75052.87
+SI-5111,Sales Invoice,2026-02-20,CedarPoint Logistics,Zero Rated,68036.23,0.0,0.0,68036.23
+SI-5112,Sales Invoice,2026-02-12,Falcon Aerospace,Zero Rated,4634.03,0.0,0.0,4634.03
+SI-5113,Sales Invoice,2026-02-16,Northbridge Bank,Standard Rated 5%,55460.16,0.05,2773.01,58233.17
+SI-5114,Sales Invoice,2026-02-01,Ironclad Public Utilities,Zero Rated,64907.16,0.0,0.0,64907.16
+SI-5115,Sales Invoice,2026-02-19,Ironclad Public Utilities,Standard Rated 5%,35886.18,0.05,1794.31,37680.49
+SI-5116,Sales Invoice,2026-02-18,Solstice Retail Co,Standard Rated 5%,14843.38,0.05,742.17,15585.55
+SI-5117,Sales Invoice,2026-02-12,Solstice Retail Co,Zero Rated,69867.86,0.0,0.0,69867.86
+SI-5118,Sales Invoice,2026-02-05,Solstice Retail Co,Standard Rated 5%,24642.87,0.05,1232.14,25875.01
+SI-5119,Sales Invoice,2026-02-27,Ironclad Public Utilities,Zero Rated,80601.72,0.0,0.0,80601.72
+SI-5120,Sales Invoice,2026-02-07,Horizon Insurance,Exempt,62917.51,0.0,0.0,62917.51
+SI-5121,Sales Invoice,2026-02-17,Granite Construction Group,Zero Rated,57279.64,0.0,0.0,57279.64
+SI-5122,Sales Invoice,2026-02-11,Solstice Retail Co,Exempt,86763.7,0.0,0.0,86763.7
+SI-5123,Sales Invoice,2026-02-26,Coral Bay Hospitality,Standard Rated 5%,87218.19,0.05,4360.91,91579.1
+SI-5124,Sales Invoice,2026-02-07,Meridian Health Group,Standard Rated 5%,43071.42,0.05,2153.57,45224.99
+SI-5125,Sales Invoice,2026-02-03,Granite Construction Group,Exempt,62779.12,0.0,0.0,62779.12
+SI-5126,Sales Invoice,2026-02-01,Horizon Insurance,Exempt,19003.51,0.0,0.0,19003.51
+SI-5127,Sales Invoice,2026-02-15,Keystone Energy,Zero Rated,34416.46,0.0,0.0,34416.46
+SI-5128,Sales Invoice,2026-02-10,Horizon Insurance,Standard Rated 5%,94537.63,0.05,4726.88,99264.51
+SI-5129,Sales Invoice,2026-02-26,Keystone Energy,Standard Rated 5%,31211.43,0.05,1560.57,32772.0
+SI-5130,Sales Invoice,2026-02-06,Apex Manufacturing,Standard Rated 5%,57036.97,0.05,2851.85,59888.82
+SI-5131,Sales Invoice,2026-02-03,BlueHarbor Financial,Standard Rated 5%,35470.26,0.05,1773.51,37243.77
+SI-5132,Sales Invoice,2026-02-03,Coral Bay Hospitality,Zero Rated,25633.85,0.0,0.0,25633.85
+SI-5133,Sales Invoice,2026-02-26,Solstice Retail Co,Standard Rated 5%,63435.31,0.05,3171.77,66607.08
+SI-5134,Sales Invoice,2026-02-08,Keystone Energy,Zero Rated,70213.17,0.0,0.0,70213.17
+SI-5135,Sales Invoice,2026-02-15,Granite Construction Group,Standard Rated 5%,68453.49,0.05,3422.67,71876.16
+SI-5136,Sales Invoice,2026-02-09,Apex Manufacturing,Standard Rated 5%,84250.03,0.05,4212.5,88462.53
+SI-5137,Sales Invoice,2026-02-07,Horizon Insurance,Standard Rated 5%,61817.43,0.05,3090.87,64908.3
+SI-5138,Sales Invoice,2026-02-20,Falcon Aerospace,Standard Rated 5%,82253.44,0.05,4112.67,86366.11
+SI-5139,Sales Invoice,2026-02-06,Keystone Energy,Zero Rated,51219.17,0.0,0.0,51219.17
+SI-5140,Sales Invoice,2026-02-04,Ironclad Public Utilities,Standard Rated 5%,36933.19,0.05,1846.66,38779.85
+SI-5141,Sales Invoice,2026-02-28,CedarPoint Logistics,Standard Rated 5%,72494.18,0.05,3624.71,76118.89
+SI-5142,Sales Invoice,2026-02-28,Horizon Insurance,Standard Rated 5%,85383.77,0.05,4269.19,89652.96
+SI-5143,Sales Invoice,2026-02-20,Falcon Aerospace,Standard Rated 5%,79977.52,0.05,3998.88,83976.4
+SI-5144,Sales Invoice,2026-02-26,Keystone Energy,Exempt,8265.65,0.0,0.0,8265.65
+SI-5145,Sales Invoice,2026-02-21,Vantage Telecom,Standard Rated 5%,88456.72,0.05,4422.84,92879.56
+SI-5146,Sales Invoice,2026-02-16,Northbridge Bank,Standard Rated 5%,15407.86,0.05,770.39,16178.25
+SI-5147,Sales Invoice,2026-02-21,Ironclad Public Utilities,Standard Rated 5%,91451.8,0.05,4572.59,96024.39
+SI-5148,Sales Invoice,2026-02-01,Northbridge Bank,Standard Rated 5%,55653.8,0.05,2782.69,58436.49
+SI-5149,Sales Invoice,2026-02-12,Ironclad Public Utilities,Standard Rated 5%,42124.47,0.05,2106.22,44230.69
+SI-5150,Sales Invoice,2026-02-05,Apex Manufacturing,Standard Rated 5%,47487.29,0.05,2374.36,49861.65
+SI-5151,Sales Invoice,2026-02-23,Horizon Insurance,Standard Rated 5%,40902.1,0.05,2045.11,42947.21
+SI-5152,Sales Invoice,2026-02-09,Granite Construction Group,Standard Rated 5%,15456.06,0.05,772.8,16228.86
+SI-5153,Sales Invoice,2026-02-08,Ironclad Public Utilities,Standard Rated 5%,87978.69,0.05,4398.93,92377.62
+SI-5154,Sales Invoice,2026-02-20,BlueHarbor Financial,Exempt,25014.53,0.0,0.0,25014.53
+SI-5155,Sales Invoice,2026-02-09,Granite Construction Group,Standard Rated 5%,69322.75,0.05,3466.14,72788.89
+SI-5156,Sales Invoice,2026-02-22,Keystone Energy,Standard Rated 5%,87025.74,0.05,4351.29,91377.03
+SI-5157,Sales Invoice,2026-02-04,CedarPoint Logistics,Standard Rated 5%,46475.25,0.05,2323.76,48799.01
+SI-5158,Sales Invoice,2026-02-06,Willow Pharma,Standard Rated 5%,72444.93,0.05,3622.25,76067.18
+SI-5159,Sales Invoice,2026-02-03,Zenith Media,Standard Rated 5%,40036.18,0.05,2001.81,42037.99
+SI-5160,Sales Invoice,2026-02-11,Horizon Insurance,Zero Rated,91360.15,0.0,0.0,91360.15
+SI-5161,Sales Invoice,2026-02-01,BlueHarbor Financial,Exempt,92238.92,0.0,0.0,92238.92
+SI-5162,Sales Invoice,2026-02-17,Keystone Energy,Standard Rated 5%,61706.23,0.05,3085.31,64791.54
+SI-5163,Sales Invoice,2026-02-26,Horizon Insurance,Standard Rated 5%,87574.98,0.05,4378.75,91953.73
+SI-5164,Sales Invoice,2026-02-20,Vantage Telecom,Standard Rated 5%,93079.12,0.05,4653.96,97733.08
+PI-5165,Purchase Invoice,2026-02-06,Etisalat Business,Zero Rated,33746.79,0.0,0.0,33746.79
+PI-5166,Purchase Invoice,2026-02-08,Dubai Facilities Mgmt,Exempt,22856.22,0.0,0.0,22856.22
+PI-5167,Purchase Invoice,2026-02-14,DEWA,Exempt,17816.14,0.0,0.0,17816.14
+PI-5168,Purchase Invoice,2026-02-03,Sharjah Print & Design,Zero Rated,33585.89,0.0,0.0,33585.89
+PI-5169,Purchase Invoice,2026-02-01,DEWA,Standard Rated 5%,36316.35,0.05,1815.82,38132.17
+PI-5170,Purchase Invoice,2026-02-06,Dubai Facilities Mgmt,Standard Rated 5%,18397.96,0.05,919.9,19317.86
+PI-5171,Purchase Invoice,2026-02-08,Etisalat Business,Zero Rated,30736.65,0.0,0.0,30736.65
+PI-5172,Purchase Invoice,2026-02-24,Al Naboodah Logistics,Standard Rated 5%,939.81,0.05,46.99,986.8
+PI-5173,Purchase Invoice,2026-02-01,Gulf Marketing Agency,Standard Rated 5%,25612.23,0.05,1280.61,26892.84
+PI-5174,Purchase Invoice,2026-02-21,Prime Cloud Hosting LLC,Standard Rated 5%,29681.6,0.05,1484.08,31165.68
+PI-5175,Purchase Invoice,2026-02-15,Al Futtaim Office Supplies,Standard Rated 5%,12975.48,0.05,648.77,13624.25
+PI-5176,Purchase Invoice,2026-02-21,Al Naboodah Logistics,Standard Rated 5%,36383.61,0.05,1819.18,38202.79
+PI-5177,Purchase Invoice,2026-02-17,Etisalat Business,Standard Rated 5%,6544.43,0.05,327.22,6871.65
+PI-5178,Purchase Invoice,2026-02-23,Sharjah Print & Design,Standard Rated 5%,35444.44,0.05,1772.22,37216.66
+PI-5179,Purchase Invoice,2026-02-02,DEWA,Standard Rated 5%,11282.02,0.05,564.1,11846.12
+PI-5180,Purchase Invoice,2026-02-04,Etisalat Business,Standard Rated 5%,27113.85,0.05,1355.69,28469.54
+PI-5181,Purchase Invoice,2026-02-05,Al Naboodah Logistics,Exempt,20947.44,0.0,0.0,20947.44
+PI-5182,Purchase Invoice,2026-02-12,Al Futtaim Office Supplies,Standard Rated 5%,18879.3,0.05,943.97,19823.27
+PI-5183,Purchase Invoice,2026-02-07,Etisalat Business,Exempt,9822.3,0.0,0.0,9822.3
+PI-5184,Purchase Invoice,2026-02-13,Etisalat Business,Standard Rated 5%,28882.26,0.05,1444.11,30326.37
+PI-5185,Purchase Invoice,2026-02-28,Prime Cloud Hosting LLC,Standard Rated 5%,12002.83,0.05,600.14,12602.97
+PI-5186,Purchase Invoice,2026-02-26,Gulf Marketing Agency,Exempt,36402.75,0.0,0.0,36402.75
+PI-5187,Purchase Invoice,2026-02-18,DEWA,Standard Rated 5%,21805.44,0.05,1090.27,22895.71
+PI-5188,Purchase Invoice,2026-02-08,Gulf Marketing Agency,Standard Rated 5%,19451.95,0.05,972.6,20424.55
+PI-5189,Purchase Invoice,2026-02-08,Continental Consulting FZE,Standard Rated 5%,37515.37,0.05,1875.77,39391.14
+PI-5190,Purchase Invoice,2026-02-11,Al Futtaim Office Supplies,Zero Rated,10146.4,0.0,0.0,10146.4
+PI-5191,Purchase Invoice,2026-02-08,Gulf Marketing Agency,Standard Rated 5%,2594.66,0.05,129.73,2724.39
+PI-5192,Purchase Invoice,2026-02-06,Al Naboodah Logistics,Standard Rated 5%,4711.04,0.05,235.55,4946.59
+PI-5193,Purchase Invoice,2026-02-09,Dubai Facilities Mgmt,Standard Rated 5%,31963.35,0.05,1598.17,33561.52
+PI-5194,Purchase Invoice,2026-02-07,Al Futtaim Office Supplies,Exempt,22857.45,0.0,0.0,22857.45
+PI-5195,Purchase Invoice,2026-02-08,Sharjah Print & Design,Standard Rated 5%,2781.04,0.05,139.05,2920.09
+PI-5196,Purchase Invoice,2026-02-03,DEWA,Standard Rated 5%,13954.16,0.05,697.71,14651.87
+PI-5197,Purchase Invoice,2026-02-27,Al Naboodah Logistics,Standard Rated 5%,5708.81,0.05,285.44,5994.25
+PI-5198,Purchase Invoice,2026-02-01,Dubai Facilities Mgmt,Standard Rated 5%,4477.26,0.05,223.86,4701.12
+PI-5199,Purchase Invoice,2026-02-12,Sharjah Print & Design,Standard Rated 5%,15673.96,0.05,783.7,16457.66
+PI-5200,Purchase Invoice,2026-02-02,DEWA,Zero Rated,36156.78,0.0,0.0,36156.78
+PI-5201,Purchase Invoice,2026-02-23,Prime Cloud Hosting LLC,Standard Rated 5%,26813.07,0.05,1340.65,28153.72
+PI-5202,Purchase Invoice,2026-02-21,Al Futtaim Office Supplies,Standard Rated 5%,6803.25,0.05,340.16,7143.41
+PI-5203,Purchase Invoice,2026-02-03,Etisalat Business,Standard Rated 5%,16820.72,0.05,841.04,17661.76
+PI-5204,Purchase Invoice,2026-02-12,Emirates IT Solutions,Exempt,26256.97,0.0,0.0,26256.97
+SI-5205,Sales Invoice,2026-03-08,CedarPoint Logistics,Standard Rated 5%,15975.23,0.05,798.76,16773.99
+SI-5206,Sales Invoice,2026-03-25,Coral Bay Hospitality,Standard Rated 5%,89665.61,0.05,4483.28,94148.89
+SI-5207,Sales Invoice,2026-03-28,Coral Bay Hospitality,Standard Rated 5%,57360.81,0.05,2868.04,60228.85
+SI-5208,Sales Invoice,2026-03-12,Vantage Telecom,Standard Rated 5%,86211.1,0.05,4310.56,90521.66
+SI-5209,Sales Invoice,2026-03-10,Willow Pharma,Standard Rated 5%,70359.57,0.05,3517.98,73877.55
+SI-5210,Sales Invoice,2026-03-03,Ironclad Public Utilities,Standard Rated 5%,88775.65,0.05,4438.78,93214.43
+SI-5211,Sales Invoice,2026-03-23,Ironclad Public Utilities,Zero Rated,14016.84,0.0,0.0,14016.84
+SI-5212,Sales Invoice,2026-03-04,Apex Manufacturing,Standard Rated 5%,36572.75,0.05,1828.64,38401.39
+SI-5213,Sales Invoice,2026-03-08,Keystone Energy,Standard Rated 5%,43334.09,0.05,2166.7,45500.79
+SI-5214,Sales Invoice,2026-03-05,Solstice Retail Co,Zero Rated,61494.13,0.0,0.0,61494.13
+SI-5215,Sales Invoice,2026-03-27,Horizon Insurance,Standard Rated 5%,26388.85,0.05,1319.44,27708.29
+SI-5216,Sales Invoice,2026-03-14,Granite Construction Group,Standard Rated 5%,14949.54,0.05,747.48,15697.02
+SI-5217,Sales Invoice,2026-03-28,Solstice Retail Co,Standard Rated 5%,65092.94,0.05,3254.65,68347.59
+SI-5218,Sales Invoice,2026-03-23,Coral Bay Hospitality,Standard Rated 5%,85151.73,0.05,4257.59,89409.32
+SI-5219,Sales Invoice,2026-03-01,BlueHarbor Financial,Standard Rated 5%,32750.79,0.05,1637.54,34388.33
+SI-5220,Sales Invoice,2026-03-03,Zenith Media,Standard Rated 5%,45696.33,0.05,2284.82,47981.15
+SI-5221,Sales Invoice,2026-03-02,CedarPoint Logistics,Standard Rated 5%,30313.72,0.05,1515.69,31829.41
+SI-5222,Sales Invoice,2026-03-13,CedarPoint Logistics,Exempt,55176.31,0.0,0.0,55176.31
+SI-5223,Sales Invoice,2026-03-14,Coral Bay Hospitality,Standard Rated 5%,64755.66,0.05,3237.78,67993.44
+SI-5224,Sales Invoice,2026-03-03,Ironclad Public Utilities,Zero Rated,45912.7,0.0,0.0,45912.7
+SI-5225,Sales Invoice,2026-03-23,Horizon Insurance,Standard Rated 5%,66411.31,0.05,3320.57,69731.88
+SI-5226,Sales Invoice,2026-03-17,BlueHarbor Financial,Standard Rated 5%,87074.26,0.05,4353.71,91427.97
+SI-5227,Sales Invoice,2026-03-02,Northbridge Bank,Exempt,7452.72,0.0,0.0,7452.72
+SI-5228,Sales Invoice,2026-03-14,Meridian Health Group,Standard Rated 5%,73641.44,0.05,3682.07,77323.51
+SI-5229,Sales Invoice,2026-03-24,Willow Pharma,Standard Rated 5%,81311.7,0.05,4065.59,85377.29
+SI-5230,Sales Invoice,2026-03-27,Vantage Telecom,Exempt,17540.75,0.0,0.0,17540.75
+SI-5231,Sales Invoice,2026-03-04,Coral Bay Hospitality,Zero Rated,49576.13,0.0,0.0,49576.13
+SI-5232,Sales Invoice,2026-03-09,Coral Bay Hospitality,Exempt,22848.29,0.0,0.0,22848.29
+SI-5233,Sales Invoice,2026-03-13,Granite Construction Group,Standard Rated 5%,63736.37,0.05,3186.82,66923.19
+SI-5234,Sales Invoice,2026-03-14,Vantage Telecom,Zero Rated,51593.25,0.0,0.0,51593.25
+SI-5235,Sales Invoice,2026-03-24,Coral Bay Hospitality,Zero Rated,68402.66,0.0,0.0,68402.66
+SI-5236,Sales Invoice,2026-03-22,CedarPoint Logistics,Standard Rated 5%,51997.24,0.05,2599.86,54597.1
+SI-5237,Sales Invoice,2026-03-02,CedarPoint Logistics,Standard Rated 5%,88717.7,0.05,4435.89,93153.59
+SI-5238,Sales Invoice,2026-03-13,CedarPoint Logistics,Standard Rated 5%,64136.29,0.05,3206.81,67343.1
+SI-5239,Sales Invoice,2026-03-18,CedarPoint Logistics,Standard Rated 5%,73045.83,0.05,3652.29,76698.12
+SI-5240,Sales Invoice,2026-03-06,Granite Construction Group,Standard Rated 5%,38597.61,0.05,1929.88,40527.49
+SI-5241,Sales Invoice,2026-03-05,Coral Bay Hospitality,Standard Rated 5%,5094.87,0.05,254.74,5349.61
+SI-5242,Sales Invoice,2026-03-01,Willow Pharma,Zero Rated,18249.96,0.0,0.0,18249.96
+SI-5243,Sales Invoice,2026-03-22,Willow Pharma,Zero Rated,14215.65,0.0,0.0,14215.65
+SI-5244,Sales Invoice,2026-03-21,Zenith Media,Standard Rated 5%,44716.0,0.05,2235.8,46951.8
+SI-5245,Sales Invoice,2026-03-14,Vantage Telecom,Zero Rated,23180.83,0.0,0.0,23180.83
+SI-5246,Sales Invoice,2026-03-08,Horizon Insurance,Standard Rated 5%,46416.01,0.05,2320.8,48736.81
+SI-5247,Sales Invoice,2026-03-08,Willow Pharma,Standard Rated 5%,91307.89,0.05,4565.39,95873.28
+SI-5248,Sales Invoice,2026-03-17,Northbridge Bank,Standard Rated 5%,58933.1,0.05,2946.66,61879.76
+SI-5249,Sales Invoice,2026-03-19,Granite Construction Group,Exempt,57142.93,0.0,0.0,57142.93
+SI-5250,Sales Invoice,2026-03-12,CedarPoint Logistics,Standard Rated 5%,62380.43,0.05,3119.02,65499.45
+SI-5251,Sales Invoice,2026-03-14,Horizon Insurance,Exempt,53924.85,0.0,0.0,53924.85
+SI-5252,Sales Invoice,2026-03-16,Apex Manufacturing,Standard Rated 5%,27679.32,0.05,1383.97,29063.29
+SI-5253,Sales Invoice,2026-03-14,Horizon Insurance,Exempt,7213.99,0.0,0.0,7213.99
+SI-5254,Sales Invoice,2026-03-14,BlueHarbor Financial,Zero Rated,50874.3,0.0,0.0,50874.3
+SI-5255,Sales Invoice,2026-03-18,Apex Manufacturing,Standard Rated 5%,10222.41,0.05,511.12,10733.53
+SI-5256,Sales Invoice,2026-03-03,CedarPoint Logistics,Zero Rated,85282.6,0.0,0.0,85282.6
+SI-5257,Sales Invoice,2026-03-02,BlueHarbor Financial,Standard Rated 5%,36243.43,0.05,1812.17,38055.6
+SI-5258,Sales Invoice,2026-03-27,CedarPoint Logistics,Exempt,76400.08,0.0,0.0,76400.08
+SI-5259,Sales Invoice,2026-03-08,BlueHarbor Financial,Standard Rated 5%,94719.03,0.05,4735.95,99454.98
+SI-5260,Sales Invoice,2026-03-21,Keystone Energy,Standard Rated 5%,49844.05,0.05,2492.2,52336.25
+SI-5261,Sales Invoice,2026-03-05,Falcon Aerospace,Zero Rated,23065.33,0.0,0.0,23065.33
+SI-5262,Sales Invoice,2026-03-17,Northbridge Bank,Standard Rated 5%,16257.95,0.05,812.9,17070.85
+SI-5263,Sales Invoice,2026-03-25,Zenith Media,Standard Rated 5%,42995.52,0.05,2149.78,45145.3
+SI-5264,Sales Invoice,2026-03-16,Granite Construction Group,Standard Rated 5%,25860.6,0.05,1293.03,27153.63
+SI-5265,Sales Invoice,2026-03-08,Willow Pharma,Zero Rated,47872.1,0.0,0.0,47872.1
+SI-5266,Sales Invoice,2026-03-16,Northbridge Bank,Standard Rated 5%,13047.37,0.05,652.37,13699.74
+SI-5267,Sales Invoice,2026-03-19,Willow Pharma,Zero Rated,47773.85,0.0,0.0,47773.85
+SI-5268,Sales Invoice,2026-03-04,Granite Construction Group,Standard Rated 5%,80408.08,0.05,4020.4,84428.48
+SI-5269,Sales Invoice,2026-03-22,CedarPoint Logistics,Standard Rated 5%,53823.04,0.05,2691.15,56514.19
+SI-5270,Sales Invoice,2026-03-05,Solstice Retail Co,Standard Rated 5%,81542.37,0.05,4077.12,85619.49
+SI-5271,Sales Invoice,2026-03-12,Horizon Insurance,Standard Rated 5%,16603.11,0.05,830.16,17433.27
+SI-5272,Sales Invoice,2026-03-01,Zenith Media,Standard Rated 5%,34668.39,0.05,1733.42,36401.81
+SI-5273,Sales Invoice,2026-03-10,Falcon Aerospace,Standard Rated 5%,94707.68,0.05,4735.38,99443.06
+SI-5274,Sales Invoice,2026-03-24,Ironclad Public Utilities,Standard Rated 5%,50162.56,0.05,2508.13,52670.69
+SI-5275,Sales Invoice,2026-03-19,Willow Pharma,Standard Rated 5%,64588.53,0.05,3229.43,67817.96
+PI-5276,Purchase Invoice,2026-03-13,Gulf Marketing Agency,Exempt,35635.39,0.0,0.0,35635.39
+PI-5277,Purchase Invoice,2026-03-16,Sharjah Print & Design,Standard Rated 5%,22097.78,0.05,1104.89,23202.67
+PI-5278,Purchase Invoice,2026-03-13,Dubai Facilities Mgmt,Standard Rated 5%,16166.52,0.05,808.33,16974.85
+PI-5279,Purchase Invoice,2026-03-26,Gulf Marketing Agency,Standard Rated 5%,8891.21,0.05,444.56,9335.77
+PI-5280,Purchase Invoice,2026-03-25,Etisalat Business,Standard Rated 5%,22335.3,0.05,1116.77,23452.07
+PI-5281,Purchase Invoice,2026-03-03,Al Futtaim Office Supplies,Standard Rated 5%,1741.21,0.05,87.06,1828.27
+PI-5282,Purchase Invoice,2026-03-20,Etisalat Business,Standard Rated 5%,13484.16,0.05,674.21,14158.37
+PI-5283,Purchase Invoice,2026-03-01,Etisalat Business,Exempt,39378.79,0.0,0.0,39378.79
+PI-5284,Purchase Invoice,2026-03-19,Sharjah Print & Design,Standard Rated 5%,4913.8,0.05,245.69,5159.49
+PI-5285,Purchase Invoice,2026-03-09,Prime Cloud Hosting LLC,Standard Rated 5%,13534.81,0.05,676.74,14211.55
+PI-5286,Purchase Invoice,2026-03-20,Al Naboodah Logistics,Standard Rated 5%,6833.06,0.05,341.65,7174.71
+PI-5287,Purchase Invoice,2026-03-17,Sharjah Print & Design,Standard Rated 5%,15407.89,0.05,770.39,16178.28
+PI-5288,Purchase Invoice,2026-03-11,Prime Cloud Hosting LLC,Standard Rated 5%,7005.63,0.05,350.28,7355.91
+PI-5289,Purchase Invoice,2026-03-21,Dubai Facilities Mgmt,Zero Rated,32786.55,0.0,0.0,32786.55
+PI-5290,Purchase Invoice,2026-03-05,Al Naboodah Logistics,Standard Rated 5%,673.37,0.05,33.67,707.04
+PI-5291,Purchase Invoice,2026-03-10,Gulf Marketing Agency,Standard Rated 5%,5880.03,0.05,294.0,6174.03
+PI-5292,Purchase Invoice,2026-03-15,Al Futtaim Office Supplies,Standard Rated 5%,16363.03,0.05,818.15,17181.18
+PI-5293,Purchase Invoice,2026-03-03,Sharjah Print & Design,Standard Rated 5%,8154.77,0.05,407.74,8562.51
+PI-5294,Purchase Invoice,2026-03-02,DEWA,Zero Rated,23900.27,0.0,0.0,23900.27
+PI-5295,Purchase Invoice,2026-03-28,Etisalat Business,Standard Rated 5%,38805.65,0.05,1940.28,40745.93
+PI-5296,Purchase Invoice,2026-03-01,Dubai Facilities Mgmt,Zero Rated,37126.31,0.0,0.0,37126.31
+PI-5297,Purchase Invoice,2026-03-14,DEWA,Standard Rated 5%,17631.94,0.05,881.6,18513.54
+PI-5298,Purchase Invoice,2026-03-28,Al Futtaim Office Supplies,Zero Rated,33743.08,0.0,0.0,33743.08
+PI-5299,Purchase Invoice,2026-03-16,Dubai Facilities Mgmt,Standard Rated 5%,24533.26,0.05,1226.66,25759.92
+PI-5300,Purchase Invoice,2026-03-09,Continental Consulting FZE,Zero Rated,12697.38,0.0,0.0,12697.38
+PI-5301,Purchase Invoice,2026-03-18,Sharjah Print & Design,Exempt,1896.29,0.0,0.0,1896.29
+PI-5302,Purchase Invoice,2026-03-11,Al Naboodah Logistics,Standard Rated 5%,17775.79,0.05,888.79,18664.58
+PI-5303,Purchase Invoice,2026-03-11,Dubai Facilities Mgmt,Zero Rated,16722.68,0.0,0.0,16722.68
+PI-5304,Purchase Invoice,2026-03-05,Continental Consulting FZE,Standard Rated 5%,13063.96,0.05,653.2,13717.16
+PI-5305,Purchase Invoice,2026-03-09,Al Futtaim Office Supplies,Standard Rated 5%,7142.93,0.05,357.15,7500.08
+PI-5306,Purchase Invoice,2026-03-18,Continental Consulting FZE,Standard Rated 5%,10919.08,0.05,545.95,11465.03
+PI-5307,Purchase Invoice,2026-03-08,Al Naboodah Logistics,Standard Rated 5%,30553.76,0.05,1527.69,32081.45
+PI-5308,Purchase Invoice,2026-03-10,Sharjah Print & Design,Standard Rated 5%,19673.98,0.05,983.7,20657.68
+PI-5309,Purchase Invoice,2026-03-03,DEWA,Standard Rated 5%,9894.1,0.05,494.71,10388.81
+PI-5310,Purchase Invoice,2026-03-05,Emirates IT Solutions,Zero Rated,1810.0,0.0,0.0,1810.0
+PI-5311,Purchase Invoice,2026-03-26,Al Naboodah Logistics,Standard Rated 5%,26698.89,0.05,1334.94,28033.83
+PI-5312,Purchase Invoice,2026-03-20,Emirates IT Solutions,Standard Rated 5%,33201.43,0.05,1660.07,34861.5
+PI-5313,Purchase Invoice,2026-03-13,Gulf Marketing Agency,Exempt,17463.71,0.0,0.0,17463.71
+PI-5314,Purchase Invoice,2026-03-26,Emirates IT Solutions,Standard Rated 5%,11443.31,0.05,572.17,12015.48
+PI-5315,Purchase Invoice,2026-03-24,Emirates IT Solutions,Zero Rated,24066.23,0.0,0.0,24066.23
+SI-5316,Sales Invoice,2026-04-26,Zenith Media,Standard Rated 5%,78127.03,0.05,3906.35,82033.38
+SI-5317,Sales Invoice,2026-04-11,Granite Construction Group,Exempt,15392.71,0.0,0.0,15392.71
+SI-5318,Sales Invoice,2026-04-22,Zenith Media,Standard Rated 5%,91033.59,0.05,4551.68,95585.27
+SI-5319,Sales Invoice,2026-04-24,Ironclad Public Utilities,Standard Rated 5%,84843.57,0.05,4242.18,89085.75
+SI-5320,Sales Invoice,2026-04-22,Apex Manufacturing,Standard Rated 5%,54978.1,0.05,2748.91,57727.01
+SI-5321,Sales Invoice,2026-04-02,Granite Construction Group,Standard Rated 5%,30341.41,0.05,1517.07,31858.48
+SI-5322,Sales Invoice,2026-04-03,Vantage Telecom,Standard Rated 5%,11142.77,0.05,557.14,11699.91
+SI-5323,Sales Invoice,2026-04-04,Vantage Telecom,Standard Rated 5%,50925.85,0.05,2546.29,53472.14
+SI-5324,Sales Invoice,2026-04-10,Zenith Media,Zero Rated,61647.42,0.0,0.0,61647.42
+SI-5325,Sales Invoice,2026-04-23,Northbridge Bank,Standard Rated 5%,87868.31,0.05,4393.42,92261.73
+SI-5326,Sales Invoice,2026-04-21,Willow Pharma,Standard Rated 5%,18248.09,0.05,912.4,19160.49
+SI-5327,Sales Invoice,2026-04-22,Meridian Health Group,Zero Rated,83522.56,0.0,0.0,83522.56
+SI-5328,Sales Invoice,2026-04-02,Northbridge Bank,Standard Rated 5%,32375.54,0.05,1618.78,33994.32
+SI-5329,Sales Invoice,2026-04-19,Coral Bay Hospitality,Standard Rated 5%,41680.42,0.05,2084.02,43764.44
+SI-5330,Sales Invoice,2026-04-26,Willow Pharma,Standard Rated 5%,76107.03,0.05,3805.35,79912.38
+SI-5331,Sales Invoice,2026-04-10,Keystone Energy,Standard Rated 5%,45244.42,0.05,2262.22,47506.64
+SI-5332,Sales Invoice,2026-04-07,Falcon Aerospace,Zero Rated,45748.19,0.0,0.0,45748.19
+SI-5333,Sales Invoice,2026-04-09,Meridian Health Group,Standard Rated 5%,22011.86,0.05,1100.59,23112.45
+SI-5334,Sales Invoice,2026-04-13,Granite Construction Group,Standard Rated 5%,73426.4,0.05,3671.32,77097.72
+SI-5335,Sales Invoice,2026-04-25,Horizon Insurance,Standard Rated 5%,47115.91,0.05,2355.8,49471.71
+SI-5336,Sales Invoice,2026-04-16,Solstice Retail Co,Zero Rated,33859.13,0.0,0.0,33859.13
+SI-5337,Sales Invoice,2026-04-15,Ironclad Public Utilities,Standard Rated 5%,75940.91,0.05,3797.05,79737.96
+SI-5338,Sales Invoice,2026-04-07,Willow Pharma,Standard Rated 5%,6486.25,0.05,324.31,6810.56
+SI-5339,Sales Invoice,2026-04-20,Zenith Media,Zero Rated,28162.74,0.0,0.0,28162.74
+SI-5340,Sales Invoice,2026-04-17,Falcon Aerospace,Exempt,59822.76,0.0,0.0,59822.76
+SI-5341,Sales Invoice,2026-04-08,Apex Manufacturing,Standard Rated 5%,58988.44,0.05,2949.42,61937.86
+SI-5342,Sales Invoice,2026-04-08,Vantage Telecom,Exempt,13695.38,0.0,0.0,13695.38
+SI-5343,Sales Invoice,2026-04-06,BlueHarbor Financial,Exempt,30292.68,0.0,0.0,30292.68
+SI-5344,Sales Invoice,2026-04-03,Zenith Media,Standard Rated 5%,91675.93,0.05,4583.8,96259.73
+SI-5345,Sales Invoice,2026-04-06,Northbridge Bank,Standard Rated 5%,5539.85,0.05,276.99,5816.84
+SI-5346,Sales Invoice,2026-04-03,BlueHarbor Financial,Zero Rated,35903.95,0.0,0.0,35903.95
+SI-5347,Sales Invoice,2026-04-16,Willow Pharma,Zero Rated,8138.07,0.0,0.0,8138.07
+SI-5348,Sales Invoice,2026-04-22,Keystone Energy,Standard Rated 5%,25970.67,0.05,1298.53,27269.2
+SI-5349,Sales Invoice,2026-04-18,Zenith Media,Standard Rated 5%,11390.49,0.05,569.52,11960.01
+SI-5350,Sales Invoice,2026-04-10,Ironclad Public Utilities,Standard Rated 5%,62604.65,0.05,3130.23,65734.88
+SI-5351,Sales Invoice,2026-04-08,BlueHarbor Financial,Standard Rated 5%,19082.67,0.05,954.13,20036.8
+SI-5352,Sales Invoice,2026-04-10,BlueHarbor Financial,Standard Rated 5%,39353.27,0.05,1967.66,41320.93
+SI-5353,Sales Invoice,2026-04-10,Northbridge Bank,Standard Rated 5%,29561.79,0.05,1478.09,31039.88
+SI-5354,Sales Invoice,2026-04-10,Coral Bay Hospitality,Standard Rated 5%,46213.0,0.05,2310.65,48523.65
+SI-5355,Sales Invoice,2026-04-21,Keystone Energy,Zero Rated,38449.96,0.0,0.0,38449.96
+SI-5356,Sales Invoice,2026-04-19,Falcon Aerospace,Exempt,78284.08,0.0,0.0,78284.08
+SI-5357,Sales Invoice,2026-04-03,Horizon Insurance,Zero Rated,26961.63,0.0,0.0,26961.63
+SI-5358,Sales Invoice,2026-04-08,Apex Manufacturing,Standard Rated 5%,85734.66,0.05,4286.73,90021.39
+SI-5359,Sales Invoice,2026-04-02,BlueHarbor Financial,Standard Rated 5%,6307.14,0.05,315.36,6622.5
+SI-5360,Sales Invoice,2026-04-01,Keystone Energy,Zero Rated,76611.85,0.0,0.0,76611.85
+SI-5361,Sales Invoice,2026-04-25,Granite Construction Group,Standard Rated 5%,44450.94,0.05,2222.55,46673.49
+SI-5362,Sales Invoice,2026-04-11,Zenith Media,Standard Rated 5%,63499.63,0.05,3174.98,66674.61
+SI-5363,Sales Invoice,2026-04-26,Ironclad Public Utilities,Standard Rated 5%,58192.17,0.05,2909.61,61101.78
+SI-5364,Sales Invoice,2026-04-04,Vantage Telecom,Standard Rated 5%,44417.76,0.05,2220.89,46638.65
+SI-5365,Sales Invoice,2026-04-19,Meridian Health Group,Standard Rated 5%,44253.83,0.05,2212.69,46466.52
+SI-5366,Sales Invoice,2026-04-02,Willow Pharma,Standard Rated 5%,79725.41,0.05,3986.27,83711.68
+SI-5367,Sales Invoice,2026-04-03,Horizon Insurance,Exempt,6149.97,0.0,0.0,6149.97
+SI-5368,Sales Invoice,2026-04-26,Horizon Insurance,Standard Rated 5%,30728.94,0.05,1536.45,32265.39
+SI-5369,Sales Invoice,2026-04-14,CedarPoint Logistics,Standard Rated 5%,81277.95,0.05,4063.9,85341.85
+SI-5370,Sales Invoice,2026-04-08,Apex Manufacturing,Standard Rated 5%,24697.92,0.05,1234.9,25932.82
+SI-5371,Sales Invoice,2026-04-19,Falcon Aerospace,Zero Rated,31576.46,0.0,0.0,31576.46
+SI-5372,Sales Invoice,2026-04-11,Willow Pharma,Standard Rated 5%,93628.35,0.05,4681.42,98309.77
+SI-5373,Sales Invoice,2026-04-04,CedarPoint Logistics,Standard Rated 5%,24821.87,0.05,1241.09,26062.96
+SI-5374,Sales Invoice,2026-04-24,Apex Manufacturing,Standard Rated 5%,78487.46,0.05,3924.37,82411.83
+PI-5375,Purchase Invoice,2026-04-25,DEWA,Standard Rated 5%,38135.17,0.05,1906.76,40041.93
+PI-5376,Purchase Invoice,2026-04-26,Al Futtaim Office Supplies,Standard Rated 5%,26113.34,0.05,1305.67,27419.01
+PI-5377,Purchase Invoice,2026-04-21,Prime Cloud Hosting LLC,Exempt,7974.66,0.0,0.0,7974.66
+PI-5378,Purchase Invoice,2026-04-13,Al Naboodah Logistics,Standard Rated 5%,9399.36,0.05,469.97,9869.33
+PI-5379,Purchase Invoice,2026-04-27,Emirates IT Solutions,Exempt,20321.33,0.0,0.0,20321.33
+PI-5380,Purchase Invoice,2026-04-15,Sharjah Print & Design,Standard Rated 5%,4806.27,0.05,240.31,5046.58
+PI-5381,Purchase Invoice,2026-04-25,Gulf Marketing Agency,Exempt,36565.71,0.0,0.0,36565.71
+PI-5382,Purchase Invoice,2026-04-16,Al Naboodah Logistics,Standard Rated 5%,11831.42,0.05,591.57,12422.99
+PI-5383,Purchase Invoice,2026-04-26,Dubai Facilities Mgmt,Standard Rated 5%,33400.36,0.05,1670.02,35070.38
+PI-5384,Purchase Invoice,2026-04-13,Continental Consulting FZE,Standard Rated 5%,35600.6,0.05,1780.03,37380.63
+PI-5385,Purchase Invoice,2026-04-05,DEWA,Standard Rated 5%,35177.13,0.05,1758.86,36935.99
+PI-5386,Purchase Invoice,2026-04-22,Sharjah Print & Design,Standard Rated 5%,23466.44,0.05,1173.32,24639.76
+PI-5387,Purchase Invoice,2026-04-08,Emirates IT Solutions,Standard Rated 5%,29603.76,0.05,1480.19,31083.95
+PI-5388,Purchase Invoice,2026-04-04,Etisalat Business,Exempt,8831.47,0.0,0.0,8831.47
+PI-5389,Purchase Invoice,2026-04-02,Sharjah Print & Design,Exempt,16706.45,0.0,0.0,16706.45
+PI-5390,Purchase Invoice,2026-04-18,Al Naboodah Logistics,Standard Rated 5%,15659.59,0.05,782.98,16442.57
+PI-5391,Purchase Invoice,2026-04-27,Emirates IT Solutions,Zero Rated,36717.61,0.0,0.0,36717.61
+PI-5392,Purchase Invoice,2026-04-04,DEWA,Zero Rated,25712.29,0.0,0.0,25712.29
+PI-5393,Purchase Invoice,2026-04-01,Emirates IT Solutions,Standard Rated 5%,6154.27,0.05,307.71,6461.98
+PI-5394,Purchase Invoice,2026-04-07,Al Naboodah Logistics,Exempt,23627.63,0.0,0.0,23627.63
+PI-5395,Purchase Invoice,2026-04-13,DEWA,Standard Rated 5%,16815.51,0.05,840.78,17656.29
+PI-5396,Purchase Invoice,2026-04-20,Gulf Marketing Agency,Exempt,22707.26,0.0,0.0,22707.26
+PI-5397,Purchase Invoice,2026-04-10,Sharjah Print & Design,Standard Rated 5%,4717.41,0.05,235.87,4953.28
+PI-5398,Purchase Invoice,2026-04-28,DEWA,Standard Rated 5%,20668.9,0.05,1033.45,21702.35
+PI-5399,Purchase Invoice,2026-04-09,Gulf Marketing Agency,Exempt,30269.91,0.0,0.0,30269.91
+PI-5400,Purchase Invoice,2026-04-04,Dubai Facilities Mgmt,Zero Rated,29367.82,0.0,0.0,29367.82
+PI-5401,Purchase Invoice,2026-04-24,Continental Consulting FZE,Standard Rated 5%,16997.61,0.05,849.88,17847.49
+PI-5402,Purchase Invoice,2026-04-05,Prime Cloud Hosting LLC,Standard Rated 5%,15527.81,0.05,776.39,16304.2
+PI-5403,Purchase Invoice,2026-04-20,Prime Cloud Hosting LLC,Standard Rated 5%,14164.58,0.05,708.23,14872.81
+PI-5404,Purchase Invoice,2026-04-01,Dubai Facilities Mgmt,Standard Rated 5%,41373.85,0.05,2068.69,43442.54
+PI-5405,Purchase Invoice,2026-04-26,Al Futtaim Office Supplies,Standard Rated 5%,33026.52,0.05,1651.33,34677.85
+PI-5406,Purchase Invoice,2026-04-11,Emirates IT Solutions,Standard Rated 5%,3951.31,0.05,197.57,4148.88
+PI-5407,Purchase Invoice,2026-04-28,Al Naboodah Logistics,Standard Rated 5%,17734.04,0.05,886.7,18620.74
+PI-5408,Purchase Invoice,2026-04-09,Prime Cloud Hosting LLC,Zero Rated,8489.85,0.0,0.0,8489.85
+PI-5409,Purchase Invoice,2026-04-03,Etisalat Business,Exempt,26512.18,0.0,0.0,26512.18
+SI-5410,Sales Invoice,2026-05-22,Meridian Health Group,Standard Rated 5%,4109.87,0.05,205.49,4315.36
+SI-5411,Sales Invoice,2026-05-21,Willow Pharma,Zero Rated,50591.43,0.0,0.0,50591.43
+SI-5412,Sales Invoice,2026-05-10,Granite Construction Group,Standard Rated 5%,52307.88,0.05,2615.39,54923.27
+SI-5413,Sales Invoice,2026-05-20,Falcon Aerospace,Standard Rated 5%,79730.93,0.05,3986.55,83717.48
+SI-5414,Sales Invoice,2026-05-16,Northbridge Bank,Zero Rated,81595.46,0.0,0.0,81595.46
+SI-5415,Sales Invoice,2026-05-07,Solstice Retail Co,Standard Rated 5%,65320.7,0.05,3266.03,68586.73
+SI-5416,Sales Invoice,2026-05-09,Meridian Health Group,Standard Rated 5%,27996.34,0.05,1399.82,29396.16
+SI-5417,Sales Invoice,2026-05-15,Coral Bay Hospitality,Standard Rated 5%,48934.91,0.05,2446.75,51381.66
+SI-5418,Sales Invoice,2026-05-14,Falcon Aerospace,Standard Rated 5%,61159.8,0.05,3057.99,64217.79
+SI-5419,Sales Invoice,2026-05-24,Zenith Media,Standard Rated 5%,92217.87,0.05,4610.89,96828.76
+SI-5420,Sales Invoice,2026-05-05,BlueHarbor Financial,Standard Rated 5%,59137.67,0.05,2956.88,62094.55
+SI-5421,Sales Invoice,2026-05-05,Meridian Health Group,Zero Rated,53772.48,0.0,0.0,53772.48
+SI-5422,Sales Invoice,2026-05-03,Northbridge Bank,Standard Rated 5%,23412.38,0.05,1170.62,24583.0
+SI-5423,Sales Invoice,2026-05-04,Coral Bay Hospitality,Standard Rated 5%,78797.21,0.05,3939.86,82737.07
+SI-5424,Sales Invoice,2026-05-21,Apex Manufacturing,Standard Rated 5%,9744.88,0.05,487.24,10232.12
+SI-5425,Sales Invoice,2026-05-05,Falcon Aerospace,Standard Rated 5%,79390.77,0.05,3969.54,83360.31
+SI-5426,Sales Invoice,2026-05-04,Vantage Telecom,Standard Rated 5%,27823.66,0.05,1391.18,29214.84
+SI-5427,Sales Invoice,2026-05-14,Willow Pharma,Standard Rated 5%,59287.11,0.05,2964.36,62251.47
+SI-5428,Sales Invoice,2026-05-21,Coral Bay Hospitality,Standard Rated 5%,32834.64,0.05,1641.73,34476.37
+SI-5429,Sales Invoice,2026-05-28,Ironclad Public Utilities,Exempt,10016.7,0.0,0.0,10016.7
+SI-5430,Sales Invoice,2026-05-27,Apex Manufacturing,Standard Rated 5%,28926.27,0.05,1446.31,30372.58
+SI-5431,Sales Invoice,2026-05-19,Vantage Telecom,Standard Rated 5%,24504.86,0.05,1225.24,25730.1
+SI-5432,Sales Invoice,2026-05-24,Falcon Aerospace,Standard Rated 5%,68884.55,0.05,3444.23,72328.78
+SI-5433,Sales Invoice,2026-05-05,Vantage Telecom,Standard Rated 5%,92953.49,0.05,4647.67,97601.16
+SI-5434,Sales Invoice,2026-05-21,Granite Construction Group,Zero Rated,17575.83,0.0,0.0,17575.83
+SI-5435,Sales Invoice,2026-05-04,Granite Construction Group,Standard Rated 5%,77258.94,0.05,3862.95,81121.89
+SI-5436,Sales Invoice,2026-05-08,Solstice Retail Co,Standard Rated 5%,84813.77,0.05,4240.69,89054.46
+SI-5437,Sales Invoice,2026-05-28,Apex Manufacturing,Exempt,27663.34,0.0,0.0,27663.34
+SI-5438,Sales Invoice,2026-05-28,Ironclad Public Utilities,Exempt,33199.91,0.0,0.0,33199.91
+SI-5439,Sales Invoice,2026-05-20,Solstice Retail Co,Standard Rated 5%,32484.94,0.05,1624.25,34109.19
+SI-5440,Sales Invoice,2026-05-22,BlueHarbor Financial,Standard Rated 5%,27490.58,0.05,1374.53,28865.11
+SI-5441,Sales Invoice,2026-05-08,Coral Bay Hospitality,Standard Rated 5%,73170.98,0.05,3658.55,76829.53
+SI-5442,Sales Invoice,2026-05-24,Granite Construction Group,Standard Rated 5%,73773.7,0.05,3688.68,77462.38
+SI-5443,Sales Invoice,2026-05-28,Coral Bay Hospitality,Standard Rated 5%,50163.9,0.05,2508.2,52672.1
+SI-5444,Sales Invoice,2026-05-26,Keystone Energy,Standard Rated 5%,10769.08,0.05,538.45,11307.53
+SI-5445,Sales Invoice,2026-05-09,Vantage Telecom,Standard Rated 5%,8216.23,0.05,410.81,8627.04
+SI-5446,Sales Invoice,2026-05-01,Northbridge Bank,Exempt,68385.45,0.0,0.0,68385.45
+SI-5447,Sales Invoice,2026-05-03,CedarPoint Logistics,Zero Rated,49471.08,0.0,0.0,49471.08
+SI-5448,Sales Invoice,2026-05-12,Zenith Media,Standard Rated 5%,32871.03,0.05,1643.55,34514.58
+SI-5449,Sales Invoice,2026-05-13,Ironclad Public Utilities,Standard Rated 5%,74154.03,0.05,3707.7,77861.73
+SI-5450,Sales Invoice,2026-05-17,Willow Pharma,Standard Rated 5%,74979.89,0.05,3748.99,78728.88
+SI-5451,Sales Invoice,2026-05-12,Apex Manufacturing,Exempt,8743.87,0.0,0.0,8743.87
+SI-5452,Sales Invoice,2026-05-01,Ironclad Public Utilities,Standard Rated 5%,66616.68,0.05,3330.83,69947.51
+SI-5453,Sales Invoice,2026-05-08,Willow Pharma,Standard Rated 5%,90862.2,0.05,4543.11,95405.31
+SI-5454,Sales Invoice,2026-05-06,Apex Manufacturing,Standard Rated 5%,14576.92,0.05,728.85,15305.77
+SI-5455,Sales Invoice,2026-05-01,Keystone Energy,Standard Rated 5%,39969.55,0.05,1998.48,41968.03
+SI-5456,Sales Invoice,2026-05-17,Vantage Telecom,Standard Rated 5%,21313.82,0.05,1065.69,22379.51
+SI-5457,Sales Invoice,2026-05-01,Horizon Insurance,Standard Rated 5%,52702.05,0.05,2635.1,55337.15
+SI-5458,Sales Invoice,2026-05-22,Solstice Retail Co,Exempt,33072.22,0.0,0.0,33072.22
+SI-5459,Sales Invoice,2026-05-16,Ironclad Public Utilities,Exempt,55667.43,0.0,0.0,55667.43
+SI-5460,Sales Invoice,2026-05-26,Apex Manufacturing,Standard Rated 5%,69655.04,0.05,3482.75,73137.79
+SI-5461,Sales Invoice,2026-05-12,Ironclad Public Utilities,Standard Rated 5%,58749.63,0.05,2937.48,61687.11
+SI-5462,Sales Invoice,2026-05-12,Apex Manufacturing,Exempt,32742.09,0.0,0.0,32742.09
+SI-5463,Sales Invoice,2026-05-27,Meridian Health Group,Exempt,91512.01,0.0,0.0,91512.01
+SI-5464,Sales Invoice,2026-05-09,Solstice Retail Co,Standard Rated 5%,69502.86,0.05,3475.14,72978.0
+SI-5465,Sales Invoice,2026-05-16,Falcon Aerospace,Standard Rated 5%,10687.63,0.05,534.38,11222.01
+SI-5466,Sales Invoice,2026-05-15,Falcon Aerospace,Standard Rated 5%,93875.15,0.05,4693.76,98568.91
+SI-5467,Sales Invoice,2026-05-14,Northbridge Bank,Standard Rated 5%,68654.04,0.05,3432.7,72086.74
+SI-5468,Sales Invoice,2026-05-21,Solstice Retail Co,Standard Rated 5%,39757.98,0.05,1987.9,41745.88
+SI-5469,Sales Invoice,2026-05-06,Apex Manufacturing,Standard Rated 5%,13470.64,0.05,673.53,14144.17
+PI-5470,Purchase Invoice,2026-05-06,Continental Consulting FZE,Standard Rated 5%,30806.76,0.05,1540.34,32347.1
+PI-5471,Purchase Invoice,2026-05-01,Gulf Marketing Agency,Standard Rated 5%,1771.11,0.05,88.56,1859.67
+PI-5472,Purchase Invoice,2026-05-08,Continental Consulting FZE,Standard Rated 5%,15501.99,0.05,775.1,16277.09
+PI-5473,Purchase Invoice,2026-05-19,Al Futtaim Office Supplies,Zero Rated,29526.15,0.0,0.0,29526.15
+PI-5474,Purchase Invoice,2026-05-18,Dubai Facilities Mgmt,Standard Rated 5%,41760.39,0.05,2088.02,43848.41
+PI-5475,Purchase Invoice,2026-05-27,Dubai Facilities Mgmt,Zero Rated,19853.01,0.0,0.0,19853.01
+PI-5476,Purchase Invoice,2026-05-16,Dubai Facilities Mgmt,Standard Rated 5%,2131.59,0.05,106.58,2238.17
+PI-5477,Purchase Invoice,2026-05-06,Continental Consulting FZE,Zero Rated,8913.0,0.0,0.0,8913.0
+PI-5478,Purchase Invoice,2026-05-12,Sharjah Print & Design,Standard Rated 5%,30225.17,0.05,1511.26,31736.43
+PI-5479,Purchase Invoice,2026-05-06,Etisalat Business,Zero Rated,14980.83,0.0,0.0,14980.83
+PI-5480,Purchase Invoice,2026-05-03,Al Futtaim Office Supplies,Zero Rated,6049.97,0.0,0.0,6049.97
+PI-5481,Purchase Invoice,2026-05-18,Prime Cloud Hosting LLC,Zero Rated,35565.58,0.0,0.0,35565.58
+PI-5482,Purchase Invoice,2026-05-09,Etisalat Business,Standard Rated 5%,23107.95,0.05,1155.4,24263.35
+PI-5483,Purchase Invoice,2026-05-06,Emirates IT Solutions,Standard Rated 5%,28797.95,0.05,1439.9,30237.85
+PI-5484,Purchase Invoice,2026-05-25,Sharjah Print & Design,Exempt,29474.76,0.0,0.0,29474.76
+PI-5485,Purchase Invoice,2026-05-06,Gulf Marketing Agency,Standard Rated 5%,14039.26,0.05,701.96,14741.22
+PI-5486,Purchase Invoice,2026-05-03,Prime Cloud Hosting LLC,Standard Rated 5%,15169.52,0.05,758.48,15928.0
+PI-5487,Purchase Invoice,2026-05-03,Al Futtaim Office Supplies,Standard Rated 5%,40215.29,0.05,2010.76,42226.05
+PI-5488,Purchase Invoice,2026-05-10,Al Futtaim Office Supplies,Zero Rated,5265.17,0.0,0.0,5265.17
+PI-5489,Purchase Invoice,2026-05-05,Continental Consulting FZE,Standard Rated 5%,29965.22,0.05,1498.26,31463.48
+PI-5490,Purchase Invoice,2026-05-02,Al Naboodah Logistics,Standard Rated 5%,9131.64,0.05,456.58,9588.22
+PI-5491,Purchase Invoice,2026-05-15,Al Futtaim Office Supplies,Standard Rated 5%,17861.18,0.05,893.06,18754.24
+PI-5492,Purchase Invoice,2026-05-02,Dubai Facilities Mgmt,Standard Rated 5%,10486.03,0.05,524.3,11010.33
+PI-5493,Purchase Invoice,2026-05-23,Dubai Facilities Mgmt,Zero Rated,10082.92,0.0,0.0,10082.92
+PI-5494,Purchase Invoice,2026-05-27,Gulf Marketing Agency,Standard Rated 5%,28836.32,0.05,1441.82,30278.14
+PI-5495,Purchase Invoice,2026-05-11,Etisalat Business,Standard Rated 5%,41824.23,0.05,2091.21,43915.44
+PI-5496,Purchase Invoice,2026-05-14,Gulf Marketing Agency,Exempt,5261.21,0.0,0.0,5261.21
+PI-5497,Purchase Invoice,2026-05-18,Prime Cloud Hosting LLC,Standard Rated 5%,35750.96,0.05,1787.55,37538.51
+PI-5498,Purchase Invoice,2026-05-14,Al Futtaim Office Supplies,Exempt,5142.07,0.0,0.0,5142.07
+PI-5499,Purchase Invoice,2026-05-27,Al Naboodah Logistics,Standard Rated 5%,5644.67,0.05,282.23,5926.9
+PI-5500,Purchase Invoice,2026-05-18,Al Naboodah Logistics,Exempt,16498.54,0.0,0.0,16498.54
+PI-5501,Purchase Invoice,2026-05-07,Sharjah Print & Design,Standard Rated 5%,883.86,0.05,44.19,928.05
+PI-5502,Purchase Invoice,2026-05-09,Al Futtaim Office Supplies,Standard Rated 5%,16013.38,0.05,800.67,16814.05
+PI-5503,Purchase Invoice,2026-05-14,Emirates IT Solutions,Standard Rated 5%,16665.69,0.05,833.28,17498.97
+PI-5504,Purchase Invoice,2026-05-01,Al Naboodah Logistics,Standard Rated 5%,24581.82,0.05,1229.09,25810.91
+PI-5505,Purchase Invoice,2026-05-26,Al Futtaim Office Supplies,Zero Rated,12426.86,0.0,0.0,12426.86
+PI-5506,Purchase Invoice,2026-05-11,DEWA,Zero Rated,1639.98,0.0,0.0,1639.98
+SI-5507,Sales Invoice,2026-06-10,Falcon Aerospace,Standard Rated 5%,48571.93,0.05,2428.6,51000.53
+SI-5508,Sales Invoice,2026-06-27,Solstice Retail Co,Exempt,90028.75,0.0,0.0,90028.75
+SI-5509,Sales Invoice,2026-06-19,Willow Pharma,Standard Rated 5%,50930.91,0.05,2546.55,53477.46
+SI-5510,Sales Invoice,2026-06-12,Solstice Retail Co,Standard Rated 5%,12726.23,0.05,636.31,13362.54
+SI-5511,Sales Invoice,2026-06-21,Northbridge Bank,Standard Rated 5%,78448.59,0.05,3922.43,82371.02
+SI-5512,Sales Invoice,2026-06-23,Ironclad Public Utilities,Standard Rated 5%,59989.92,0.05,2999.5,62989.42
+SI-5513,Sales Invoice,2026-06-25,BlueHarbor Financial,Standard Rated 5%,70503.52,0.05,3525.18,74028.7
+SI-5514,Sales Invoice,2026-06-06,Vantage Telecom,Standard Rated 5%,34020.55,0.05,1701.03,35721.58
+SI-5515,Sales Invoice,2026-06-23,Willow Pharma,Standard Rated 5%,37895.49,0.05,1894.77,39790.26
+SI-5516,Sales Invoice,2026-06-26,Vantage Telecom,Standard Rated 5%,16117.48,0.05,805.87,16923.35
+SI-5517,Sales Invoice,2026-06-27,Coral Bay Hospitality,Standard Rated 5%,33518.33,0.05,1675.92,35194.25
+SI-5518,Sales Invoice,2026-06-21,Coral Bay Hospitality,Standard Rated 5%,93553.65,0.05,4677.68,98231.33
+SI-5519,Sales Invoice,2026-06-09,Apex Manufacturing,Standard Rated 5%,25386.06,0.05,1269.3,26655.36
+SI-5520,Sales Invoice,2026-06-28,Willow Pharma,Standard Rated 5%,90872.88,0.05,4543.64,95416.52
+SI-5521,Sales Invoice,2026-06-13,Willow Pharma,Standard Rated 5%,49221.9,0.05,2461.1,51683.0
+SI-5522,Sales Invoice,2026-06-22,Solstice Retail Co,Standard Rated 5%,71899.83,0.05,3594.99,75494.82
+SI-5523,Sales Invoice,2026-06-25,Vantage Telecom,Exempt,37136.05,0.0,0.0,37136.05
+SI-5524,Sales Invoice,2026-06-11,Meridian Health Group,Standard Rated 5%,14538.84,0.05,726.94,15265.78
+SI-5525,Sales Invoice,2026-06-11,Granite Construction Group,Standard Rated 5%,78353.49,0.05,3917.67,82271.16
+SI-5526,Sales Invoice,2026-06-15,Coral Bay Hospitality,Standard Rated 5%,79968.98,0.05,3998.45,83967.43
+SI-5527,Sales Invoice,2026-06-06,Apex Manufacturing,Zero Rated,54246.86,0.0,0.0,54246.86
+SI-5528,Sales Invoice,2026-06-15,BlueHarbor Financial,Standard Rated 5%,24115.47,0.05,1205.77,25321.24
+SI-5529,Sales Invoice,2026-06-08,Horizon Insurance,Zero Rated,57468.06,0.0,0.0,57468.06
+SI-5530,Sales Invoice,2026-06-12,Northbridge Bank,Standard Rated 5%,86671.31,0.05,4333.57,91004.88
+SI-5531,Sales Invoice,2026-06-17,Granite Construction Group,Zero Rated,85071.36,0.0,0.0,85071.36
+SI-5532,Sales Invoice,2026-06-27,Northbridge Bank,Exempt,46850.79,0.0,0.0,46850.79
+SI-5533,Sales Invoice,2026-06-28,Coral Bay Hospitality,Standard Rated 5%,10134.03,0.05,506.7,10640.73
+SI-5534,Sales Invoice,2026-06-05,Zenith Media,Standard Rated 5%,79240.37,0.05,3962.02,83202.39
+SI-5535,Sales Invoice,2026-06-08,Solstice Retail Co,Exempt,94240.54,0.0,0.0,94240.54
+SI-5536,Sales Invoice,2026-06-25,CedarPoint Logistics,Standard Rated 5%,91325.81,0.05,4566.29,95892.1
+SI-5537,Sales Invoice,2026-06-06,Horizon Insurance,Standard Rated 5%,58259.41,0.05,2912.97,61172.38
+SI-5538,Sales Invoice,2026-06-12,Northbridge Bank,Standard Rated 5%,71017.15,0.05,3550.86,74568.01
+SI-5539,Sales Invoice,2026-06-15,Ironclad Public Utilities,Standard Rated 5%,44308.87,0.05,2215.44,46524.31
+SI-5540,Sales Invoice,2026-06-28,Apex Manufacturing,Exempt,59261.29,0.0,0.0,59261.29
+SI-5541,Sales Invoice,2026-06-26,Meridian Health Group,Standard Rated 5%,65936.37,0.05,3296.82,69233.19
+SI-5542,Sales Invoice,2026-06-08,Apex Manufacturing,Exempt,76570.77,0.0,0.0,76570.77
+SI-5543,Sales Invoice,2026-06-15,Northbridge Bank,Standard Rated 5%,73032.25,0.05,3651.61,76683.86
+SI-5544,Sales Invoice,2026-06-09,BlueHarbor Financial,Standard Rated 5%,44235.82,0.05,2211.79,46447.61
+SI-5545,Sales Invoice,2026-06-13,CedarPoint Logistics,Standard Rated 5%,11986.45,0.05,599.32,12585.77
+SI-5546,Sales Invoice,2026-06-28,Northbridge Bank,Zero Rated,55868.83,0.0,0.0,55868.83
+SI-5547,Sales Invoice,2026-06-02,CedarPoint Logistics,Zero Rated,55910.05,0.0,0.0,55910.05
+SI-5548,Sales Invoice,2026-06-22,Granite Construction Group,Standard Rated 5%,83915.7,0.05,4195.78,88111.48
+SI-5549,Sales Invoice,2026-06-25,Keystone Energy,Standard Rated 5%,20519.6,0.05,1025.98,21545.58
+SI-5550,Sales Invoice,2026-06-17,Vantage Telecom,Standard Rated 5%,38481.33,0.05,1924.07,40405.4
+SI-5551,Sales Invoice,2026-06-17,Ironclad Public Utilities,Standard Rated 5%,9531.7,0.05,476.59,10008.29
+SI-5552,Sales Invoice,2026-06-22,Vantage Telecom,Standard Rated 5%,45724.08,0.05,2286.2,48010.28
+SI-5553,Sales Invoice,2026-06-17,Willow Pharma,Standard Rated 5%,15821.33,0.05,791.07,16612.4
+SI-5554,Sales Invoice,2026-06-19,Falcon Aerospace,Exempt,84819.12,0.0,0.0,84819.12
+SI-5555,Sales Invoice,2026-06-16,Ironclad Public Utilities,Standard Rated 5%,4639.95,0.05,232.0,4871.95
+SI-5556,Sales Invoice,2026-06-24,Horizon Insurance,Standard Rated 5%,86127.85,0.05,4306.39,90434.24
+SI-5557,Sales Invoice,2026-06-19,Meridian Health Group,Standard Rated 5%,70477.56,0.05,3523.88,74001.44
+SI-5558,Sales Invoice,2026-06-28,Ironclad Public Utilities,Zero Rated,56535.76,0.0,0.0,56535.76
+SI-5559,Sales Invoice,2026-06-04,Zenith Media,Exempt,15524.77,0.0,0.0,15524.77
+SI-5560,Sales Invoice,2026-06-02,Falcon Aerospace,Standard Rated 5%,67329.78,0.05,3366.49,70696.27
+SI-5561,Sales Invoice,2026-06-22,Keystone Energy,Standard Rated 5%,23223.17,0.05,1161.16,24384.33
+SI-5562,Sales Invoice,2026-06-22,Apex Manufacturing,Zero Rated,84255.46,0.0,0.0,84255.46
+SI-5563,Sales Invoice,2026-06-24,CedarPoint Logistics,Standard Rated 5%,50716.13,0.05,2535.81,53251.94
+SI-5564,Sales Invoice,2026-06-17,Falcon Aerospace,Zero Rated,82331.01,0.0,0.0,82331.01
+SI-5565,Sales Invoice,2026-06-18,BlueHarbor Financial,Zero Rated,63328.46,0.0,0.0,63328.46
+SI-5566,Sales Invoice,2026-06-19,Granite Construction Group,Standard Rated 5%,74610.75,0.05,3730.54,78341.29
+SI-5567,Sales Invoice,2026-06-02,Apex Manufacturing,Standard Rated 5%,67397.57,0.05,3369.88,70767.45
+SI-5568,Sales Invoice,2026-06-01,Willow Pharma,Exempt,4778.32,0.0,0.0,4778.32
+SI-5569,Sales Invoice,2026-06-10,Apex Manufacturing,Standard Rated 5%,49176.17,0.05,2458.81,51634.98
+SI-5570,Sales Invoice,2026-06-28,Ironclad Public Utilities,Exempt,93199.83,0.0,0.0,93199.83
+SI-5571,Sales Invoice,2026-06-11,Granite Construction Group,Standard Rated 5%,75146.87,0.05,3757.34,78904.21
+SI-5572,Sales Invoice,2026-06-10,Apex Manufacturing,Standard Rated 5%,83128.9,0.05,4156.44,87285.34
+SI-5573,Sales Invoice,2026-06-02,Horizon Insurance,Standard Rated 5%,81349.91,0.05,4067.5,85417.41
+SI-5574,Sales Invoice,2026-06-27,Apex Manufacturing,Standard Rated 5%,56919.27,0.05,2845.96,59765.23
+SI-5575,Sales Invoice,2026-06-21,Solstice Retail Co,Standard Rated 5%,16324.83,0.05,816.24,17141.07
+PI-5576,Purchase Invoice,2026-06-15,Etisalat Business,Standard Rated 5%,12855.31,0.05,642.77,13498.08
+PI-5577,Purchase Invoice,2026-06-13,DEWA,Exempt,5028.69,0.0,0.0,5028.69
+PI-5578,Purchase Invoice,2026-06-19,Al Futtaim Office Supplies,Standard Rated 5%,10853.65,0.05,542.68,11396.33
+PI-5579,Purchase Invoice,2026-06-17,Continental Consulting FZE,Standard Rated 5%,38717.42,0.05,1935.87,40653.29
+PI-5580,Purchase Invoice,2026-06-15,DEWA,Exempt,31242.04,0.0,0.0,31242.04
+PI-5581,Purchase Invoice,2026-06-12,Prime Cloud Hosting LLC,Exempt,40594.25,0.0,0.0,40594.25
+PI-5582,Purchase Invoice,2026-06-25,Continental Consulting FZE,Standard Rated 5%,19193.24,0.05,959.66,20152.9
+PI-5583,Purchase Invoice,2026-06-22,Gulf Marketing Agency,Zero Rated,14189.43,0.0,0.0,14189.43
+PI-5584,Purchase Invoice,2026-06-17,Continental Consulting FZE,Standard Rated 5%,16204.29,0.05,810.21,17014.5
+PI-5585,Purchase Invoice,2026-06-22,Etisalat Business,Standard Rated 5%,41625.78,0.05,2081.29,43707.07
+PI-5586,Purchase Invoice,2026-06-23,Al Futtaim Office Supplies,Zero Rated,35401.84,0.0,0.0,35401.84
+PI-5587,Purchase Invoice,2026-06-21,Gulf Marketing Agency,Standard Rated 5%,41837.27,0.05,2091.86,43929.13
+PI-5588,Purchase Invoice,2026-06-13,Emirates IT Solutions,Zero Rated,19826.21,0.0,0.0,19826.21
+PI-5589,Purchase Invoice,2026-06-01,Emirates IT Solutions,Standard Rated 5%,13626.57,0.05,681.33,14307.9
+PI-5590,Purchase Invoice,2026-06-07,Al Futtaim Office Supplies,Zero Rated,21576.23,0.0,0.0,21576.23
+PI-5591,Purchase Invoice,2026-06-07,Al Naboodah Logistics,Exempt,7003.97,0.0,0.0,7003.97
+PI-5592,Purchase Invoice,2026-06-01,Gulf Marketing Agency,Zero Rated,13844.19,0.0,0.0,13844.19
+PI-5593,Purchase Invoice,2026-06-19,Gulf Marketing Agency,Standard Rated 5%,17465.21,0.05,873.26,18338.47
+PI-5594,Purchase Invoice,2026-06-18,Prime Cloud Hosting LLC,Standard Rated 5%,5890.68,0.05,294.53,6185.21
+PI-5595,Purchase Invoice,2026-06-08,DEWA,Standard Rated 5%,30713.88,0.05,1535.69,32249.57
+PI-5596,Purchase Invoice,2026-06-22,Emirates IT Solutions,Standard Rated 5%,39082.41,0.05,1954.12,41036.53
+PI-5597,Purchase Invoice,2026-06-15,Al Naboodah Logistics,Standard Rated 5%,8616.05,0.05,430.8,9046.85
+PI-5598,Purchase Invoice,2026-06-23,Gulf Marketing Agency,Standard Rated 5%,29315.76,0.05,1465.79,30781.55
+PI-5599,Purchase Invoice,2026-06-15,DEWA,Standard Rated 5%,12316.85,0.05,615.84,12932.69
+PI-5600,Purchase Invoice,2026-06-02,Dubai Facilities Mgmt,Standard Rated 5%,25160.77,0.05,1258.04,26418.81
+PI-5601,Purchase Invoice,2026-06-08,Gulf Marketing Agency,Standard Rated 5%,40696.02,0.05,2034.8,42730.82
+PI-5602,Purchase Invoice,2026-06-10,Etisalat Business,Zero Rated,20722.9,0.0,0.0,20722.9
+PI-5603,Purchase Invoice,2026-06-02,Al Naboodah Logistics,Exempt,14184.18,0.0,0.0,14184.18
+PI-5604,Purchase Invoice,2026-06-11,Prime Cloud Hosting LLC,Standard Rated 5%,29979.99,0.05,1499.0,31478.99
+PI-5605,Purchase Invoice,2026-06-02,DEWA,Standard Rated 5%,29336.72,0.05,1466.84,30803.56
+PI-5606,Purchase Invoice,2026-06-04,Dubai Facilities Mgmt,Standard Rated 5%,2199.61,0.05,109.98,2309.59
+PI-5607,Purchase Invoice,2026-06-14,Sharjah Print & Design,Standard Rated 5%,3556.18,0.05,177.81,3733.99
+PI-5608,Purchase Invoice,2026-06-26,Etisalat Business,Standard Rated 5%,39386.24,0.05,1969.31,41355.55
+PI-5609,Purchase Invoice,2026-06-16,DEWA,Exempt,11874.93,0.0,0.0,11874.93
+PI-5610,Purchase Invoice,2026-06-04,Al Naboodah Logistics,Standard Rated 5%,32287.81,0.05,1614.39,33902.2
+PI-5611,Purchase Invoice,2026-06-22,Continental Consulting FZE,Exempt,10845.18,0.0,0.0,10845.18
+PI-5612,Purchase Invoice,2026-06-05,Prime Cloud Hosting LLC,Standard Rated 5%,40196.9,0.05,2009.85,42206.75
+SI-5613,Sales Invoice,2026-07-11,Falcon Aerospace,Standard Rated 5%,80689.24,0.05,4034.46,84723.7
+SI-5614,Sales Invoice,2026-07-04,Northbridge Bank,Zero Rated,70879.81,0.0,0.0,70879.81
+SI-5615,Sales Invoice,2026-07-05,Keystone Energy,Standard Rated 5%,19366.25,0.05,968.31,20334.56
+SI-5616,Sales Invoice,2026-07-21,Keystone Energy,Zero Rated,63068.77,0.0,0.0,63068.77
+SI-5617,Sales Invoice,2026-07-10,Willow Pharma,Standard Rated 5%,37185.67,0.05,1859.28,39044.95
+SI-5618,Sales Invoice,2026-07-12,Horizon Insurance,Standard Rated 5%,54728.61,0.05,2736.43,57465.04
+SI-5619,Sales Invoice,2026-07-12,Vantage Telecom,Standard Rated 5%,89249.7,0.05,4462.48,93712.18
+SI-5620,Sales Invoice,2026-07-11,CedarPoint Logistics,Standard Rated 5%,77826.34,0.05,3891.32,81717.66
+SI-5621,Sales Invoice,2026-07-14,Ironclad Public Utilities,Standard Rated 5%,8646.01,0.05,432.3,9078.31
+SI-5622,Sales Invoice,2026-07-16,Vantage Telecom,Standard Rated 5%,43012.06,0.05,2150.6,45162.66
+SI-5623,Sales Invoice,2026-07-20,Apex Manufacturing,Zero Rated,73902.59,0.0,0.0,73902.59
+SI-5624,Sales Invoice,2026-07-07,Granite Construction Group,Standard Rated 5%,87986.81,0.05,4399.34,92386.15
+SI-5625,Sales Invoice,2026-07-28,Vantage Telecom,Standard Rated 5%,48422.43,0.05,2421.12,50843.55
+SI-5626,Sales Invoice,2026-07-02,Vantage Telecom,Exempt,69808.91,0.0,0.0,69808.91
+SI-5627,Sales Invoice,2026-07-17,Horizon Insurance,Standard Rated 5%,7218.27,0.05,360.91,7579.18
+SI-5628,Sales Invoice,2026-07-13,Solstice Retail Co,Standard Rated 5%,40427.97,0.05,2021.4,42449.37
+SI-5629,Sales Invoice,2026-07-14,Willow Pharma,Standard Rated 5%,90271.65,0.05,4513.58,94785.23
+SI-5630,Sales Invoice,2026-07-22,Keystone Energy,Exempt,5580.85,0.0,0.0,5580.85
+SI-5631,Sales Invoice,2026-07-15,Solstice Retail Co,Standard Rated 5%,9648.27,0.05,482.41,10130.68
+SI-5632,Sales Invoice,2026-07-13,CedarPoint Logistics,Standard Rated 5%,65564.65,0.05,3278.23,68842.88
+SI-5633,Sales Invoice,2026-07-02,Meridian Health Group,Zero Rated,74366.56,0.0,0.0,74366.56
+SI-5634,Sales Invoice,2026-07-24,BlueHarbor Financial,Zero Rated,6161.89,0.0,0.0,6161.89
+SI-5635,Sales Invoice,2026-07-06,Meridian Health Group,Standard Rated 5%,65717.59,0.05,3285.88,69003.47
+SI-5636,Sales Invoice,2026-07-28,Northbridge Bank,Standard Rated 5%,22855.78,0.05,1142.79,23998.57
+SI-5637,Sales Invoice,2026-07-02,Vantage Telecom,Standard Rated 5%,32149.82,0.05,1607.49,33757.31
+SI-5638,Sales Invoice,2026-07-06,Apex Manufacturing,Standard Rated 5%,58521.07,0.05,2926.05,61447.12
+SI-5639,Sales Invoice,2026-07-24,Keystone Energy,Standard Rated 5%,38797.72,0.05,1939.89,40737.61
+SI-5640,Sales Invoice,2026-07-22,Meridian Health Group,Zero Rated,63063.86,0.0,0.0,63063.86
+SI-5641,Sales Invoice,2026-07-21,Vantage Telecom,Standard Rated 5%,57523.12,0.05,2876.16,60399.28
+SI-5642,Sales Invoice,2026-07-06,Zenith Media,Standard Rated 5%,71397.57,0.05,3569.88,74967.45
+SI-5643,Sales Invoice,2026-07-20,Ironclad Public Utilities,Standard Rated 5%,75270.89,0.05,3763.54,79034.43
+SI-5644,Sales Invoice,2026-07-11,Solstice Retail Co,Standard Rated 5%,4222.45,0.05,211.12,4433.57
+SI-5645,Sales Invoice,2026-07-06,Vantage Telecom,Standard Rated 5%,47714.94,0.05,2385.75,50100.69
+SI-5646,Sales Invoice,2026-07-02,Solstice Retail Co,Standard Rated 5%,7833.26,0.05,391.66,8224.92
+SI-5647,Sales Invoice,2026-07-05,Keystone Energy,Zero Rated,15459.02,0.0,0.0,15459.02
+SI-5648,Sales Invoice,2026-07-15,Coral Bay Hospitality,Standard Rated 5%,63365.47,0.05,3168.27,66533.74
+SI-5649,Sales Invoice,2026-07-25,Willow Pharma,Standard Rated 5%,20546.63,0.05,1027.33,21573.96
+SI-5650,Sales Invoice,2026-07-18,Northbridge Bank,Standard Rated 5%,30032.54,0.05,1501.63,31534.17
+SI-5651,Sales Invoice,2026-07-18,CedarPoint Logistics,Zero Rated,70915.77,0.0,0.0,70915.77
+SI-5652,Sales Invoice,2026-07-18,Keystone Energy,Zero Rated,75825.02,0.0,0.0,75825.02
+SI-5653,Sales Invoice,2026-07-07,Keystone Energy,Standard Rated 5%,9654.7,0.05,482.74,10137.44
+SI-5654,Sales Invoice,2026-07-17,Solstice Retail Co,Standard Rated 5%,67060.23,0.05,3353.01,70413.24
+SI-5655,Sales Invoice,2026-07-06,Zenith Media,Standard Rated 5%,91358.7,0.05,4567.94,95926.64
+SI-5656,Sales Invoice,2026-07-10,BlueHarbor Financial,Exempt,54359.97,0.0,0.0,54359.97
+SI-5657,Sales Invoice,2026-07-12,Horizon Insurance,Standard Rated 5%,68035.65,0.05,3401.78,71437.43
+SI-5658,Sales Invoice,2026-07-24,Coral Bay Hospitality,Exempt,33488.0,0.0,0.0,33488.0
+SI-5659,Sales Invoice,2026-07-01,Keystone Energy,Standard Rated 5%,48687.33,0.05,2434.37,51121.7
+SI-5660,Sales Invoice,2026-07-23,Zenith Media,Exempt,41942.99,0.0,0.0,41942.99
+SI-5661,Sales Invoice,2026-07-27,Zenith Media,Standard Rated 5%,62852.65,0.05,3142.63,65995.28
+SI-5662,Sales Invoice,2026-07-21,Horizon Insurance,Zero Rated,18162.47,0.0,0.0,18162.47
+SI-5663,Sales Invoice,2026-07-15,Horizon Insurance,Standard Rated 5%,20096.45,0.05,1004.82,21101.27
+SI-5664,Sales Invoice,2026-07-23,Vantage Telecom,Zero Rated,54060.22,0.0,0.0,54060.22
+SI-5665,Sales Invoice,2026-07-18,Horizon Insurance,Zero Rated,49028.44,0.0,0.0,49028.44
+SI-5666,Sales Invoice,2026-07-26,Horizon Insurance,Standard Rated 5%,44178.21,0.05,2208.91,46387.12
+SI-5667,Sales Invoice,2026-07-11,Willow Pharma,Exempt,28805.2,0.0,0.0,28805.2
+SI-5668,Sales Invoice,2026-07-28,Apex Manufacturing,Zero Rated,45691.49,0.0,0.0,45691.49
+SI-5669,Sales Invoice,2026-07-20,Northbridge Bank,Standard Rated 5%,11863.37,0.05,593.17,12456.54
+SI-5670,Sales Invoice,2026-07-05,Coral Bay Hospitality,Zero Rated,59206.4,0.0,0.0,59206.4
+SI-5671,Sales Invoice,2026-07-17,Coral Bay Hospitality,Standard Rated 5%,18110.75,0.05,905.54,19016.29
+SI-5672,Sales Invoice,2026-07-26,Northbridge Bank,Exempt,16406.11,0.0,0.0,16406.11
+SI-5673,Sales Invoice,2026-07-03,Solstice Retail Co,Standard Rated 5%,66518.58,0.05,3325.93,69844.51
+SI-5674,Sales Invoice,2026-07-15,Willow Pharma,Standard Rated 5%,27401.33,0.05,1370.07,28771.4
+SI-5675,Sales Invoice,2026-07-28,Northbridge Bank,Standard Rated 5%,35085.61,0.05,1754.28,36839.89
+SI-5676,Sales Invoice,2026-07-14,Apex Manufacturing,Standard Rated 5%,62738.11,0.05,3136.91,65875.02
+SI-5677,Sales Invoice,2026-07-23,Northbridge Bank,Standard Rated 5%,39234.52,0.05,1961.73,41196.25
+PI-5678,Purchase Invoice,2026-07-07,Continental Consulting FZE,Zero Rated,938.84,0.0,0.0,938.84
+PI-5679,Purchase Invoice,2026-07-16,Emirates IT Solutions,Standard Rated 5%,16186.95,0.05,809.35,16996.3
+PI-5680,Purchase Invoice,2026-07-05,Prime Cloud Hosting LLC,Standard Rated 5%,26893.06,0.05,1344.65,28237.71
+PI-5681,Purchase Invoice,2026-07-04,Sharjah Print & Design,Exempt,22233.41,0.0,0.0,22233.41
+PI-5682,Purchase Invoice,2026-07-22,Dubai Facilities Mgmt,Standard Rated 5%,6041.75,0.05,302.09,6343.84
+PI-5683,Purchase Invoice,2026-07-22,DEWA,Standard Rated 5%,41293.74,0.05,2064.69,43358.43
+PI-5684,Purchase Invoice,2026-07-26,Etisalat Business,Standard Rated 5%,35295.88,0.05,1764.79,37060.67
+PI-5685,Purchase Invoice,2026-07-03,Al Futtaim Office Supplies,Standard Rated 5%,24437.24,0.05,1221.86,25659.1
+PI-5686,Purchase Invoice,2026-07-18,Prime Cloud Hosting LLC,Zero Rated,28757.91,0.0,0.0,28757.91
+PI-5687,Purchase Invoice,2026-07-23,Al Futtaim Office Supplies,Zero Rated,18759.67,0.0,0.0,18759.67
+PI-5688,Purchase Invoice,2026-07-17,Emirates IT Solutions,Zero Rated,548.75,0.0,0.0,548.75
+PI-5689,Purchase Invoice,2026-07-04,Al Naboodah Logistics,Zero Rated,36697.24,0.0,0.0,36697.24
+PI-5690,Purchase Invoice,2026-07-15,DEWA,Standard Rated 5%,2135.5,0.05,106.78,2242.28
+PI-5691,Purchase Invoice,2026-07-10,Emirates IT Solutions,Standard Rated 5%,20058.77,0.05,1002.94,21061.71
+PI-5692,Purchase Invoice,2026-07-14,Al Futtaim Office Supplies,Standard Rated 5%,9882.69,0.05,494.13,10376.82
+PI-5693,Purchase Invoice,2026-07-15,Continental Consulting FZE,Exempt,15979.09,0.0,0.0,15979.09
+PI-5694,Purchase Invoice,2026-07-05,Prime Cloud Hosting LLC,Standard Rated 5%,19299.99,0.05,965.0,20264.99
+PI-5695,Purchase Invoice,2026-07-02,Etisalat Business,Standard Rated 5%,3954.36,0.05,197.72,4152.08
+PI-5696,Purchase Invoice,2026-07-27,DEWA,Standard Rated 5%,4301.02,0.05,215.05,4516.07
+PI-5697,Purchase Invoice,2026-07-16,Prime Cloud Hosting LLC,Standard Rated 5%,2626.53,0.05,131.33,2757.86
+PI-5698,Purchase Invoice,2026-07-24,Al Futtaim Office Supplies,Standard Rated 5%,21099.03,0.05,1054.95,22153.98
+PI-5699,Purchase Invoice,2026-07-01,DEWA,Standard Rated 5%,30650.28,0.05,1532.51,32182.79
+PI-5700,Purchase Invoice,2026-07-22,DEWA,Standard Rated 5%,6666.79,0.05,333.34,7000.13
+PI-5701,Purchase Invoice,2026-07-22,Etisalat Business,Exempt,20152.55,0.0,0.0,20152.55
+PI-5702,Purchase Invoice,2026-07-03,Gulf Marketing Agency,Exempt,7788.45,0.0,0.0,7788.45
+PI-5703,Purchase Invoice,2026-07-16,Al Futtaim Office Supplies,Standard Rated 5%,26234.32,0.05,1311.72,27546.04
+PI-5704,Purchase Invoice,2026-07-16,DEWA,Exempt,33308.07,0.0,0.0,33308.07
+PI-5705,Purchase Invoice,2026-07-21,Etisalat Business,Zero Rated,28489.21,0.0,0.0,28489.21
+PI-5706,Purchase Invoice,2026-07-14,DEWA,Standard Rated 5%,36528.48,0.05,1826.42,38354.9
+PI-5707,Purchase Invoice,2026-07-15,DEWA,Exempt,36483.33,0.0,0.0,36483.33
+PI-5708,Purchase Invoice,2026-07-06,Etisalat Business,Standard Rated 5%,35003.79,0.05,1750.19,36753.98
+PI-5709,Purchase Invoice,2026-07-22,DEWA,Standard Rated 5%,16418.48,0.05,820.92,17239.4
+PI-5710,Purchase Invoice,2026-07-06,Prime Cloud Hosting LLC,Standard Rated 5%,28261.39,0.05,1413.07,29674.46
+PI-5711,Purchase Invoice,2026-07-10,Al Futtaim Office Supplies,Standard Rated 5%,3960.3,0.05,198.02,4158.32
+PI-5712,Purchase Invoice,2026-07-07,Emirates IT Solutions,Standard Rated 5%,32810.25,0.05,1640.51,34450.76
+PI-5713,Purchase Invoice,2026-07-26,Sharjah Print & Design,Standard Rated 5%,2133.0,0.05,106.65,2239.65
+PI-5714,Purchase Invoice,2026-07-07,DEWA,Standard Rated 5%,37868.95,0.05,1893.45,39762.4
+PI-5715,Purchase Invoice,2026-07-20,Gulf Marketing Agency,Zero Rated,39403.42,0.0,0.0,39403.42
+SI-5716,Sales Invoice,2026-08-26,Vantage Telecom,Zero Rated,75836.74,0.0,0.0,75836.74
+SI-5717,Sales Invoice,2026-08-25,Granite Construction Group,Standard Rated 5%,71481.83,0.05,3574.09,75055.92
+SI-5718,Sales Invoice,2026-08-18,Granite Construction Group,Exempt,44703.27,0.0,0.0,44703.27
+SI-5719,Sales Invoice,2026-08-01,Meridian Health Group,Standard Rated 5%,73808.15,0.05,3690.41,77498.56
+SI-5720,Sales Invoice,2026-08-16,Zenith Media,Zero Rated,33140.99,0.0,0.0,33140.99
+SI-5721,Sales Invoice,2026-08-15,Granite Construction Group,Standard Rated 5%,77558.44,0.05,3877.92,81436.36
+SI-5722,Sales Invoice,2026-08-26,Horizon Insurance,Exempt,63814.23,0.0,0.0,63814.23
+SI-5723,Sales Invoice,2026-08-24,CedarPoint Logistics,Zero Rated,31142.99,0.0,0.0,31142.99
+SI-5724,Sales Invoice,2026-08-09,BlueHarbor Financial,Zero Rated,50331.73,0.0,0.0,50331.73
+SI-5725,Sales Invoice,2026-08-17,Horizon Insurance,Exempt,59716.98,0.0,0.0,59716.98
+SI-5726,Sales Invoice,2026-08-26,Northbridge Bank,Standard Rated 5%,90996.24,0.05,4549.81,95546.05
+SI-5727,Sales Invoice,2026-08-10,CedarPoint Logistics,Zero Rated,40469.87,0.0,0.0,40469.87
+SI-5728,Sales Invoice,2026-08-15,Willow Pharma,Standard Rated 5%,65319.48,0.05,3265.97,68585.45
+SI-5729,Sales Invoice,2026-08-19,Horizon Insurance,Standard Rated 5%,34093.79,0.05,1704.69,35798.48
+SI-5730,Sales Invoice,2026-08-07,Ironclad Public Utilities,Exempt,54763.54,0.0,0.0,54763.54
+SI-5731,Sales Invoice,2026-08-08,Solstice Retail Co,Standard Rated 5%,38023.57,0.05,1901.18,39924.75
+SI-5732,Sales Invoice,2026-08-24,CedarPoint Logistics,Standard Rated 5%,92635.3,0.05,4631.77,97267.07
+SI-5733,Sales Invoice,2026-08-04,Ironclad Public Utilities,Standard Rated 5%,12842.58,0.05,642.13,13484.71
+SI-5734,Sales Invoice,2026-08-17,Meridian Health Group,Standard Rated 5%,86905.01,0.05,4345.25,91250.26
+SI-5735,Sales Invoice,2026-08-09,CedarPoint Logistics,Standard Rated 5%,91556.55,0.05,4577.83,96134.38
+SI-5736,Sales Invoice,2026-08-20,BlueHarbor Financial,Standard Rated 5%,85633.16,0.05,4281.66,89914.82
+SI-5737,Sales Invoice,2026-08-27,Coral Bay Hospitality,Standard Rated 5%,58277.34,0.05,2913.87,61191.21
+SI-5738,Sales Invoice,2026-08-27,Solstice Retail Co,Standard Rated 5%,26091.42,0.05,1304.57,27395.99
+SI-5739,Sales Invoice,2026-08-22,Ironclad Public Utilities,Standard Rated 5%,14718.39,0.05,735.92,15454.31
+SI-5740,Sales Invoice,2026-08-15,Vantage Telecom,Standard Rated 5%,78504.82,0.05,3925.24,82430.06
+SI-5741,Sales Invoice,2026-08-23,Willow Pharma,Standard Rated 5%,63225.93,0.05,3161.3,66387.23
+SI-5742,Sales Invoice,2026-08-25,Keystone Energy,Zero Rated,4756.59,0.0,0.0,4756.59
+SI-5743,Sales Invoice,2026-08-28,Northbridge Bank,Standard Rated 5%,17449.5,0.05,872.48,18321.98
+SI-5744,Sales Invoice,2026-08-20,BlueHarbor Financial,Standard Rated 5%,18092.56,0.05,904.63,18997.19
+SI-5745,Sales Invoice,2026-08-28,Apex Manufacturing,Standard Rated 5%,4787.32,0.05,239.37,5026.69
+SI-5746,Sales Invoice,2026-08-06,CedarPoint Logistics,Standard Rated 5%,53745.05,0.05,2687.25,56432.3
+SI-5747,Sales Invoice,2026-08-16,Zenith Media,Exempt,51050.79,0.0,0.0,51050.79
+SI-5748,Sales Invoice,2026-08-23,Keystone Energy,Zero Rated,82666.14,0.0,0.0,82666.14
+SI-5749,Sales Invoice,2026-08-28,Ironclad Public Utilities,Standard Rated 5%,92123.09,0.05,4606.15,96729.24
+SI-5750,Sales Invoice,2026-08-22,Granite Construction Group,Standard Rated 5%,46813.71,0.05,2340.69,49154.4
+SI-5751,Sales Invoice,2026-08-09,Horizon Insurance,Exempt,70324.8,0.0,0.0,70324.8
+SI-5752,Sales Invoice,2026-08-10,Apex Manufacturing,Standard Rated 5%,39180.28,0.05,1959.01,41139.29
+SI-5753,Sales Invoice,2026-08-15,Solstice Retail Co,Exempt,26559.5,0.0,0.0,26559.5
+SI-5754,Sales Invoice,2026-08-09,Meridian Health Group,Zero Rated,69616.3,0.0,0.0,69616.3
+SI-5755,Sales Invoice,2026-08-06,Falcon Aerospace,Zero Rated,93786.66,0.0,0.0,93786.66
+SI-5756,Sales Invoice,2026-08-15,Meridian Health Group,Standard Rated 5%,43109.99,0.05,2155.5,45265.49
+SI-5757,Sales Invoice,2026-08-02,Solstice Retail Co,Zero Rated,34571.36,0.0,0.0,34571.36
+SI-5758,Sales Invoice,2026-08-05,Granite Construction Group,Standard Rated 5%,35316.48,0.05,1765.82,37082.3
+SI-5759,Sales Invoice,2026-08-28,Ironclad Public Utilities,Standard Rated 5%,42567.92,0.05,2128.4,44696.32
+SI-5760,Sales Invoice,2026-08-17,Zenith Media,Standard Rated 5%,60390.29,0.05,3019.51,63409.8
+SI-5761,Sales Invoice,2026-08-18,Coral Bay Hospitality,Exempt,45404.64,0.0,0.0,45404.64
+SI-5762,Sales Invoice,2026-08-11,Coral Bay Hospitality,Zero Rated,89604.45,0.0,0.0,89604.45
+SI-5763,Sales Invoice,2026-08-09,Horizon Insurance,Standard Rated 5%,33974.44,0.05,1698.72,35673.16
+SI-5764,Sales Invoice,2026-08-03,Keystone Energy,Zero Rated,73022.74,0.0,0.0,73022.74
+SI-5765,Sales Invoice,2026-08-20,Vantage Telecom,Standard Rated 5%,4388.7,0.05,219.44,4608.14
+SI-5766,Sales Invoice,2026-08-19,Keystone Energy,Standard Rated 5%,69705.98,0.05,3485.3,73191.28
+SI-5767,Sales Invoice,2026-08-01,Willow Pharma,Standard Rated 5%,41851.35,0.05,2092.57,43943.92
+SI-5768,Sales Invoice,2026-08-14,Willow Pharma,Standard Rated 5%,91593.05,0.05,4579.65,96172.7
+SI-5769,Sales Invoice,2026-08-03,Solstice Retail Co,Zero Rated,34291.29,0.0,0.0,34291.29
+SI-5770,Sales Invoice,2026-08-13,Willow Pharma,Exempt,23000.33,0.0,0.0,23000.33
+SI-5771,Sales Invoice,2026-08-01,Keystone Energy,Standard Rated 5%,50949.86,0.05,2547.49,53497.35
+SI-5772,Sales Invoice,2026-08-27,Meridian Health Group,Standard Rated 5%,80466.96,0.05,4023.35,84490.31
+SI-5773,Sales Invoice,2026-08-16,Coral Bay Hospitality,Standard Rated 5%,75673.96,0.05,3783.7,79457.66
+SI-5774,Sales Invoice,2026-08-26,Ironclad Public Utilities,Standard Rated 5%,42395.84,0.05,2119.79,44515.63
+SI-5775,Sales Invoice,2026-08-03,Falcon Aerospace,Standard Rated 5%,41048.24,0.05,2052.41,43100.65
+SI-5776,Sales Invoice,2026-08-13,CedarPoint Logistics,Standard Rated 5%,54448.98,0.05,2722.45,57171.43
+SI-5777,Sales Invoice,2026-08-08,Solstice Retail Co,Standard Rated 5%,67811.98,0.05,3390.6,71202.58
+SI-5778,Sales Invoice,2026-08-26,Zenith Media,Standard Rated 5%,91914.0,0.05,4595.7,96509.7
+SI-5779,Sales Invoice,2026-08-11,Apex Manufacturing,Standard Rated 5%,63808.01,0.05,3190.4,66998.41
+SI-5780,Sales Invoice,2026-08-28,Ironclad Public Utilities,Standard Rated 5%,51179.86,0.05,2558.99,53738.85
+SI-5781,Sales Invoice,2026-08-02,CedarPoint Logistics,Standard Rated 5%,13294.57,0.05,664.73,13959.3
+SI-5782,Sales Invoice,2026-08-10,Solstice Retail Co,Standard Rated 5%,44905.47,0.05,2245.27,47150.74
+SI-5783,Sales Invoice,2026-08-27,Vantage Telecom,Standard Rated 5%,8810.04,0.05,440.5,9250.54
+SI-5784,Sales Invoice,2026-08-21,Apex Manufacturing,Standard Rated 5%,77566.79,0.05,3878.34,81445.13
+SI-5785,Sales Invoice,2026-08-14,Willow Pharma,Zero Rated,10133.93,0.0,0.0,10133.93
+PI-5786,Purchase Invoice,2026-08-28,Dubai Facilities Mgmt,Standard Rated 5%,12877.44,0.05,643.87,13521.31
+PI-5787,Purchase Invoice,2026-08-03,DEWA,Standard Rated 5%,8304.2,0.05,415.21,8719.41
+PI-5788,Purchase Invoice,2026-08-07,Emirates IT Solutions,Standard Rated 5%,26460.05,0.05,1323.0,27783.05
+PI-5789,Purchase Invoice,2026-08-28,Continental Consulting FZE,Standard Rated 5%,20899.02,0.05,1044.95,21943.97
+PI-5790,Purchase Invoice,2026-08-18,Dubai Facilities Mgmt,Zero Rated,38019.27,0.0,0.0,38019.27
+PI-5791,Purchase Invoice,2026-08-11,Al Futtaim Office Supplies,Standard Rated 5%,17772.15,0.05,888.61,18660.76
+PI-5792,Purchase Invoice,2026-08-17,Etisalat Business,Standard Rated 5%,26337.19,0.05,1316.86,27654.05
+PI-5793,Purchase Invoice,2026-08-08,DEWA,Zero Rated,17155.6,0.0,0.0,17155.6
+PI-5794,Purchase Invoice,2026-08-27,DEWA,Standard Rated 5%,14033.29,0.05,701.66,14734.95
+PI-5795,Purchase Invoice,2026-08-01,Etisalat Business,Standard Rated 5%,22199.74,0.05,1109.99,23309.73
+PI-5796,Purchase Invoice,2026-08-06,Dubai Facilities Mgmt,Zero Rated,28747.47,0.0,0.0,28747.47
+PI-5797,Purchase Invoice,2026-08-06,DEWA,Standard Rated 5%,3655.1,0.05,182.75,3837.85
+PI-5798,Purchase Invoice,2026-08-19,Continental Consulting FZE,Zero Rated,16320.87,0.0,0.0,16320.87
+PI-5799,Purchase Invoice,2026-08-20,Al Futtaim Office Supplies,Standard Rated 5%,35118.52,0.05,1755.93,36874.45
+PI-5800,Purchase Invoice,2026-08-23,Etisalat Business,Standard Rated 5%,24957.28,0.05,1247.86,26205.14
+PI-5801,Purchase Invoice,2026-08-06,Prime Cloud Hosting LLC,Zero Rated,32088.96,0.0,0.0,32088.96
+PI-5802,Purchase Invoice,2026-08-23,Continental Consulting FZE,Zero Rated,37458.29,0.0,0.0,37458.29
+PI-5803,Purchase Invoice,2026-08-02,Continental Consulting FZE,Standard Rated 5%,19133.81,0.05,956.69,20090.5
+PI-5804,Purchase Invoice,2026-08-03,DEWA,Standard Rated 5%,2344.92,0.05,117.25,2462.17
+PI-5805,Purchase Invoice,2026-08-18,Gulf Marketing Agency,Standard Rated 5%,34301.39,0.05,1715.07,36016.46
+PI-5806,Purchase Invoice,2026-08-24,Continental Consulting FZE,Zero Rated,4283.59,0.0,0.0,4283.59
+PI-5807,Purchase Invoice,2026-08-01,Dubai Facilities Mgmt,Standard Rated 5%,31450.37,0.05,1572.52,33022.89
+PI-5808,Purchase Invoice,2026-08-17,Gulf Marketing Agency,Standard Rated 5%,39702.78,0.05,1985.14,41687.92
+PI-5809,Purchase Invoice,2026-08-15,Al Naboodah Logistics,Standard Rated 5%,5761.2,0.05,288.06,6049.26
+PI-5810,Purchase Invoice,2026-08-14,Sharjah Print & Design,Zero Rated,16651.76,0.0,0.0,16651.76
+PI-5811,Purchase Invoice,2026-08-05,Continental Consulting FZE,Standard Rated 5%,8225.33,0.05,411.27,8636.6
+PI-5812,Purchase Invoice,2026-08-01,Continental Consulting FZE,Zero Rated,31159.41,0.0,0.0,31159.41
+PI-5813,Purchase Invoice,2026-08-16,Gulf Marketing Agency,Standard Rated 5%,761.12,0.05,38.06,799.18
+PI-5814,Purchase Invoice,2026-08-09,Sharjah Print & Design,Zero Rated,9899.61,0.0,0.0,9899.61
+PI-5815,Purchase Invoice,2026-08-01,Sharjah Print & Design,Standard Rated 5%,40198.4,0.05,2009.92,42208.32
+PI-5816,Purchase Invoice,2026-08-08,Al Naboodah Logistics,Standard Rated 5%,28132.28,0.05,1406.61,29538.89
+PI-5817,Purchase Invoice,2026-08-12,Gulf Marketing Agency,Standard Rated 5%,26965.66,0.05,1348.28,28313.94
+PI-5818,Purchase Invoice,2026-08-14,DEWA,Zero Rated,10572.79,0.0,0.0,10572.79
+PI-5819,Purchase Invoice,2026-08-05,Dubai Facilities Mgmt,Standard Rated 5%,40092.65,0.05,2004.63,42097.28
+PI-5820,Purchase Invoice,2026-08-25,Sharjah Print & Design,Zero Rated,27239.14,0.0,0.0,27239.14
+PI-5821,Purchase Invoice,2026-08-07,Al Futtaim Office Supplies,Standard Rated 5%,11069.62,0.05,553.48,11623.1
+PI-5822,Purchase Invoice,2026-08-19,DEWA,Zero Rated,15292.79,0.0,0.0,15292.79
+PI-5823,Purchase Invoice,2026-08-05,Sharjah Print & Design,Standard Rated 5%,3027.17,0.05,151.36,3178.53
+PI-5824,Purchase Invoice,2026-08-22,Sharjah Print & Design,Standard Rated 5%,31436.76,0.05,1571.84,33008.6
+PI-5825,Purchase Invoice,2026-08-27,Dubai Facilities Mgmt,Standard Rated 5%,23356.16,0.05,1167.81,24523.97
+PI-5826,Purchase Invoice,2026-08-06,Sharjah Print & Design,Standard Rated 5%,13455.16,0.05,672.76,14127.92
+PI-5827,Purchase Invoice,2026-08-05,Etisalat Business,Standard Rated 5%,32177.04,0.05,1608.85,33785.89
+SI-5828,Sales Invoice,2026-09-14,CedarPoint Logistics,Standard Rated 5%,30422.19,0.05,1521.11,31943.3
+SI-5829,Sales Invoice,2026-09-23,Coral Bay Hospitality,Exempt,70106.52,0.0,0.0,70106.52
+SI-5830,Sales Invoice,2026-09-26,Falcon Aerospace,Standard Rated 5%,93280.46,0.05,4664.02,97944.48
+SI-5831,Sales Invoice,2026-09-10,Apex Manufacturing,Zero Rated,63080.75,0.0,0.0,63080.75
+SI-5832,Sales Invoice,2026-09-18,Meridian Health Group,Standard Rated 5%,41816.78,0.05,2090.84,43907.62
+SI-5833,Sales Invoice,2026-09-19,Coral Bay Hospitality,Standard Rated 5%,36731.35,0.05,1836.57,38567.92
+SI-5834,Sales Invoice,2026-09-21,BlueHarbor Financial,Standard Rated 5%,40375.51,0.05,2018.78,42394.29
+SI-5835,Sales Invoice,2026-09-27,Apex Manufacturing,Standard Rated 5%,52015.55,0.05,2600.78,54616.33
+SI-5836,Sales Invoice,2026-09-01,Granite Construction Group,Standard Rated 5%,38590.34,0.05,1929.52,40519.86
+SI-5837,Sales Invoice,2026-09-09,Horizon Insurance,Standard Rated 5%,50855.83,0.05,2542.79,53398.62
+SI-5838,Sales Invoice,2026-09-08,Willow Pharma,Standard Rated 5%,49450.96,0.05,2472.55,51923.51
+SI-5839,Sales Invoice,2026-09-20,Vantage Telecom,Standard Rated 5%,68762.47,0.05,3438.12,72200.59
+SI-5840,Sales Invoice,2026-09-06,Zenith Media,Standard Rated 5%,91800.69,0.05,4590.03,96390.72
+SI-5841,Sales Invoice,2026-09-12,Horizon Insurance,Zero Rated,58808.18,0.0,0.0,58808.18
+SI-5842,Sales Invoice,2026-09-15,Coral Bay Hospitality,Zero Rated,87539.8,0.0,0.0,87539.8
+SI-5843,Sales Invoice,2026-09-14,Northbridge Bank,Standard Rated 5%,63990.43,0.05,3199.52,67189.95
+SI-5844,Sales Invoice,2026-09-20,Keystone Energy,Standard Rated 5%,25762.82,0.05,1288.14,27050.96
+SI-5845,Sales Invoice,2026-09-19,Horizon Insurance,Standard Rated 5%,57024.22,0.05,2851.21,59875.43
+SI-5846,Sales Invoice,2026-09-14,Falcon Aerospace,Standard Rated 5%,91258.72,0.05,4562.94,95821.66
+SI-5847,Sales Invoice,2026-09-01,Horizon Insurance,Standard Rated 5%,48425.26,0.05,2421.26,50846.52
+SI-5848,Sales Invoice,2026-09-07,Falcon Aerospace,Zero Rated,58112.23,0.0,0.0,58112.23
+SI-5849,Sales Invoice,2026-09-23,Northbridge Bank,Standard Rated 5%,15718.39,0.05,785.92,16504.31
+SI-5850,Sales Invoice,2026-09-08,Northbridge Bank,Standard Rated 5%,82210.37,0.05,4110.52,86320.89
+SI-5851,Sales Invoice,2026-09-04,Ironclad Public Utilities,Zero Rated,6633.16,0.0,0.0,6633.16
+SI-5852,Sales Invoice,2026-09-28,Vantage Telecom,Zero Rated,49390.71,0.0,0.0,49390.71
+SI-5853,Sales Invoice,2026-09-08,Granite Construction Group,Standard Rated 5%,17084.05,0.05,854.2,17938.25
+SI-5854,Sales Invoice,2026-09-20,Vantage Telecom,Standard Rated 5%,42611.15,0.05,2130.56,44741.71
+SI-5855,Sales Invoice,2026-09-18,Northbridge Bank,Standard Rated 5%,85089.42,0.05,4254.47,89343.89
+SI-5856,Sales Invoice,2026-09-22,Granite Construction Group,Standard Rated 5%,7475.37,0.05,373.77,7849.14
+SI-5857,Sales Invoice,2026-09-07,Northbridge Bank,Standard Rated 5%,37303.75,0.05,1865.19,39168.94
+SI-5858,Sales Invoice,2026-09-26,Vantage Telecom,Zero Rated,29498.52,0.0,0.0,29498.52
+SI-5859,Sales Invoice,2026-09-01,Vantage Telecom,Standard Rated 5%,40736.72,0.05,2036.84,42773.56
+SI-5860,Sales Invoice,2026-09-17,Solstice Retail Co,Zero Rated,48681.2,0.0,0.0,48681.2
+SI-5861,Sales Invoice,2026-09-11,Granite Construction Group,Zero Rated,10449.88,0.0,0.0,10449.88
+SI-5862,Sales Invoice,2026-09-14,Keystone Energy,Standard Rated 5%,37289.1,0.05,1864.45,39153.55
+SI-5863,Sales Invoice,2026-09-23,Falcon Aerospace,Exempt,37496.27,0.0,0.0,37496.27
+SI-5864,Sales Invoice,2026-09-10,Keystone Energy,Exempt,64768.51,0.0,0.0,64768.51
+SI-5865,Sales Invoice,2026-09-11,CedarPoint Logistics,Zero Rated,34997.02,0.0,0.0,34997.02
+SI-5866,Sales Invoice,2026-09-12,Ironclad Public Utilities,Exempt,37747.67,0.0,0.0,37747.67
+SI-5867,Sales Invoice,2026-09-21,Northbridge Bank,Standard Rated 5%,33503.12,0.05,1675.16,35178.28
+SI-5868,Sales Invoice,2026-09-23,Vantage Telecom,Standard Rated 5%,16194.34,0.05,809.72,17004.06
+SI-5869,Sales Invoice,2026-09-10,Falcon Aerospace,Standard Rated 5%,44323.05,0.05,2216.15,46539.2
+SI-5870,Sales Invoice,2026-09-27,Coral Bay Hospitality,Standard Rated 5%,83655.19,0.05,4182.76,87837.95
+SI-5871,Sales Invoice,2026-09-20,Horizon Insurance,Standard Rated 5%,54882.72,0.05,2744.14,57626.86
+SI-5872,Sales Invoice,2026-09-05,CedarPoint Logistics,Standard Rated 5%,66760.77,0.05,3338.04,70098.81
+SI-5873,Sales Invoice,2026-09-02,Willow Pharma,Standard Rated 5%,17050.51,0.05,852.53,17903.04
+SI-5874,Sales Invoice,2026-09-17,Apex Manufacturing,Zero Rated,62716.63,0.0,0.0,62716.63
+SI-5875,Sales Invoice,2026-09-11,Solstice Retail Co,Standard Rated 5%,39886.54,0.05,1994.33,41880.87
+SI-5876,Sales Invoice,2026-09-23,Meridian Health Group,Standard Rated 5%,59533.51,0.05,2976.68,62510.19
+SI-5877,Sales Invoice,2026-09-12,Solstice Retail Co,Standard Rated 5%,31242.62,0.05,1562.13,32804.75
+SI-5878,Sales Invoice,2026-09-11,Apex Manufacturing,Standard Rated 5%,68658.46,0.05,3432.92,72091.38
+SI-5879,Sales Invoice,2026-09-02,Solstice Retail Co,Standard Rated 5%,77148.62,0.05,3857.43,81006.05
+SI-5880,Sales Invoice,2026-09-13,Granite Construction Group,Standard Rated 5%,47096.17,0.05,2354.81,49450.98
+SI-5881,Sales Invoice,2026-09-15,Granite Construction Group,Exempt,84235.42,0.0,0.0,84235.42
+SI-5882,Sales Invoice,2026-09-25,Vantage Telecom,Standard Rated 5%,50673.07,0.05,2533.65,53206.72
+SI-5883,Sales Invoice,2026-09-02,Coral Bay Hospitality,Standard Rated 5%,31316.88,0.05,1565.84,32882.72
+SI-5884,Sales Invoice,2026-09-08,Vantage Telecom,Standard Rated 5%,66171.38,0.05,3308.57,69479.95
+SI-5885,Sales Invoice,2026-09-24,Solstice Retail Co,Standard Rated 5%,75505.43,0.05,3775.27,79280.7
+SI-5886,Sales Invoice,2026-09-23,Horizon Insurance,Standard Rated 5%,4874.23,0.05,243.71,5117.94
+SI-5887,Sales Invoice,2026-09-25,Solstice Retail Co,Exempt,22225.03,0.0,0.0,22225.03
+SI-5888,Sales Invoice,2026-09-27,BlueHarbor Financial,Standard Rated 5%,30350.1,0.05,1517.51,31867.61
+SI-5889,Sales Invoice,2026-09-03,Granite Construction Group,Standard Rated 5%,56404.58,0.05,2820.23,59224.81
+SI-5890,Sales Invoice,2026-09-02,Solstice Retail Co,Standard Rated 5%,78869.4,0.05,3943.47,82812.87
+PI-5891,Purchase Invoice,2026-09-11,Dubai Facilities Mgmt,Standard Rated 5%,20345.1,0.05,1017.25,21362.35
+PI-5892,Purchase Invoice,2026-09-01,Prime Cloud Hosting LLC,Exempt,3036.92,0.0,0.0,3036.92
+PI-5893,Purchase Invoice,2026-09-09,Etisalat Business,Zero Rated,25722.96,0.0,0.0,25722.96
+PI-5894,Purchase Invoice,2026-09-21,Emirates IT Solutions,Standard Rated 5%,33719.81,0.05,1685.99,35405.8
+PI-5895,Purchase Invoice,2026-09-14,Gulf Marketing Agency,Standard Rated 5%,13984.08,0.05,699.2,14683.28
+PI-5896,Purchase Invoice,2026-09-20,Al Futtaim Office Supplies,Standard Rated 5%,23478.06,0.05,1173.9,24651.96
+PI-5897,Purchase Invoice,2026-09-10,Emirates IT Solutions,Standard Rated 5%,8963.77,0.05,448.19,9411.96
+PI-5898,Purchase Invoice,2026-09-23,Gulf Marketing Agency,Standard Rated 5%,33743.35,0.05,1687.17,35430.52
+PI-5899,Purchase Invoice,2026-09-07,DEWA,Zero Rated,3349.28,0.0,0.0,3349.28
+PI-5900,Purchase Invoice,2026-09-06,Prime Cloud Hosting LLC,Exempt,18444.82,0.0,0.0,18444.82
+PI-5901,Purchase Invoice,2026-09-03,Sharjah Print & Design,Standard Rated 5%,23194.89,0.05,1159.74,24354.63
+PI-5902,Purchase Invoice,2026-09-27,Dubai Facilities Mgmt,Zero Rated,10427.49,0.0,0.0,10427.49
+PI-5903,Purchase Invoice,2026-09-05,Dubai Facilities Mgmt,Standard Rated 5%,32372.14,0.05,1618.61,33990.75
+PI-5904,Purchase Invoice,2026-09-23,Al Futtaim Office Supplies,Standard Rated 5%,26198.7,0.05,1309.94,27508.64
+PI-5905,Purchase Invoice,2026-09-08,Gulf Marketing Agency,Zero Rated,3968.69,0.0,0.0,3968.69
+PI-5906,Purchase Invoice,2026-09-28,Al Futtaim Office Supplies,Standard Rated 5%,12534.96,0.05,626.75,13161.71
+PI-5907,Purchase Invoice,2026-09-20,Etisalat Business,Zero Rated,1926.35,0.0,0.0,1926.35
+PI-5908,Purchase Invoice,2026-09-18,Continental Consulting FZE,Exempt,2605.68,0.0,0.0,2605.68
+PI-5909,Purchase Invoice,2026-09-22,Continental Consulting FZE,Standard Rated 5%,24503.42,0.05,1225.17,25728.59
+PI-5910,Purchase Invoice,2026-09-06,Al Naboodah Logistics,Standard Rated 5%,34097.13,0.05,1704.86,35801.99
+PI-5911,Purchase Invoice,2026-09-04,Gulf Marketing Agency,Standard Rated 5%,34716.82,0.05,1735.84,36452.66
+PI-5912,Purchase Invoice,2026-09-05,Prime Cloud Hosting LLC,Exempt,1998.16,0.0,0.0,1998.16
+PI-5913,Purchase Invoice,2026-09-13,Emirates IT Solutions,Standard Rated 5%,8476.02,0.05,423.8,8899.82
+PI-5914,Purchase Invoice,2026-09-05,Continental Consulting FZE,Standard Rated 5%,4405.16,0.05,220.26,4625.42
+PI-5915,Purchase Invoice,2026-09-21,Gulf Marketing Agency,Standard Rated 5%,37061.56,0.05,1853.08,38914.64
+PI-5916,Purchase Invoice,2026-09-10,Al Naboodah Logistics,Zero Rated,2734.13,0.0,0.0,2734.13
+PI-5917,Purchase Invoice,2026-09-28,Emirates IT Solutions,Zero Rated,4030.66,0.0,0.0,4030.66
+PI-5918,Purchase Invoice,2026-09-03,Gulf Marketing Agency,Zero Rated,37929.39,0.0,0.0,37929.39
+PI-5919,Purchase Invoice,2026-09-26,Prime Cloud Hosting LLC,Standard Rated 5%,37346.05,0.05,1867.3,39213.35
+PI-5920,Purchase Invoice,2026-09-27,Sharjah Print & Design,Standard Rated 5%,1984.24,0.05,99.21,2083.45
+PI-5921,Purchase Invoice,2026-09-07,Al Futtaim Office Supplies,Standard Rated 5%,10425.88,0.05,521.29,10947.17
+PI-5922,Purchase Invoice,2026-09-08,Dubai Facilities Mgmt,Standard Rated 5%,32182.86,0.05,1609.14,33792.0
+PI-5923,Purchase Invoice,2026-09-14,Etisalat Business,Standard Rated 5%,25086.0,0.05,1254.3,26340.3
+PI-5924,Purchase Invoice,2026-09-17,Al Futtaim Office Supplies,Zero Rated,3679.45,0.0,0.0,3679.45
+PI-5925,Purchase Invoice,2026-09-27,Sharjah Print & Design,Standard Rated 5%,14815.11,0.05,740.76,15555.87
+PI-5926,Purchase Invoice,2026-09-23,Sharjah Print & Design,Zero Rated,14890.23,0.0,0.0,14890.23
+PI-5927,Purchase Invoice,2026-09-21,Dubai Facilities Mgmt,Standard Rated 5%,29860.68,0.05,1493.03,31353.71
+SI-5928,Sales Invoice,2026-10-13,Solstice Retail Co,Standard Rated 5%,10846.99,0.05,542.35,11389.34
+SI-5929,Sales Invoice,2026-10-01,Granite Construction Group,Standard Rated 5%,14708.14,0.05,735.41,15443.55
+SI-5930,Sales Invoice,2026-10-21,Zenith Media,Standard Rated 5%,64254.47,0.05,3212.72,67467.19
+SI-5931,Sales Invoice,2026-10-28,Coral Bay Hospitality,Standard Rated 5%,12446.8,0.05,622.34,13069.14
+SI-5932,Sales Invoice,2026-10-23,Falcon Aerospace,Standard Rated 5%,32706.61,0.05,1635.33,34341.94
+SI-5933,Sales Invoice,2026-10-01,Granite Construction Group,Zero Rated,92866.39,0.0,0.0,92866.39
+SI-5934,Sales Invoice,2026-10-28,Vantage Telecom,Exempt,59696.69,0.0,0.0,59696.69
+SI-5935,Sales Invoice,2026-10-13,Granite Construction Group,Standard Rated 5%,9498.85,0.05,474.94,9973.79
+SI-5936,Sales Invoice,2026-10-12,Zenith Media,Zero Rated,6066.6,0.0,0.0,6066.6
+SI-5937,Sales Invoice,2026-10-20,Ironclad Public Utilities,Exempt,29565.12,0.0,0.0,29565.12
+SI-5938,Sales Invoice,2026-10-20,Zenith Media,Standard Rated 5%,40146.39,0.05,2007.32,42153.71
+SI-5939,Sales Invoice,2026-10-08,Vantage Telecom,Standard Rated 5%,93800.16,0.05,4690.01,98490.17
+SI-5940,Sales Invoice,2026-10-16,Vantage Telecom,Zero Rated,9393.13,0.0,0.0,9393.13
+SI-5941,Sales Invoice,2026-10-01,Meridian Health Group,Standard Rated 5%,51585.26,0.05,2579.26,54164.52
+SI-5942,Sales Invoice,2026-10-28,Granite Construction Group,Standard Rated 5%,56779.8,0.05,2838.99,59618.79
+SI-5943,Sales Invoice,2026-10-02,Keystone Energy,Standard Rated 5%,28965.69,0.05,1448.28,30413.97
+SI-5944,Sales Invoice,2026-10-06,Coral Bay Hospitality,Standard Rated 5%,22008.97,0.05,1100.45,23109.42
+SI-5945,Sales Invoice,2026-10-01,Vantage Telecom,Standard Rated 5%,23609.82,0.05,1180.49,24790.31
+SI-5946,Sales Invoice,2026-10-18,Granite Construction Group,Standard Rated 5%,34725.72,0.05,1736.29,36462.01
+SI-5947,Sales Invoice,2026-10-23,Granite Construction Group,Zero Rated,30676.89,0.0,0.0,30676.89
+SI-5948,Sales Invoice,2026-10-20,Coral Bay Hospitality,Zero Rated,54237.41,0.0,0.0,54237.41
+SI-5949,Sales Invoice,2026-10-11,Keystone Energy,Standard Rated 5%,26149.93,0.05,1307.5,27457.43
+SI-5950,Sales Invoice,2026-10-16,Ironclad Public Utilities,Standard Rated 5%,80506.39,0.05,4025.32,84531.71
+SI-5951,Sales Invoice,2026-10-11,Solstice Retail Co,Standard Rated 5%,51738.5,0.05,2586.93,54325.43
+SI-5952,Sales Invoice,2026-10-05,Keystone Energy,Zero Rated,80300.52,0.0,0.0,80300.52
+SI-5953,Sales Invoice,2026-10-11,Falcon Aerospace,Standard Rated 5%,54087.28,0.05,2704.36,56791.64
+SI-5954,Sales Invoice,2026-10-28,Willow Pharma,Standard Rated 5%,36402.44,0.05,1820.12,38222.56
+SI-5955,Sales Invoice,2026-10-04,Meridian Health Group,Standard Rated 5%,60438.76,0.05,3021.94,63460.7
+SI-5956,Sales Invoice,2026-10-26,Keystone Energy,Exempt,90888.2,0.0,0.0,90888.2
+SI-5957,Sales Invoice,2026-10-17,Northbridge Bank,Standard Rated 5%,87659.75,0.05,4382.99,92042.74
+SI-5958,Sales Invoice,2026-10-08,Zenith Media,Standard Rated 5%,74823.98,0.05,3741.2,78565.18
+SI-5959,Sales Invoice,2026-10-07,BlueHarbor Financial,Zero Rated,53382.15,0.0,0.0,53382.15
+SI-5960,Sales Invoice,2026-10-19,Coral Bay Hospitality,Zero Rated,21786.14,0.0,0.0,21786.14
+SI-5961,Sales Invoice,2026-10-08,Zenith Media,Standard Rated 5%,17228.68,0.05,861.43,18090.11
+SI-5962,Sales Invoice,2026-10-23,Coral Bay Hospitality,Standard Rated 5%,6961.28,0.05,348.06,7309.34
+SI-5963,Sales Invoice,2026-10-12,Vantage Telecom,Standard Rated 5%,27235.59,0.05,1361.78,28597.37
+SI-5964,Sales Invoice,2026-10-26,Coral Bay Hospitality,Standard Rated 5%,41609.86,0.05,2080.49,43690.35
+SI-5965,Sales Invoice,2026-10-16,Horizon Insurance,Zero Rated,43196.21,0.0,0.0,43196.21
+SI-5966,Sales Invoice,2026-10-08,Willow Pharma,Standard Rated 5%,12942.11,0.05,647.11,13589.22
+SI-5967,Sales Invoice,2026-10-13,Apex Manufacturing,Standard Rated 5%,15854.52,0.05,792.73,16647.25
+SI-5968,Sales Invoice,2026-10-12,Vantage Telecom,Standard Rated 5%,45620.53,0.05,2281.03,47901.56
+SI-5969,Sales Invoice,2026-10-16,Keystone Energy,Standard Rated 5%,56332.95,0.05,2816.65,59149.6
+SI-5970,Sales Invoice,2026-10-12,BlueHarbor Financial,Standard Rated 5%,15086.37,0.05,754.32,15840.69
+SI-5971,Sales Invoice,2026-10-04,Coral Bay Hospitality,Standard Rated 5%,4443.25,0.05,222.16,4665.41
+SI-5972,Sales Invoice,2026-10-03,Meridian Health Group,Standard Rated 5%,27028.58,0.05,1351.43,28380.01
+SI-5973,Sales Invoice,2026-10-04,CedarPoint Logistics,Zero Rated,20221.9,0.0,0.0,20221.9
+SI-5974,Sales Invoice,2026-10-23,Willow Pharma,Standard Rated 5%,68731.87,0.05,3436.59,72168.46
+SI-5975,Sales Invoice,2026-10-18,BlueHarbor Financial,Standard Rated 5%,10614.94,0.05,530.75,11145.69
+SI-5976,Sales Invoice,2026-10-13,BlueHarbor Financial,Standard Rated 5%,13279.95,0.05,664.0,13943.95
+SI-5977,Sales Invoice,2026-10-13,Keystone Energy,Standard Rated 5%,82237.04,0.05,4111.85,86348.89
+SI-5978,Sales Invoice,2026-10-06,Meridian Health Group,Standard Rated 5%,50992.13,0.05,2549.61,53541.74
+SI-5979,Sales Invoice,2026-10-11,BlueHarbor Financial,Standard Rated 5%,75225.16,0.05,3761.26,78986.42
+SI-5980,Sales Invoice,2026-10-12,CedarPoint Logistics,Standard Rated 5%,38496.63,0.05,1924.83,40421.46
+SI-5981,Sales Invoice,2026-10-13,Keystone Energy,Standard Rated 5%,19965.94,0.05,998.3,20964.24
+SI-5982,Sales Invoice,2026-10-25,Coral Bay Hospitality,Standard Rated 5%,38559.51,0.05,1927.98,40487.49
+SI-5983,Sales Invoice,2026-10-03,Horizon Insurance,Standard Rated 5%,49484.7,0.05,2474.24,51958.94
+SI-5984,Sales Invoice,2026-10-26,Horizon Insurance,Standard Rated 5%,22054.82,0.05,1102.74,23157.56
+SI-5985,Sales Invoice,2026-10-11,Falcon Aerospace,Standard Rated 5%,61501.38,0.05,3075.07,64576.45
+SI-5986,Sales Invoice,2026-10-12,Horizon Insurance,Standard Rated 5%,81131.56,0.05,4056.58,85188.14
+SI-5987,Sales Invoice,2026-10-01,Falcon Aerospace,Standard Rated 5%,75701.56,0.05,3785.08,79486.64
+SI-5988,Sales Invoice,2026-10-28,Northbridge Bank,Standard Rated 5%,94315.34,0.05,4715.77,99031.11
+SI-5989,Sales Invoice,2026-10-14,Meridian Health Group,Standard Rated 5%,58688.6,0.05,2934.43,61623.03
+SI-5990,Sales Invoice,2026-10-25,Falcon Aerospace,Standard Rated 5%,17849.09,0.05,892.45,18741.54
+SI-5991,Sales Invoice,2026-10-13,Solstice Retail Co,Standard Rated 5%,92149.34,0.05,4607.47,96756.81
+SI-5992,Sales Invoice,2026-10-09,Granite Construction Group,Exempt,46913.47,0.0,0.0,46913.47
+PI-5993,Purchase Invoice,2026-10-24,Dubai Facilities Mgmt,Standard Rated 5%,27542.77,0.05,1377.14,28919.91
+PI-5994,Purchase Invoice,2026-10-17,Sharjah Print & Design,Standard Rated 5%,16709.02,0.05,835.45,17544.47
+PI-5995,Purchase Invoice,2026-10-26,Gulf Marketing Agency,Zero Rated,15757.5,0.0,0.0,15757.5
+PI-5996,Purchase Invoice,2026-10-22,Al Futtaim Office Supplies,Exempt,13981.03,0.0,0.0,13981.03
+PI-5997,Purchase Invoice,2026-10-19,Sharjah Print & Design,Standard Rated 5%,41163.37,0.05,2058.17,43221.54
+PI-5998,Purchase Invoice,2026-10-23,Gulf Marketing Agency,Standard Rated 5%,1719.13,0.05,85.96,1805.09
+PI-5999,Purchase Invoice,2026-10-22,Prime Cloud Hosting LLC,Exempt,4028.9,0.0,0.0,4028.9
+PI-6000,Purchase Invoice,2026-10-03,DEWA,Standard Rated 5%,23059.23,0.05,1152.96,24212.19
+PI-6001,Purchase Invoice,2026-10-26,Gulf Marketing Agency,Standard Rated 5%,33846.42,0.05,1692.32,35538.74
+PI-6002,Purchase Invoice,2026-10-27,Etisalat Business,Standard Rated 5%,10482.75,0.05,524.14,11006.89
+PI-6003,Purchase Invoice,2026-10-07,Continental Consulting FZE,Standard Rated 5%,23821.88,0.05,1191.09,25012.97
+PI-6004,Purchase Invoice,2026-10-23,Sharjah Print & Design,Zero Rated,1907.93,0.0,0.0,1907.93
+PI-6005,Purchase Invoice,2026-10-19,Al Naboodah Logistics,Standard Rated 5%,34134.54,0.05,1706.73,35841.27
+PI-6006,Purchase Invoice,2026-10-23,DEWA,Exempt,14418.44,0.0,0.0,14418.44
+PI-6007,Purchase Invoice,2026-10-20,Emirates IT Solutions,Standard Rated 5%,34168.99,0.05,1708.45,35877.44
+PI-6008,Purchase Invoice,2026-10-24,DEWA,Standard Rated 5%,12330.98,0.05,616.55,12947.53
+PI-6009,Purchase Invoice,2026-10-10,Al Naboodah Logistics,Standard Rated 5%,24407.22,0.05,1220.36,25627.58
+PI-6010,Purchase Invoice,2026-10-25,Dubai Facilities Mgmt,Standard Rated 5%,41210.32,0.05,2060.52,43270.84
+PI-6011,Purchase Invoice,2026-10-05,Sharjah Print & Design,Standard Rated 5%,35556.75,0.05,1777.84,37334.59
+PI-6012,Purchase Invoice,2026-10-01,Sharjah Print & Design,Standard Rated 5%,7495.08,0.05,374.75,7869.83
+PI-6013,Purchase Invoice,2026-10-24,Al Futtaim Office Supplies,Standard Rated 5%,17718.6,0.05,885.93,18604.53
+PI-6014,Purchase Invoice,2026-10-10,Emirates IT Solutions,Zero Rated,8994.79,0.0,0.0,8994.79
+PI-6015,Purchase Invoice,2026-10-10,Sharjah Print & Design,Exempt,27983.96,0.0,0.0,27983.96
+PI-6016,Purchase Invoice,2026-10-11,DEWA,Exempt,8141.17,0.0,0.0,8141.17
+PI-6017,Purchase Invoice,2026-10-18,Emirates IT Solutions,Standard Rated 5%,30031.35,0.05,1501.57,31532.92
+PI-6018,Purchase Invoice,2026-10-24,Gulf Marketing Agency,Standard Rated 5%,18036.35,0.05,901.82,18938.17
+PI-6019,Purchase Invoice,2026-10-03,Continental Consulting FZE,Exempt,20686.15,0.0,0.0,20686.15
+PI-6020,Purchase Invoice,2026-10-01,Al Futtaim Office Supplies,Standard Rated 5%,4255.64,0.05,212.78,4468.42
+PI-6021,Purchase Invoice,2026-10-04,Sharjah Print & Design,Zero Rated,40587.16,0.0,0.0,40587.16
+PI-6022,Purchase Invoice,2026-10-21,Dubai Facilities Mgmt,Exempt,12280.6,0.0,0.0,12280.6
+PI-6023,Purchase Invoice,2026-10-03,DEWA,Zero Rated,17308.98,0.0,0.0,17308.98
+PI-6024,Purchase Invoice,2026-10-28,Gulf Marketing Agency,Standard Rated 5%,36042.05,0.05,1802.1,37844.15
+PI-6025,Purchase Invoice,2026-10-03,Prime Cloud Hosting LLC,Standard Rated 5%,23716.65,0.05,1185.83,24902.48
+PI-6026,Purchase Invoice,2026-10-21,Etisalat Business,Standard Rated 5%,26458.8,0.05,1322.94,27781.74
+PI-6027,Purchase Invoice,2026-10-25,Gulf Marketing Agency,Standard Rated 5%,30115.77,0.05,1505.79,31621.56
+PI-6028,Purchase Invoice,2026-10-07,Dubai Facilities Mgmt,Zero Rated,8882.72,0.0,0.0,8882.72
+PI-6029,Purchase Invoice,2026-10-26,Sharjah Print & Design,Standard Rated 5%,28491.87,0.05,1424.59,29916.46
+PI-6030,Purchase Invoice,2026-10-22,Sharjah Print & Design,Standard Rated 5%,36166.98,0.05,1808.35,37975.33
+PI-6031,Purchase Invoice,2026-10-04,Sharjah Print & Design,Exempt,41732.18,0.0,0.0,41732.18
+PI-6032,Purchase Invoice,2026-10-14,Gulf Marketing Agency,Standard Rated 5%,38609.61,0.05,1930.48,40540.09
+PI-6033,Purchase Invoice,2026-10-15,DEWA,Standard Rated 5%,11867.63,0.05,593.38,12461.01
+PI-6034,Purchase Invoice,2026-10-11,Sharjah Print & Design,Standard Rated 5%,34859.46,0.05,1742.97,36602.43
+SI-6035,Sales Invoice,2026-11-24,Coral Bay Hospitality,Standard Rated 5%,84401.36,0.05,4220.07,88621.43
+SI-6036,Sales Invoice,2026-11-15,Meridian Health Group,Zero Rated,82742.72,0.0,0.0,82742.72
+SI-6037,Sales Invoice,2026-11-09,Northbridge Bank,Zero Rated,75926.05,0.0,0.0,75926.05
+SI-6038,Sales Invoice,2026-11-19,Meridian Health Group,Standard Rated 5%,48375.35,0.05,2418.77,50794.12
+SI-6039,Sales Invoice,2026-11-04,Meridian Health Group,Standard Rated 5%,93984.94,0.05,4699.25,98684.19
+SI-6040,Sales Invoice,2026-11-09,Meridian Health Group,Standard Rated 5%,88905.25,0.05,4445.26,93350.51
+SI-6041,Sales Invoice,2026-11-03,Horizon Insurance,Standard Rated 5%,68843.32,0.05,3442.17,72285.49
+SI-6042,Sales Invoice,2026-11-08,Meridian Health Group,Exempt,81919.54,0.0,0.0,81919.54
+SI-6043,Sales Invoice,2026-11-26,Northbridge Bank,Exempt,45630.36,0.0,0.0,45630.36
+SI-6044,Sales Invoice,2026-11-10,Horizon Insurance,Standard Rated 5%,70562.36,0.05,3528.12,74090.48
+SI-6045,Sales Invoice,2026-11-24,Zenith Media,Zero Rated,23372.6,0.0,0.0,23372.6
+SI-6046,Sales Invoice,2026-11-28,Zenith Media,Zero Rated,87469.41,0.0,0.0,87469.41
+SI-6047,Sales Invoice,2026-11-06,Falcon Aerospace,Standard Rated 5%,92276.21,0.05,4613.81,96890.02
+SI-6048,Sales Invoice,2026-11-22,Vantage Telecom,Zero Rated,94998.99,0.0,0.0,94998.99
+SI-6049,Sales Invoice,2026-11-27,Apex Manufacturing,Standard Rated 5%,54920.68,0.05,2746.03,57666.71
+SI-6050,Sales Invoice,2026-11-02,Willow Pharma,Zero Rated,45722.7,0.0,0.0,45722.7
+SI-6051,Sales Invoice,2026-11-04,Apex Manufacturing,Zero Rated,55006.37,0.0,0.0,55006.37
+SI-6052,Sales Invoice,2026-11-06,Falcon Aerospace,Standard Rated 5%,34997.96,0.05,1749.9,36747.86
+SI-6053,Sales Invoice,2026-11-25,CedarPoint Logistics,Standard Rated 5%,18271.0,0.05,913.55,19184.55
+SI-6054,Sales Invoice,2026-11-18,Falcon Aerospace,Zero Rated,79376.42,0.0,0.0,79376.42
+SI-6055,Sales Invoice,2026-11-19,Solstice Retail Co,Standard Rated 5%,40962.28,0.05,2048.11,43010.39
+SI-6056,Sales Invoice,2026-11-22,Ironclad Public Utilities,Standard Rated 5%,59919.93,0.05,2996.0,62915.93
+SI-6057,Sales Invoice,2026-11-05,BlueHarbor Financial,Standard Rated 5%,70249.17,0.05,3512.46,73761.63
+SI-6058,Sales Invoice,2026-11-24,Coral Bay Hospitality,Standard Rated 5%,36813.31,0.05,1840.67,38653.98
+SI-6059,Sales Invoice,2026-11-07,Zenith Media,Standard Rated 5%,53987.56,0.05,2699.38,56686.94
+SI-6060,Sales Invoice,2026-11-12,Zenith Media,Exempt,62839.44,0.0,0.0,62839.44
+SI-6061,Sales Invoice,2026-11-13,Apex Manufacturing,Standard Rated 5%,41297.91,0.05,2064.9,43362.81
+SI-6062,Sales Invoice,2026-11-04,Granite Construction Group,Zero Rated,16157.35,0.0,0.0,16157.35
+SI-6063,Sales Invoice,2026-11-07,Granite Construction Group,Standard Rated 5%,79448.88,0.05,3972.44,83421.32
+SI-6064,Sales Invoice,2026-11-25,Falcon Aerospace,Zero Rated,4875.99,0.0,0.0,4875.99
+SI-6065,Sales Invoice,2026-11-01,Willow Pharma,Exempt,80693.05,0.0,0.0,80693.05
+SI-6066,Sales Invoice,2026-11-16,Apex Manufacturing,Standard Rated 5%,77777.58,0.05,3888.88,81666.46
+SI-6067,Sales Invoice,2026-11-17,Coral Bay Hospitality,Standard Rated 5%,52023.41,0.05,2601.17,54624.58
+SI-6068,Sales Invoice,2026-11-23,Granite Construction Group,Standard Rated 5%,87633.45,0.05,4381.67,92015.12
+SI-6069,Sales Invoice,2026-11-19,Granite Construction Group,Standard Rated 5%,72382.87,0.05,3619.14,76002.01
+SI-6070,Sales Invoice,2026-11-26,Vantage Telecom,Standard Rated 5%,7329.19,0.05,366.46,7695.65
+SI-6071,Sales Invoice,2026-11-17,Zenith Media,Standard Rated 5%,55928.15,0.05,2796.41,58724.56
+SI-6072,Sales Invoice,2026-11-20,Vantage Telecom,Standard Rated 5%,49919.24,0.05,2495.96,52415.2
+SI-6073,Sales Invoice,2026-11-10,Solstice Retail Co,Standard Rated 5%,48745.42,0.05,2437.27,51182.69
+SI-6074,Sales Invoice,2026-11-22,Coral Bay Hospitality,Zero Rated,82736.1,0.0,0.0,82736.1
+SI-6075,Sales Invoice,2026-11-02,Solstice Retail Co,Exempt,41295.97,0.0,0.0,41295.97
+SI-6076,Sales Invoice,2026-11-22,Zenith Media,Zero Rated,76658.35,0.0,0.0,76658.35
+SI-6077,Sales Invoice,2026-11-13,Zenith Media,Standard Rated 5%,77898.74,0.05,3894.94,81793.68
+SI-6078,Sales Invoice,2026-11-16,CedarPoint Logistics,Zero Rated,16124.08,0.0,0.0,16124.08
+SI-6079,Sales Invoice,2026-11-03,BlueHarbor Financial,Standard Rated 5%,65605.34,0.05,3280.27,68885.61
+SI-6080,Sales Invoice,2026-11-17,Granite Construction Group,Exempt,50394.64,0.0,0.0,50394.64
+SI-6081,Sales Invoice,2026-11-09,Meridian Health Group,Zero Rated,94812.14,0.0,0.0,94812.14
+SI-6082,Sales Invoice,2026-11-01,Apex Manufacturing,Zero Rated,56542.93,0.0,0.0,56542.93
+SI-6083,Sales Invoice,2026-11-11,Zenith Media,Standard Rated 5%,21638.62,0.05,1081.93,22720.55
+SI-6084,Sales Invoice,2026-11-02,Granite Construction Group,Standard Rated 5%,72686.44,0.05,3634.32,76320.76
+SI-6085,Sales Invoice,2026-11-13,Solstice Retail Co,Standard Rated 5%,92722.14,0.05,4636.11,97358.25
+SI-6086,Sales Invoice,2026-11-05,Ironclad Public Utilities,Standard Rated 5%,9309.63,0.05,465.48,9775.11
+SI-6087,Sales Invoice,2026-11-09,Zenith Media,Standard Rated 5%,64360.5,0.05,3218.03,67578.53
+SI-6088,Sales Invoice,2026-11-12,CedarPoint Logistics,Standard Rated 5%,90725.76,0.05,4536.29,95262.05
+SI-6089,Sales Invoice,2026-11-20,Apex Manufacturing,Standard Rated 5%,25978.51,0.05,1298.93,27277.44
+SI-6090,Sales Invoice,2026-11-15,Keystone Energy,Standard Rated 5%,94917.62,0.05,4745.88,99663.5
+SI-6091,Sales Invoice,2026-11-02,Granite Construction Group,Standard Rated 5%,74575.91,0.05,3728.8,78304.71
+SI-6092,Sales Invoice,2026-11-03,Willow Pharma,Standard Rated 5%,24666.13,0.05,1233.31,25899.44
+SI-6093,Sales Invoice,2026-11-21,BlueHarbor Financial,Zero Rated,35197.49,0.0,0.0,35197.49
+SI-6094,Sales Invoice,2026-11-24,Solstice Retail Co,Standard Rated 5%,46313.57,0.05,2315.68,48629.25
+SI-6095,Sales Invoice,2026-11-11,Apex Manufacturing,Standard Rated 5%,15117.62,0.05,755.88,15873.5
+SI-6096,Sales Invoice,2026-11-25,Willow Pharma,Zero Rated,22209.62,0.0,0.0,22209.62
+SI-6097,Sales Invoice,2026-11-01,Falcon Aerospace,Exempt,58013.48,0.0,0.0,58013.48
+SI-6098,Sales Invoice,2026-11-07,Northbridge Bank,Standard Rated 5%,80491.17,0.05,4024.56,84515.73
+SI-6099,Sales Invoice,2026-11-07,BlueHarbor Financial,Standard Rated 5%,58643.6,0.05,2932.18,61575.78
+SI-6100,Sales Invoice,2026-11-08,Vantage Telecom,Standard Rated 5%,48823.59,0.05,2441.18,51264.77
+PI-6101,Purchase Invoice,2026-11-12,Etisalat Business,Standard Rated 5%,6702.11,0.05,335.11,7037.22
+PI-6102,Purchase Invoice,2026-11-25,Al Naboodah Logistics,Standard Rated 5%,32593.22,0.05,1629.66,34222.88
+PI-6103,Purchase Invoice,2026-11-26,Continental Consulting FZE,Standard Rated 5%,19812.15,0.05,990.61,20802.76
+PI-6104,Purchase Invoice,2026-11-06,Gulf Marketing Agency,Zero Rated,28478.03,0.0,0.0,28478.03
+PI-6105,Purchase Invoice,2026-11-02,DEWA,Exempt,9127.75,0.0,0.0,9127.75
+PI-6106,Purchase Invoice,2026-11-27,Gulf Marketing Agency,Standard Rated 5%,30274.62,0.05,1513.73,31788.35
+PI-6107,Purchase Invoice,2026-11-19,Al Futtaim Office Supplies,Standard Rated 5%,23043.56,0.05,1152.18,24195.74
+PI-6108,Purchase Invoice,2026-11-09,Etisalat Business,Standard Rated 5%,27681.67,0.05,1384.08,29065.75
+PI-6109,Purchase Invoice,2026-11-01,Al Futtaim Office Supplies,Standard Rated 5%,31337.14,0.05,1566.86,32904.0
+PI-6110,Purchase Invoice,2026-11-25,Etisalat Business,Standard Rated 5%,8430.13,0.05,421.51,8851.64
+PI-6111,Purchase Invoice,2026-11-18,Gulf Marketing Agency,Standard Rated 5%,26738.61,0.05,1336.93,28075.54
+PI-6112,Purchase Invoice,2026-11-12,Continental Consulting FZE,Standard Rated 5%,22635.07,0.05,1131.75,23766.82
+PI-6113,Purchase Invoice,2026-11-21,Al Naboodah Logistics,Standard Rated 5%,5807.13,0.05,290.36,6097.49
+PI-6114,Purchase Invoice,2026-11-01,Sharjah Print & Design,Zero Rated,26476.38,0.0,0.0,26476.38
+PI-6115,Purchase Invoice,2026-11-04,Etisalat Business,Zero Rated,9593.5,0.0,0.0,9593.5
+PI-6116,Purchase Invoice,2026-11-21,Prime Cloud Hosting LLC,Zero Rated,33739.29,0.0,0.0,33739.29
+PI-6117,Purchase Invoice,2026-11-14,DEWA,Standard Rated 5%,20317.02,0.05,1015.85,21332.87
+PI-6118,Purchase Invoice,2026-11-21,Prime Cloud Hosting LLC,Standard Rated 5%,22924.68,0.05,1146.23,24070.91
+PI-6119,Purchase Invoice,2026-11-23,Al Naboodah Logistics,Standard Rated 5%,15835.46,0.05,791.77,16627.23
+PI-6120,Purchase Invoice,2026-11-27,DEWA,Standard Rated 5%,13051.75,0.05,652.59,13704.34
+PI-6121,Purchase Invoice,2026-11-22,Dubai Facilities Mgmt,Standard Rated 5%,15757.44,0.05,787.87,16545.31
+PI-6122,Purchase Invoice,2026-11-22,Continental Consulting FZE,Standard Rated 5%,19738.05,0.05,986.9,20724.95
+PI-6123,Purchase Invoice,2026-11-11,Dubai Facilities Mgmt,Standard Rated 5%,12508.67,0.05,625.43,13134.1
+PI-6124,Purchase Invoice,2026-11-15,Gulf Marketing Agency,Standard Rated 5%,26613.42,0.05,1330.67,27944.09
+PI-6125,Purchase Invoice,2026-11-17,Gulf Marketing Agency,Exempt,18290.07,0.0,0.0,18290.07
+PI-6126,Purchase Invoice,2026-11-24,DEWA,Exempt,8973.4,0.0,0.0,8973.4
+PI-6127,Purchase Invoice,2026-11-07,Dubai Facilities Mgmt,Zero Rated,41669.86,0.0,0.0,41669.86
+PI-6128,Purchase Invoice,2026-11-15,Prime Cloud Hosting LLC,Standard Rated 5%,9669.36,0.05,483.47,10152.83
+PI-6129,Purchase Invoice,2026-11-22,Prime Cloud Hosting LLC,Exempt,19953.09,0.0,0.0,19953.09
+PI-6130,Purchase Invoice,2026-11-03,Continental Consulting FZE,Standard Rated 5%,28625.36,0.05,1431.27,30056.63
+PI-6131,Purchase Invoice,2026-11-04,DEWA,Standard Rated 5%,10377.93,0.05,518.9,10896.83
+PI-6132,Purchase Invoice,2026-11-19,Prime Cloud Hosting LLC,Zero Rated,16026.43,0.0,0.0,16026.43
+PI-6133,Purchase Invoice,2026-11-25,Al Naboodah Logistics,Standard Rated 5%,33611.51,0.05,1680.58,35292.09
+PI-6134,Purchase Invoice,2026-11-01,Emirates IT Solutions,Standard Rated 5%,5802.32,0.05,290.12,6092.44
+PI-6135,Purchase Invoice,2026-11-24,Al Naboodah Logistics,Standard Rated 5%,18527.66,0.05,926.38,19454.04
+SI-6136,Sales Invoice,2026-12-25,Coral Bay Hospitality,Standard Rated 5%,62048.58,0.05,3102.43,65151.01
+SI-6137,Sales Invoice,2026-12-08,Northbridge Bank,Standard Rated 5%,62807.14,0.05,3140.36,65947.5
+SI-6138,Sales Invoice,2026-12-03,Horizon Insurance,Zero Rated,41997.15,0.0,0.0,41997.15
+SI-6139,Sales Invoice,2026-12-19,Zenith Media,Standard Rated 5%,79424.27,0.05,3971.21,83395.48
+SI-6140,Sales Invoice,2026-12-05,Falcon Aerospace,Zero Rated,42999.16,0.0,0.0,42999.16
+SI-6141,Sales Invoice,2026-12-20,Coral Bay Hospitality,Exempt,36612.11,0.0,0.0,36612.11
+SI-6142,Sales Invoice,2026-12-11,Meridian Health Group,Standard Rated 5%,25031.1,0.05,1251.56,26282.66
+SI-6143,Sales Invoice,2026-12-16,Solstice Retail Co,Standard Rated 5%,17343.91,0.05,867.2,18211.11
+SI-6144,Sales Invoice,2026-12-11,BlueHarbor Financial,Standard Rated 5%,17896.06,0.05,894.8,18790.86
+SI-6145,Sales Invoice,2026-12-08,CedarPoint Logistics,Exempt,73102.9,0.0,0.0,73102.9
+SI-6146,Sales Invoice,2026-12-19,Keystone Energy,Zero Rated,30841.03,0.0,0.0,30841.03
+SI-6147,Sales Invoice,2026-12-20,Falcon Aerospace,Standard Rated 5%,24734.54,0.05,1236.73,25971.27
+SI-6148,Sales Invoice,2026-12-20,Horizon Insurance,Exempt,34650.34,0.0,0.0,34650.34
+SI-6149,Sales Invoice,2026-12-19,Horizon Insurance,Standard Rated 5%,22296.7,0.05,1114.84,23411.54
+SI-6150,Sales Invoice,2026-12-10,CedarPoint Logistics,Standard Rated 5%,75696.65,0.05,3784.83,79481.48
+SI-6151,Sales Invoice,2026-12-22,BlueHarbor Financial,Standard Rated 5%,43628.66,0.05,2181.43,45810.09
+SI-6152,Sales Invoice,2026-12-16,Falcon Aerospace,Standard Rated 5%,22053.16,0.05,1102.66,23155.82
+SI-6153,Sales Invoice,2026-12-02,Northbridge Bank,Zero Rated,48644.63,0.0,0.0,48644.63
+SI-6154,Sales Invoice,2026-12-03,Northbridge Bank,Standard Rated 5%,71188.11,0.05,3559.41,74747.52
+SI-6155,Sales Invoice,2026-12-15,Northbridge Bank,Standard Rated 5%,71003.42,0.05,3550.17,74553.59
+SI-6156,Sales Invoice,2026-12-08,Vantage Telecom,Standard Rated 5%,65104.77,0.05,3255.24,68360.01
+SI-6157,Sales Invoice,2026-12-13,Falcon Aerospace,Standard Rated 5%,35934.09,0.05,1796.7,37730.79
+SI-6158,Sales Invoice,2026-12-23,Falcon Aerospace,Zero Rated,22644.79,0.0,0.0,22644.79
+SI-6159,Sales Invoice,2026-12-24,Zenith Media,Standard Rated 5%,19471.08,0.05,973.55,20444.63
+SI-6160,Sales Invoice,2026-12-15,Vantage Telecom,Standard Rated 5%,87549.3,0.05,4377.47,91926.77
+SI-6161,Sales Invoice,2026-12-03,Horizon Insurance,Exempt,23458.26,0.0,0.0,23458.26
+SI-6162,Sales Invoice,2026-12-04,BlueHarbor Financial,Standard Rated 5%,4463.04,0.05,223.15,4686.19
+SI-6163,Sales Invoice,2026-12-01,Ironclad Public Utilities,Standard Rated 5%,7038.06,0.05,351.9,7389.96
+SI-6164,Sales Invoice,2026-12-13,Horizon Insurance,Zero Rated,51265.15,0.0,0.0,51265.15
+SI-6165,Sales Invoice,2026-12-07,Willow Pharma,Standard Rated 5%,72048.88,0.05,3602.44,75651.32
+SI-6166,Sales Invoice,2026-12-10,Zenith Media,Standard Rated 5%,41614.88,0.05,2080.74,43695.62
+SI-6167,Sales Invoice,2026-12-18,Keystone Energy,Zero Rated,74393.0,0.0,0.0,74393.0
+SI-6168,Sales Invoice,2026-12-07,Keystone Energy,Exempt,61143.43,0.0,0.0,61143.43
+SI-6169,Sales Invoice,2026-12-20,Falcon Aerospace,Zero Rated,50782.92,0.0,0.0,50782.92
+SI-6170,Sales Invoice,2026-12-14,CedarPoint Logistics,Standard Rated 5%,12314.28,0.05,615.71,12929.99
+SI-6171,Sales Invoice,2026-12-20,Granite Construction Group,Standard Rated 5%,75607.17,0.05,3780.36,79387.53
+SI-6172,Sales Invoice,2026-12-16,Falcon Aerospace,Standard Rated 5%,58551.78,0.05,2927.59,61479.37
+SI-6173,Sales Invoice,2026-12-25,Meridian Health Group,Standard Rated 5%,30629.85,0.05,1531.49,32161.34
+SI-6174,Sales Invoice,2026-12-18,Willow Pharma,Standard Rated 5%,62103.56,0.05,3105.18,65208.74
+SI-6175,Sales Invoice,2026-12-25,Meridian Health Group,Standard Rated 5%,29986.34,0.05,1499.32,31485.66
+SI-6176,Sales Invoice,2026-12-14,Apex Manufacturing,Standard Rated 5%,69135.29,0.05,3456.76,72592.05
+SI-6177,Sales Invoice,2026-12-09,BlueHarbor Financial,Exempt,80020.64,0.0,0.0,80020.64
+SI-6178,Sales Invoice,2026-12-23,Keystone Energy,Zero Rated,76142.53,0.0,0.0,76142.53
+SI-6179,Sales Invoice,2026-12-18,Vantage Telecom,Zero Rated,44083.68,0.0,0.0,44083.68
+SI-6180,Sales Invoice,2026-12-26,Keystone Energy,Standard Rated 5%,71722.23,0.05,3586.11,75308.34
+SI-6181,Sales Invoice,2026-12-19,Keystone Energy,Standard Rated 5%,15899.88,0.05,794.99,16694.87
+SI-6182,Sales Invoice,2026-12-12,Northbridge Bank,Standard Rated 5%,39398.19,0.05,1969.91,41368.1
+SI-6183,Sales Invoice,2026-12-15,Keystone Energy,Standard Rated 5%,54334.45,0.05,2716.72,57051.17
+SI-6184,Sales Invoice,2026-12-15,Coral Bay Hospitality,Standard Rated 5%,71353.66,0.05,3567.68,74921.34
+SI-6185,Sales Invoice,2026-12-25,Meridian Health Group,Exempt,52108.53,0.0,0.0,52108.53
+SI-6186,Sales Invoice,2026-12-15,Coral Bay Hospitality,Zero Rated,25511.44,0.0,0.0,25511.44
+SI-6187,Sales Invoice,2026-12-12,Horizon Insurance,Standard Rated 5%,78191.23,0.05,3909.56,82100.79
+SI-6188,Sales Invoice,2026-12-17,Northbridge Bank,Exempt,78566.42,0.0,0.0,78566.42
+SI-6189,Sales Invoice,2026-12-02,CedarPoint Logistics,Exempt,23503.29,0.0,0.0,23503.29
+SI-6190,Sales Invoice,2026-12-02,BlueHarbor Financial,Standard Rated 5%,71968.49,0.05,3598.42,75566.91
+SI-6191,Sales Invoice,2026-12-28,Solstice Retail Co,Standard Rated 5%,8102.17,0.05,405.11,8507.28
+SI-6192,Sales Invoice,2026-12-13,Ironclad Public Utilities,Exempt,79411.53,0.0,0.0,79411.53
+SI-6193,Sales Invoice,2026-12-21,Horizon Insurance,Standard Rated 5%,77001.57,0.05,3850.08,80851.65
+SI-6194,Sales Invoice,2026-12-10,Solstice Retail Co,Standard Rated 5%,88660.84,0.05,4433.04,93093.88
+SI-6195,Sales Invoice,2026-12-17,Granite Construction Group,Standard Rated 5%,36607.76,0.05,1830.39,38438.15
+SI-6196,Sales Invoice,2026-12-04,BlueHarbor Financial,Exempt,34027.87,0.0,0.0,34027.87
+SI-6197,Sales Invoice,2026-12-13,Solstice Retail Co,Standard Rated 5%,66428.66,0.05,3321.43,69750.09
+SI-6198,Sales Invoice,2026-12-03,Northbridge Bank,Standard Rated 5%,49900.75,0.05,2495.04,52395.79
+SI-6199,Sales Invoice,2026-12-07,Northbridge Bank,Zero Rated,53677.05,0.0,0.0,53677.05
+SI-6200,Sales Invoice,2026-12-10,CedarPoint Logistics,Standard Rated 5%,42184.29,0.05,2109.21,44293.5
+SI-6201,Sales Invoice,2026-12-10,BlueHarbor Financial,Standard Rated 5%,4062.95,0.05,203.15,4266.1
+SI-6202,Sales Invoice,2026-12-13,Ironclad Public Utilities,Standard Rated 5%,23286.32,0.05,1164.32,24450.64
+SI-6203,Sales Invoice,2026-12-14,Horizon Insurance,Zero Rated,29134.62,0.0,0.0,29134.62
+PI-6204,Purchase Invoice,2026-12-06,Emirates IT Solutions,Standard Rated 5%,18180.21,0.05,909.01,19089.22
+PI-6205,Purchase Invoice,2026-12-02,Dubai Facilities Mgmt,Standard Rated 5%,34218.32,0.05,1710.92,35929.24
+PI-6206,Purchase Invoice,2026-12-13,Gulf Marketing Agency,Exempt,34370.14,0.0,0.0,34370.14
+PI-6207,Purchase Invoice,2026-12-14,DEWA,Standard Rated 5%,23376.84,0.05,1168.84,24545.68
+PI-6208,Purchase Invoice,2026-12-21,Continental Consulting FZE,Standard Rated 5%,26996.66,0.05,1349.83,28346.49
+PI-6209,Purchase Invoice,2026-12-10,Al Futtaim Office Supplies,Standard Rated 5%,33194.9,0.05,1659.75,34854.65
+PI-6210,Purchase Invoice,2026-12-08,Emirates IT Solutions,Standard Rated 5%,22127.05,0.05,1106.35,23233.4
+PI-6211,Purchase Invoice,2026-12-28,Gulf Marketing Agency,Standard Rated 5%,15971.48,0.05,798.57,16770.05
+PI-6212,Purchase Invoice,2026-12-22,Continental Consulting FZE,Standard Rated 5%,30157.92,0.05,1507.9,31665.82
+PI-6213,Purchase Invoice,2026-12-08,Al Naboodah Logistics,Standard Rated 5%,4667.31,0.05,233.37,4900.68
+PI-6214,Purchase Invoice,2026-12-01,Continental Consulting FZE,Standard Rated 5%,13599.62,0.05,679.98,14279.6
+PI-6215,Purchase Invoice,2026-12-26,Al Futtaim Office Supplies,Standard Rated 5%,24824.02,0.05,1241.2,26065.22
+PI-6216,Purchase Invoice,2026-12-01,Sharjah Print & Design,Standard Rated 5%,33277.47,0.05,1663.87,34941.34
+PI-6217,Purchase Invoice,2026-12-28,Emirates IT Solutions,Standard Rated 5%,3346.07,0.05,167.3,3513.37
+PI-6218,Purchase Invoice,2026-12-04,Etisalat Business,Standard Rated 5%,36030.25,0.05,1801.51,37831.76
+PI-6219,Purchase Invoice,2026-12-18,Continental Consulting FZE,Standard Rated 5%,38315.66,0.05,1915.78,40231.44
+PI-6220,Purchase Invoice,2026-12-21,Al Futtaim Office Supplies,Standard Rated 5%,31528.45,0.05,1576.42,33104.87
+PI-6221,Purchase Invoice,2026-12-19,Emirates IT Solutions,Exempt,12750.95,0.0,0.0,12750.95
+PI-6222,Purchase Invoice,2026-12-13,Prime Cloud Hosting LLC,Standard Rated 5%,8372.25,0.05,418.61,8790.86
+PI-6223,Purchase Invoice,2026-12-11,DEWA,Standard Rated 5%,36899.12,0.05,1844.96,38744.08
+PI-6224,Purchase Invoice,2026-12-27,Emirates IT Solutions,Exempt,4437.89,0.0,0.0,4437.89
+PI-6225,Purchase Invoice,2026-12-19,Prime Cloud Hosting LLC,Standard Rated 5%,35082.54,0.05,1754.13,36836.67
+PI-6226,Purchase Invoice,2026-12-17,Al Naboodah Logistics,Zero Rated,18677.92,0.0,0.0,18677.92
+PI-6227,Purchase Invoice,2026-12-01,Al Naboodah Logistics,Zero Rated,3687.32,0.0,0.0,3687.32
+PI-6228,Purchase Invoice,2026-12-20,Continental Consulting FZE,Standard Rated 5%,27143.43,0.05,1357.17,28500.6
+PI-6229,Purchase Invoice,2026-12-23,Dubai Facilities Mgmt,Exempt,35803.63,0.0,0.0,35803.63
+PI-6230,Purchase Invoice,2026-12-26,Dubai Facilities Mgmt,Zero Rated,38147.65,0.0,0.0,38147.65
+PI-6231,Purchase Invoice,2026-12-23,DEWA,Standard Rated 5%,20851.42,0.05,1042.57,21893.99
+PI-6232,Purchase Invoice,2026-12-05,Emirates IT Solutions,Exempt,18036.42,0.0,0.0,18036.42
+PI-6233,Purchase Invoice,2026-12-05,Prime Cloud Hosting LLC,Standard Rated 5%,9112.73,0.05,455.64,9568.37
+PI-6234,Purchase Invoice,2026-12-12,Emirates IT Solutions,Standard Rated 5%,12097.11,0.05,604.86,12701.97
+PI-6235,Purchase Invoice,2026-12-28,Dubai Facilities Mgmt,Standard Rated 5%,2246.79,0.05,112.34,2359.13
+PI-6236,Purchase Invoice,2026-12-27,Etisalat Business,Standard Rated 5%,28127.6,0.05,1406.38,29533.98
+PI-6237,Purchase Invoice,2026-12-03,Gulf Marketing Agency,Zero Rated,36720.46,0.0,0.0,36720.46
+PI-6238,Purchase Invoice,2026-12-18,Sharjah Print & Design,Zero Rated,15573.44,0.0,0.0,15573.44
+PI-6239,Purchase Invoice,2026-12-15,DEWA,Standard Rated 5%,6911.73,0.05,345.59,7257.32
+PI-6240,Purchase Invoice,2026-12-13,Etisalat Business,Zero Rated,786.56,0.0,0.0,786.56
+PI-6241,Purchase Invoice,2026-12-06,Emirates IT Solutions,Standard Rated 5%,29156.0,0.05,1457.8,30613.8
+PI-6242,Purchase Invoice,2026-12-21,Al Naboodah Logistics,Standard Rated 5%,30413.81,0.05,1520.69,31934.5
+PI-6243,Purchase Invoice,2026-12-19,Gulf Marketing Agency,Standard Rated 5%,41779.11,0.05,2088.96,43868.07
+PI-6244,Purchase Invoice,2026-12-16,DEWA,Standard Rated 5%,18317.04,0.05,915.85,19232.89
