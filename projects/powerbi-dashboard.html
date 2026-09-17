@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Interactive FP&A Analytics Dashboard — Bijesh BJ, CMA | Finance & FP&A | SAP FICO | Data Analytics</title>
+<meta name="description" content="A Power BI-style interactive dashboard — KPI cards, BU filter, and trend charts — built as a live web page on the same 1,080-row FP&A dataset." />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../css/style.css">
+<script>
+  (function(){ if(localStorage.getItem('bijesh-portfolio-theme')==='light'){ document.documentElement.setAttribute('data-theme','light'); } })();
+</script>
+</head>
+<body>
+<div id="site-header-placeholder"></div>
+
+<main>
+  <section class="section tight">
+    <div class="wrap">
+      <a href="../projects.html" class="mono" style="font-size:0.85rem; color:var(--ink-soft); text-decoration:none;">&larr; All Projects</a>
+      <span class="eyebrow" style="margin-top:16px;">Power BI / Dashboarding</span>
+      <h1>Interactive FP&A Analytics Dashboard</h1>
+      <p style="max-width:70ch; font-size:1.05rem;">A Power BI-style interactive dashboard — KPI cards, BU filter, and trend charts — built as a live web page on the same 1,080-row FP&A dataset.</p>
+      <span class="badge">Training / Demonstration</span>
+      <div class="stat-strip"><div class="stat"><div class="value">1,080</div><div class="label">underlying data rows</div></div><div class="stat"><div class="value">5</div><div class="label">BUs filterable</div></div><div class="stat"><div class="value">36</div><div class="label">months trended</div></div><div class="stat"><div class="value">Live</div><div class="label">interactive page</div></div></div>
+    </div>
+  </section>
+
+  <section class="section tight">
+    <div class="wrap">
+      <div class="section-head"><span class="num">01</span><h2>What it does</h2></div>
+      <p style="max-width:70ch;">An interactive analytics dashboard styled after a Power BI report — KPI
+      cards, a business-unit filter, and monthly trend charts — built as a live web page (HTML/JS) on the same
+      1,080-row FP&amp;A dataset used in the Variance &amp; KPI project, since Power BI Desktop isn't available
+      in this build environment. The underlying dataset is provided as a CSV so it can also be opened directly
+      in Power BI or Excel.</p>
+      <div class="btn-row">
+        <a class="btn btn-primary" href="powerbi-dashboard-live.html">Open Live Dashboard →</a>
+      </div>
+    </div>
+  </section>
+  <section class="section tight">
+    <div class="wrap">
+      <div class="section-head"><span class="num">02</span><h2>Downloads</h2></div>
+      <ul class="download-list">
+      <li>
+        <div><span class="file-label">bu_monthly_pl.csv</span><span class="file-desc">Underlying dataset — 1,080 rows, 5 BUs x 6 regions x 36 months</span></div>
+        <a class="btn btn-outline" href="../assets/downloads/bu_monthly_pl.csv" download>⤓ Download</a>
+      </li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="section tight">
+    <div class="wrap">
+      <div class="callout">Synthetic data — all figures, counterparties, and companies shown are randomly
+      generated for this demonstration and do not represent any real employer or client.</div>
+    </div>
+  </section>
+</main>
+<div id="site-footer-placeholder"></div>
+<script src="../js/site.js"></script>
+</body>
+</html>

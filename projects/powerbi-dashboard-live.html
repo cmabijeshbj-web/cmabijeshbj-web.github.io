@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Live Dashboard — Bijesh BJ, CMA | Finance & FP&A | SAP FICO | Data Analytics</title>
+<meta name="description" content="Interactive Power BI-style FP&A analytics dashboard." />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../css/style.css">
+<script>
+  (function(){ if(localStorage.getItem('bijesh-portfolio-theme')==='light'){ document.documentElement.setAttribute('data-theme','light'); } })();
+</script>
+</head>
+<body>
+<div id="site-header-placeholder"></div>
+
+<main>
+  <section class="section tight">
+    <div class="wrap">
+      <a href="powerbi-dashboard.html" class="mono" style="font-size:0.85rem; color:var(--ink-soft); text-decoration:none;">&larr; Back to project</a>
+      <span class="eyebrow" style="margin-top:16px;">Power BI / Dashboarding — Live</span>
+      <h1>FP&amp;A Analytics Dashboard</h1>
+      <p style="max-width:70ch;">Interactive — filter by business unit below. Built in HTML/JS/Chart.js since
+      Power BI Desktop isn't available in this build environment; the same dataset is downloadable as CSV to
+      open directly in Power BI or Excel.</p>
+
+      <div class="stat-strip" id="kpiStrip"></div>
+
+      <div class="card" style="margin-top:10px;">
+        <label class="mono" style="font-size:0.8rem; color:var(--ink-soft);">Filter — Business Unit</label><br/>
+        <select id="buFilter" style="margin-top:8px; padding:9px 12px; border-radius:3px; border:1px solid var(--rule); background:var(--card); color:var(--ink); font-family:'IBM Plex Sans',sans-serif; font-size:0.9rem;">
+          <option value="ALL">All Business Units</option>
+        </select>
+      </div>
+
+      <div class="grid grid-2" style="margin-top:24px;">
+        <div class="card"><h3>Monthly Revenue — Budget vs Actual</h3><canvas id="trendChart" height="220"></canvas></div>
+        <div class="card"><h3>Operating Income Trend</h3><canvas id="opIncChart" height="220"></canvas></div>
+      </div>
+      <div class="grid grid-2" style="margin-top:20px;">
+        <div class="card"><h3>Revenue by Business Unit</h3><canvas id="buChart" height="220"></canvas></div>
+        <div class="card"><h3>Operating Margin % by Business Unit</h3><canvas id="marginChart" height="220"></canvas></div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
+<script>
+const DATA = {"trend": [{"Month": "2023-04", "Revenue_Budget": 5975688.0, "Revenue_Actual": 5957196.0, "OperatingIncome_Actual": 856306.0}, {"Month": "2023-05", "Revenue_Budget": 6031069.0, "Revenue_Actual": 6017703.0, "OperatingIncome_Actual": 919656.0}, {"Month": "2023-06", "Revenue_Budget": 6090416.0, "Revenue_Actual": 6067111.0, "OperatingIncome_Actual": 931820.0}, {"Month": "2023-07", "Revenue_Budget": 6151282.0, "Revenue_Actual": 6126440.0, "OperatingIncome_Actual": 985450.0}, {"Month": "2023-08", "Revenue_Budget": 6159258.0, "Revenue_Actual": 6172185.0, "OperatingIncome_Actual": 942827.0}, {"Month": "2023-09", "Revenue_Budget": 6695158.0, "Revenue_Actual": 6653119.0, "OperatingIncome_Actual": 970535.0}, {"Month": "2023-10", "Revenue_Budget": 6282663.0, "Revenue_Actual": 6275355.0, "OperatingIncome_Actual": 959033.0}, {"Month": "2023-11", "Revenue_Budget": 6373338.0, "Revenue_Actual": 6325325.0, "OperatingIncome_Actual": 878125.0}, {"Month": "2023-12", "Revenue_Budget": 6798952.0, "Revenue_Actual": 6816058.0, "OperatingIncome_Actual": 1100984.0}, {"Month": "2024-01", "Revenue_Budget": 6375053.0, "Revenue_Actual": 6444112.0, "OperatingIncome_Actual": 950270.0}, {"Month": "2024-02", "Revenue_Budget": 6455409.0, "Revenue_Actual": 6507895.0, "OperatingIncome_Actual": 964390.0}, {"Month": "2024-03", "Revenue_Budget": 7096223.0, "Revenue_Actual": 7021343.0, "OperatingIncome_Actual": 1040380.0}, {"Month": "2024-04", "Revenue_Budget": 6653375.0, "Revenue_Actual": 6625373.0, "OperatingIncome_Actual": 983906.0}, {"Month": "2024-05", "Revenue_Budget": 6606613.0, "Revenue_Actual": 6669379.0, "OperatingIncome_Actual": 1003332.0}, {"Month": "2024-06", "Revenue_Budget": 6664453.0, "Revenue_Actual": 6703038.0, "OperatingIncome_Actual": 950561.0}, {"Month": "2024-07", "Revenue_Budget": 6878311.0, "Revenue_Actual": 6764969.0, "OperatingIncome_Actual": 1002671.0}, {"Month": "2024-08", "Revenue_Budget": 6897135.0, "Revenue_Actual": 6823481.0, "OperatingIncome_Actual": 1016244.0}, {"Month": "2024-09", "Revenue_Budget": 7378172.0, "Revenue_Actual": 7377086.0, "OperatingIncome_Actual": 1050965.0}, {"Month": "2024-10", "Revenue_Budget": 6996723.0, "Revenue_Actual": 6947810.0, "OperatingIncome_Actual": 1101308.0}, {"Month": "2024-11", "Revenue_Budget": 7040662.0, "Revenue_Actual": 7032197.0, "OperatingIncome_Actual": 1022298.0}, {"Month": "2024-12", "Revenue_Budget": 7544808.0, "Revenue_Actual": 7586632.0, "OperatingIncome_Actual": 1176377.0}, {"Month": "2025-01", "Revenue_Budget": 7122717.0, "Revenue_Actual": 7149979.0, "OperatingIncome_Actual": 1084837.0}, {"Month": "2025-02", "Revenue_Budget": 7236973.0, "Revenue_Actual": 7210521.0, "OperatingIncome_Actual": 1091793.0}, {"Month": "2025-03", "Revenue_Budget": 7841857.0, "Revenue_Actual": 7786717.0, "OperatingIncome_Actual": 1123174.0}, {"Month": "2025-04", "Revenue_Budget": 7323410.0, "Revenue_Actual": 7364802.0, "OperatingIncome_Actual": 1079951.0}, {"Month": "2025-05", "Revenue_Budget": 7343377.0, "Revenue_Actual": 7441693.0, "OperatingIncome_Actual": 1180756.0}, {"Month": "2025-06", "Revenue_Budget": 7524320.0, "Revenue_Actual": 7517660.0, "OperatingIncome_Actual": 1126393.0}, {"Month": "2025-07", "Revenue_Budget": 7609275.0, "Revenue_Actual": 7624526.0, "OperatingIncome_Actual": 1205155.0}, {"Month": "2025-08", "Revenue_Budget": 7671525.0, "Revenue_Actual": 7678461.0, "OperatingIncome_Actual": 1219116.0}, {"Month": "2025-09", "Revenue_Budget": 8280138.0, "Revenue_Actual": 8276166.0, "OperatingIncome_Actual": 1268445.0}, {"Month": "2025-10", "Revenue_Budget": 7798052.0, "Revenue_Actual": 7797061.0, "OperatingIncome_Actual": 1103659.0}, {"Month": "2025-11", "Revenue_Budget": 7838469.0, "Revenue_Actual": 7851180.0, "OperatingIncome_Actual": 1180367.0}, {"Month": "2025-12", "Revenue_Budget": 8532780.0, "Revenue_Actual": 8440371.0, "OperatingIncome_Actual": 1235771.0}, {"Month": "2026-01", "Revenue_Budget": 7900539.0, "Revenue_Actual": 7948387.0, "OperatingIncome_Actual": 1265651.0}, {"Month": "2026-02", "Revenue_Budget": 8029516.0, "Revenue_Actual": 8039165.0, "OperatingIncome_Actual": 1255364.0}, {"Month": "2026-03", "Revenue_Budget": 8555499.0, "Revenue_Actual": 8654933.0, "OperatingIncome_Actual": 1380996.0}], "by_bu": [{"BU": "Banking & Financial Services", "Revenue_Actual": 61972121.0, "Revenue_Budget": 61844139.0, "OperatingIncome_Actual": 9418829.0, "GrossMarginPct": 0.425, "OperatingMarginPct": 0.152, "RevenueVsBudgetPct": 0.002}, {"BU": "Healthcare & Life Sciences", "Revenue_Actual": 39727486.0, "Revenue_Budget": 39622306.0, "OperatingIncome_Actual": 6075605.0, "GrossMarginPct": 0.424, "OperatingMarginPct": 0.153, "RevenueVsBudgetPct": 0.003}, {"BU": "Public Sector", "Revenue_Actual": 33226409.0, "Revenue_Budget": 33253523.0, "OperatingIncome_Actual": 5065126.0, "GrossMarginPct": 0.424, "OperatingMarginPct": 0.152, "RevenueVsBudgetPct": -0.001}, {"BU": "Retail & Consumer", "Revenue_Actual": 48374303.0, "Revenue_Budget": 48364204.0, "OperatingIncome_Actual": 7252150.0, "GrossMarginPct": 0.423, "OperatingMarginPct": 0.15, "RevenueVsBudgetPct": 0.0}, {"BU": "Technology & Telecom", "Revenue_Actual": 72395110.0, "Revenue_Budget": 72669036.0, "OperatingIncome_Actual": 10797156.0, "GrossMarginPct": 0.424, "OperatingMarginPct": 0.149, "RevenueVsBudgetPct": -0.004}], "by_fy": [{"FY": "FY23", "Revenue_Actual": 76383842.0, "Revenue_Budget": 76484509.0, "OperatingIncome_Actual": 11499776.0}, {"FY": "FY24", "Revenue_Actual": 84677182.0, "Revenue_Budget": 84861799.0, "OperatingIncome_Actual": 12607466.0}, {"FY": "FY25", "Revenue_Actual": 94634405.0, "Revenue_Budget": 94406900.0, "OperatingIncome_Actual": 14501624.0}], "kpis": {"total_revenue_actual": 255695429.0, "total_revenue_budget": 255753208.0, "total_operating_income": 38608866.0, "avg_gross_margin_pct": 0.4243, "avg_operating_margin_pct": 0.151}};
+
+function fmtMoney(v) { return '$' + (v/1e6).toFixed(1) + 'M'; }
+function fmtPct(v) { return (v*100).toFixed(1) + '%'; }
+
+function renderKPIs() {
+  const k = DATA.kpis;
+  const strip = document.getElementById('kpiStrip');
+  strip.innerHTML = `
+    <div class="stat"><div class="value">${fmtMoney(k.total_revenue_actual)}</div><div class="label">Total Revenue (Actual)</div></div>
+    <div class="stat"><div class="value">${fmtMoney(k.total_operating_income)}</div><div class="label">Total Operating Income</div></div>
+    <div class="stat"><div class="value">${fmtPct(k.avg_gross_margin_pct)}</div><div class="label">Avg Gross Margin %</div></div>
+    <div class="stat"><div class="value">${fmtPct(k.avg_operating_margin_pct)}</div><div class="label">Avg Operating Margin %</div></div>
+  `;
+}
+
+function populateFilter() {
+  const sel = document.getElementById('buFilter');
+  DATA.by_bu.forEach(row => {
+    const opt = document.createElement('option');
+    opt.value = row.BU; opt.textContent = row.BU;
+    sel.appendChild(opt);
+  });
+}
+
+const NAVY = getComputedStyle(document.documentElement).getPropertyValue('--navy').trim() || '#1B2A41';
+const BRASS = getComputedStyle(document.documentElement).getPropertyValue('--brass').trim() || '#A9812F';
+
+let trendChart, opIncChart, buChart, marginChart;
+
+function renderCharts() {
+  const labels = DATA.trend.map(r => r.Month);
+  const budget = DATA.trend.map(r => r.Revenue_Budget);
+  const actual = DATA.trend.map(r => r.Revenue_Actual);
+  const opInc = DATA.trend.map(r => r.OperatingIncome_Actual);
+
+  trendChart = new Chart(document.getElementById('trendChart'), {
+    type: 'line',
+    data: { labels, datasets: [
+      { label: 'Budget', data: budget, borderColor: BRASS, backgroundColor: 'transparent', tension: 0.25 },
+      { label: 'Actual', data: actual, borderColor: NAVY, backgroundColor: 'transparent', tension: 0.25 },
+    ]},
+    options: { responsive: true, plugins: { legend: { position: 'bottom' } }, scales: { x: { ticks: { maxTicksLimit: 8 } } } }
+  });
+
+  opIncChart = new Chart(document.getElementById('opIncChart'), {
+    type: 'bar',
+    data: { labels, datasets: [ { label: 'Operating Income', data: opInc, backgroundColor: NAVY } ] },
+    options: { responsive: true, plugins: { legend: { display: false } }, scales: { x: { ticks: { maxTicksLimit: 8 } } } }
+  });
+
+  buChart = new Chart(document.getElementById('buChart'), {
+    type: 'bar',
+    data: {
+      labels: DATA.by_bu.map(r => r.BU.replace(' & ', ' &\n')),
+      datasets: [ { label: 'Revenue (Actual)', data: DATA.by_bu.map(r => r.Revenue_Actual), backgroundColor: BRASS } ]
+    },
+    options: { responsive: true, plugins: { legend: { display: false } } }
+  });
+
+  marginChart = new Chart(document.getElementById('marginChart'), {
+    type: 'bar',
+    data: {
+      labels: DATA.by_bu.map(r => r.BU.replace(' & ', ' &\n')),
+      datasets: [ { label: 'Operating Margin %', data: DATA.by_bu.map(r => (r.OperatingMarginPct*100).toFixed(1)), backgroundColor: NAVY } ]
+    },
+    options: { responsive: true, plugins: { legend: { display: false } }, scales: { y: { ticks: { callback: v => v + '%' } } } }
+  });
+}
+
+document.getElementById('buFilter').addEventListener('change', function(e) {
+  const bu = e.target.value;
+  if (bu === 'ALL') {
+    buChart.data.datasets[0].data = DATA.by_bu.map(r => r.Revenue_Actual);
+    marginChart.data.datasets[0].data = DATA.by_bu.map(r => (r.OperatingMarginPct*100).toFixed(1));
+  } else {
+    const row = DATA.by_bu.find(r => r.BU === bu);
+    buChart.data.datasets[0].data = DATA.by_bu.map(r => r.BU === bu ? r.Revenue_Actual : null);
+    marginChart.data.datasets[0].data = DATA.by_bu.map(r => r.BU === bu ? (r.OperatingMarginPct*100).toFixed(1) : null);
+  }
+  buChart.update();
+  marginChart.update();
+});
+
+renderKPIs();
+populateFilter();
+renderCharts();
+</script>
+<div id="site-footer-placeholder"></div>
+<script src="../js/site.js"></script>
+</body>
+</html>

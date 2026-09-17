@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>UAE Corporate Tax Computation Model — Bijesh BJ, CMA | Finance & FP&A | SAP FICO | Data Analytics</title>
+<meta name="description" content="Taxable income build-up from accounting profit for FY2025 — disallowed expenses, exempt income, and the 0% / 9% threshold under UAE CT Law." />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../css/style.css">
+<script>
+  (function(){ if(localStorage.getItem('bijesh-portfolio-theme')==='light'){ document.documentElement.setAttribute('data-theme','light'); } })();
+</script>
+</head>
+<body>
+<div id="site-header-placeholder"></div>
+
+<main>
+  <section class="section tight">
+    <div class="wrap">
+      <a href="../projects.html" class="mono" style="font-size:0.85rem; color:var(--ink-soft); text-decoration:none;">&larr; All Projects</a>
+      <span class="eyebrow" style="margin-top:16px;">UAE VAT & Corporate Tax</span>
+      <h1>UAE Corporate Tax Computation Model</h1>
+      <p style="max-width:70ch; font-size:1.05rem;">Taxable income build-up from accounting profit for FY2025 — disallowed expenses, exempt income, and the 0% / 9% threshold under UAE CT Law.</p>
+      <span class="badge">Training / Demonstration</span>
+      <div class="stat-strip"><div class="stat"><div class="value">1,090</div><div class="label">adjustment entries</div></div><div class="stat"><div class="value">9%</div><div class="label">standard CT rate applied</div></div><div class="stat"><div class="value">AED 375K</div><div class="label">0% threshold</div></div><div class="stat"><div class="value">FY2025</div><div class="label">period modeled</div></div></div>
+    </div>
+  </section>
+
+  <section class="section tight">
+    <div class="wrap">
+      <div class="section-head"><span class="num">01</span><h2>What it does</h2></div>
+      <p style="max-width:70ch;">1,090 transaction-level adjusting entries for FY2025 — disallowed expenses
+      (entertainment, fines), add-backs (accounting depreciation, unrealized provisions), deductions (tax
+      depreciation, realized bad debts), and exempt income (dividends, government grants). The computation
+      sheet builds from accounting net profit to taxable income, then applies the UAE CT Law's 0% band up to
+      AED 375,000 and 9% above it.</p>
+      <table class="ledger-table" style="margin-top:20px;">
+        <thead><tr><th>Adj ID</th><th>Description</th><th>Treatment</th><th>Amount (AED)</th><th>Direction</th></tr></thead>
+        <tbody>
+          <tr><td>CT-9001</td><td>Provision for Doubtful Debts (unrealized)</td><td>Add Back</td><td>52,928.39</td><td>Add</td></tr>
+          <tr><td>CT-9002</td><td>Related Party Management Fee</td><td>Transfer Pricing Adj.</td><td>34,360.91</td><td>Add</td></tr>
+          <tr><td>CT-9003</td><td>UAE Government Grant Income</td><td>Exempt Income</td><td>15,009.17</td><td>Add</td></tr>
+        </tbody>
+      </table>
+      <p class="disclosure">Excerpt shown — full ledger has 1,090 adjustment entries across FY2025.</p>
+    </div>
+  </section>
+  <section class="section tight">
+    <div class="wrap">
+      <div class="section-head"><span class="num">02</span><h2>Downloads</h2></div>
+      <ul class="download-list">
+      <li>
+        <div><span class="file-label">UAE_Corporate_Tax_Computation.xlsx</span><span class="file-desc">2-sheet workbook — adjustments ledger, tax computation</span></div>
+        <a class="btn btn-outline" href="../assets/downloads/UAE_Corporate_Tax_Computation.xlsx" download>⤓ Download</a>
+      </li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="section tight">
+    <div class="wrap">
+      <div class="callout">Synthetic data — all figures, counterparties, and companies shown are randomly
+      generated for this demonstration and do not represent any real employer or client.</div>
+    </div>
+  </section>
+</main>
+<div id="site-footer-placeholder"></div>
+<script src="../js/site.js"></script>
+</body>
+</html>
