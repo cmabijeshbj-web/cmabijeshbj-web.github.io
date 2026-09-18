@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Financial Data Analysis Using SQL — Bijesh BJ, CMA | Finance & FP&A | SAP FICO | Data Analytics</title>
+<meta name="description" content="1,202 client invoices across 24 months, 5 business units and 5 regions — 8 tested SQL queries covering trend, margin, AR risk, and client concentration analysis." />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../css/style.css">
+<script>
+  (function(){ if(localStorage.getItem('bijesh-portfolio-theme')==='light'){ document.documentElement.setAttribute('data-theme','light'); } })();
+</script>
+</head>
+<body>
+<div id="site-header-placeholder"></div>
+
+<main>
+  <section class="section tight">
+    <div class="wrap">
+      <a href="../projects.html" class="mono" style="font-size:0.85rem; color:var(--ink-soft); text-decoration:none;">&larr; All Projects</a>
+      <span class="eyebrow" style="margin-top:16px;">SQL</span>
+      <h1>Financial Data Analysis Using SQL</h1>
+      <p style="max-width:70ch; font-size:1.05rem;">1,202 client invoices across 24 months, 5 business units and 5 regions — 8 tested SQL queries covering trend, margin, AR risk, and client concentration analysis.</p>
+      <span class="badge">Training / Demonstration</span>
+      <div class="stat-strip"><div class="stat"><div class="value">1,202</div><div class="label">transactions</div></div><div class="stat"><div class="value">8</div><div class="label">queries</div></div><div class="stat"><div class="value">15</div><div class="label">clients</div></div><div class="stat"><div class="value">24</div><div class="label">months</div></div></div>
+    </div>
+  </section>
+
+  <section class="section tight">
+    <div class="wrap">
+      <div class="section-head"><span class="num">01</span><h2>What it does</h2></div>
+      <p style="max-width:70ch;">1,202 client invoices across 24 months, 5 business units, 15 clients, and 5
+      regions. 8 tested SQL queries cover monthly revenue &amp; margin trend, BU-level month-over-month growth
+      (window functions), top-10 clients by revenue, AR risk exposure by payment status, margin by region,
+      quarterly KPI summary, below-average-margin clients (subquery + HAVING), and a running cumulative revenue
+      total. All queries were executed and verified against the dataset in SQLite.</p>
+      <table class="ledger-table" style="margin-top:20px;">
+        <thead><tr><th>Invoice ID</th><th>Client</th><th>Business Unit</th><th>Region</th><th>Revenue</th><th>Status</th></tr></thead>
+        <tbody>
+          <tr><td>INV-100001</td><td>Northbridge Bank</td><td>Technology &amp; Telecom</td><td>India</td><td>$53,918.45</td><td>Paid</td></tr>
+          <tr><td>INV-100002</td><td>Ironclad Public Utilities</td><td>Public Sector</td><td>KSA</td><td>$68,740.57</td><td>Outstanding</td></tr>
+          <tr><td>INV-100003</td><td>Falcon Aerospace</td><td>Technology &amp; Telecom</td><td>India</td><td>$97,794.73</td><td>Outstanding</td></tr>
+        </tbody>
+      </table>
+      <p class="disclosure">Excerpt shown — full dataset has 1,202 invoices.</p>
+      <h3 style="margin-top:30px;">Sample query — BU month-over-month growth</h3>
+      <pre class="mono" style="background:#0B1622; color:#DCE4EC; padding:18px; border-radius:3px; overflow-x:auto; font-size:0.8rem; border:1px solid #26374F;">WITH monthly_bu AS (
+  SELECT BusinessUnit, strftime('%Y-%m', InvoiceDate) AS Month, SUM(Revenue) AS Revenue
+  FROM sales_transactions GROUP BY BusinessUnit, Month
+)
+SELECT BusinessUnit, Month, Revenue,
+  LAG(Revenue) OVER (PARTITION BY BusinessUnit ORDER BY Month) AS PriorMonthRevenue,
+  ROUND(100.0 * (Revenue - LAG(Revenue) OVER (PARTITION BY BusinessUnit ORDER BY Month))
+    / NULLIF(LAG(Revenue) OVER (PARTITION BY BusinessUnit ORDER BY Month), 0), 2) AS MoM_Growth_Pct
+FROM monthly_bu ORDER BY BusinessUnit, Month;</pre>
+    </div>
+  </section>
+  <section class="section tight">
+    <div class="wrap">
+      <div class="section-head"><span class="num">02</span><h2>Downloads</h2></div>
+      <ul class="download-list">
+      <li>
+        <div><span class="file-label">financial_data_analysis.sql</span><span class="file-desc">Schema + 8 tested queries (trend, growth, top clients, AR risk, margin, KPIs)</span></div>
+        <a class="btn btn-outline" href="../assets/downloads/financial_data_analysis.sql" download>⤓ Download</a>
+      </li>
+      <li>
+        <div><span class="file-label">sales_transactions.csv</span><span class="file-desc">Source dataset — 1,202 invoices</span></div>
+        <a class="btn btn-outline" href="../assets/downloads/sales_transactions.csv" download>⤓ Download</a>
+      </li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="section tight">
+    <div class="wrap">
+      <div class="callout">Synthetic data — all figures, counterparties, and companies shown are randomly
+      generated for this demonstration and do not represent any real employer or client.</div>
+    </div>
+  </section>
+</main>
+<div id="site-footer-placeholder"></div>
+<script src="../js/site.js"></script>
+</body>
+</html>
