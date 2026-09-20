@@ -2,7 +2,8 @@
    Financial Data Analysis Using SQL
    Demonstration / training project — synthetic invoice data (1,202 rows),
    24 months (Jan 2024 – Dec 2025) across 5 business units, 15 clients, 5 regions.
-   Dialect: standard ANSI SQL, tested against SQLite.
+   Dialect: SQLite (uses strftime() for date formatting — swap for DATE_FORMAT() in MySQL
+   or TO_CHAR() in PostgreSQL if porting). All 8 queries executed and verified with zero errors.
    ============================================================================ */
 
 -- ----------------------------------------------------------------------------
@@ -20,7 +21,7 @@ CREATE TABLE sales_transactions (
     PaymentStatus   TEXT NOT NULL CHECK (PaymentStatus IN ('Paid','Outstanding','Overdue'))
 );
 
--- Load data: sales_transactions.csv (503 rows) via your tool's CSV import,
+-- Load data: sales_transactions.csv (1,202 rows) via your tool's CSV import,
 -- e.g. in SQLite:  .import sales_transactions.csv sales_transactions --csv --skip 1
 
 
