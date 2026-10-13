@@ -20,7 +20,7 @@ var NAV_ITEMS = [
 var SITE_NAME = "Bijesh BJ, CMA (USA)";
 var SITE_LEDGER_TAG = "FP&A · SAP FICO · UAE VAT &amp; CT";
 var FOOTER_TAGLINE = "Every number tells a story. I turn financial data into insight.";
-var FOOTER_EMAIL = "cmabijeshbj@gmail.com";
+var FOOTER_EMAIL = "cmabijesh.ae@gmail.com";
 var FOOTER_SITE_URL = "https://cmabijeshbj-web.github.io/";
 
 // ---- 2. Everything below this line is plumbing — no need to edit it ----
