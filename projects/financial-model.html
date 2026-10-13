@@ -5,10 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Integrated 3-Statement Financial Model & DCF Valuation — Bijesh BJ, CMA | Finance & FP&A | SAP FICO | Data Analytics</title>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='32' fill='%231B2A41'/%3E%3Ctext x='32' y='42' font-family='Arial,sans-serif' font-weight='700' font-size='26' fill='%23D8A94E' text-anchor='middle'%3EBB%3C/text%3E%3C/svg%3E">
-<meta name="description" content="A CFI-standard 3-statement financial model and DCF valuation — blue/black/green formula color-coding, a model map, a WACC × growth sensitivity table, and a consolidated checks sheet." />
+<meta name="description" content="Scenario-driven 3-statement model and DCF to CFI standards with Base / Upside / Downside cases, sensitivity grid and integrity checks." />
 <meta property="og:type" content="website">
 <meta property="og:title" content="Integrated 3-Statement Financial Model & DCF Valuation — Bijesh BJ, CMA | Finance & FP&A | SAP FICO | Data Analytics">
-<meta property="og:description" content="A CFI-standard 3-statement financial model and DCF valuation — blue/black/green formula color-coding, a model map, a WACC × growth sensitivity table, and a consolidated checks sheet.">
+<meta property="og:description" content="Scenario-driven 3-statement model and DCF to CFI standards with Base / Upside / Downside cases, sensitivity grid and integrity checks.">
 <meta property="og:url" content="https://cmabijeshbj-web.github.io/projects/financial-model.html">
 <meta property="og:image" content="https://cmabijeshbj-web.github.io/assets/profile.jpg">
 <meta name="twitter:card" content="summary_large_image">
@@ -21,56 +21,74 @@
 </head>
 <body>
 <div id="site-header-placeholder"></div>
-
 <main>
   <section class="section tight">
     <div class="wrap">
       <a href="../projects.html" class="mono" style="font-size:0.85rem; color:var(--ink-soft); text-decoration:none;">&larr; All Projects</a>
       <span class="eyebrow" style="margin-top:16px;">Financial Modeling</span>
       <h1>Integrated 3-Statement Financial Model & DCF Valuation</h1>
-      <p style="max-width:70ch; font-size:1.05rem;">Built to CFI (Corporate Finance Institute) modeling standards: blue/black/green color-coded formulas, a model map with a color legend, a WACC × terminal-growth sensitivity table, and a consolidated checks sheet. A monthly revenue build for 5 product lines across 6 regions feeds a full 3-statement model (IS, BS, CF) and a DCF valuation — balance sheet ties to zero every year.</p>
-      <span class="badge">Training / Demonstration</span>
-      <div class="stat-strip"><div class="stat"><div class="value">9</div><div class="label">sheets, CFI-structured</div></div><div class="stat"><div class="value">1,254</div><div class="label">linked formulas</div></div><div class="stat"><div class="value">3</div><div class="label">forecast years</div></div><div class="stat"><div class="value">$0</div><div class="label">balance-check variance</div></div></div>
+      <p style="max-width:75ch; font-size:1.05rem;">A scenario-driven 3-statement model (income statement, balance sheet, cash flow) and DCF built to CFI colour standards: Base, Upside and Downside cases give an enterprise value of $425M, $494M and $313M.</p>
+      <span class="badge">Portfolio Demonstration · Synthetic Data</span>
+      <div class="stat-strip"><div class="stat"><div class="value">1,950</div><div class="label">linked formulas</div></div><div class="stat"><div class="value">3</div><div class="label">scenarios, one switch</div></div><div class="stat"><div class="value">FY24–31</div><div class="label">3 actual + 5 forecast</div></div><div class="stat"><div class="value">$0</div><div class="label">balance-check variance</div></div></div>
     </div>
   </section>
 
   <section class="section tight">
     <div class="wrap">
-      <div class="section-head"><span class="num">01</span><h2>What it does</h2></div>
-      <p style="max-width:70ch;">A monthly revenue build for 5 product lines across 6 regions over 36 months — Units × Avg Price,
-      fully formula-driven — feeds an annual 3-statement model (Income Statement, Balance Sheet, Cash Flow) for
-      FY24–FY26, fully formula-linked — change an assumption and the whole model recalculates. The balance sheet
-      ties to exactly $0 every year. A DCF sheet derives unlevered free cash flow, discounts it at an 11% WACC,
-      computes enterprise and implied equity value with a Gordon Growth terminal value, and includes a 5×5
-      sensitivity table showing enterprise value across a range of WACC and terminal-growth assumptions. Every
-      sheet displays figures in abbreviated $K / $M form and has gridlines turned off for a cleaner, presentation-ready look.</p>
-      <p style="max-width:70ch;">The workbook follows CFI (Corporate Finance Institute) formatting conventions throughout:
-      a <strong>Cover / Model Map</strong> sheet with a color legend and clickable navigation to every tab;
-      <span style="background:#fff; color:#0000FF; font-weight:700; padding:1px 7px; border-radius:3px; font-family:'IBM Plex Mono',monospace; font-size:0.85em;">blue</span> for every hardcoded input,
-      <span style="background:#fff; color:#000000; font-weight:700; padding:1px 7px; border-radius:3px; font-family:'IBM Plex Mono',monospace; font-size:0.85em;">black</span> for formulas referencing the same sheet, and
-      <span style="background:#fff; color:#008000; font-weight:700; padding:1px 7px; border-radius:3px; font-family:'IBM Plex Mono',monospace; font-size:0.85em;">green</span> for any formula that links to a different sheet —
-      so you can trace exactly where every number comes from at a glance. A dedicated
-      <strong>07_Checks</strong> sheet consolidates the model's integrity checks (balance sheet balances, cash flow
-      ties to the balance sheet, net income flows correctly through all three statements) into a single
-      pass/fail status.</p>
-      <table class="ledger-table" style="margin-top:20px;">
-        <thead><tr><th>Product</th><th>Region</th><th>Month</th><th>Units</th><th>Avg Price</th><th>Revenue</th></tr></thead>
-        <tbody>
-          <tr><td>Managed Services</td><td>UAE</td><td>2023-04</td><td>198.4</td><td>$5,737.18</td><td>$1,138,257</td></tr>
-          <tr><td>Managed Services</td><td>UAE</td><td>2023-05</td><td>208.6</td><td>$5,758.19</td><td>$1,201,158</td></tr>
-          <tr><td>Managed Services</td><td>UAE</td><td>2023-06</td><td>210.4</td><td>$5,748.16</td><td>$1,209,413</td></tr>
-        </tbody>
-      </table>
-      <p class="disclosure">Excerpt shown — full revenue build has 1,080 rows across 5 product lines x 6 regions.</p>
+      <div class="section-head"><span class="num">01</span><h2>The business scenario</h2></div>
+      <p style="max-width:75ch;">The board asks: what is the business worth, what happens if growth stalls, and how much cash can we return? A 1,080-row units × price revenue build feeds a fully linked model; one dropdown switches the whole model between Base, Upside and Downside, and the DCF, sensitivity grid and summary update instantly. FY24–FY26 actuals tie to the FP&A pack.</p>
     </div>
   </section>
+
   <section class="section tight">
     <div class="wrap">
-      <div class="section-head"><span class="num">02</span><h2>Downloads</h2></div>
+      <div class="section-head"><span class="num">02</span><h2>Headline results</h2></div>
+      <div style="overflow-x:auto"><table class="ledger-table" style="margin-top:14px;"><thead><tr><th>Metric (Base case)</th><th>Value</th><th>Note</th></tr></thead><tbody><tr><td>Enterprise value</td><td>$425.3M</td><td>10.8x FY26 EBITDA · terminal value 69% of EV</td></tr><tr><td>Equity value</td><td>$460.4M</td><td>after net cash of $35.1M</td></tr><tr><td>FY31 revenue</td><td>$237.5M</td><td>6.7% CAGR from FY26 ($171.7M)</td></tr><tr><td>FY31 EBITDA margin</td><td>24.3%</td><td>vs 23.0% in FY26</td></tr><tr><td>5-year free cash flow</td><td>$184.2M</td><td>FY27–FY31 cumulative</td></tr><tr><td>Upside / Downside EV</td><td>$494M / $313M</td><td>Downside is 26% below Base</td></tr><tr><td>WACC / terminal growth</td><td>11% / 2.5%</td><td>5×5 sensitivity grid on the DCF sheet</td></tr><tr><td>Integrity checks</td><td>12 / 12 PASS</td><td>Balance sheet balances in all 9 periods</td></tr></tbody></table></div>
+      <div class="callout" style="margin-top:18px;"><strong>So what?</strong> Value is resilient but not unconditional: the Downside case (growth 2–3%, margin pressure, DSO 65 days) removes about 26% of enterprise value. With net cash building to $102M by FY31, capital-allocation policy becomes the real board decision.</div>
+    </div>
+  </section>
+
+  <section class="section tight">
+    <div class="wrap">
+      <div class="section-head"><span class="num">03</span><h2>CFO board pack (PDF)</h2></div>
+      <p style="max-width:75ch;">A four-page landscape board pack is generated automatically from the recalculated workbook — KPI tiles with RAG status, auto-written key messages, variance / bridge charts, detailed tables, risks and recommended actions, and the model-integrity status. Every figure in the PDF is read from the workbook, so the two always tie.</p>
+      <div class="grid grid-2" style="margin-top:14px;">
+        <a href="../assets/downloads/Financial_Model_Board_Pack.pdf" target="_blank" rel="noopener"><img style="width:100%;border:1px solid var(--rule);border-radius:4px;display:block;" src="../assets/previews/fm-1.jpg" alt="Integrated 3-Statement Financial Model & DCF Valuation board pack, page 1" loading="lazy"></a>
+        <a href="../assets/downloads/Financial_Model_Board_Pack.pdf" target="_blank" rel="noopener"><img style="width:100%;border:1px solid var(--rule);border-radius:4px;display:block;" src="../assets/previews/fm-2.jpg" alt="Integrated 3-Statement Financial Model & DCF Valuation board pack, page 2" loading="lazy"></a>
+      </div>
+      <div class="btn-row"><a class="btn btn-primary" href="../assets/downloads/Financial_Model_Board_Pack.pdf" download>⤓ Download the 4-page board pack</a></div>
+    </div>
+  </section>
+
+  <section class="section tight">
+    <div class="wrap">
+      <div class="section-head"><span class="num">04</span><h2>What is inside the workbook</h2></div>
+      <div style="overflow-x:auto"><table class="ledger-table" style="margin-top:14px;"><thead><tr><th>Sheet</th><th>Purpose</th></tr></thead><tbody><tr><td>00_Cover</td><td>Model map with clickable navigation, CFI colour legend, conventions</td></tr><tr><td>01_Exec_Summary</td><td>Scenario selector, 8-year summary, valuation, scenario comparison, key messages, charts</td></tr><tr><td>02_Assumptions</td><td>All inputs; Base / Upside / Downside tables with a live row picked by the selector; opening balance sheet</td></tr><tr><td>03_Revenue_Build</td><td>1,080 rows: Units × Avg price = Revenue; product and region summaries</td></tr><tr><td>04–06 Statements</td><td>Income statement, balance sheet (with balance check) and indirect cash flow, FY24–FY31</td></tr><tr><td>07_DCF_Valuation</td><td>Unlevered FCF, WACC discounting, Gordon-growth TV, exit-multiple cross-check, 5×5 sensitivity</td></tr><tr><td>08_Ratios</td><td>Margins, ROE, ROCE, DSO / DPO, leverage, interest cover, FCF conversion</td></tr><tr><td>09_Checks</td><td>12 integrity checks and overall status</td></tr></tbody></table></div>
+    </div>
+  </section>
+
+  <section class="section tight">
+    <div class="wrap">
+      <div class="section-head"><span class="num">05</span><h2>How it is built</h2></div>
+      <ul style="max-width:80ch;padding-left:20px;"><li style="margin:6px 0;">CFI colour convention: blue = hardcoded input, black = same-sheet formula, green = cross-sheet link — trace any number at a glance.</li><li style="margin:6px 0;">Scenario switch: one dropdown (01_Exec_Summary!C4) re-points every driver via INDEX; no macros.</li><li style="margin:6px 0;">No circular references: interest is calculated on opening balances; the balance sheet balances to $0.00 in every year.</li><li style="margin:6px 0;">Sensitivity grid uses a closed-form formula in every cell (not a data table), so it recalculates instantly in Excel and LibreOffice.</li><li style="margin:6px 0;">FY26 revenue and EBITDA tie to the FP&A workbook within rounding (checked on 09_Checks).</li></ul>
+    </div>
+  </section>
+
+  <section class="section tight">
+    <div class="wrap">
+      <div class="section-head"><span class="num">06</span><h2>Downloads</h2></div>
       <ul class="download-list">
       <li>
-        <div><span class="file-label">Integrated_Financial_Model.xlsx</span><span class="file-desc">9-sheet CFI-format model — cover/model map, revenue build, assumptions, IS, BS, CF, DCF valuation with sensitivity table, checks</span></div>
+        <div><span class="file-label">Integrated_Financial_Model.xlsx</span><span class="file-desc">10-sheet CFI-format model with scenario switch, DCF and checks</span></div>
         <a class="btn btn-outline" href="../assets/downloads/Integrated_Financial_Model.xlsx" download>⤓ Download</a>
+      </li>
+      <li>
+        <div><span class="file-label">Financial_Model_Board_Pack.pdf</span><span class="file-desc">4-page landscape board pack</span></div>
+        <a class="btn btn-outline" href="../assets/downloads/Financial_Model_Board_Pack.pdf" download>⤓ Download</a>
+      </li>
+      <li>
+        <div><span class="file-label">revenue_build.csv</span><span class="file-desc">Revenue-build dataset — 1,080 rows</span></div>
+        <a class="btn btn-outline" href="../assets/downloads/revenue_build.csv" download>⤓ Download</a>
       </li>
       </ul>
     </div>

@@ -5,10 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Financial Data Analysis Using SQL — Bijesh BJ, CMA | Finance & FP&A | SAP FICO | Data Analytics</title>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='32' fill='%231B2A41'/%3E%3Ctext x='32' y='42' font-family='Arial,sans-serif' font-weight='700' font-size='26' fill='%23D8A94E' text-anchor='middle'%3EBB%3C/text%3E%3C/svg%3E">
-<meta name="description" content="1,202 client invoices across 24 months, 5 business units and 5 regions — 8 tested SQL queries covering trend, margin, AR risk, and client concentration analysis." />
+<meta name="description" content="14 tested SQL queries on a 1,785-invoice billing register: growth, margin, concentration, receivables ageing, DSO and collection risk." />
 <meta property="og:type" content="website">
 <meta property="og:title" content="Financial Data Analysis Using SQL — Bijesh BJ, CMA | Finance & FP&A | SAP FICO | Data Analytics">
-<meta property="og:description" content="1,202 client invoices across 24 months, 5 business units and 5 regions — 8 tested SQL queries covering trend, margin, AR risk, and client concentration analysis.">
+<meta property="og:description" content="14 tested SQL queries on a 1,785-invoice billing register: growth, margin, concentration, receivables ageing, DSO and collection risk.">
 <meta property="og:url" content="https://cmabijeshbj-web.github.io/projects/sql-analysis.html">
 <meta property="og:image" content="https://cmabijeshbj-web.github.io/assets/profile.jpg">
 <meta name="twitter:card" content="summary_large_image">
@@ -21,59 +21,94 @@
 </head>
 <body>
 <div id="site-header-placeholder"></div>
-
 <main>
   <section class="section tight">
     <div class="wrap">
       <a href="../projects.html" class="mono" style="font-size:0.85rem; color:var(--ink-soft); text-decoration:none;">&larr; All Projects</a>
       <span class="eyebrow" style="margin-top:16px;">SQL</span>
       <h1>Financial Data Analysis Using SQL</h1>
-      <p style="max-width:70ch; font-size:1.05rem;">1,202 client invoices across 24 months, 5 business units and 5 regions — 8 tested SQL queries covering trend, margin, AR risk, and client concentration analysis.</p>
-      <span class="badge">Training / Demonstration</span>
-      <div class="stat-strip"><div class="stat"><div class="value">1,202</div><div class="label">transactions</div></div><div class="stat"><div class="value">8</div><div class="label">queries</div></div><div class="stat"><div class="value">15</div><div class="label">clients</div></div><div class="stat"><div class="value">24</div><div class="label">months</div></div></div>
+      <p style="max-width:75ch; font-size:1.05rem;">1,785 client invoices tied to the FP&A pack, analysed with 14 tested SQL queries — growth, margin, concentration, receivables ageing, DSO and collection risk. $26.4M of receivables are open at 31-Mar-2026.</p>
+      <span class="badge">Portfolio Demonstration · Synthetic Data</span>
+      <div class="stat-strip"><div class="stat"><div class="value">1,785</div><div class="label">invoices</div></div><div class="stat"><div class="value">14</div><div class="label">tested queries</div></div><div class="stat"><div class="value">54 days</div><div class="label">AR-based DSO</div></div><div class="stat"><div class="value">35%</div><div class="label">top-10 client share</div></div></div>
     </div>
   </section>
 
   <section class="section tight">
     <div class="wrap">
-      <div class="section-head"><span class="num">01</span><h2>What it does</h2></div>
-      <p style="max-width:70ch;">1,202 client invoices across 24 months, 5 business units, 15 clients, and 5
-      regions. 8 tested SQL queries cover monthly revenue &amp; margin trend, BU-level month-over-month growth
-      (window functions), top-10 clients by revenue, AR risk exposure by payment status, margin by region,
-      quarterly KPI summary, below-average-margin clients (subquery + HAVING), and a running cumulative revenue
-      total. All queries were executed and verified against the dataset in SQLite.</p>
-      <table class="ledger-table" style="margin-top:20px;">
-        <thead><tr><th>Invoice ID</th><th>Client</th><th>Business Unit</th><th>Region</th><th>Revenue</th><th>Status</th></tr></thead>
-        <tbody>
-          <tr><td>INV-100001</td><td>Falcon Aerospace</td><td>Retail &amp; Consumer</td><td>India</td><td>$107,909.56</td><td>Paid</td></tr>
-          <tr><td>INV-100002</td><td>Meridian Health Group</td><td>Banking &amp; Financial Services</td><td>UAE</td><td>$90,242.74</td><td>Paid</td></tr>
-          <tr><td>INV-100003</td><td>BlueHarbor Financial</td><td>Technology &amp; Telecom</td><td>UAE</td><td>$17,519.43</td><td>Outstanding</td></tr>
-        </tbody>
-      </table>
-      <p class="disclosure">Excerpt shown — full dataset has 1,202 invoices.</p>
-      <h3 style="margin-top:30px;">Sample query — BU month-over-month growth</h3>
-      <pre class="mono" style="background:#0B1622; color:#DCE4EC; padding:18px; border-radius:3px; overflow-x:auto; font-size:0.8rem; border:1px solid #26374F;">WITH monthly_bu AS (
-  SELECT BusinessUnit, strftime('%Y-%m', InvoiceDate) AS Month, SUM(Revenue) AS Revenue
-  FROM sales_transactions GROUP BY BusinessUnit, Month
-)
-SELECT BusinessUnit, Month, Revenue,
-  LAG(Revenue) OVER (PARTITION BY BusinessUnit ORDER BY Month) AS PriorMonthRevenue,
-  ROUND(100.0 * (Revenue - LAG(Revenue) OVER (PARTITION BY BusinessUnit ORDER BY Month))
-    / NULLIF(LAG(Revenue) OVER (PARTITION BY BusinessUnit ORDER BY Month), 0), 2) AS MoM_Growth_Pct
-FROM monthly_bu ORDER BY BusinessUnit, Month;</pre>
+      <div class="section-head"><span class="num">01</span><h2>The business scenario</h2></div>
+      <p style="max-width:75ch;">The CFO needs more than a P&L: how concentrated is revenue, how fast do clients actually pay, and which overdue balances threaten cash? The billing register (1,785 invoices across 69 clients) reconciles exactly to the FP&A pack, so every query result is consistent with the board numbers. Results are delivered as a formatted workbook with one sheet per query.</p>
     </div>
   </section>
+
   <section class="section tight">
     <div class="wrap">
-      <div class="section-head"><span class="num">02</span><h2>Downloads</h2></div>
+      <div class="section-head"><span class="num">02</span><h2>Headline results</h2></div>
+      <div style="overflow-x:auto"><table class="ledger-table" style="margin-top:14px;"><thead><tr><th>KPI</th><th>Value</th><th>Reading</th></tr></thead><tbody><tr><td>Open receivables (31-Mar-2026)</td><td>$26.4M</td><td>89 open invoices</td></tr><tr><td>AR more than 60 days overdue</td><td>6.9%</td><td>Collection-risk bucket</td></tr><tr><td>DSO (AR-based, 90-day)</td><td>53.9 days</td><td>Open AR ÷ last-90-day billings × 90</td></tr><tr><td>Value-weighted days to collect (FY26)</td><td>47.2 days</td><td>36.5% of paid invoices cleared by due date</td></tr><tr><td>Largest client share (FY26)</td><td>4.6%</td><td>No single-client dependency</td></tr><tr><td>Top-10 clients share</td><td>35.0%</td><td>Moderate concentration</td></tr><tr><td>Top quintile of clients</td><td>44.5%</td><td>Revenue is broad-based, not 80/20</td></tr><tr><td>Reconciliation to FP&A</td><td>$0 difference</td><td>Billing register = FP&A actual revenue, all years</td></tr></tbody></table></div>
+      <div class="callout" style="margin-top:18px;"><strong>So what?</strong> Revenue is well diversified, but cash collection is the weak spot: fewer than four in ten invoices are paid by the due date, and a handful of slow payers carry most of the overdue balance — a working-capital lever worth more than a small margin gain.</div>
+    </div>
+  </section>
+
+  <section class="section tight">
+    <div class="wrap">
+      <div class="section-head"><span class="num">03</span><h2>Results pack</h2></div>
+      <p style="max-width:75ch;">Every query is executed against the data and its output is written to a formatted workbook — one sheet per query with the insight, the result table and the SQL beneath it. Open it to review the answers without running any code.</p>
+      <div class="btn-row"><a class="btn btn-primary" href="../assets/downloads/SQL_Analysis_Results.xlsx" download>⤓ Download the results workbook</a><a class="btn btn-outline" href="../assets/downloads/financial_data_analysis.sql" download>⤓ Download the .sql file</a></div>
+    </section>
+
+  <section class="section tight">
+    <div class="wrap">
+      <div class="section-head"><span class="num">03b</span><h2>Query catalogue — 14 tested queries</h2></div>
+      <div style="overflow-x:auto"><table class="ledger-table" style="margin-top:14px;"><thead><tr><th>#</th><th>Query</th><th>Business question</th><th>Insight from the data</th></tr></thead><tbody><tr><td>Q01</td><td>Data reconciliation: invoices vs FP&A pack</td><td>Does the billing register tie to the revenue in the FP&A workbook? (control query)</td><td>Difference is 0 across all years - the register ties exactly to the FP&A pack.</td></tr><tr><td>Q02</td><td>Revenue, gross margin and YoY growth by fiscal year</td><td>How fast are we growing and is margin holding?</td><td>Revenue grew 7.4% in FY26 while gross margin moved from 39.5% to 38.5%.</td></tr><tr><td>Q03</td><td>Monthly revenue with 3-month moving average</td><td>What is the underlying trend after smoothing seasonality?</td><td>Latest 3-month moving average is $14.7M per month; peak month was 2026-03.</td></tr><tr><td>Q04</td><td>Business-unit profitability</td><td>Which business units earn the best gross margin and how has it moved?</td><td>Highest FY26 gross margin: Healthcare & Life Sciences at 44.6%; lowest: Manufacturing & Logistics at 29.3%.</td></tr><tr><td>Q05</td><td>Regional ranking (current year)</td><td>Which regions contribute most revenue and margin in FY26?</td><td>UAE is the largest region ($41.5M); lowest margin region: KSA (36.4%).</td></tr><tr><td>Q06</td><td>Client concentration - top 10</td><td>How dependent are we on a few clients?</td><td>Top client = 4.6% of FY26 revenue; top 10 = 35.0%.</td></tr><tr><td>Q07</td><td>Pareto: revenue by client decile</td><td>Do 20% of clients drive 80% of revenue?</td><td>The top quintile of clients generates 44.5% of FY26 revenue.</td></tr><tr><td>Q08</td><td>Accounts-receivable ageing at 31-Mar-2026</td><td>How much cash is outstanding and how overdue is it?</td><td>Open receivables total $26.4M; 6.9% is more than 60 days overdue.</td></tr><tr><td>Q09</td><td>DSO and collection performance by fiscal year</td><td>How quickly do we collect, and how much is paid on time?</td><td>Value-weighted days-to-collect is 47.2 days in FY26; 36.5% of paid invoices cleared by due date.</td></tr><tr><td>Q10</td><td>Slow-paying clients</td><td>Which clients consistently pay late?</td><td>Slowest payer averages 44.8 days past due (Delta Capital Bank).</td></tr><tr><td>Q11</td><td>High-risk open exposure</td><td>Which clients carry the largest overdue balances?</td><td>Top 10 overdue exposures total $4.1M (15.6% of open AR).</td></tr><tr><td>Q12</td><td>Budget vs actual by business unit</td><td>Where are we missing budget on revenue and operating income?</td><td>Biggest operating-income miss: Manufacturing & Logistics (-23.6% vs budget).</td></tr><tr><td>Q13</td><td>Weakest BU-region cells (margin)</td><td>Which BU/region combinations are dragging operating margin?</td><td>Largest margin gap vs budget: Manufacturing & Logistics in KSA (-6.2 pp).</td></tr><tr><td>Q14</td><td>Invoice-size distribution</td><td>Is revenue driven by a few very large invoices?</td><td>The largest band ('$250K-$500K') carries 40.5% of revenue.</td></tr></tbody></table></div>
+      <h3 style="margin-top:26px;">Sample query — receivables ageing</h3>
+      <pre style="background:#0B1622;color:#DCE4EC;border:1px solid #2B3B52;border-radius:4px;padding:16px;overflow-x:auto;font-family:'IBM Plex Mono',monospace;font-size:0.8rem;line-height:1.55;">-- Q08. Accounts-receivable ageing at 31-Mar-2026
+-- Business question: How much cash is outstanding and how overdue is it?
+-- Result insight   : Open receivables total $26.4M; 6.9% is more than 60 days overdue.
+SELECT CASE WHEN julianday('2026-03-31')-julianday(due_date) &lt;= 0  THEN '1. Not yet due'
+            WHEN julianday('2026-03-31')-julianday(due_date) &lt;= 30 THEN '2. 1-30 days overdue'
+            WHEN julianday('2026-03-31')-julianday(due_date) &lt;= 60 THEN '3. 31-60 days overdue'
+            WHEN julianday('2026-03-31')-julianday(due_date) &lt;= 90 THEN '4. 61-90 days overdue'
+            ELSE '5. Over 90 days overdue' END AS ageing_bucket,
+       COUNT(*) AS open_invoices, SUM(invoice_amount) AS open_amount,
+       ROUND(100.0*SUM(invoice_amount)/SUM(SUM(invoice_amount)) OVER (),1) AS pct_of_ar
+FROM sales_transactions WHERE paid_date IS NULL
+GROUP BY ageing_bucket ORDER BY ageing_bucket;
+</pre>
+    </div>
+  </section>
+
+  <section class="section tight">
+    <div class="wrap">
+      <div class="section-head"><span class="num">04</span><h2>What is inside the workbook</h2></div>
+      <div style="overflow-x:auto"><table class="ledger-table" style="margin-top:14px;"><thead><tr><th>Sheet</th><th>Purpose</th></tr></thead><tbody><tr><td>financial_data_analysis.sql</td><td>14 documented queries with business question, insight and SQLite-tested SQL (CTEs, window functions, date arithmetic)</td></tr><tr><td>SQL_Analysis_Results.xlsx</td><td>Index with 9 KPIs and one formatted sheet per query (results + the SQL itself)</td></tr><tr><td>sales_transactions.csv</td><td>1,785 invoices: client, BU, region, dates, amounts, direct cost, terms</td></tr><tr><td>bu_monthly_pl.csv</td><td>FP&A table used by the budget-vs-actual queries (1,080 rows)</td></tr></tbody></table></div>
+    </div>
+  </section>
+
+  <section class="section tight">
+    <div class="wrap">
+      <div class="section-head"><span class="num">05</span><h2>How it is built</h2></div>
+      <ul style="max-width:80ch;padding-left:20px;"><li style="margin:6px 0;">Window functions (LAG, RANK, NTILE, running SUM, moving AVG), CTEs and date arithmetic (julianday) — all tested on SQLite 3 before publishing.</li><li style="margin:6px 0;">Query 1 is a control query: it proves the billing register ties to the FP&A pack ($0 difference).</li><li style="margin:6px 0;">Ageing, DSO, on-time %, concentration and Pareto are standard CFO working-capital and credit-risk metrics.</li><li style="margin:6px 0;">The results workbook is regenerated automatically from the .sql file, so the published numbers never drift from the code.</li></ul>
+    </div>
+  </section>
+
+  <section class="section tight">
+    <div class="wrap">
+      <div class="section-head"><span class="num">06</span><h2>Downloads</h2></div>
       <ul class="download-list">
       <li>
-        <div><span class="file-label">financial_data_analysis.sql</span><span class="file-desc">Schema + 8 tested queries (trend, growth, top clients, AR risk, margin, KPIs)</span></div>
+        <div><span class="file-label">financial_data_analysis.sql</span><span class="file-desc">14 documented, tested queries (SQLite dialect)</span></div>
         <a class="btn btn-outline" href="../assets/downloads/financial_data_analysis.sql" download>⤓ Download</a>
       </li>
       <li>
-        <div><span class="file-label">sales_transactions.csv</span><span class="file-desc">Source dataset — 1,202 invoices</span></div>
+        <div><span class="file-label">SQL_Analysis_Results.xlsx</span><span class="file-desc">Formatted results pack — KPI index + 14 query sheets</span></div>
+        <a class="btn btn-outline" href="../assets/downloads/SQL_Analysis_Results.xlsx" download>⤓ Download</a>
+      </li>
+      <li>
+        <div><span class="file-label">sales_transactions.csv</span><span class="file-desc">Billing register — 1,785 invoices</span></div>
         <a class="btn btn-outline" href="../assets/downloads/sales_transactions.csv" download>⤓ Download</a>
+      </li>
+      <li>
+        <div><span class="file-label">bu_monthly_pl.csv</span><span class="file-desc">FP&A monthly table — 1,080 rows</span></div>
+        <a class="btn btn-outline" href="../assets/downloads/bu_monthly_pl.csv" download>⤓ Download</a>
       </li>
       </ul>
     </div>

@@ -1,1081 +1,1081 @@
-Product,Region,Month,Units,AvgPrice_USD,Revenue_USD
-Managed Services,UAE,2023-04,198.4,5737.18,1138446.73
-Managed Services,UAE,2023-05,208.6,5758.19,1201122.62
-Managed Services,UAE,2023-06,210.4,5748.16,1209379.23
-Managed Services,UAE,2023-07,216.2,5778.8,1249533.83
-Managed Services,UAE,2023-08,209.6,5800.79,1215762.34
-Managed Services,UAE,2023-09,208.6,5823.05,1214894.29
-Managed Services,UAE,2023-10,203.1,5812.12,1180469.39
-Managed Services,UAE,2023-11,199.7,5815.74,1161218.89
-Managed Services,UAE,2023-12,205.6,5817.51,1196092.96
-Managed Services,UAE,2024-01,208.1,5836.33,1214264.14
-Managed Services,UAE,2024-02,218.1,5833.5,1272245.26
-Managed Services,UAE,2024-03,229.6,5817.21,1335681.1
-Managed Services,UAE,2024-04,236.6,5816.02,1375819.51
-Managed Services,UAE,2024-05,238.0,5823.88,1386069.48
-Managed Services,UAE,2024-06,241.5,5819.89,1405399.13
-Managed Services,UAE,2024-07,239.6,5852.71,1402181.54
-Managed Services,UAE,2024-08,234.5,5850.55,1371884.63
-Managed Services,UAE,2024-09,244.3,5883.61,1437610.02
-Managed Services,UAE,2024-10,237.7,5879.66,1397420.8
-Managed Services,UAE,2024-11,241.7,5886.89,1423025.76
-Managed Services,UAE,2024-12,236.3,5870.06,1387381.65
-Managed Services,UAE,2025-01,231.1,5876.92,1358407.52
-Managed Services,UAE,2025-02,239.9,5871.5,1408628.88
-Managed Services,UAE,2025-03,235.5,5878.37,1384271.15
-Managed Services,UAE,2025-04,228.8,5875.83,1344352.35
-Managed Services,UAE,2025-05,227.4,5899.75,1341674.06
-Managed Services,UAE,2025-06,220.6,5895.03,1300331.68
-Managed Services,UAE,2025-07,219.5,5897.3,1294651.39
-Managed Services,UAE,2025-08,220.8,5907.74,1304328.36
-Managed Services,UAE,2025-09,233.4,5936.54,1385747.97
-Managed Services,UAE,2025-10,239.7,5932.43,1422073.91
-Managed Services,UAE,2025-11,249.5,5950.9,1484835.32
-Managed Services,UAE,2025-12,258.4,5967.27,1542175.06
-Managed Services,UAE,2026-01,251.3,5992.23,1506028.43
-Managed Services,UAE,2026-02,248.3,6027.25,1496588.02
-Managed Services,UAE,2026-03,258.3,6033.16,1558162.25
-Managed Services,KSA,2023-04,110.6,5055.73,558937.5
-Managed Services,KSA,2023-05,116.5,5047.88,587954.41
-Managed Services,KSA,2023-06,118.7,5045.57,599014.6
-Managed Services,KSA,2023-07,121.7,5035.22,612607.87
-Managed Services,KSA,2023-08,129.2,5028.8,649822.28
-Managed Services,KSA,2023-09,127.3,5032.99,640641.49
-Managed Services,KSA,2023-10,135.7,5028.99,682388.39
-Managed Services,KSA,2023-11,135.6,5050.75,684770.96
-Managed Services,KSA,2023-12,143.8,5066.93,728836.38
-Managed Services,KSA,2024-01,151.2,5056.15,764507.75
-Managed Services,KSA,2024-02,158.5,5048.54,800437.02
-Managed Services,KSA,2024-03,160.2,5037.06,806707.46
-Managed Services,KSA,2024-04,168.4,5024.53,845979.54
-Managed Services,KSA,2024-05,168.2,5020.4,844447.63
-Managed Services,KSA,2024-06,175.9,5017.57,882788.86
-Managed Services,KSA,2024-07,183.5,5009.5,919476.75
-Managed Services,KSA,2024-08,194.2,5030.81,976793.94
-Managed Services,KSA,2024-09,197.9,5017.0,993058.8
-Managed Services,KSA,2024-10,208.0,5045.64,1049560.34
-Managed Services,KSA,2024-11,216.2,5040.04,1089885.06
-Managed Services,KSA,2024-12,213.9,5029.06,1075717.07
-Managed Services,KSA,2025-01,221.6,5020.99,1112615.64
-Managed Services,KSA,2025-02,218.9,5043.05,1103891.17
-Managed Services,KSA,2025-03,218.9,5056.83,1107038.79
-Managed Services,KSA,2025-04,216.1,5079.71,1097488.38
-Managed Services,KSA,2025-05,228.8,5093.73,1165445.42
-Managed Services,KSA,2025-06,224.0,5078.98,1137732.16
-Managed Services,KSA,2025-07,220.8,5097.43,1125758.44
-Managed Services,KSA,2025-08,228.8,5091.5,1164910.29
-Managed Services,KSA,2025-09,239.8,5092.74,1221465.8
-Managed Services,KSA,2025-10,237.0,5080.92,1204355.75
-Managed Services,KSA,2025-11,246.1,5077.78,1249710.41
-Managed Services,KSA,2025-12,254.9,5081.92,1295405.25
-Managed Services,KSA,2026-01,270.6,5096.58,1378937.95
-Managed Services,KSA,2026-02,287.6,5115.62,1471478.26
-Managed Services,KSA,2026-03,290.5,5109.48,1484379.77
-Managed Services,India,2023-04,78.7,2409.57,189670.01
-Managed Services,India,2023-05,77.5,2417.2,187344.13
-Managed Services,India,2023-06,80.3,2423.47,194541.39
-Managed Services,India,2023-07,83.5,2422.98,202294.32
-Managed Services,India,2023-08,87.0,2424.72,210903.35
-Managed Services,India,2023-09,90.4,2429.1,219484.84
-Managed Services,India,2023-10,95.1,2429.01,230988.96
-Managed Services,India,2023-11,94.5,2438.41,230455.35
-Managed Services,India,2023-12,100.7,2438.05,245575.32
-Managed Services,India,2024-01,107.1,2439.54,261313.6
-Managed Services,India,2024-02,105.7,2446.3,258451.67
-Managed Services,India,2024-03,106.5,2450.71,261088.4
-Managed Services,India,2024-04,106.5,2456.86,261568.69
-Managed Services,India,2024-05,111.7,2464.02,275275.11
-Managed Services,India,2024-06,118.8,2460.68,292247.16
-Managed Services,India,2024-07,117.8,2457.62,289602.31
-Managed Services,India,2024-08,120.8,2463.36,297657.38
-Managed Services,India,2024-09,126.9,2467.31,313075.4
-Managed Services,India,2024-10,131.7,2480.98,326795.75
-Managed Services,India,2024-11,137.3,2487.57,341430.9
-Managed Services,India,2024-12,144.8,2483.94,359590.55
-Managed Services,India,2025-01,148.0,2484.0,367513.81
-Managed Services,India,2025-02,156.7,2487.64,389879.61
-Managed Services,India,2025-03,153.4,2491.3,382196.7
-Managed Services,India,2025-04,158.9,2485.8,394895.82
-Managed Services,India,2025-05,164.8,2498.3,411717.2
-Managed Services,India,2025-06,173.0,2508.98,434040.8
-Managed Services,India,2025-07,174.3,2519.25,439151.56
-Managed Services,India,2025-08,183.0,2532.37,463440.22
-Managed Services,India,2025-09,184.4,2531.17,466653.31
-Managed Services,India,2025-10,191.5,2534.79,485436.32
-Managed Services,India,2025-11,195.1,2533.69,494333.99
-Managed Services,India,2025-12,206.4,2538.99,524007.7
-Managed Services,India,2026-01,206.1,2544.79,524607.02
-Managed Services,India,2026-02,201.6,2546.94,513387.16
-Managed Services,India,2026-03,211.3,2540.42,536859.0
-Managed Services,UK,2023-04,33.8,4302.72,145445.89
-Managed Services,UK,2023-05,34.7,4294.69,148920.87
-Managed Services,UK,2023-06,36.2,4299.49,155599.53
-Managed Services,UK,2023-07,38.0,4317.63,164003.92
-Managed Services,UK,2023-08,38.8,4327.75,167886.19
-Managed Services,UK,2023-09,40.6,4346.53,176650.21
-Managed Services,UK,2023-10,41.8,4368.83,182400.52
-Managed Services,UK,2023-11,44.0,4381.41,192984.9
-Managed Services,UK,2023-12,44.5,4391.24,195463.63
-Managed Services,UK,2024-01,44.0,4378.94,192695.61
-Managed Services,UK,2024-02,46.3,4366.77,202394.56
-Managed Services,UK,2024-03,45.9,4367.83,200460.76
-Managed Services,UK,2024-04,48.2,4368.65,210505.72
-Managed Services,UK,2024-05,47.9,4372.65,209423.81
-Managed Services,UK,2024-06,47.1,4376.62,206321.96
-Managed Services,UK,2024-07,48.5,4402.55,213416.3
-Managed Services,UK,2024-08,51.1,4421.61,225912.87
-Managed Services,UK,2024-09,50.5,4433.5,223973.58
-Managed Services,UK,2024-10,50.5,4421.44,223131.96
-Managed Services,UK,2024-11,51.8,4423.98,229375.71
-Managed Services,UK,2024-12,51.2,4437.32,227369.89
-Managed Services,UK,2025-01,54.2,4428.17,239947.4
-Managed Services,UK,2025-02,55.2,4422.91,244325.33
-Managed Services,UK,2025-03,57.4,4440.44,254750.25
-Managed Services,UK,2025-04,57.1,4441.98,253751.03
-Managed Services,UK,2025-05,59.1,4437.89,262443.17
-Managed Services,UK,2025-06,61.4,4452.24,273315.49
-Managed Services,UK,2025-07,63.2,4448.76,281103.07
-Managed Services,UK,2025-08,65.3,4455.78,291086.06
-Managed Services,UK,2025-09,66.9,4480.41,299842.96
-Managed Services,UK,2025-10,71.0,4485.52,318682.65
-Managed Services,UK,2025-11,73.1,4478.33,327165.2
-Managed Services,UK,2025-12,77.5,4482.12,347224.92
-Managed Services,UK,2026-01,81.2,4488.82,364353.79
-Managed Services,UK,2026-02,86.0,4498.38,386710.98
-Managed Services,UK,2026-03,89.6,4498.49,403053.78
-Managed Services,USA,2023-04,86.9,4471.42,388432.7
-Managed Services,USA,2023-05,91.3,4487.51,409853.13
-Managed Services,USA,2023-06,96.3,4481.04,431522.36
-Managed Services,USA,2023-07,100.2,4496.86,450637.29
-Managed Services,USA,2023-08,102.2,4518.75,461623.48
-Managed Services,USA,2023-09,105.9,4540.3,480798.57
-Managed Services,USA,2023-10,110.9,4544.63,504143.52
-Managed Services,USA,2023-11,109.2,4540.35,495664.0
-Managed Services,USA,2023-12,114.8,4564.8,524261.38
-Managed Services,USA,2024-01,114.8,4552.08,522772.53
-Managed Services,USA,2024-02,114.1,4577.96,522518.87
-Managed Services,USA,2024-03,115.3,4591.65,529524.86
-Managed Services,USA,2024-04,113.7,4593.89,522470.43
-Managed Services,USA,2024-05,115.6,4618.07,533915.25
-Managed Services,USA,2024-06,115.5,4605.48,531982.1
-Managed Services,USA,2024-07,119.6,4632.22,553931.7
-Managed Services,USA,2024-08,119.6,4656.8,556755.73
-Managed Services,USA,2024-09,120.2,4658.19,559767.0
-Managed Services,USA,2024-10,118.0,4667.38,550640.69
-Managed Services,USA,2024-11,117.4,4656.72,546921.73
-Managed Services,USA,2024-12,115.8,4643.41,537504.47
-Managed Services,USA,2025-01,112.9,4635.16,523125.0
-Managed Services,USA,2025-02,118.9,4626.73,550269.11
-Managed Services,USA,2025-03,123.7,4619.59,571403.79
-Managed Services,USA,2025-04,125.9,4632.75,583311.5
-Managed Services,USA,2025-05,130.5,4632.97,604585.83
-Managed Services,USA,2025-06,131.4,4652.14,611306.16
-Managed Services,USA,2025-07,139.2,4679.1,651447.61
-Managed Services,USA,2025-08,147.7,4683.69,691813.99
-Managed Services,USA,2025-09,156.5,4687.35,733514.43
-Managed Services,USA,2025-10,159.4,4684.8,746581.53
-Managed Services,USA,2025-11,158.3,4679.61,740701.94
-Managed Services,USA,2025-12,164.3,4674.71,768231.77
-Managed Services,USA,2026-01,171.4,4695.18,804834.07
-Managed Services,USA,2026-02,182.6,4700.4,858305.19
-Managed Services,USA,2026-03,190.1,4691.93,892053.54
-Managed Services,Rest of GCC,2023-04,36.8,6052.24,222819.56
-Managed Services,Rest of GCC,2023-05,36.1,6086.29,219601.16
-Managed Services,Rest of GCC,2023-06,35.5,6068.69,215392.13
-Managed Services,Rest of GCC,2023-07,35.8,6077.23,217282.59
-Managed Services,Rest of GCC,2023-08,37.2,6062.7,225815.53
-Managed Services,Rest of GCC,2023-09,36.9,6078.78,224247.4
-Managed Services,Rest of GCC,2023-10,36.7,6115.07,224613.49
-Managed Services,Rest of GCC,2023-11,37.5,6149.36,230472.04
-Managed Services,Rest of GCC,2023-12,38.4,6174.49,237124.23
-Managed Services,Rest of GCC,2024-01,40.8,6207.45,253012.33
-Managed Services,Rest of GCC,2024-02,40.9,6237.68,255279.05
-Managed Services,Rest of GCC,2024-03,40.1,6269.64,251196.15
-Managed Services,Rest of GCC,2024-04,40.7,6257.12,254758.01
-Managed Services,Rest of GCC,2024-05,39.7,6248.57,248091.85
-Managed Services,Rest of GCC,2024-06,40.7,6261.29,254528.68
-Managed Services,Rest of GCC,2024-07,39.8,6268.04,249385.05
-Managed Services,Rest of GCC,2024-08,38.8,6294.92,244325.65
-Managed Services,Rest of GCC,2024-09,41.3,6278.97,259030.31
-Managed Services,Rest of GCC,2024-10,42.5,6307.67,267904.1
-Managed Services,Rest of GCC,2024-11,43.1,6337.0,273283.58
-Managed Services,Rest of GCC,2024-12,45.5,6324.01,287792.62
-Managed Services,Rest of GCC,2025-01,44.8,6332.15,283735.38
-Managed Services,Rest of GCC,2025-02,44.4,6367.09,282546.06
-Managed Services,Rest of GCC,2025-03,47.0,6390.51,300206.47
-Managed Services,Rest of GCC,2025-04,47.9,6374.31,305413.25
-Managed Services,Rest of GCC,2025-05,50.9,6364.36,323848.0
-Managed Services,Rest of GCC,2025-06,52.7,6383.64,336431.27
-Managed Services,Rest of GCC,2025-07,56.1,6399.34,358758.2
-Managed Services,Rest of GCC,2025-08,58.8,6420.27,377354.61
-Managed Services,Rest of GCC,2025-09,60.0,6424.81,385433.02
-Managed Services,Rest of GCC,2025-10,62.3,6405.55,398909.55
-Managed Services,Rest of GCC,2025-11,60.9,6395.02,389542.12
-Managed Services,Rest of GCC,2025-12,59.4,6413.55,381010.38
-Managed Services,Rest of GCC,2026-01,60.4,6444.61,389102.79
-Managed Services,Rest of GCC,2026-02,63.9,6432.31,411207.84
-Managed Services,Rest of GCC,2026-03,65.6,6456.58,423513.14
-Cloud & Infrastructure,UAE,2023-04,126.1,2591.71,326799.2
-Cloud & Infrastructure,UAE,2023-05,127.4,2584.82,329298.58
-Cloud & Infrastructure,UAE,2023-06,126.6,2578.82,326568.81
-Cloud & Infrastructure,UAE,2023-07,127.0,2585.49,328239.49
-Cloud & Infrastructure,UAE,2023-08,132.5,2592.25,343489.24
-Cloud & Infrastructure,UAE,2023-09,137.6,2606.54,358654.81
-Cloud & Infrastructure,UAE,2023-10,135.3,2607.19,352685.43
-Cloud & Infrastructure,UAE,2023-11,141.3,2600.06,367416.21
-Cloud & Infrastructure,UAE,2023-12,139.6,2592.58,361922.1
-Cloud & Infrastructure,UAE,2024-01,147.7,2597.07,383566.48
-Cloud & Infrastructure,UAE,2024-02,144.4,2599.42,375389.89
-Cloud & Infrastructure,UAE,2024-03,140.5,2605.78,366111.38
-Cloud & Infrastructure,UAE,2024-04,148.7,2608.86,387894.61
-Cloud & Infrastructure,UAE,2024-05,144.8,2623.45,379806.53
-Cloud & Infrastructure,UAE,2024-06,150.5,2618.46,394087.32
-Cloud & Infrastructure,UAE,2024-07,149.4,2611.17,390154.11
-Cloud & Infrastructure,UAE,2024-08,151.4,2618.03,396298.5
-Cloud & Infrastructure,UAE,2024-09,153.1,2625.48,401884.58
-Cloud & Infrastructure,UAE,2024-10,156.1,2636.07,411433.8
-Cloud & Infrastructure,UAE,2024-11,156.4,2644.36,413644.54
-Cloud & Infrastructure,UAE,2024-12,157.0,2660.01,417530.59
-Cloud & Infrastructure,UAE,2025-01,161.1,2665.8,429409.17
-Cloud & Infrastructure,UAE,2025-02,158.1,2665.84,421459.54
-Cloud & Infrastructure,UAE,2025-03,158.0,2677.73,423203.79
-Cloud & Infrastructure,UAE,2025-04,160.0,2691.42,430702.29
-Cloud & Infrastructure,UAE,2025-05,161.4,2698.41,435390.54
-Cloud & Infrastructure,UAE,2025-06,166.9,2693.42,449524.1
-Cloud & Infrastructure,UAE,2025-07,165.0,2695.75,444898.94
-Cloud & Infrastructure,UAE,2025-08,165.6,2700.76,447309.63
-Cloud & Infrastructure,UAE,2025-09,163.0,2711.31,441876.54
-Cloud & Infrastructure,UAE,2025-10,160.5,2710.7,435096.8
-Cloud & Infrastructure,UAE,2025-11,170.3,2708.08,461131.68
-Cloud & Infrastructure,UAE,2025-12,174.2,2718.62,473615.47
-Cloud & Infrastructure,UAE,2026-01,174.6,2711.58,473414.59
-Cloud & Infrastructure,UAE,2026-02,185.0,2709.78,501322.61
-Cloud & Infrastructure,UAE,2026-03,186.7,2704.23,504913.07
-Cloud & Infrastructure,KSA,2023-04,137.2,2961.71,406277.1
-Cloud & Infrastructure,KSA,2023-05,143.5,2976.93,427099.91
-Cloud & Infrastructure,KSA,2023-06,140.3,2989.0,419253.95
-Cloud & Infrastructure,KSA,2023-07,147.5,2999.27,442404.91
-Cloud & Infrastructure,KSA,2023-08,154.7,3002.39,464323.01
-Cloud & Infrastructure,KSA,2023-09,163.3,3005.32,490752.66
-Cloud & Infrastructure,KSA,2023-10,171.3,3011.44,515924.33
-Cloud & Infrastructure,KSA,2023-11,179.5,3013.78,540888.73
-Cloud & Infrastructure,KSA,2023-12,182.0,3027.36,551115.44
-Cloud & Infrastructure,KSA,2024-01,191.7,3042.75,583236.22
-Cloud & Infrastructure,KSA,2024-02,202.0,3048.22,615787.78
-Cloud & Infrastructure,KSA,2024-03,203.7,3056.1,622632.96
-Cloud & Infrastructure,KSA,2024-04,214.9,3049.3,655354.42
-Cloud & Infrastructure,KSA,2024-05,215.7,3062.41,660712.6
-Cloud & Infrastructure,KSA,2024-06,217.4,3070.89,667593.09
-Cloud & Infrastructure,KSA,2024-07,229.7,3069.68,705215.75
-Cloud & Infrastructure,KSA,2024-08,224.3,3072.84,689213.49
-Cloud & Infrastructure,KSA,2024-09,221.9,3079.64,683428.39
-Cloud & Infrastructure,KSA,2024-10,225.6,3095.14,698414.53
-Cloud & Infrastructure,KSA,2024-11,222.9,3099.02,690651.79
-Cloud & Infrastructure,KSA,2024-12,217.2,3094.19,672035.8
-Cloud & Infrastructure,KSA,2025-01,221.6,3109.38,688954.86
-Cloud & Infrastructure,KSA,2025-02,216.7,3120.78,676216.07
-Cloud & Infrastructure,KSA,2025-03,216.8,3130.23,678487.62
-Cloud & Infrastructure,KSA,2025-04,220.1,3124.99,687725.86
-Cloud & Infrastructure,KSA,2025-05,230.9,3143.24,725709.1
-Cloud & Infrastructure,KSA,2025-06,244.2,3146.22,768176.72
-Cloud & Infrastructure,KSA,2025-07,236.7,3149.25,745320.19
-Cloud & Infrastructure,KSA,2025-08,235.4,3153.47,742254.81
-Cloud & Infrastructure,KSA,2025-09,240.4,3155.05,758559.72
-Cloud & Infrastructure,KSA,2025-10,234.2,3160.04,740144.3
-Cloud & Infrastructure,KSA,2025-11,236.2,3161.76,746885.14
-Cloud & Infrastructure,KSA,2025-12,241.1,3180.33,766756.93
-Cloud & Infrastructure,KSA,2026-01,253.1,3196.63,808955.53
-Cloud & Infrastructure,KSA,2026-02,248.2,3188.48,791282.82
-Cloud & Infrastructure,KSA,2026-03,262.1,3201.23,839000.71
-Cloud & Infrastructure,India,2023-04,161.8,4766.64,771043.83
-Cloud & Infrastructure,India,2023-05,172.3,4785.65,824393.89
-Cloud & Infrastructure,India,2023-06,170.1,4786.98,814294.12
-Cloud & Infrastructure,India,2023-07,180.0,4815.28,866840.6
-Cloud & Infrastructure,India,2023-08,192.1,4807.52,923640.79
-Cloud & Infrastructure,India,2023-09,192.0,4794.26,920634.69
-Cloud & Infrastructure,India,2023-10,201.3,4799.63,966041.53
-Cloud & Infrastructure,India,2023-11,205.9,4810.12,990433.44
-Cloud & Infrastructure,India,2023-12,216.0,4800.67,1036736.59
-Cloud & Infrastructure,India,2024-01,215.6,4816.76,1038260.18
-Cloud & Infrastructure,India,2024-02,214.1,4835.93,1035427.56
-Cloud & Infrastructure,India,2024-03,216.6,4821.72,1044301.41
-Cloud & Infrastructure,India,2024-04,222.2,4838.67,1075325.29
-Cloud & Infrastructure,India,2024-05,217.1,4862.15,1055434.34
-Cloud & Infrastructure,India,2024-06,230.2,4883.06,1124250.62
-Cloud & Infrastructure,India,2024-07,229.4,4897.12,1123178.89
-Cloud & Infrastructure,India,2024-08,225.0,4924.46,1107895.29
-Cloud & Infrastructure,India,2024-09,220.4,4949.66,1090747.16
-Cloud & Infrastructure,India,2024-10,220.7,4971.39,1096946.68
-Cloud & Infrastructure,India,2024-11,235.2,4993.25,1174499.0
-Cloud & Infrastructure,India,2024-12,238.5,5007.67,1194183.14
-Cloud & Infrastructure,India,2025-01,235.6,5015.88,1181948.17
-Cloud & Infrastructure,India,2025-02,239.5,5043.1,1207847.13
-Cloud & Infrastructure,India,2025-03,239.8,5068.37,1215272.88
-Cloud & Infrastructure,India,2025-04,247.4,5092.35,1259870.34
-Cloud & Infrastructure,India,2025-05,261.2,5113.86,1335990.74
-Cloud & Infrastructure,India,2025-06,274.7,5099.79,1400845.7
-Cloud & Infrastructure,India,2025-07,280.8,5086.49,1428372.92
-Cloud & Infrastructure,India,2025-08,275.4,5094.06,1402910.39
-Cloud & Infrastructure,India,2025-09,292.7,5083.33,1487639.66
-Cloud & Infrastructure,India,2025-10,293.3,5079.04,1489568.52
-Cloud & Infrastructure,India,2025-11,309.9,5065.24,1569482.87
-Cloud & Infrastructure,India,2025-12,304.1,5062.71,1539436.03
-Cloud & Infrastructure,India,2026-01,313.4,5080.76,1592548.3
-Cloud & Infrastructure,India,2026-02,325.1,5110.87,1661521.82
-Cloud & Infrastructure,India,2026-03,344.1,5108.59,1757667.53
-Cloud & Infrastructure,UK,2023-04,63.4,3743.05,237162.39
-Cloud & Infrastructure,UK,2023-05,63.9,3748.79,239470.71
-Cloud & Infrastructure,UK,2023-06,66.3,3752.28,248676.0
-Cloud & Infrastructure,UK,2023-07,69.8,3771.63,263259.74
-Cloud & Infrastructure,UK,2023-08,73.6,3784.35,278613.92
-Cloud & Infrastructure,UK,2023-09,77.0,3801.35,292842.42
-Cloud & Infrastructure,UK,2023-10,80.2,3798.67,304577.7
-Cloud & Infrastructure,UK,2023-11,80.8,3804.42,307343.63
-Cloud & Infrastructure,UK,2023-12,81.8,3810.93,311724.86
-Cloud & Infrastructure,UK,2024-01,81.8,3817.99,312262.85
-Cloud & Infrastructure,UK,2024-02,83.3,3808.84,317416.27
-Cloud & Infrastructure,UK,2024-03,82.4,3814.76,314383.94
-Cloud & Infrastructure,UK,2024-04,86.9,3824.87,332203.03
-Cloud & Infrastructure,UK,2024-05,86.5,3838.38,332124.04
-Cloud & Infrastructure,UK,2024-06,89.0,3844.15,342109.29
-Cloud & Infrastructure,UK,2024-07,88.0,3839.79,338018.4
-Cloud & Infrastructure,UK,2024-08,87.8,3848.04,337705.05
-Cloud & Infrastructure,UK,2024-09,86.1,3842.07,330729.07
-Cloud & Infrastructure,UK,2024-10,85.4,3838.11,327768.05
-Cloud & Infrastructure,UK,2024-11,89.9,3855.42,346602.07
-Cloud & Infrastructure,UK,2024-12,91.8,3873.03,355565.7
-Cloud & Infrastructure,UK,2025-01,97.1,3865.69,375179.01
-Cloud & Infrastructure,UK,2025-02,99.5,3854.92,383397.21
-Cloud & Infrastructure,UK,2025-03,101.0,3871.88,391028.6
-Cloud & Infrastructure,UK,2025-04,100.3,3894.06,390389.12
-Cloud & Infrastructure,UK,2025-05,103.6,3882.61,402382.27
-Cloud & Infrastructure,UK,2025-06,107.7,3904.09,420356.21
-Cloud & Infrastructure,UK,2025-07,107.3,3919.81,420765.98
-Cloud & Infrastructure,UK,2025-08,108.6,3940.63,427944.23
-Cloud & Infrastructure,UK,2025-09,110.5,3941.7,435525.34
-Cloud & Infrastructure,UK,2025-10,115.9,3939.31,456541.25
-Cloud & Infrastructure,UK,2025-11,120.6,3943.96,475526.22
-Cloud & Infrastructure,UK,2025-12,125.0,3946.0,493305.52
-Cloud & Infrastructure,UK,2026-01,125.1,3948.99,493898.12
-Cloud & Infrastructure,UK,2026-02,128.5,3945.34,506825.79
-Cloud & Infrastructure,UK,2026-03,126.0,3937.01,496186.5
-Cloud & Infrastructure,USA,2023-04,80.5,5056.98,406900.67
-Cloud & Infrastructure,USA,2023-05,83.8,5072.18,425098.17
-Cloud & Infrastructure,USA,2023-06,84.7,5094.15,431619.97
-Cloud & Infrastructure,USA,2023-07,89.4,5116.3,457254.26
-Cloud & Infrastructure,USA,2023-08,92.5,5118.67,473691.57
-Cloud & Infrastructure,USA,2023-09,97.0,5125.46,497257.01
-Cloud & Infrastructure,USA,2023-10,97.6,5136.01,501202.91
-Cloud & Infrastructure,USA,2023-11,95.8,5143.72,492650.24
-Cloud & Infrastructure,USA,2023-12,99.3,5144.12,510961.47
-Cloud & Infrastructure,USA,2024-01,102.1,5155.83,526617.05
-Cloud & Infrastructure,USA,2024-02,102.0,5181.22,528309.48
-Cloud & Infrastructure,USA,2024-03,107.5,5168.96,555675.41
-Cloud & Infrastructure,USA,2024-04,107.8,5166.83,557173.3
-Cloud & Infrastructure,USA,2024-05,110.7,5175.49,573009.79
-Cloud & Infrastructure,USA,2024-06,112.7,5187.59,584778.56
-Cloud & Infrastructure,USA,2024-07,114.5,5218.54,597452.66
-Cloud & Infrastructure,USA,2024-08,115.9,5216.93,604788.68
-Cloud & Infrastructure,USA,2024-09,115.4,5209.1,600932.54
-Cloud & Infrastructure,USA,2024-10,116.4,5225.68,608412.67
-Cloud & Infrastructure,USA,2024-11,118.8,5242.56,622836.91
-Cloud & Infrastructure,USA,2024-12,119.7,5255.49,629175.69
-Cloud & Infrastructure,USA,2025-01,122.6,5265.09,645534.56
-Cloud & Infrastructure,USA,2025-02,127.7,5260.29,671578.67
-Cloud & Infrastructure,USA,2025-03,130.0,5281.68,686366.45
-Cloud & Infrastructure,USA,2025-04,129.3,5268.77,681330.05
-Cloud & Infrastructure,USA,2025-05,134.9,5259.59,709265.18
-Cloud & Infrastructure,USA,2025-06,135.9,5289.26,718800.19
-Cloud & Infrastructure,USA,2025-07,134.3,5275.17,708580.36
-Cloud & Infrastructure,USA,2025-08,132.3,5300.49,701147.01
-Cloud & Infrastructure,USA,2025-09,131.4,5287.24,694775.39
-Cloud & Infrastructure,USA,2025-10,128.5,5304.52,681793.2
-Cloud & Infrastructure,USA,2025-11,136.4,5327.79,726524.04
-Cloud & Infrastructure,USA,2025-12,135.2,5351.16,723705.74
-Cloud & Infrastructure,USA,2026-01,142.2,5340.33,759500.09
-Cloud & Infrastructure,USA,2026-02,139.4,5366.07,748063.74
-Cloud & Infrastructure,USA,2026-03,138.6,5351.01,741437.7
-Cloud & Infrastructure,Rest of GCC,2023-04,32.2,4007.29,129002.23
-Cloud & Infrastructure,Rest of GCC,2023-05,31.6,4005.71,126580.33
-Cloud & Infrastructure,Rest of GCC,2023-06,31.1,4007.85,124550.04
-Cloud & Infrastructure,Rest of GCC,2023-07,31.1,4005.8,124575.34
-Cloud & Infrastructure,Rest of GCC,2023-08,31.3,4010.27,125579.76
-Cloud & Infrastructure,Rest of GCC,2023-09,31.1,4014.66,124771.17
-Cloud & Infrastructure,Rest of GCC,2023-10,32.8,4010.24,131634.17
-Cloud & Infrastructure,Rest of GCC,2023-11,32.0,4014.56,128627.54
-Cloud & Infrastructure,Rest of GCC,2023-12,32.7,4022.26,131639.9
-Cloud & Infrastructure,Rest of GCC,2024-01,33.7,4026.71,135551.8
-Cloud & Infrastructure,Rest of GCC,2024-02,35.5,4038.43,143232.63
-Cloud & Infrastructure,Rest of GCC,2024-03,35.4,4061.53,143952.98
-Cloud & Infrastructure,Rest of GCC,2024-04,37.4,4082.75,152852.94
-Cloud & Infrastructure,Rest of GCC,2024-05,37.8,4102.71,154944.83
-Cloud & Infrastructure,Rest of GCC,2024-06,38.9,4097.91,159283.29
-Cloud & Infrastructure,Rest of GCC,2024-07,40.7,4111.88,167165.52
-Cloud & Infrastructure,Rest of GCC,2024-08,41.5,4125.84,171383.29
-Cloud & Infrastructure,Rest of GCC,2024-09,43.1,4129.71,177917.8
-Cloud & Infrastructure,Rest of GCC,2024-10,42.7,4134.56,176744.41
-Cloud & Infrastructure,Rest of GCC,2024-11,43.5,4127.4,179615.86
-Cloud & Infrastructure,Rest of GCC,2024-12,45.9,4129.4,189646.57
-Cloud & Infrastructure,Rest of GCC,2025-01,44.7,4121.57,184300.82
-Cloud & Infrastructure,Rest of GCC,2025-02,45.9,4130.83,189399.12
-Cloud & Infrastructure,Rest of GCC,2025-03,44.9,4149.01,186344.06
-Cloud & Infrastructure,Rest of GCC,2025-04,46.5,4141.38,192750.48
-Cloud & Infrastructure,Rest of GCC,2025-05,48.8,4163.77,203039.76
-Cloud & Infrastructure,Rest of GCC,2025-06,48.6,4168.92,202750.65
-Cloud & Infrastructure,Rest of GCC,2025-07,50.3,4162.72,209219.57
-Cloud & Infrastructure,Rest of GCC,2025-08,49.6,4180.26,207431.74
-Cloud & Infrastructure,Rest of GCC,2025-09,51.2,4187.91,214389.42
-Cloud & Infrastructure,Rest of GCC,2025-10,50.3,4195.15,210888.07
-Cloud & Infrastructure,Rest of GCC,2025-11,50.4,4186.98,210977.64
-Cloud & Infrastructure,Rest of GCC,2025-12,53.3,4191.66,223314.74
-Cloud & Infrastructure,Rest of GCC,2026-01,53.8,4200.38,225780.35
-Cloud & Infrastructure,Rest of GCC,2026-02,56.2,4221.29,237272.03
-Cloud & Infrastructure,Rest of GCC,2026-03,54.7,4239.5,232076.94
-Application Development,UAE,2023-04,76.6,4702.13,360411.19
-Application Development,UAE,2023-05,79.1,4690.48,371030.96
-Application Development,UAE,2023-06,82.9,4702.59,390027.05
-Application Development,UAE,2023-07,87.5,4719.85,412929.55
-Application Development,UAE,2023-08,92.3,4741.23,437847.85
-Application Development,UAE,2023-09,91.8,4767.76,437514.78
-Application Development,UAE,2023-10,93.4,4757.79,444484.08
-Application Development,UAE,2023-11,92.3,4776.74,441012.21
-Application Development,UAE,2023-12,96.9,4789.79,464269.35
-Application Development,UAE,2024-01,99.7,4802.75,478958.33
-Application Development,UAE,2024-02,105.6,4819.94,508927.57
-Application Development,UAE,2024-03,106.8,4841.32,517070.8
-Application Development,UAE,2024-04,112.3,4858.3,545418.29
-Application Development,UAE,2024-05,113.9,4851.72,552665.16
-Application Development,UAE,2024-06,111.6,4854.23,541749.65
-Application Development,UAE,2024-07,113.3,4849.15,549510.82
-Application Development,UAE,2024-08,118.9,4860.86,577819.2
-Application Development,UAE,2024-09,126.8,4861.71,616461.62
-Application Development,UAE,2024-10,129.9,4859.72,631158.71
-Application Development,UAE,2024-11,135.5,4861.91,658892.33
-Application Development,UAE,2024-12,136.3,4876.8,664909.88
-Application Development,UAE,2025-01,134.3,4874.3,654496.3
-Application Development,UAE,2025-02,134.0,4887.9,655005.4
-Application Development,UAE,2025-03,134.7,4914.78,662041.61
-Application Development,UAE,2025-04,138.9,4923.35,683739.46
-Application Development,UAE,2025-05,139.2,4938.38,687515.48
-Application Development,UAE,2025-06,147.3,4926.29,725828.69
-Application Development,UAE,2025-07,155.8,4934.97,768858.15
-Application Development,UAE,2025-08,154.8,4962.28,768348.99
-Application Development,UAE,2025-09,151.9,4959.89,753381.29
-Application Development,UAE,2025-10,148.5,4987.63,740780.58
-Application Development,UAE,2025-11,153.2,5005.78,766842.38
-Application Development,UAE,2025-12,153.0,4999.05,765099.29
-Application Development,UAE,2026-01,150.2,5010.34,752589.63
-Application Development,UAE,2026-02,159.6,5020.79,801335.98
-Application Development,UAE,2026-03,167.4,5006.83,838194.16
-Application Development,KSA,2023-04,71.5,1812.14,129491.84
-Application Development,KSA,2023-05,73.8,1814.34,133950.73
-Application Development,KSA,2023-06,72.7,1818.0,132241.58
-Application Development,KSA,2023-07,72.6,1817.92,131973.69
-Application Development,KSA,2023-08,75.5,1827.82,137942.54
-Application Development,KSA,2023-09,74.6,1836.65,136983.85
-Application Development,KSA,2023-10,76.1,1841.77,140100.04
-Application Development,KSA,2023-11,77.7,1842.12,143106.05
-Application Development,KSA,2023-12,77.7,1843.19,143188.95
-Application Development,KSA,2024-01,79.0,1845.02,145697.05
-Application Development,KSA,2024-02,80.5,1843.23,148467.32
-Application Development,KSA,2024-03,81.0,1846.95,149627.73
-Application Development,KSA,2024-04,79.9,1849.19,147744.95
-Application Development,KSA,2024-05,78.7,1858.77,146336.16
-Application Development,KSA,2024-06,79.8,1854.96,148028.57
-Application Development,KSA,2024-07,84.4,1853.52,156498.84
-Application Development,KSA,2024-08,84.1,1860.84,156539.62
-Application Development,KSA,2024-09,87.9,1857.39,163225.56
-Application Development,KSA,2024-10,88.0,1859.55,163550.01
-Application Development,KSA,2024-11,86.3,1856.3,160180.99
-Application Development,KSA,2024-12,84.8,1851.71,157031.12
-Application Development,KSA,2025-01,87.8,1849.62,162373.04
-Application Development,KSA,2025-02,87.8,1858.29,163095.32
-Application Development,KSA,2025-03,90.8,1862.24,169117.12
-Application Development,KSA,2025-04,92.3,1864.57,172109.78
-Application Development,KSA,2025-05,97.4,1868.03,181859.11
-Application Development,KSA,2025-06,100.5,1877.31,188714.68
-Application Development,KSA,2025-07,102.8,1886.74,193950.99
-Application Development,KSA,2025-08,108.0,1889.12,204062.86
-Application Development,KSA,2025-09,107.6,1898.49,204285.82
-Application Development,KSA,2025-10,110.6,1907.0,210981.53
-Application Development,KSA,2025-11,114.1,1911.64,218188.87
-Application Development,KSA,2025-12,111.9,1913.64,214141.66
-Application Development,KSA,2026-01,110.4,1918.25,211800.51
-Application Development,KSA,2026-02,109.3,1920.12,209887.01
-Application Development,KSA,2026-03,112.7,1924.16,216917.51
-Application Development,India,2023-04,139.9,3184.95,445438.14
-Application Development,India,2023-05,138.5,3198.03,442773.49
-Application Development,India,2023-06,135.9,3215.51,437014.2
-Application Development,India,2023-07,134.6,3210.99,432262.58
-Application Development,India,2023-08,141.3,3221.77,455180.62
-Application Development,India,2023-09,148.6,3233.03,480344.83
-Application Development,India,2023-10,149.0,3225.91,480789.63
-Application Development,India,2023-11,145.1,3224.25,467955.02
-Application Development,India,2023-12,144.6,3226.01,466524.73
-Application Development,India,2024-01,152.3,3227.72,491721.4
-Application Development,India,2024-02,152.3,3224.14,491142.34
-Application Development,India,2024-03,150.5,3237.05,487235.72
-Application Development,India,2024-04,157.6,3239.53,510637.2
-Application Development,India,2024-05,154.8,3234.11,500572.49
-Application Development,India,2024-06,160.4,3252.95,521828.95
-Application Development,India,2024-07,166.5,3261.68,543125.95
-Application Development,India,2024-08,169.1,3256.3,550768.07
-Application Development,India,2024-09,178.8,3274.6,585655.26
-Application Development,India,2024-10,180.6,3279.52,592268.01
-Application Development,India,2024-11,181.1,3283.31,594482.72
-Application Development,India,2024-12,177.0,3291.99,582786.98
-Application Development,India,2025-01,186.9,3309.38,618564.3
-Application Development,India,2025-02,197.7,3308.97,654096.85
-Application Development,India,2025-03,201.1,3300.72,663871.37
-Application Development,India,2025-04,212.6,3296.41,700829.91
-Application Development,India,2025-05,221.5,3292.99,729476.65
-Application Development,India,2025-06,215.9,3300.54,712692.01
-Application Development,India,2025-07,227.9,3310.41,754528.56
-Application Development,India,2025-08,226.3,3329.54,753406.55
-Application Development,India,2025-09,227.3,3341.46,759637.73
-Application Development,India,2025-10,230.1,3360.22,773194.07
-Application Development,India,2025-11,243.6,3376.9,822483.17
-Application Development,India,2025-12,243.4,3378.0,822212.86
-Application Development,India,2026-01,246.1,3382.44,832484.4
-Application Development,India,2026-02,252.0,3381.7,852193.52
-Application Development,India,2026-03,255.9,3372.41,863163.31
-Application Development,UK,2023-04,53.4,5353.24,285858.96
-Application Development,UK,2023-05,56.0,5354.22,299611.76
-Application Development,UK,2023-06,58.5,5374.82,314323.16
-Application Development,UK,2023-07,59.1,5400.48,319232.98
-Application Development,UK,2023-08,59.1,5424.25,320352.8
-Application Development,UK,2023-09,57.8,5422.46,313535.31
-Application Development,UK,2023-10,58.4,5415.99,316475.85
-Application Development,UK,2023-11,57.5,5414.98,311402.63
-Application Development,UK,2023-12,57.0,5446.14,310601.25
-Application Development,UK,2024-01,59.4,5469.88,325089.17
-Application Development,UK,2024-02,60.6,5458.8,330938.49
-Application Development,UK,2024-03,63.0,5491.18,346091.16
-Application Development,UK,2024-04,63.6,5508.04,350355.83
-Application Development,UK,2024-05,64.0,5532.02,353941.39
-Application Development,UK,2024-06,64.4,5544.3,356867.22
-Application Development,UK,2024-07,64.6,5548.22,358175.53
-Application Development,UK,2024-08,63.1,5577.94,351782.62
-Application Development,UK,2024-09,66.7,5607.31,373855.11
-Application Development,UK,2024-10,66.3,5601.54,371217.2
-Application Development,UK,2024-11,69.0,5592.47,385802.83
-Application Development,UK,2024-12,70.7,5595.58,395687.01
-Application Development,UK,2025-01,70.6,5591.7,394592.19
-Application Development,UK,2025-02,69.6,5575.36,387871.62
-Application Development,UK,2025-03,68.7,5607.35,385291.14
-Application Development,UK,2025-04,67.7,5595.2,378602.22
-Application Development,UK,2025-05,67.5,5596.19,377660.03
-Application Development,UK,2025-06,71.3,5611.33,400204.81
-Application Development,UK,2025-07,74.9,5604.5,419568.69
-Application Development,UK,2025-08,77.2,5599.28,432423.98
-Application Development,UK,2025-09,77.9,5584.75,435304.03
-Application Development,UK,2025-10,76.3,5575.23,425653.66
-Application Development,UK,2025-11,77.3,5569.24,430427.47
-Application Development,UK,2025-12,76.5,5594.95,428078.81
-Application Development,UK,2026-01,74.8,5582.07,417408.67
-Application Development,UK,2026-02,78.2,5573.12,435569.71
-Application Development,UK,2026-03,80.3,5563.56,446546.39
-Application Development,USA,2023-04,31.1,5227.29,162694.54
-Application Development,USA,2023-05,33.0,5220.55,172062.21
-Application Development,USA,2023-06,32.4,5233.43,169696.35
-Application Development,USA,2023-07,32.5,5221.82,169913.65
-Application Development,USA,2023-08,34.5,5237.51,180628.92
-Application Development,USA,2023-09,36.4,5248.56,190960.71
-Application Development,USA,2023-10,38.3,5259.12,201211.16
-Application Development,USA,2023-11,37.2,5281.46,196458.97
-Application Development,USA,2023-12,38.4,5297.35,203252.2
-Application Development,USA,2024-01,40.0,5290.9,211851.77
-Application Development,USA,2024-02,39.0,5301.02,206924.21
-Application Development,USA,2024-03,39.8,5295.25,210604.13
-Application Development,USA,2024-04,42.2,5293.38,223317.52
-Application Development,USA,2024-05,42.8,5299.31,226985.24
-Application Development,USA,2024-06,44.0,5285.81,232438.63
-Application Development,USA,2024-07,46.6,5294.02,246479.87
-Application Development,USA,2024-08,46.5,5297.16,246177.04
-Application Development,USA,2024-09,49.2,5299.25,260826.32
-Application Development,USA,2024-10,49.1,5310.16,260837.45
-Application Development,USA,2024-11,49.6,5326.93,264057.35
-Application Development,USA,2024-12,48.1,5357.35,257696.37
-Application Development,USA,2025-01,49.4,5351.42,264504.66
-Application Development,USA,2025-02,49.8,5343.01,265956.13
-Application Development,USA,2025-03,51.4,5344.1,274513.81
-Application Development,USA,2025-04,53.2,5353.53,284951.7
-Application Development,USA,2025-05,53.2,5346.18,284681.11
-Application Development,USA,2025-06,55.5,5350.69,296746.08
-Application Development,USA,2025-07,56.7,5372.82,304479.57
-Application Development,USA,2025-08,56.9,5384.05,306399.89
-Application Development,USA,2025-09,59.6,5378.1,320521.05
-Application Development,USA,2025-10,62.8,5368.88,336915.65
-Application Development,USA,2025-11,63.4,5392.14,341981.09
-Application Development,USA,2025-12,64.3,5406.63,347799.23
-Application Development,USA,2026-01,64.2,5430.7,348503.75
-Application Development,USA,2026-02,64.7,5440.81,351760.83
-Application Development,USA,2026-03,66.9,5459.33,365375.43
-Application Development,Rest of GCC,2023-04,37.3,2038.76,76021.2
-Application Development,Rest of GCC,2023-05,38.6,2037.07,78612.92
-Application Development,Rest of GCC,2023-06,39.8,2047.0,81512.71
-Application Development,Rest of GCC,2023-07,42.3,2048.53,86704.33
-Application Development,Rest of GCC,2023-08,41.6,2048.9,85266.01
-Application Development,Rest of GCC,2023-09,44.1,2048.25,90283.05
-Application Development,Rest of GCC,2023-10,45.8,2049.23,93952.31
-Application Development,Rest of GCC,2023-11,46.9,2061.16,96723.06
-Application Development,Rest of GCC,2023-12,49.4,2062.32,101910.14
-Application Development,Rest of GCC,2024-01,50.4,2066.32,104094.04
-Application Development,Rest of GCC,2024-02,52.5,2074.0,108950.72
-Application Development,Rest of GCC,2024-03,54.5,2085.62,113624.68
-Application Development,Rest of GCC,2024-04,57.7,2090.93,120709.74
-Application Development,Rest of GCC,2024-05,57.1,2102.94,120077.72
-Application Development,Rest of GCC,2024-06,58.7,2115.27,124254.97
-Application Development,Rest of GCC,2024-07,62.0,2123.28,131561.11
-Application Development,Rest of GCC,2024-08,64.2,2132.13,136825.8
-Application Development,Rest of GCC,2024-09,66.3,2143.18,142066.24
-Application Development,Rest of GCC,2024-10,66.7,2146.78,143229.67
-Application Development,Rest of GCC,2024-11,67.6,2154.0,145524.53
-Application Development,Rest of GCC,2024-12,68.3,2149.22,146898.49
-Application Development,Rest of GCC,2025-01,70.7,2148.06,151886.79
-Application Development,Rest of GCC,2025-02,74.3,2160.46,160587.1
-Application Development,Rest of GCC,2025-03,73.9,2166.73,160153.64
-Application Development,Rest of GCC,2025-04,77.8,2170.85,168949.47
-Application Development,Rest of GCC,2025-05,79.6,2166.71,172558.27
-Application Development,Rest of GCC,2025-06,81.8,2163.92,176902.45
-Application Development,Rest of GCC,2025-07,83.1,2168.84,180215.09
-Application Development,Rest of GCC,2025-08,87.0,2174.93,189224.0
-Application Development,Rest of GCC,2025-09,91.0,2172.39,197644.86
-Application Development,Rest of GCC,2025-10,96.6,2177.65,210357.65
-Application Development,Rest of GCC,2025-11,101.0,2183.5,220471.61
-Application Development,Rest of GCC,2025-12,103.9,2192.81,227896.38
-Application Development,Rest of GCC,2026-01,102.1,2199.52,224462.94
-Application Development,Rest of GCC,2026-02,100.8,2211.34,222964.66
-Application Development,Rest of GCC,2026-03,98.4,2212.38,217750.29
-Data & Analytics,UAE,2023-04,86.4,5154.92,445495.88
-Data & Analytics,UAE,2023-05,88.2,5156.33,454734.88
-Data & Analytics,UAE,2023-06,87.1,5183.93,451436.14
-Data & Analytics,UAE,2023-07,86.2,5206.92,448825.77
-Data & Analytics,UAE,2023-08,88.4,5223.43,461798.41
-Data & Analytics,UAE,2023-09,91.0,5221.45,475211.57
-Data & Analytics,UAE,2023-10,88.1,5231.78,461048.81
-Data & Analytics,UAE,2023-11,85.9,5238.93,450162.13
-Data & Analytics,UAE,2023-12,84.6,5228.97,442340.69
-Data & Analytics,UAE,2024-01,86.4,5233.35,452365.78
-Data & Analytics,UAE,2024-02,85.1,5256.92,447510.9
-Data & Analytics,UAE,2024-03,83.8,5257.6,440602.89
-Data & Analytics,UAE,2024-04,81.2,5281.96,429137.77
-Data & Analytics,UAE,2024-05,80.4,5297.64,426132.02
-Data & Analytics,UAE,2024-06,81.2,5312.05,431247.31
-Data & Analytics,UAE,2024-07,81.5,5323.62,433927.2
-Data & Analytics,UAE,2024-08,84.0,5308.02,445798.97
-Data & Analytics,UAE,2024-09,81.3,5297.12,430805.51
-Data & Analytics,UAE,2024-10,83.0,5328.8,442322.28
-Data & Analytics,UAE,2024-11,86.0,5358.43,460691.59
-Data & Analytics,UAE,2024-12,86.1,5358.88,461640.16
-Data & Analytics,UAE,2025-01,90.9,5353.06,486453.35
-Data & Analytics,UAE,2025-02,94.2,5382.24,507002.99
-Data & Analytics,UAE,2025-03,98.4,5391.75,530732.03
-Data & Analytics,UAE,2025-04,97.6,5386.18,525504.65
-Data & Analytics,UAE,2025-05,102.1,5414.12,552645.75
-Data & Analytics,UAE,2025-06,103.2,5416.04,559187.03
-Data & Analytics,UAE,2025-07,100.6,5413.67,544654.02
-Data & Analytics,UAE,2025-08,101.9,5418.64,551997.63
-Data & Analytics,UAE,2025-09,99.7,5425.07,540658.44
-Data & Analytics,UAE,2025-10,102.1,5452.64,556811.6
-Data & Analytics,UAE,2025-11,105.2,5458.47,574375.01
-Data & Analytics,UAE,2025-12,103.1,5449.0,561876.7
-Data & Analytics,UAE,2026-01,108.8,5477.09,596181.02
-Data & Analytics,UAE,2026-02,113.7,5463.29,621079.98
-Data & Analytics,UAE,2026-03,116.5,5479.19,638078.97
-Data & Analytics,KSA,2023-04,125.5,4101.05,514545.35
-Data & Analytics,KSA,2023-05,125.7,4115.08,517115.06
-Data & Analytics,KSA,2023-06,130.0,4109.35,534138.01
-Data & Analytics,KSA,2023-07,129.3,4101.21,530106.0
-Data & Analytics,KSA,2023-08,134.0,4089.37,547924.0
-Data & Analytics,KSA,2023-09,135.3,4099.2,554705.02
-Data & Analytics,KSA,2023-10,140.8,4093.47,576441.08
-Data & Analytics,KSA,2023-11,146.4,4101.32,600368.46
-Data & Analytics,KSA,2023-12,144.7,4116.18,595541.73
-Data & Analytics,KSA,2024-01,145.8,4130.19,602182.22
-Data & Analytics,KSA,2024-02,147.4,4131.21,608860.26
-Data & Analytics,KSA,2024-03,152.6,4120.42,628912.92
-Data & Analytics,KSA,2024-04,151.2,4116.22,622418.99
-Data & Analytics,KSA,2024-05,148.9,4121.19,613641.26
-Data & Analytics,KSA,2024-06,150.0,4119.58,617915.7
-Data & Analytics,KSA,2024-07,153.6,4140.79,636052.22
-Data & Analytics,KSA,2024-08,152.9,4161.56,636272.58
-Data & Analytics,KSA,2024-09,156.1,4150.07,647761.6
-Data & Analytics,KSA,2024-10,163.0,4140.73,674882.87
-Data & Analytics,KSA,2024-11,165.7,4132.44,684623.59
-Data & Analytics,KSA,2024-12,173.8,4156.76,722498.7
-Data & Analytics,KSA,2025-01,177.0,4175.32,739159.22
-Data & Analytics,KSA,2025-02,181.4,4190.48,760241.52
-Data & Analytics,KSA,2025-03,192.8,4178.18,805655.94
-Data & Analytics,KSA,2025-04,193.8,4178.17,809631.48
-Data & Analytics,KSA,2025-05,198.1,4198.52,831534.04
-Data & Analytics,KSA,2025-06,206.9,4202.26,869434.78
-Data & Analytics,KSA,2025-07,206.3,4190.25,864410.0
-Data & Analytics,KSA,2025-08,204.5,4200.87,859087.35
-Data & Analytics,KSA,2025-09,205.1,4206.54,862842.05
-Data & Analytics,KSA,2025-10,215.3,4229.61,910509.77
-Data & Analytics,KSA,2025-11,214.1,4249.55,910018.09
-Data & Analytics,KSA,2025-12,214.5,4262.57,914227.36
-Data & Analytics,KSA,2026-01,216.3,4257.35,921053.92
-Data & Analytics,KSA,2026-02,223.1,4255.35,949457.31
-Data & Analytics,KSA,2026-03,219.2,4268.04,935597.35
-Data & Analytics,India,2023-04,52.2,3223.23,168215.72
-Data & Analytics,India,2023-05,51.4,3222.01,165517.32
-Data & Analytics,India,2023-06,54.1,3225.29,174613.78
-Data & Analytics,India,2023-07,53.6,3230.03,173224.94
-Data & Analytics,India,2023-08,53.2,3233.48,172059.28
-Data & Analytics,India,2023-09,54.0,3245.14,175126.57
-Data & Analytics,India,2023-10,55.1,3256.61,179306.23
-Data & Analytics,India,2023-11,58.4,3265.9,190603.79
-Data & Analytics,India,2023-12,58.7,3275.5,192145.44
-Data & Analytics,India,2024-01,61.3,3275.69,200793.73
-Data & Analytics,India,2024-02,62.3,3275.35,203943.14
-Data & Analytics,India,2024-03,64.4,3265.75,210399.35
-Data & Analytics,India,2024-04,65.4,3260.76,213158.04
-Data & Analytics,India,2024-05,64.4,3269.8,210461.48
-Data & Analytics,India,2024-06,68.1,3267.12,222629.73
-Data & Analytics,India,2024-07,70.6,3273.45,230944.44
-Data & Analytics,India,2024-08,72.0,3267.1,235283.17
-Data & Analytics,India,2024-09,74.3,3283.99,244095.52
-Data & Analytics,India,2024-10,72.9,3284.81,239590.1
-Data & Analytics,India,2024-11,71.3,3279.61,233858.23
-Data & Analytics,India,2024-12,74.5,3277.32,244106.34
-Data & Analytics,India,2025-01,75.1,3273.25,245819.04
-Data & Analytics,India,2025-02,75.4,3264.35,246200.54
-Data & Analytics,India,2025-03,79.2,3272.08,259110.36
-Data & Analytics,India,2025-04,79.4,3267.53,259400.5
-Data & Analytics,India,2025-05,77.3,3266.98,252409.34
-Data & Analytics,India,2025-06,75.4,3270.97,246514.66
-Data & Analytics,India,2025-07,77.9,3269.2,254824.12
-Data & Analytics,India,2025-08,82.3,3282.99,270196.46
-Data & Analytics,India,2025-09,85.2,3286.76,279917.9
-Data & Analytics,India,2025-10,87.7,3284.93,288205.76
-Data & Analytics,India,2025-11,87.9,3299.08,289853.3
-Data & Analytics,India,2025-12,88.7,3302.12,292855.04
-Data & Analytics,India,2026-01,90.1,3304.26,297679.67
-Data & Analytics,India,2026-02,88.9,3313.9,294722.78
-Data & Analytics,India,2026-03,87.5,3332.45,291721.21
-Data & Analytics,UK,2023-04,96.0,5434.51,521461.13
-Data & Analytics,UK,2023-05,98.7,5444.76,537436.05
-Data & Analytics,UK,2023-06,96.6,5440.51,525321.57
-Data & Analytics,UK,2023-07,102.4,5449.71,557974.31
-Data & Analytics,UK,2023-08,104.8,5478.18,574064.96
-Data & Analytics,UK,2023-09,102.7,5498.88,564710.61
-Data & Analytics,UK,2023-10,107.6,5523.01,594294.77
-Data & Analytics,UK,2023-11,107.8,5526.66,595542.3
-Data & Analytics,UK,2023-12,112.4,5530.09,621743.19
-Data & Analytics,UK,2024-01,113.7,5558.39,631722.88
-Data & Analytics,UK,2024-02,116.4,5558.64,646988.96
-Data & Analytics,UK,2024-03,115.8,5561.93,644336.43
-Data & Analytics,UK,2024-04,112.8,5569.47,628148.87
-Data & Analytics,UK,2024-05,115.3,5592.37,645012.85
-Data & Analytics,UK,2024-06,116.7,5591.02,652508.54
-Data & Analytics,UK,2024-07,114.1,5619.51,641244.38
-Data & Analytics,UK,2024-08,119.8,5626.25,674185.23
-Data & Analytics,UK,2024-09,125.1,5615.9,702288.45
-Data & Analytics,UK,2024-10,123.2,5609.45,690823.39
-Data & Analytics,UK,2024-11,119.6,5628.16,673235.7
-Data & Analytics,UK,2024-12,120.0,5622.92,674478.06
-Data & Analytics,UK,2025-01,121.4,5650.28,685942.03
-Data & Analytics,UK,2025-02,122.7,5666.75,695514.01
-Data & Analytics,UK,2025-03,122.8,5659.42,694810.72
-Data & Analytics,UK,2025-04,120.9,5673.88,685761.63
-Data & Analytics,UK,2025-05,121.2,5686.89,689449.96
-Data & Analytics,UK,2025-06,125.3,5697.06,713959.37
-Data & Analytics,UK,2025-07,127.7,5708.46,728713.74
-Data & Analytics,UK,2025-08,133.1,5709.87,759701.79
-Data & Analytics,UK,2025-09,135.3,5701.72,771221.81
-Data & Analytics,UK,2025-10,137.0,5693.41,779847.72
-Data & Analytics,UK,2025-11,140.6,5724.98,804744.05
-Data & Analytics,UK,2025-12,139.2,5745.15,799895.27
-Data & Analytics,UK,2026-01,144.1,5774.03,831802.39
-Data & Analytics,UK,2026-02,148.1,5765.19,853778.74
-Data & Analytics,UK,2026-03,155.9,5749.46,896527.28
-Data & Analytics,USA,2023-04,90.3,2864.23,258757.16
-Data & Analytics,USA,2023-05,92.8,2869.26,266156.03
-Data & Analytics,USA,2023-06,96.6,2868.04,277032.16
-Data & Analytics,USA,2023-07,96.4,2862.93,275875.99
-Data & Analytics,USA,2023-08,97.6,2869.43,280093.9
-Data & Analytics,USA,2023-09,96.9,2879.49,279033.32
-Data & Analytics,USA,2023-10,97.6,2888.39,281951.29
-Data & Analytics,USA,2023-11,96.0,2885.96,277058.5
-Data & Analytics,USA,2023-12,93.9,2896.34,272107.15
-Data & Analytics,USA,2024-01,94.8,2899.49,274983.23
-Data & Analytics,USA,2024-02,93.6,2916.13,272877.17
-Data & Analytics,USA,2024-03,94.9,2916.14,276879.72
-Data & Analytics,USA,2024-04,100.7,2913.31,293449.91
-Data & Analytics,USA,2024-05,100.0,2912.75,291318.53
-Data & Analytics,USA,2024-06,97.2,2914.24,283256.31
-Data & Analytics,USA,2024-07,95.8,2927.85,280580.33
-Data & Analytics,USA,2024-08,96.7,2924.19,282749.16
-Data & Analytics,USA,2024-09,96.3,2916.97,280969.03
-Data & Analytics,USA,2024-10,95.9,2931.26,281046.58
-Data & Analytics,USA,2024-11,94.0,2932.97,275565.0
-Data & Analytics,USA,2024-12,93.0,2947.46,273999.1
-Data & Analytics,USA,2025-01,98.7,2943.32,290377.28
-Data & Analytics,USA,2025-02,103.7,2940.1,304890.74
-Data & Analytics,USA,2025-03,102.4,2954.27,302426.24
-Data & Analytics,USA,2025-04,104.6,2950.24,308734.69
-Data & Analytics,USA,2025-05,103.7,2951.07,306144.74
-Data & Analytics,USA,2025-06,101.1,2949.54,298178.93
-Data & Analytics,USA,2025-07,101.6,2961.91,300833.96
-Data & Analytics,USA,2025-08,99.8,2977.22,297015.54
-Data & Analytics,USA,2025-09,102.9,2976.5,306142.52
-Data & Analytics,USA,2025-10,102.5,2975.35,304870.43
-Data & Analytics,USA,2025-11,100.9,2968.5,299597.2
-Data & Analytics,USA,2025-12,102.3,2966.68,303637.43
-Data & Analytics,USA,2026-01,104.8,2965.61,310813.89
-Data & Analytics,USA,2026-02,107.2,2969.47,318456.55
-Data & Analytics,USA,2026-03,107.0,2981.01,319010.96
-Data & Analytics,Rest of GCC,2023-04,20.0,4249.68,85040.9
-Data & Analytics,Rest of GCC,2023-05,20.0,4246.02,85091.39
-Data & Analytics,Rest of GCC,2023-06,19.7,4247.31,83759.79
-Data & Analytics,Rest of GCC,2023-07,19.5,4238.82,82654.33
-Data & Analytics,Rest of GCC,2023-08,20.7,4241.67,87954.36
-Data & Analytics,Rest of GCC,2023-09,21.6,4253.44,91968.69
-Data & Analytics,Rest of GCC,2023-10,21.4,4250.31,90972.36
-Data & Analytics,Rest of GCC,2023-11,21.6,4244.37,91700.38
-Data & Analytics,Rest of GCC,2023-12,22.2,4250.78,94454.76
-Data & Analytics,Rest of GCC,2024-01,22.5,4247.71,95747.16
-Data & Analytics,Rest of GCC,2024-02,23.5,4247.33,99621.25
-Data & Analytics,Rest of GCC,2024-03,24.2,4258.35,103231.76
-Data & Analytics,Rest of GCC,2024-04,24.8,4264.58,105686.28
-Data & Analytics,Rest of GCC,2024-05,25.9,4273.66,110557.13
-Data & Analytics,Rest of GCC,2024-06,25.5,4270.07,108789.14
-Data & Analytics,Rest of GCC,2024-07,24.8,4275.12,106110.96
-Data & Analytics,Rest of GCC,2024-08,26.0,4272.34,111127.8
-Data & Analytics,Rest of GCC,2024-09,27.7,4284.55,118541.32
-Data & Analytics,Rest of GCC,2024-10,29.0,4280.19,123964.11
-Data & Analytics,Rest of GCC,2024-11,28.9,4301.38,124505.64
-Data & Analytics,Rest of GCC,2024-12,28.7,4315.08,123683.26
-Data & Analytics,Rest of GCC,2025-01,28.5,4315.33,123128.9
-Data & Analytics,Rest of GCC,2025-02,29.0,4336.89,125792.15
-Data & Analytics,Rest of GCC,2025-03,28.7,4336.54,124486.4
-Data & Analytics,Rest of GCC,2025-04,28.5,4326.51,123203.28
-Data & Analytics,Rest of GCC,2025-05,29.6,4317.1,127873.88
-Data & Analytics,Rest of GCC,2025-06,29.5,4342.21,128226.5
-Data & Analytics,Rest of GCC,2025-07,31.2,4338.51,135368.11
-Data & Analytics,Rest of GCC,2025-08,31.8,4350.48,138147.54
-Data & Analytics,Rest of GCC,2025-09,33.3,4352.47,145045.7
-Data & Analytics,Rest of GCC,2025-10,33.0,4347.46,143340.11
-Data & Analytics,Rest of GCC,2025-11,32.3,4366.42,140851.46
-Data & Analytics,Rest of GCC,2025-12,31.6,4363.88,138027.65
-Data & Analytics,Rest of GCC,2026-01,32.0,4367.51,139800.75
-Data & Analytics,Rest of GCC,2026-02,33.3,4377.62,145908.67
-Data & Analytics,Rest of GCC,2026-03,32.8,4365.53,143245.93
-Advisory & Consulting,UAE,2023-04,226.1,4440.76,1003853.11
-Advisory & Consulting,UAE,2023-05,231.9,4462.64,1034788.73
-Advisory & Consulting,UAE,2023-06,228.1,4483.73,1022937.41
-Advisory & Consulting,UAE,2023-07,222.7,4507.11,1003934.42
-Advisory & Consulting,UAE,2023-08,228.3,4521.99,1032333.13
-Advisory & Consulting,UAE,2023-09,222.3,4522.19,1005416.88
-Advisory & Consulting,UAE,2023-10,224.4,4543.2,1019345.92
-Advisory & Consulting,UAE,2023-11,223.2,4532.98,1011710.86
-Advisory & Consulting,UAE,2023-12,228.4,4523.56,1033244.21
-Advisory & Consulting,UAE,2024-01,240.4,4522.95,1087285.32
-Advisory & Consulting,UAE,2024-02,236.3,4549.72,1075289.6
-Advisory & Consulting,UAE,2024-03,231.1,4537.88,1048816.65
-Advisory & Consulting,UAE,2024-04,243.4,4555.36,1108973.12
-Advisory & Consulting,UAE,2024-05,240.4,4581.99,1101576.29
-Advisory & Consulting,UAE,2024-06,236.9,4606.53,1091459.44
-Advisory & Consulting,UAE,2024-07,243.3,4609.94,1121782.32
-Advisory & Consulting,UAE,2024-08,258.2,4631.8,1195914.51
-Advisory & Consulting,UAE,2024-09,273.2,4644.53,1268807.46
-Advisory & Consulting,UAE,2024-10,267.9,4637.82,1242628.2
-Advisory & Consulting,UAE,2024-11,273.5,4660.99,1274992.69
-Advisory & Consulting,UAE,2024-12,272.1,4676.46,1272271.44
-Advisory & Consulting,UAE,2025-01,277.6,4668.36,1295953.78
-Advisory & Consulting,UAE,2025-02,270.3,4673.77,1263537.82
-Advisory & Consulting,UAE,2025-03,272.1,4675.77,1272245.95
-Advisory & Consulting,UAE,2025-04,279.0,4688.53,1308278.52
-Advisory & Consulting,UAE,2025-05,295.3,4695.79,1386710.21
-Advisory & Consulting,UAE,2025-06,293.6,4683.07,1375061.0
-Advisory & Consulting,UAE,2025-07,286.6,4671.86,1339026.35
-Advisory & Consulting,UAE,2025-08,280.4,4693.09,1315832.15
-Advisory & Consulting,UAE,2025-09,275.6,4695.58,1294059.66
-Advisory & Consulting,UAE,2025-10,283.6,4690.91,1330134.68
-Advisory & Consulting,UAE,2025-11,287.8,4687.25,1348970.56
-Advisory & Consulting,UAE,2025-12,301.4,4711.89,1420212.65
-Advisory & Consulting,UAE,2026-01,294.4,4739.3,1395167.08
-Advisory & Consulting,UAE,2026-02,301.2,4732.32,1425410.54
-Advisory & Consulting,UAE,2026-03,311.6,4754.03,1481540.94
-Advisory & Consulting,KSA,2023-04,124.9,4917.8,614088.42
-Advisory & Consulting,KSA,2023-05,126.8,4922.38,624233.61
-Advisory & Consulting,KSA,2023-06,133.7,4947.38,661482.32
-Advisory & Consulting,KSA,2023-07,138.6,4959.64,687466.32
-Advisory & Consulting,KSA,2023-08,137.0,4955.02,678726.52
-Advisory & Consulting,KSA,2023-09,137.5,4962.4,682234.46
-Advisory & Consulting,KSA,2023-10,140.9,4976.99,701401.87
-Advisory & Consulting,KSA,2023-11,144.8,4986.01,721964.42
-Advisory & Consulting,KSA,2023-12,151.8,4988.55,757379.14
-Advisory & Consulting,KSA,2024-01,153.7,4994.64,767626.11
-Advisory & Consulting,KSA,2024-02,159.6,4984.14,795360.09
-Advisory & Consulting,KSA,2024-03,160.6,4978.99,799553.65
-Advisory & Consulting,KSA,2024-04,160.2,4994.19,800010.35
-Advisory & Consulting,KSA,2024-05,157.3,4979.41,783359.98
-Advisory & Consulting,KSA,2024-06,157.0,5002.43,785618.06
-Advisory & Consulting,KSA,2024-07,160.9,5031.33,809615.41
-Advisory & Consulting,KSA,2024-08,161.5,5052.84,816136.96
-Advisory & Consulting,KSA,2024-09,168.0,5077.46,853192.26
-Advisory & Consulting,KSA,2024-10,171.6,5097.3,874568.36
-Advisory & Consulting,KSA,2024-11,176.8,5110.4,903436.47
-Advisory & Consulting,KSA,2024-12,187.5,5114.64,958940.96
-Advisory & Consulting,KSA,2025-01,182.6,5127.72,936437.36
-Advisory & Consulting,KSA,2025-02,181.2,5126.51,928682.8
-Advisory & Consulting,KSA,2025-03,183.9,5153.46,947887.58
-Advisory & Consulting,KSA,2025-04,179.2,5160.54,924727.11
-Advisory & Consulting,KSA,2025-05,188.1,5182.09,974780.17
-Advisory & Consulting,KSA,2025-06,184.5,5170.67,953771.44
-Advisory & Consulting,KSA,2025-07,184.3,5173.28,953489.41
-Advisory & Consulting,KSA,2025-08,190.4,5175.44,985509.6
-Advisory & Consulting,KSA,2025-09,199.8,5173.22,1033479.46
-Advisory & Consulting,KSA,2025-10,196.2,5158.79,1012180.78
-Advisory & Consulting,KSA,2025-11,204.9,5182.99,1061933.49
-Advisory & Consulting,KSA,2025-12,205.7,5181.13,1065955.7
-Advisory & Consulting,KSA,2026-01,209.5,5211.41,1091931.92
-Advisory & Consulting,KSA,2026-02,215.4,5206.76,1121478.64
-Advisory & Consulting,KSA,2026-03,217.5,5202.4,1131324.89
-Advisory & Consulting,India,2023-04,69.5,3027.93,210410.44
-Advisory & Consulting,India,2023-05,73.3,3027.86,221852.19
-Advisory & Consulting,India,2023-06,76.4,3038.48,232269.65
-Advisory & Consulting,India,2023-07,76.9,3048.01,234505.68
-Advisory & Consulting,India,2023-08,77.1,3060.1,235786.95
-Advisory & Consulting,India,2023-09,77.8,3057.07,237963.33
-Advisory & Consulting,India,2023-10,81.6,3054.83,249219.68
-Advisory & Consulting,India,2023-11,85.0,3067.63,260860.98
-Advisory & Consulting,India,2023-12,85.1,3083.84,262394.72
-Advisory & Consulting,India,2024-01,83.6,3076.7,257237.55
-Advisory & Consulting,India,2024-02,82.3,3076.64,253131.21
-Advisory & Consulting,India,2024-03,85.8,3082.66,264489.31
-Advisory & Consulting,India,2024-04,85.4,3086.12,263447.73
-Advisory & Consulting,India,2024-05,87.3,3094.64,270087.87
-Advisory & Consulting,India,2024-06,85.2,3099.05,263993.88
-Advisory & Consulting,India,2024-07,85.0,3094.5,263091.44
-Advisory & Consulting,India,2024-08,83.6,3098.59,258935.01
-Advisory & Consulting,India,2024-09,86.6,3114.61,269855.18
-Advisory & Consulting,India,2024-10,88.8,3121.04,277166.1
-Advisory & Consulting,India,2024-11,92.1,3139.54,289307.87
-Advisory & Consulting,India,2024-12,92.0,3134.7,288380.87
-Advisory & Consulting,India,2025-01,95.7,3136.51,300087.17
-Advisory & Consulting,India,2025-02,94.9,3151.75,299045.78
-Advisory & Consulting,India,2025-03,100.1,3158.29,316104.18
-Advisory & Consulting,India,2025-04,97.4,3150.53,306927.32
-Advisory & Consulting,India,2025-05,96.3,3155.73,304028.1
-Advisory & Consulting,India,2025-06,95.7,3158.7,302188.74
-Advisory & Consulting,India,2025-07,93.2,3156.68,294118.3
-Advisory & Consulting,India,2025-08,91.0,3163.41,287882.78
-Advisory & Consulting,India,2025-09,88.8,3157.59,280465.9
-Advisory & Consulting,India,2025-10,87.2,3164.15,275878.39
-Advisory & Consulting,India,2025-11,87.0,3179.97,276597.77
-Advisory & Consulting,India,2025-12,86.0,3190.32,274354.67
-Advisory & Consulting,India,2026-01,86.0,3201.05,275142.98
-Advisory & Consulting,India,2026-02,84.8,3218.57,273022.17
-Advisory & Consulting,India,2026-03,88.9,3219.78,286136.48
-Advisory & Consulting,UK,2023-04,49.3,2503.94,123383.54
-Advisory & Consulting,UK,2023-05,49.7,2500.2,124246.44
-Advisory & Consulting,UK,2023-06,49.4,2504.2,123656.98
-Advisory & Consulting,UK,2023-07,48.5,2505.66,121479.53
-Advisory & Consulting,UK,2023-08,48.1,2504.08,120357.85
-Advisory & Consulting,UK,2023-09,48.4,2498.12,120799.83
-Advisory & Consulting,UK,2023-10,49.5,2502.45,123844.84
-Advisory & Consulting,UK,2023-11,48.8,2498.18,121926.62
-Advisory & Consulting,UK,2023-12,48.1,2499.28,120193.17
-Advisory & Consulting,UK,2024-01,48.1,2505.35,120578.0
-Advisory & Consulting,UK,2024-02,50.3,2512.7,126309.49
-Advisory & Consulting,UK,2024-03,51.9,2506.09,129990.89
-Advisory & Consulting,UK,2024-04,50.7,2520.1,127886.07
-Advisory & Consulting,UK,2024-05,49.5,2514.47,124413.76
-Advisory & Consulting,UK,2024-06,51.9,2515.63,130616.59
-Advisory & Consulting,UK,2024-07,55.0,2512.66,138184.73
-Advisory & Consulting,UK,2024-08,57.4,2523.29,144914.21
-Advisory & Consulting,UK,2024-09,56.9,2527.18,143694.64
-Advisory & Consulting,UK,2024-10,57.0,2526.0,144056.21
-Advisory & Consulting,UK,2024-11,58.0,2525.27,146478.32
-Advisory & Consulting,UK,2024-12,58.4,2535.97,148152.24
-Advisory & Consulting,UK,2025-01,58.9,2543.54,149796.44
-Advisory & Consulting,UK,2025-02,60.7,2550.35,154783.64
-Advisory & Consulting,UK,2025-03,63.9,2544.7,162538.92
-Advisory & Consulting,UK,2025-04,64.6,2549.73,164789.79
-Advisory & Consulting,UK,2025-05,62.9,2545.72,160157.28
-Advisory & Consulting,UK,2025-06,66.2,2538.8,167959.02
-Advisory & Consulting,UK,2025-07,65.6,2540.68,166547.88
-Advisory & Consulting,UK,2025-08,67.8,2549.59,172963.08
-Advisory & Consulting,UK,2025-09,68.3,2563.5,175049.83
-Advisory & Consulting,UK,2025-10,71.0,2566.31,182282.53
-Advisory & Consulting,UK,2025-11,74.3,2566.51,190783.92
-Advisory & Consulting,UK,2025-12,78.5,2567.53,201493.56
-Advisory & Consulting,UK,2026-01,78.6,2566.73,201728.05
-Advisory & Consulting,UK,2026-02,80.6,2560.38,206285.68
-Advisory & Consulting,UK,2026-03,79.9,2574.88,205745.78
-Advisory & Consulting,USA,2023-04,36.7,3256.35,119594.13
-Advisory & Consulting,USA,2023-05,38.3,3249.84,124520.6
-Advisory & Consulting,USA,2023-06,40.5,3244.18,131533.03
-Advisory & Consulting,USA,2023-07,41.9,3251.21,136138.93
-Advisory & Consulting,USA,2023-08,42.3,3248.33,137331.74
-Advisory & Consulting,USA,2023-09,41.4,3256.66,134956.14
-Advisory & Consulting,USA,2023-10,43.3,3252.52,140766.5
-Advisory & Consulting,USA,2023-11,43.2,3261.88,140959.18
-Advisory & Consulting,USA,2023-12,45.6,3258.13,148690.29
-Advisory & Consulting,USA,2024-01,47.4,3277.19,155207.46
-Advisory & Consulting,USA,2024-02,47.6,3286.67,156303.16
-Advisory & Consulting,USA,2024-03,47.8,3298.9,157587.69
-Advisory & Consulting,USA,2024-04,46.7,3289.68,153734.6
-Advisory & Consulting,USA,2024-05,47.2,3280.33,154848.33
-Advisory & Consulting,USA,2024-06,46.7,3293.98,153682.1
-Advisory & Consulting,USA,2024-07,45.6,3297.14,150287.97
-Advisory & Consulting,USA,2024-08,47.5,3296.74,156474.12
-Advisory & Consulting,USA,2024-09,50.6,3308.99,167588.28
-Advisory & Consulting,USA,2024-10,50.8,3323.34,168792.65
-Advisory & Consulting,USA,2024-11,51.8,3318.07,171786.88
-Advisory & Consulting,USA,2024-12,54.9,3335.12,183198.77
-Advisory & Consulting,USA,2025-01,55.7,3333.69,185702.23
-Advisory & Consulting,USA,2025-02,59.4,3345.74,198615.97
-Advisory & Consulting,USA,2025-03,59.3,3339.79,198064.57
-Advisory & Consulting,USA,2025-04,61.6,3354.88,206809.41
-Advisory & Consulting,USA,2025-05,63.4,3352.34,212569.15
-Advisory & Consulting,USA,2025-06,62.9,3350.79,210689.59
-Advisory & Consulting,USA,2025-07,63.9,3350.6,213970.75
-Advisory & Consulting,USA,2025-08,65.1,3345.64,217798.6
-Advisory & Consulting,USA,2025-09,64.5,3336.62,215260.31
-Advisory & Consulting,USA,2025-10,64.3,3350.56,215427.78
-Advisory & Consulting,USA,2025-11,68.4,3355.8,229419.77
-Advisory & Consulting,USA,2025-12,68.0,3359.69,228432.1
-Advisory & Consulting,USA,2026-01,67.0,3360.93,225291.92
-Advisory & Consulting,USA,2026-02,66.5,3358.84,223398.15
-Advisory & Consulting,USA,2026-03,70.9,3365.68,238604.36
-Advisory & Consulting,Rest of GCC,2023-04,56.6,4428.25,250715.15
-Advisory & Consulting,Rest of GCC,2023-05,56.8,4439.01,252199.39
-Advisory & Consulting,Rest of GCC,2023-06,60.4,4441.04,268235.31
-Advisory & Consulting,Rest of GCC,2023-07,63.0,4452.69,280335.92
-Advisory & Consulting,Rest of GCC,2023-08,61.8,4467.66,276262.43
-Advisory & Consulting,Rest of GCC,2023-09,63.7,4466.87,284348.18
-Advisory & Consulting,Rest of GCC,2023-10,66.9,4479.87,299642.33
-Advisory & Consulting,Rest of GCC,2023-11,67.1,4478.47,300400.83
-Advisory & Consulting,Rest of GCC,2023-12,67.0,4477.99,300074.92
-Advisory & Consulting,Rest of GCC,2024-01,66.9,4488.1,300096.0
-Advisory & Consulting,Rest of GCC,2024-02,65.4,4477.56,293037.82
-Advisory & Consulting,Rest of GCC,2024-03,66.1,4476.35,295861.16
-Advisory & Consulting,Rest of GCC,2024-04,65.5,4498.21,294425.45
-Advisory & Consulting,Rest of GCC,2024-05,69.0,4506.02,310905.31
-Advisory & Consulting,Rest of GCC,2024-06,70.5,4507.33,317637.21
-Advisory & Consulting,Rest of GCC,2024-07,70.4,4529.93,319041.47
-Advisory & Consulting,Rest of GCC,2024-08,73.8,4536.81,334885.95
-Advisory & Consulting,Rest of GCC,2024-09,75.2,4543.13,341729.27
-Advisory & Consulting,Rest of GCC,2024-10,78.1,4560.76,356408.23
-Advisory & Consulting,Rest of GCC,2024-11,77.2,4575.19,353048.17
-Advisory & Consulting,Rest of GCC,2024-12,78.0,4600.13,358663.44
-Advisory & Consulting,Rest of GCC,2025-01,81.4,4611.83,375582.88
-Advisory & Consulting,Rest of GCC,2025-02,85.1,4615.57,392786.21
-Advisory & Consulting,Rest of GCC,2025-03,84.2,4628.38,389592.66
-Advisory & Consulting,Rest of GCC,2025-04,84.8,4616.35,391481.26
-Advisory & Consulting,Rest of GCC,2025-05,83.8,4623.42,387275.85
-Advisory & Consulting,Rest of GCC,2025-06,82.0,4642.73,380557.94
-Advisory & Consulting,Rest of GCC,2025-07,82.3,4632.01,381328.51
-Advisory & Consulting,Rest of GCC,2025-08,84.0,4647.76,390378.07
-Advisory & Consulting,Rest of GCC,2025-09,88.3,4654.53,411213.77
-Advisory & Consulting,Rest of GCC,2025-10,88.4,4676.2,413420.84
-Advisory & Consulting,Rest of GCC,2025-11,86.6,4672.62,404817.78
-Advisory & Consulting,Rest of GCC,2025-12,87.8,4667.92,410016.58
-Advisory & Consulting,Rest of GCC,2026-01,88.1,4685.28,412895.64
-Advisory & Consulting,Rest of GCC,2026-02,90.7,4676.6,424397.92
-Advisory & Consulting,Rest of GCC,2026-03,94.3,4666.26,439854.96
+Product,Region,Month,FY,Units,Avg_Price
+Managed Services,UAE,2023-04-01,FY24,169.2974,5238.32
+Cloud & Infrastructure,UAE,2023-04-01,FY24,182.4256,3956.44
+Digital Engineering,UAE,2023-04-01,FY24,82.725,6467.23
+Data & Analytics,UAE,2023-04-01,FY24,86.0315,4642.98
+Consulting & Advisory,UAE,2023-04-01,FY24,33.3888,8776.36
+Managed Services,UAE,2023-05-01,FY24,176.347,5357.7
+Cloud & Infrastructure,UAE,2023-05-01,FY24,174.6923,3891.33
+Digital Engineering,UAE,2023-05-01,FY24,91.9877,6419.51
+Data & Analytics,UAE,2023-05-01,FY24,80.6364,4767.25
+Consulting & Advisory,UAE,2023-05-01,FY24,31.1418,8838.22
+Managed Services,UAE,2023-06-01,FY24,180.9049,5109.13
+Cloud & Infrastructure,UAE,2023-06-01,FY24,186.3548,3930.36
+Digital Engineering,UAE,2023-06-01,FY24,84.6289,6485.43
+Data & Analytics,UAE,2023-06-01,FY24,93.5033,4668.06
+Consulting & Advisory,UAE,2023-06-01,FY24,30.2862,8753.73
+Managed Services,UAE,2023-07-01,FY24,176.1977,5306.91
+Cloud & Infrastructure,UAE,2023-07-01,FY24,171.809,3912.93
+Digital Engineering,UAE,2023-07-01,FY24,94.6577,6454.64
+Data & Analytics,UAE,2023-07-01,FY24,85.9251,4805.38
+Consulting & Advisory,UAE,2023-07-01,FY24,36.9635,8975.18
+Managed Services,UAE,2023-08-01,FY24,165.9191,5240.2
+Cloud & Infrastructure,UAE,2023-08-01,FY24,184.2777,3858.97
+Digital Engineering,UAE,2023-08-01,FY24,91.4818,6557.6
+Data & Analytics,UAE,2023-08-01,FY24,88.3668,4700.76
+Consulting & Advisory,UAE,2023-08-01,FY24,34.562,8895.65
+Managed Services,UAE,2023-09-01,FY24,188.1275,5223.63
+Cloud & Infrastructure,UAE,2023-09-01,FY24,174.1187,3886.47
+Digital Engineering,UAE,2023-09-01,FY24,91.6432,6561.17
+Data & Analytics,UAE,2023-09-01,FY24,83.7833,4791.37
+Consulting & Advisory,UAE,2023-09-01,FY24,32.5894,8975.06
+Managed Services,UAE,2023-10-01,FY24,184.2097,5306.47
+Cloud & Infrastructure,UAE,2023-10-01,FY24,178.3034,3975.64
+Digital Engineering,UAE,2023-10-01,FY24,84.2413,6523.02
+Data & Analytics,UAE,2023-10-01,FY24,89.5278,4773.42
+Consulting & Advisory,UAE,2023-10-01,FY24,34.5732,8938.73
+Managed Services,UAE,2023-11-01,FY24,182.3746,5255.0
+Cloud & Infrastructure,UAE,2023-11-01,FY24,190.5823,3901.2
+Digital Engineering,UAE,2023-11-01,FY24,86.7152,6636.96
+Data & Analytics,UAE,2023-11-01,FY24,87.4259,4819.78
+Consulting & Advisory,UAE,2023-11-01,FY24,33.6542,8997.37
+Managed Services,UAE,2023-12-01,FY24,185.095,5276.64
+Cloud & Infrastructure,UAE,2023-12-01,FY24,192.6246,3960.54
+Digital Engineering,UAE,2023-12-01,FY24,90.2054,6441.48
+Data & Analytics,UAE,2023-12-01,FY24,89.1147,4796.8
+Consulting & Advisory,UAE,2023-12-01,FY24,35.2225,9050.42
+Managed Services,UAE,2024-01-01,FY24,189.8957,5284.88
+Cloud & Infrastructure,UAE,2024-01-01,FY24,175.5948,3958.99
+Digital Engineering,UAE,2024-01-01,FY24,83.2785,6719.24
+Data & Analytics,UAE,2024-01-01,FY24,85.3002,4826.51
+Consulting & Advisory,UAE,2024-01-01,FY24,32.3259,8959.6
+Managed Services,UAE,2024-02-01,FY24,171.8524,5440.13
+Cloud & Infrastructure,UAE,2024-02-01,FY24,183.5678,3941.36
+Digital Engineering,UAE,2024-02-01,FY24,89.0086,6614.62
+Data & Analytics,UAE,2024-02-01,FY24,91.0304,4875.56
+Consulting & Advisory,UAE,2024-02-01,FY24,32.2338,8985.73
+Managed Services,UAE,2024-03-01,FY24,184.1056,5306.03
+Cloud & Infrastructure,UAE,2024-03-01,FY24,197.4336,3993.89
+Digital Engineering,UAE,2024-03-01,FY24,101.8392,6740.3
+Data & Analytics,UAE,2024-03-01,FY24,89.7604,4815.9
+Consulting & Advisory,UAE,2024-03-01,FY24,35.9981,9122.02
+Managed Services,UAE,2024-04-01,FY25,183.472,5436.89
+Cloud & Infrastructure,UAE,2024-04-01,FY25,179.4787,4050.86
+Digital Engineering,UAE,2024-04-01,FY25,92.656,6633.04
+Data & Analytics,UAE,2024-04-01,FY25,88.8328,4885.28
+Consulting & Advisory,UAE,2024-04-01,FY25,31.8044,9159.78
+Managed Services,UAE,2024-05-01,FY25,191.44,5443.54
+Cloud & Infrastructure,UAE,2024-05-01,FY25,188.3427,3978.87
+Digital Engineering,UAE,2024-05-01,FY25,85.1933,6671.82
+Data & Analytics,UAE,2024-05-01,FY25,88.9085,4885.69
+Consulting & Advisory,UAE,2024-05-01,FY25,32.1856,9189.34
+Managed Services,UAE,2024-06-01,FY25,163.284,5509.32
+Cloud & Infrastructure,UAE,2024-06-01,FY25,189.9643,3997.52
+Digital Engineering,UAE,2024-06-01,FY25,93.7979,6728.06
+Data & Analytics,UAE,2024-06-01,FY25,103.1743,4857.45
+Consulting & Advisory,UAE,2024-06-01,FY25,32.2995,9248.16
+Managed Services,UAE,2024-07-01,FY25,178.539,5430.85
+Cloud & Infrastructure,UAE,2024-07-01,FY25,204.013,4037.73
+Digital Engineering,UAE,2024-07-01,FY25,89.0903,6758.7
+Data & Analytics,UAE,2024-07-01,FY25,96.5669,4792.11
+Consulting & Advisory,UAE,2024-07-01,FY25,34.4432,9143.84
+Managed Services,UAE,2024-08-01,FY25,177.3934,5383.35
+Cloud & Infrastructure,UAE,2024-08-01,FY25,195.6987,4018.03
+Digital Engineering,UAE,2024-08-01,FY25,99.146,6764.83
+Data & Analytics,UAE,2024-08-01,FY25,90.8204,4858.73
+Consulting & Advisory,UAE,2024-08-01,FY25,32.9543,9322.41
+Managed Services,UAE,2024-09-01,FY25,178.6605,5339.13
+Cloud & Infrastructure,UAE,2024-09-01,FY25,188.8263,4015.28
+Digital Engineering,UAE,2024-09-01,FY25,95.3877,6689.3
+Data & Analytics,UAE,2024-09-01,FY25,99.0345,4926.56
+Consulting & Advisory,UAE,2024-09-01,FY25,30.2129,9334.91
+Managed Services,UAE,2024-10-01,FY25,185.6971,5430.47
+Cloud & Infrastructure,UAE,2024-10-01,FY25,197.1428,3972.83
+Digital Engineering,UAE,2024-10-01,FY25,100.9789,6813.74
+Data & Analytics,UAE,2024-10-01,FY25,102.2698,4893.68
+Consulting & Advisory,UAE,2024-10-01,FY25,35.1301,9309.42
+Managed Services,UAE,2024-11-01,FY25,194.1485,5544.86
+Cloud & Infrastructure,UAE,2024-11-01,FY25,194.9589,4030.45
+Digital Engineering,UAE,2024-11-01,FY25,94.3759,6841.34
+Data & Analytics,UAE,2024-11-01,FY25,108.7445,4931.14
+Consulting & Advisory,UAE,2024-11-01,FY25,33.2467,9528.54
+Managed Services,UAE,2024-12-01,FY25,189.9003,5524.09
+Cloud & Infrastructure,UAE,2024-12-01,FY25,170.2544,4010.52
+Digital Engineering,UAE,2024-12-01,FY25,95.0438,6794.94
+Data & Analytics,UAE,2024-12-01,FY25,93.1328,4947.85
+Consulting & Advisory,UAE,2024-12-01,FY25,32.9283,9414.28
+Managed Services,UAE,2025-01-01,FY25,187.8702,5471.8
+Cloud & Infrastructure,UAE,2025-01-01,FY25,170.8096,4034.95
+Digital Engineering,UAE,2025-01-01,FY25,90.6521,6786.82
+Data & Analytics,UAE,2025-01-01,FY25,103.1451,4988.87
+Consulting & Advisory,UAE,2025-01-01,FY25,32.3352,9516.92
+Managed Services,UAE,2025-02-01,FY25,182.729,5495.99
+Cloud & Infrastructure,UAE,2025-02-01,FY25,197.3015,4000.24
+Digital Engineering,UAE,2025-02-01,FY25,91.4544,6919.53
+Data & Analytics,UAE,2025-02-01,FY25,97.5033,4929.24
+Consulting & Advisory,UAE,2025-02-01,FY25,32.9519,9481.49
+Managed Services,UAE,2025-03-01,FY25,212.0381,5544.59
+Cloud & Infrastructure,UAE,2025-03-01,FY25,194.1007,4057.89
+Digital Engineering,UAE,2025-03-01,FY25,97.6789,6903.88
+Data & Analytics,UAE,2025-03-01,FY25,110.3025,4912.55
+Consulting & Advisory,UAE,2025-03-01,FY25,39.4684,9610.45
+Managed Services,UAE,2025-04-01,FY26,193.1277,5574.78
+Cloud & Infrastructure,UAE,2025-04-01,FY26,202.8466,4143.34
+Digital Engineering,UAE,2025-04-01,FY26,90.5596,7058.07
+Data & Analytics,UAE,2025-04-01,FY26,105.2186,5059.79
+Consulting & Advisory,UAE,2025-04-01,FY26,35.5739,9490.67
+Managed Services,UAE,2025-05-01,FY26,181.3949,5700.9
+Cloud & Infrastructure,UAE,2025-05-01,FY26,197.4091,4132.36
+Digital Engineering,UAE,2025-05-01,FY26,93.8338,7006.5
+Data & Analytics,UAE,2025-05-01,FY26,96.8819,5004.51
+Consulting & Advisory,UAE,2025-05-01,FY26,34.3137,9649.29
+Managed Services,UAE,2025-06-01,FY26,184.5153,5637.23
+Cloud & Infrastructure,UAE,2025-06-01,FY26,183.6633,4083.28
+Digital Engineering,UAE,2025-06-01,FY26,88.7866,7046.93
+Data & Analytics,UAE,2025-06-01,FY26,103.6925,5097.35
+Consulting & Advisory,UAE,2025-06-01,FY26,36.0488,9799.04
+Managed Services,UAE,2025-07-01,FY26,188.9892,5499.17
+Cloud & Infrastructure,UAE,2025-07-01,FY26,220.5974,4046.94
+Digital Engineering,UAE,2025-07-01,FY26,102.3166,6987.89
+Data & Analytics,UAE,2025-07-01,FY26,105.2546,5040.43
+Consulting & Advisory,UAE,2025-07-01,FY26,34.7783,9682.75
+Managed Services,UAE,2025-08-01,FY26,191.5423,5689.62
+Cloud & Infrastructure,UAE,2025-08-01,FY26,191.5763,4116.23
+Digital Engineering,UAE,2025-08-01,FY26,98.3829,6998.77
+Data & Analytics,UAE,2025-08-01,FY26,113.6094,4949.84
+Consulting & Advisory,UAE,2025-08-01,FY26,35.4163,9803.61
+Managed Services,UAE,2025-09-01,FY26,173.2384,5713.95
+Cloud & Infrastructure,UAE,2025-09-01,FY26,204.7289,4057.01
+Digital Engineering,UAE,2025-09-01,FY26,101.5834,6947.04
+Data & Analytics,UAE,2025-09-01,FY26,119.4074,4937.74
+Consulting & Advisory,UAE,2025-09-01,FY26,36.0865,9800.13
+Managed Services,UAE,2025-10-01,FY26,196.5374,5576.89
+Cloud & Infrastructure,UAE,2025-10-01,FY26,202.2435,4041.25
+Digital Engineering,UAE,2025-10-01,FY26,93.3715,7147.98
+Data & Analytics,UAE,2025-10-01,FY26,117.513,5087.41
+Consulting & Advisory,UAE,2025-10-01,FY26,35.095,9681.59
+Managed Services,UAE,2025-11-01,FY26,191.6384,5728.42
+Cloud & Infrastructure,UAE,2025-11-01,FY26,185.2495,4086.84
+Digital Engineering,UAE,2025-11-01,FY26,96.854,7050.58
+Data & Analytics,UAE,2025-11-01,FY26,105.34,5142.31
+Consulting & Advisory,UAE,2025-11-01,FY26,34.445,9896.89
+Managed Services,UAE,2025-12-01,FY26,182.0345,5797.91
+Cloud & Infrastructure,UAE,2025-12-01,FY26,195.5074,4072.78
+Digital Engineering,UAE,2025-12-01,FY26,96.7531,7031.7
+Data & Analytics,UAE,2025-12-01,FY26,120.262,4991.31
+Consulting & Advisory,UAE,2025-12-01,FY26,33.1443,9879.17
+Managed Services,UAE,2026-01-01,FY26,178.9022,5715.55
+Cloud & Infrastructure,UAE,2026-01-01,FY26,196.8688,4101.75
+Digital Engineering,UAE,2026-01-01,FY26,89.4361,7081.6
+Data & Analytics,UAE,2026-01-01,FY26,111.1047,5107.6
+Consulting & Advisory,UAE,2026-01-01,FY26,32.0553,10042.74
+Managed Services,UAE,2026-02-01,FY26,207.2747,5746.5
+Cloud & Infrastructure,UAE,2026-02-01,FY26,182.8825,4099.65
+Digital Engineering,UAE,2026-02-01,FY26,87.3924,7213.3
+Data & Analytics,UAE,2026-02-01,FY26,115.1456,5041.97
+Consulting & Advisory,UAE,2026-02-01,FY26,34.7089,9931.75
+Managed Services,UAE,2026-03-01,FY26,202.931,5660.17
+Cloud & Infrastructure,UAE,2026-03-01,FY26,209.696,4069.6
+Digital Engineering,UAE,2026-03-01,FY26,98.174,7118.91
+Data & Analytics,UAE,2026-03-01,FY26,125.6366,5147.1
+Consulting & Advisory,UAE,2026-03-01,FY26,36.5413,9884.82
+Managed Services,KSA,2023-04-01,FY24,128.3419,5230.7
+Cloud & Infrastructure,KSA,2023-04-01,FY24,124.3539,3975.65
+Digital Engineering,KSA,2023-04-01,FY24,66.3202,6357.36
+Data & Analytics,KSA,2023-04-01,FY24,57.2441,4617.99
+Consulting & Advisory,KSA,2023-04-01,FY24,22.3009,8824.47
+Managed Services,KSA,2023-05-01,FY24,128.9936,5344.9
+Cloud & Infrastructure,KSA,2023-05-01,FY24,122.9952,3961.51
+Digital Engineering,KSA,2023-05-01,FY24,60.1645,6461.11
+Data & Analytics,KSA,2023-05-01,FY24,57.5153,4734.14
+Consulting & Advisory,KSA,2023-05-01,FY24,23.9829,8823.11
+Managed Services,KSA,2023-06-01,FY24,131.463,5220.32
+Cloud & Infrastructure,KSA,2023-06-01,FY24,130.773,3885.6
+Digital Engineering,KSA,2023-06-01,FY24,59.9688,6452.47
+Data & Analytics,KSA,2023-06-01,FY24,55.4212,4731.04
+Consulting & Advisory,KSA,2023-06-01,FY24,24.8659,8770.93
+Managed Services,KSA,2023-07-01,FY24,121.8597,5226.26
+Cloud & Infrastructure,KSA,2023-07-01,FY24,135.033,3907.42
+Digital Engineering,KSA,2023-07-01,FY24,62.3499,6456.17
+Data & Analytics,KSA,2023-07-01,FY24,63.1136,4728.46
+Consulting & Advisory,KSA,2023-07-01,FY24,24.1451,8788.33
+Managed Services,KSA,2023-08-01,FY24,117.5911,5310.47
+Cloud & Infrastructure,KSA,2023-08-01,FY24,124.5313,3924.45
+Digital Engineering,KSA,2023-08-01,FY24,66.4829,6411.3
+Data & Analytics,KSA,2023-08-01,FY24,62.5004,4734.34
+Consulting & Advisory,KSA,2023-08-01,FY24,19.1454,9043.26
+Managed Services,KSA,2023-09-01,FY24,132.9134,5221.23
+Cloud & Infrastructure,KSA,2023-09-01,FY24,130.4808,3865.85
+Digital Engineering,KSA,2023-09-01,FY24,64.1477,6438.52
+Data & Analytics,KSA,2023-09-01,FY24,62.4447,4768.9
+Consulting & Advisory,KSA,2023-09-01,FY24,24.1719,8754.72
+Managed Services,KSA,2023-10-01,FY24,119.2885,5344.24
+Cloud & Infrastructure,KSA,2023-10-01,FY24,142.1596,3967.47
+Digital Engineering,KSA,2023-10-01,FY24,66.417,6488.78
+Data & Analytics,KSA,2023-10-01,FY24,67.3506,4779.85
+Consulting & Advisory,KSA,2023-10-01,FY24,24.1745,9131.57
+Managed Services,KSA,2023-11-01,FY24,124.8321,5405.44
+Cloud & Infrastructure,KSA,2023-11-01,FY24,124.9534,3933.63
+Digital Engineering,KSA,2023-11-01,FY24,63.4332,6533.63
+Data & Analytics,KSA,2023-11-01,FY24,65.736,4757.27
+Consulting & Advisory,KSA,2023-11-01,FY24,21.479,9041.36
+Managed Services,KSA,2023-12-01,FY24,129.3935,5264.44
+Cloud & Infrastructure,KSA,2023-12-01,FY24,133.3634,3892.64
+Digital Engineering,KSA,2023-12-01,FY24,62.8786,6596.69
+Data & Analytics,KSA,2023-12-01,FY24,58.0703,4813.83
+Consulting & Advisory,KSA,2023-12-01,FY24,23.0256,8891.41
+Managed Services,KSA,2024-01-01,FY24,119.7433,5206.35
+Cloud & Infrastructure,KSA,2024-01-01,FY24,134.6305,3887.1
+Digital Engineering,KSA,2024-01-01,FY24,64.4669,6609.61
+Data & Analytics,KSA,2024-01-01,FY24,65.1392,4738.4
+Consulting & Advisory,KSA,2024-01-01,FY24,21.4276,9226.9
+Managed Services,KSA,2024-02-01,FY24,121.7551,5370.44
+Cloud & Infrastructure,KSA,2024-02-01,FY24,128.8603,3887.76
+Digital Engineering,KSA,2024-02-01,FY24,64.5362,6533.86
+Data & Analytics,KSA,2024-02-01,FY24,62.4198,4836.97
+Consulting & Advisory,KSA,2024-02-01,FY24,22.5057,9138.5
+Managed Services,KSA,2024-03-01,FY24,130.3915,5475.26
+Cloud & Infrastructure,KSA,2024-03-01,FY24,132.5838,3958.06
+Digital Engineering,KSA,2024-03-01,FY24,71.6023,6583.82
+Data & Analytics,KSA,2024-03-01,FY24,65.9303,4887.06
+Consulting & Advisory,KSA,2024-03-01,FY24,24.6062,9071.13
+Managed Services,KSA,2024-04-01,FY25,129.2258,5443.92
+Cloud & Infrastructure,KSA,2024-04-01,FY25,140.1497,3975.95
+Digital Engineering,KSA,2024-04-01,FY25,73.6431,6719.34
+Data & Analytics,KSA,2024-04-01,FY25,64.1108,4864.39
+Consulting & Advisory,KSA,2024-04-01,FY25,21.9095,9313.73
+Managed Services,KSA,2024-05-01,FY25,129.5332,5461.8
+Cloud & Infrastructure,KSA,2024-05-01,FY25,119.9536,3992.74
+Digital Engineering,KSA,2024-05-01,FY25,66.2785,6601.81
+Data & Analytics,KSA,2024-05-01,FY25,68.1677,4928.07
+Consulting & Advisory,KSA,2024-05-01,FY25,26.2218,9131.5
+Managed Services,KSA,2024-06-01,FY25,128.4203,5496.03
+Cloud & Infrastructure,KSA,2024-06-01,FY25,130.9777,3987.3
+Digital Engineering,KSA,2024-06-01,FY25,67.7046,6678.97
+Data & Analytics,KSA,2024-06-01,FY25,67.7395,4805.28
+Consulting & Advisory,KSA,2024-06-01,FY25,27.0212,9335.59
+Managed Services,KSA,2024-07-01,FY25,120.6532,5464.03
+Cloud & Infrastructure,KSA,2024-07-01,FY25,126.0308,3979.64
+Digital Engineering,KSA,2024-07-01,FY25,66.073,6819.25
+Data & Analytics,KSA,2024-07-01,FY25,67.8119,4898.97
+Consulting & Advisory,KSA,2024-07-01,FY25,23.9381,9259.34
+Managed Services,KSA,2024-08-01,FY25,123.1987,5410.97
+Cloud & Infrastructure,KSA,2024-08-01,FY25,139.6279,4100.72
+Digital Engineering,KSA,2024-08-01,FY25,63.6299,6707.24
+Data & Analytics,KSA,2024-08-01,FY25,61.23,4821.09
+Consulting & Advisory,KSA,2024-08-01,FY25,24.5934,9184.56
+Managed Services,KSA,2024-09-01,FY25,117.3076,5399.23
+Cloud & Infrastructure,KSA,2024-09-01,FY25,135.6055,4042.81
+Digital Engineering,KSA,2024-09-01,FY25,72.3362,6678.36
+Data & Analytics,KSA,2024-09-01,FY25,67.9548,4871.86
+Consulting & Advisory,KSA,2024-09-01,FY25,23.2499,9335.01
+Managed Services,KSA,2024-10-01,FY25,132.5358,5587.57
+Cloud & Infrastructure,KSA,2024-10-01,FY25,133.7438,4083.01
+Digital Engineering,KSA,2024-10-01,FY25,69.053,6807.48
+Data & Analytics,KSA,2024-10-01,FY25,73.7056,4987.43
+Consulting & Advisory,KSA,2024-10-01,FY25,22.8581,9504.5
+Managed Services,KSA,2024-11-01,FY25,145.4671,5506.73
+Cloud & Infrastructure,KSA,2024-11-01,FY25,121.1476,3973.0
+Digital Engineering,KSA,2024-11-01,FY25,64.847,6763.73
+Data & Analytics,KSA,2024-11-01,FY25,66.0769,4932.88
+Consulting & Advisory,KSA,2024-11-01,FY25,24.7934,9420.59
+Managed Services,KSA,2024-12-01,FY25,134.9446,5551.52
+Cloud & Infrastructure,KSA,2024-12-01,FY25,136.1227,4040.08
+Digital Engineering,KSA,2024-12-01,FY25,63.6779,6897.4
+Data & Analytics,KSA,2024-12-01,FY25,74.3199,4982.36
+Consulting & Advisory,KSA,2024-12-01,FY25,23.3892,9324.01
+Managed Services,KSA,2025-01-01,FY25,130.325,5551.08
+Cloud & Infrastructure,KSA,2025-01-01,FY25,127.9467,3963.59
+Digital Engineering,KSA,2025-01-01,FY25,64.5696,6904.54
+Data & Analytics,KSA,2025-01-01,FY25,71.7192,4917.3
+Consulting & Advisory,KSA,2025-01-01,FY25,26.3986,9520.39
+Managed Services,KSA,2025-02-01,FY25,129.7909,5614.43
+Cloud & Infrastructure,KSA,2025-02-01,FY25,133.4703,4027.7
+Digital Engineering,KSA,2025-02-01,FY25,70.5703,6832.56
+Data & Analytics,KSA,2025-02-01,FY25,67.083,4912.01
+Consulting & Advisory,KSA,2025-02-01,FY25,24.4734,9558.74
+Managed Services,KSA,2025-03-01,FY25,143.7274,5543.15
+Cloud & Infrastructure,KSA,2025-03-01,FY25,146.4177,4072.41
+Digital Engineering,KSA,2025-03-01,FY25,63.8075,6803.49
+Data & Analytics,KSA,2025-03-01,FY25,84.1291,4993.38
+Consulting & Advisory,KSA,2025-03-01,FY25,26.9108,9500.93
+Managed Services,KSA,2025-04-01,FY26,134.0449,5578.49
+Cloud & Infrastructure,KSA,2025-04-01,FY26,128.4755,4052.65
+Digital Engineering,KSA,2025-04-01,FY26,63.8574,7011.59
+Data & Analytics,KSA,2025-04-01,FY26,74.9299,5026.17
+Consulting & Advisory,KSA,2025-04-01,FY26,23.1425,9626.8
+Managed Services,KSA,2025-05-01,FY26,140.4424,5565.08
+Cloud & Infrastructure,KSA,2025-05-01,FY26,133.0436,4022.71
+Digital Engineering,KSA,2025-05-01,FY26,61.286,6933.7
+Data & Analytics,KSA,2025-05-01,FY26,76.6412,5035.14
+Consulting & Advisory,KSA,2025-05-01,FY26,22.6883,9469.32
+Managed Services,KSA,2025-06-01,FY26,132.0919,5594.78
+Cloud & Infrastructure,KSA,2025-06-01,FY26,128.1865,4000.11
+Digital Engineering,KSA,2025-06-01,FY26,71.5752,6933.28
+Data & Analytics,KSA,2025-06-01,FY26,73.4002,5182.1
+Consulting & Advisory,KSA,2025-06-01,FY26,25.6725,9681.0
+Managed Services,KSA,2025-07-01,FY26,137.6821,5680.55
+Cloud & Infrastructure,KSA,2025-07-01,FY26,131.8233,4033.48
+Digital Engineering,KSA,2025-07-01,FY26,66.0405,6869.99
+Data & Analytics,KSA,2025-07-01,FY26,80.7931,4946.11
+Consulting & Advisory,KSA,2025-07-01,FY26,25.6547,9637.12
+Managed Services,KSA,2025-08-01,FY26,128.2884,5632.38
+Cloud & Infrastructure,KSA,2025-08-01,FY26,139.3652,4066.31
+Digital Engineering,KSA,2025-08-01,FY26,58.4781,7136.16
+Data & Analytics,KSA,2025-08-01,FY26,71.494,4979.5
+Consulting & Advisory,KSA,2025-08-01,FY26,23.7148,9832.87
+Managed Services,KSA,2025-09-01,FY26,140.2644,5626.23
+Cloud & Infrastructure,KSA,2025-09-01,FY26,142.6577,4052.8
+Digital Engineering,KSA,2025-09-01,FY26,67.3151,6975.42
+Data & Analytics,KSA,2025-09-01,FY26,74.8073,5037.13
+Consulting & Advisory,KSA,2025-09-01,FY26,23.0961,9905.45
+Managed Services,KSA,2025-10-01,FY26,142.6005,5619.96
+Cloud & Infrastructure,KSA,2025-10-01,FY26,142.7866,4113.67
+Digital Engineering,KSA,2025-10-01,FY26,65.7574,7052.62
+Data & Analytics,KSA,2025-10-01,FY26,80.7458,5085.73
+Consulting & Advisory,KSA,2025-10-01,FY26,24.5221,10110.05
+Managed Services,KSA,2025-11-01,FY26,135.2476,5687.43
+Cloud & Infrastructure,KSA,2025-11-01,FY26,144.5043,4025.15
+Digital Engineering,KSA,2025-11-01,FY26,64.7443,7204.02
+Data & Analytics,KSA,2025-11-01,FY26,82.9284,5125.08
+Consulting & Advisory,KSA,2025-11-01,FY26,23.4475,9752.99
+Managed Services,KSA,2025-12-01,FY26,138.3642,5745.94
+Cloud & Infrastructure,KSA,2025-12-01,FY26,136.7656,4094.25
+Digital Engineering,KSA,2025-12-01,FY26,67.6914,7024.36
+Data & Analytics,KSA,2025-12-01,FY26,78.2713,5150.67
+Consulting & Advisory,KSA,2025-12-01,FY26,23.0148,9884.59
+Managed Services,KSA,2026-01-01,FY26,133.7175,5739.72
+Cloud & Infrastructure,KSA,2026-01-01,FY26,134.5899,4081.89
+Digital Engineering,KSA,2026-01-01,FY26,66.8004,7176.33
+Data & Analytics,KSA,2026-01-01,FY26,71.5839,5132.07
+Consulting & Advisory,KSA,2026-01-01,FY26,23.9922,9939.29
+Managed Services,KSA,2026-02-01,FY26,135.2573,5744.48
+Cloud & Infrastructure,KSA,2026-02-01,FY26,132.7406,4055.16
+Digital Engineering,KSA,2026-02-01,FY26,61.6609,7199.28
+Data & Analytics,KSA,2026-02-01,FY26,74.0375,5156.62
+Consulting & Advisory,KSA,2026-02-01,FY26,23.5378,10166.5
+Managed Services,KSA,2026-03-01,FY26,138.5766,5735.72
+Cloud & Infrastructure,KSA,2026-03-01,FY26,154.6605,4165.66
+Digital Engineering,KSA,2026-03-01,FY26,65.3023,7023.14
+Data & Analytics,KSA,2026-03-01,FY26,91.993,5128.84
+Consulting & Advisory,KSA,2026-03-01,FY26,25.9923,10048.4
+Managed Services,India,2023-04-01,FY24,149.2183,5164.1
+Cloud & Infrastructure,India,2023-04-01,FY24,151.7959,3946.45
+Digital Engineering,India,2023-04-01,FY24,77.6265,6419.74
+Data & Analytics,India,2023-04-01,FY24,65.5755,4748.11
+Consulting & Advisory,India,2023-04-01,FY24,27.1841,9020.34
+Managed Services,India,2023-05-01,FY24,154.8603,5224.45
+Cloud & Infrastructure,India,2023-05-01,FY24,130.1192,3905.95
+Digital Engineering,India,2023-05-01,FY24,69.096,6480.5
+Data & Analytics,India,2023-05-01,FY24,71.3415,4675.73
+Consulting & Advisory,India,2023-05-01,FY24,27.2716,8874.1
+Managed Services,India,2023-06-01,FY24,141.8157,5337.9
+Cloud & Infrastructure,India,2023-06-01,FY24,155.1275,3940.42
+Digital Engineering,India,2023-06-01,FY24,75.1972,6495.2
+Data & Analytics,India,2023-06-01,FY24,68.0969,4701.68
+Consulting & Advisory,India,2023-06-01,FY24,25.8907,8833.88
+Managed Services,India,2023-07-01,FY24,133.7447,5252.96
+Cloud & Infrastructure,India,2023-07-01,FY24,155.6833,3937.31
+Digital Engineering,India,2023-07-01,FY24,75.154,6537.19
+Data & Analytics,India,2023-07-01,FY24,77.2348,4717.8
+Consulting & Advisory,India,2023-07-01,FY24,29.239,8979.57
+Managed Services,India,2023-08-01,FY24,139.6033,5215.96
+Cloud & Infrastructure,India,2023-08-01,FY24,159.0944,3901.31
+Digital Engineering,India,2023-08-01,FY24,76.4393,6482.64
+Data & Analytics,India,2023-08-01,FY24,75.2961,4706.64
+Consulting & Advisory,India,2023-08-01,FY24,27.0695,8794.14
+Managed Services,India,2023-09-01,FY24,158.8373,5298.01
+Cloud & Infrastructure,India,2023-09-01,FY24,151.7067,3893.64
+Digital Engineering,India,2023-09-01,FY24,70.4441,6456.86
+Data & Analytics,India,2023-09-01,FY24,68.4116,4793.34
+Consulting & Advisory,India,2023-09-01,FY24,25.798,9204.9
+Managed Services,India,2023-10-01,FY24,157.0225,5342.59
+Cloud & Infrastructure,India,2023-10-01,FY24,154.6559,3931.76
+Digital Engineering,India,2023-10-01,FY24,72.8586,6478.69
+Data & Analytics,India,2023-10-01,FY24,75.5784,4829.51
+Consulting & Advisory,India,2023-10-01,FY24,26.6355,8979.64
+Managed Services,India,2023-11-01,FY24,150.1277,5210.58
+Cloud & Infrastructure,India,2023-11-01,FY24,151.2592,4012.86
+Digital Engineering,India,2023-11-01,FY24,87.1495,6460.05
+Data & Analytics,India,2023-11-01,FY24,75.5691,4786.9
+Consulting & Advisory,India,2023-11-01,FY24,28.3449,9007.09
+Managed Services,India,2023-12-01,FY24,152.6252,5252.75
+Cloud & Infrastructure,India,2023-12-01,FY24,152.7464,3941.32
+Digital Engineering,India,2023-12-01,FY24,70.0802,6636.67
+Data & Analytics,India,2023-12-01,FY24,72.3978,4806.9
+Consulting & Advisory,India,2023-12-01,FY24,26.4811,8990.18
+Managed Services,India,2024-01-01,FY24,152.9567,5302.05
+Cloud & Infrastructure,India,2024-01-01,FY24,157.9577,3993.02
+Digital Engineering,India,2024-01-01,FY24,68.6628,6541.77
+Data & Analytics,India,2024-01-01,FY24,65.06,4822.97
+Consulting & Advisory,India,2024-01-01,FY24,28.7394,9156.73
+Managed Services,India,2024-02-01,FY24,138.451,5374.65
+Cloud & Infrastructure,India,2024-02-01,FY24,159.7257,3986.66
+Digital Engineering,India,2024-02-01,FY24,73.327,6555.06
+Data & Analytics,India,2024-02-01,FY24,71.7559,4875.33
+Consulting & Advisory,India,2024-02-01,FY24,26.8522,9104.44
+Managed Services,India,2024-03-01,FY24,163.3105,5290.69
+Cloud & Infrastructure,India,2024-03-01,FY24,165.8338,3960.98
+Digital Engineering,India,2024-03-01,FY24,76.7609,6776.71
+Data & Analytics,India,2024-03-01,FY24,77.24,4800.35
+Consulting & Advisory,India,2024-03-01,FY24,29.6958,9313.27
+Managed Services,India,2024-04-01,FY25,147.6564,5469.03
+Cloud & Infrastructure,India,2024-04-01,FY25,154.1489,3918.78
+Digital Engineering,India,2024-04-01,FY25,73.8608,6752.19
+Data & Analytics,India,2024-04-01,FY25,68.4802,4828.93
+Consulting & Advisory,India,2024-04-01,FY25,25.7671,9360.68
+Managed Services,India,2024-05-01,FY25,152.4435,5424.81
+Cloud & Infrastructure,India,2024-05-01,FY25,147.8026,4021.0
+Digital Engineering,India,2024-05-01,FY25,73.8734,6786.9
+Data & Analytics,India,2024-05-01,FY25,67.2996,4852.61
+Consulting & Advisory,India,2024-05-01,FY25,26.9733,9170.49
+Managed Services,India,2024-06-01,FY25,154.4336,5402.24
+Cloud & Infrastructure,India,2024-06-01,FY25,157.0385,4047.65
+Digital Engineering,India,2024-06-01,FY25,77.21,6639.59
+Data & Analytics,India,2024-06-01,FY25,78.1329,4902.95
+Consulting & Advisory,India,2024-06-01,FY25,28.7387,9301.95
+Managed Services,India,2024-07-01,FY25,155.8443,5424.6
+Cloud & Infrastructure,India,2024-07-01,FY25,166.0685,3997.07
+Digital Engineering,India,2024-07-01,FY25,71.9922,6657.61
+Data & Analytics,India,2024-07-01,FY25,82.5307,4816.97
+Consulting & Advisory,India,2024-07-01,FY25,30.0305,9188.29
+Managed Services,India,2024-08-01,FY25,159.7168,5369.64
+Cloud & Infrastructure,India,2024-08-01,FY25,146.9606,4055.6
+Digital Engineering,India,2024-08-01,FY25,77.8839,6698.09
+Data & Analytics,India,2024-08-01,FY25,86.0467,4838.44
+Consulting & Advisory,India,2024-08-01,FY25,28.7876,9238.78
+Managed Services,India,2024-09-01,FY25,158.6716,5469.95
+Cloud & Infrastructure,India,2024-09-01,FY25,155.5167,3975.23
+Digital Engineering,India,2024-09-01,FY25,75.4252,6788.79
+Data & Analytics,India,2024-09-01,FY25,81.0593,4850.88
+Consulting & Advisory,India,2024-09-01,FY25,27.3437,9372.52
+Managed Services,India,2024-10-01,FY25,143.7162,5472.25
+Cloud & Infrastructure,India,2024-10-01,FY25,162.4994,4005.94
+Digital Engineering,India,2024-10-01,FY25,85.5555,6623.51
+Data & Analytics,India,2024-10-01,FY25,82.9394,4957.55
+Consulting & Advisory,India,2024-10-01,FY25,28.3308,9446.69
+Managed Services,India,2024-11-01,FY25,147.8383,5523.38
+Cloud & Infrastructure,India,2024-11-01,FY25,160.4692,3993.36
+Digital Engineering,India,2024-11-01,FY25,82.979,6847.68
+Data & Analytics,India,2024-11-01,FY25,78.1765,4880.4
+Consulting & Advisory,India,2024-11-01,FY25,28.1025,9544.42
+Managed Services,India,2024-12-01,FY25,157.6587,5496.06
+Cloud & Infrastructure,India,2024-12-01,FY25,154.3914,4110.78
+Digital Engineering,India,2024-12-01,FY25,81.6091,6873.07
+Data & Analytics,India,2024-12-01,FY25,77.2898,4992.11
+Consulting & Advisory,India,2024-12-01,FY25,29.1172,9397.2
+Managed Services,India,2025-01-01,FY25,151.1066,5579.94
+Cloud & Infrastructure,India,2025-01-01,FY25,152.0614,4075.62
+Digital Engineering,India,2025-01-01,FY25,84.7142,6823.44
+Data & Analytics,India,2025-01-01,FY25,83.6152,4930.66
+Consulting & Advisory,India,2025-01-01,FY25,27.5153,9488.47
+Managed Services,India,2025-02-01,FY25,152.3126,5591.12
+Cloud & Infrastructure,India,2025-02-01,FY25,153.6206,4126.32
+Digital Engineering,India,2025-02-01,FY25,82.1073,6810.31
+Data & Analytics,India,2025-02-01,FY25,87.8702,4947.24
+Consulting & Advisory,India,2025-02-01,FY25,28.4184,9328.22
+Managed Services,India,2025-03-01,FY25,170.5086,5486.0
+Cloud & Infrastructure,India,2025-03-01,FY25,154.3189,4018.19
+Digital Engineering,India,2025-03-01,FY25,80.7178,6877.62
+Data & Analytics,India,2025-03-01,FY25,92.6699,4890.5
+Consulting & Advisory,India,2025-03-01,FY25,30.3824,9504.12
+Managed Services,India,2025-04-01,FY26,155.472,5639.19
+Cloud & Infrastructure,India,2025-04-01,FY26,166.5967,4029.87
+Digital Engineering,India,2025-04-01,FY26,71.94,6926.04
+Data & Analytics,India,2025-04-01,FY26,80.7342,5039.55
+Consulting & Advisory,India,2025-04-01,FY26,26.4847,9669.75
+Managed Services,India,2025-05-01,FY26,158.6978,5547.87
+Cloud & Infrastructure,India,2025-05-01,FY26,164.9525,4103.9
+Digital Engineering,India,2025-05-01,FY26,69.087,7027.3
+Data & Analytics,India,2025-05-01,FY26,88.0645,4966.92
+Consulting & Advisory,India,2025-05-01,FY26,28.2744,9496.68
+Managed Services,India,2025-06-01,FY26,137.1555,5686.98
+Cloud & Infrastructure,India,2025-06-01,FY26,186.761,4011.13
+Digital Engineering,India,2025-06-01,FY26,79.2419,6948.87
+Data & Analytics,India,2025-06-01,FY26,94.7041,4967.41
+Consulting & Advisory,India,2025-06-01,FY26,29.501,9630.87
+Managed Services,India,2025-07-01,FY26,149.8175,5606.33
+Cloud & Infrastructure,India,2025-07-01,FY26,156.5978,4032.81
+Digital Engineering,India,2025-07-01,FY26,79.7938,7038.52
+Data & Analytics,India,2025-07-01,FY26,91.3748,5061.66
+Consulting & Advisory,India,2025-07-01,FY26,26.5761,9823.65
+Managed Services,India,2025-08-01,FY26,159.2889,5604.11
+Cloud & Infrastructure,India,2025-08-01,FY26,163.2244,4035.09
+Digital Engineering,India,2025-08-01,FY26,80.4472,7030.26
+Data & Analytics,India,2025-08-01,FY26,90.5826,5077.21
+Consulting & Advisory,India,2025-08-01,FY26,28.8365,9815.31
+Managed Services,India,2025-09-01,FY26,150.2056,5652.93
+Cloud & Infrastructure,India,2025-09-01,FY26,177.0958,4078.62
+Digital Engineering,India,2025-09-01,FY26,73.715,7001.21
+Data & Analytics,India,2025-09-01,FY26,91.4287,5027.84
+Consulting & Advisory,India,2025-09-01,FY26,28.7016,9886.98
+Managed Services,India,2025-10-01,FY26,165.1032,5707.84
+Cloud & Infrastructure,India,2025-10-01,FY26,165.6254,4070.71
+Digital Engineering,India,2025-10-01,FY26,75.4069,7032.72
+Data & Analytics,India,2025-10-01,FY26,95.6332,5129.59
+Consulting & Advisory,India,2025-10-01,FY26,30.3913,9853.53
+Managed Services,India,2025-11-01,FY26,148.7699,5773.84
+Cloud & Infrastructure,India,2025-11-01,FY26,174.392,4138.83
+Digital Engineering,India,2025-11-01,FY26,77.7506,7089.23
+Data & Analytics,India,2025-11-01,FY26,105.5018,5004.02
+Consulting & Advisory,India,2025-11-01,FY26,32.4237,9795.37
+Managed Services,India,2025-12-01,FY26,154.5172,5655.97
+Cloud & Infrastructure,India,2025-12-01,FY26,163.3778,4132.58
+Digital Engineering,India,2025-12-01,FY26,81.8162,7190.08
+Data & Analytics,India,2025-12-01,FY26,96.838,5050.61
+Consulting & Advisory,India,2025-12-01,FY26,30.5389,9883.72
+Managed Services,India,2026-01-01,FY26,151.6441,5673.56
+Cloud & Infrastructure,India,2026-01-01,FY26,158.404,4126.8
+Digital Engineering,India,2026-01-01,FY26,79.6175,7176.88
+Data & Analytics,India,2026-01-01,FY26,98.3112,5092.14
+Consulting & Advisory,India,2026-01-01,FY26,29.562,9958.48
+Managed Services,India,2026-02-01,FY26,152.0684,5738.88
+Cloud & Infrastructure,India,2026-02-01,FY26,166.0349,4060.84
+Digital Engineering,India,2026-02-01,FY26,85.966,7259.4
+Data & Analytics,India,2026-02-01,FY26,92.008,5174.9
+Consulting & Advisory,India,2026-02-01,FY26,27.0295,9894.74
+Managed Services,India,2026-03-01,FY26,172.4037,5783.02
+Cloud & Infrastructure,India,2026-03-01,FY26,169.0022,4192.47
+Digital Engineering,India,2026-03-01,FY26,77.4345,7198.53
+Data & Analytics,India,2026-03-01,FY26,107.8714,5197.67
+Consulting & Advisory,India,2026-03-01,FY26,28.6124,9994.29
+Managed Services,UK,2023-04-01,FY24,111.6345,5118.67
+Cloud & Infrastructure,UK,2023-04-01,FY24,111.351,3869.01
+Digital Engineering,UK,2023-04-01,FY24,52.891,6353.77
+Data & Analytics,UK,2023-04-01,FY24,53.0907,4653.93
+Consulting & Advisory,UK,2023-04-01,FY24,19.7913,8730.76
+Managed Services,UK,2023-05-01,FY24,111.8503,5188.92
+Cloud & Infrastructure,UK,2023-05-01,FY24,101.199,3919.29
+Digital Engineering,UK,2023-05-01,FY24,55.5842,6305.61
+Data & Analytics,UK,2023-05-01,FY24,55.6135,4672.97
+Consulting & Advisory,UK,2023-05-01,FY24,19.2443,8844.0
+Managed Services,UK,2023-06-01,FY24,98.3134,5226.23
+Cloud & Infrastructure,UK,2023-06-01,FY24,116.5376,3949.49
+Digital Engineering,UK,2023-06-01,FY24,56.5404,6561.28
+Data & Analytics,UK,2023-06-01,FY24,56.3872,4766.19
+Consulting & Advisory,UK,2023-06-01,FY24,19.7866,8910.78
+Managed Services,UK,2023-07-01,FY24,115.9234,5279.6
+Cloud & Infrastructure,UK,2023-07-01,FY24,111.9272,3944.58
+Digital Engineering,UK,2023-07-01,FY24,48.9827,6446.73
+Data & Analytics,UK,2023-07-01,FY24,52.832,4742.48
+Consulting & Advisory,UK,2023-07-01,FY24,20.1313,8811.95
+Managed Services,UK,2023-08-01,FY24,115.0591,5301.49
+Cloud & Infrastructure,UK,2023-08-01,FY24,112.7179,3922.23
+Digital Engineering,UK,2023-08-01,FY24,56.7262,6456.86
+Data & Analytics,UK,2023-08-01,FY24,57.8325,4753.33
+Consulting & Advisory,UK,2023-08-01,FY24,21.1233,8956.98
+Managed Services,UK,2023-09-01,FY24,111.5562,5228.7
+Cloud & Infrastructure,UK,2023-09-01,FY24,115.2281,3818.58
+Digital Engineering,UK,2023-09-01,FY24,57.1312,6513.29
+Data & Analytics,UK,2023-09-01,FY24,57.0351,4700.44
+Consulting & Advisory,UK,2023-09-01,FY24,19.5418,8791.06
+Managed Services,UK,2023-10-01,FY24,114.4373,5268.07
+Cloud & Infrastructure,UK,2023-10-01,FY24,111.7112,3883.75
+Digital Engineering,UK,2023-10-01,FY24,61.6438,6467.72
+Data & Analytics,UK,2023-10-01,FY24,59.8477,4723.5
+Consulting & Advisory,UK,2023-10-01,FY24,21.879,8959.41
+Managed Services,UK,2023-11-01,FY24,108.0655,5258.79
+Cloud & Infrastructure,UK,2023-11-01,FY24,120.1884,3920.04
+Digital Engineering,UK,2023-11-01,FY24,57.4522,6545.86
+Data & Analytics,UK,2023-11-01,FY24,57.6141,4800.24
+Consulting & Advisory,UK,2023-11-01,FY24,19.9998,9132.65
+Managed Services,UK,2023-12-01,FY24,110.5423,5347.88
+Cloud & Infrastructure,UK,2023-12-01,FY24,114.5972,3908.35
+Digital Engineering,UK,2023-12-01,FY24,58.227,6596.3
+Data & Analytics,UK,2023-12-01,FY24,58.9744,4816.83
+Consulting & Advisory,UK,2023-12-01,FY24,20.4194,9114.31
+Managed Services,UK,2024-01-01,FY24,116.4448,5332.97
+Cloud & Infrastructure,UK,2024-01-01,FY24,110.3449,3948.2
+Digital Engineering,UK,2024-01-01,FY24,56.1135,6703.19
+Data & Analytics,UK,2024-01-01,FY24,50.321,4838.87
+Consulting & Advisory,UK,2024-01-01,FY24,18.5685,9222.87
+Managed Services,UK,2024-02-01,FY24,111.0473,5324.69
+Cloud & Infrastructure,UK,2024-02-01,FY24,117.0587,3871.79
+Digital Engineering,UK,2024-02-01,FY24,53.8485,6637.96
+Data & Analytics,UK,2024-02-01,FY24,53.9617,4860.57
+Consulting & Advisory,UK,2024-02-01,FY24,19.2074,9190.15
+Managed Services,UK,2024-03-01,FY24,122.9699,5404.18
+Cloud & Infrastructure,UK,2024-03-01,FY24,119.6827,4019.53
+Digital Engineering,UK,2024-03-01,FY24,53.9799,6709.79
+Data & Analytics,UK,2024-03-01,FY24,56.325,4797.36
+Consulting & Advisory,UK,2024-03-01,FY24,22.2702,9143.24
+Managed Services,UK,2024-04-01,FY25,112.4344,5424.84
+Cloud & Infrastructure,UK,2024-04-01,FY25,109.899,4037.08
+Digital Engineering,UK,2024-04-01,FY25,59.0681,6602.35
+Data & Analytics,UK,2024-04-01,FY25,55.62,4922.87
+Consulting & Advisory,UK,2024-04-01,FY25,21.519,9039.59
+Managed Services,UK,2024-05-01,FY25,114.7857,5411.87
+Cloud & Infrastructure,UK,2024-05-01,FY25,116.5102,4030.05
+Digital Engineering,UK,2024-05-01,FY25,52.5995,6722.94
+Data & Analytics,UK,2024-05-01,FY25,58.5076,4831.11
+Consulting & Advisory,UK,2024-05-01,FY25,20.2158,9224.82
+Managed Services,UK,2024-06-01,FY25,119.3898,5485.68
+Cloud & Infrastructure,UK,2024-06-01,FY25,105.0289,3930.12
+Digital Engineering,UK,2024-06-01,FY25,58.5157,6740.12
+Data & Analytics,UK,2024-06-01,FY25,57.9312,4882.97
+Consulting & Advisory,UK,2024-06-01,FY25,22.0545,9343.01
+Managed Services,UK,2024-07-01,FY25,124.0314,5371.86
+Cloud & Infrastructure,UK,2024-07-01,FY25,115.7754,4024.68
+Digital Engineering,UK,2024-07-01,FY25,56.0002,6746.7
+Data & Analytics,UK,2024-07-01,FY25,57.1678,4789.23
+Consulting & Advisory,UK,2024-07-01,FY25,21.527,9344.5
+Managed Services,UK,2024-08-01,FY25,106.3637,5387.25
+Cloud & Infrastructure,UK,2024-08-01,FY25,124.4185,4022.26
+Digital Engineering,UK,2024-08-01,FY25,54.3317,6655.27
+Data & Analytics,UK,2024-08-01,FY25,59.8028,4879.23
+Consulting & Advisory,UK,2024-08-01,FY25,19.7795,9464.88
+Managed Services,UK,2024-09-01,FY25,107.3399,5553.42
+Cloud & Infrastructure,UK,2024-09-01,FY25,128.5263,3932.38
+Digital Engineering,UK,2024-09-01,FY25,59.1905,6746.07
+Data & Analytics,UK,2024-09-01,FY25,52.062,4991.91
+Consulting & Advisory,UK,2024-09-01,FY25,22.4862,9359.25
+Managed Services,UK,2024-10-01,FY25,121.1234,5439.07
+Cloud & Infrastructure,UK,2024-10-01,FY25,116.995,4023.93
+Digital Engineering,UK,2024-10-01,FY25,59.641,6905.67
+Data & Analytics,UK,2024-10-01,FY25,64.0411,4942.14
+Consulting & Advisory,UK,2024-10-01,FY25,24.2625,9283.48
+Managed Services,UK,2024-11-01,FY25,120.3323,5559.66
+Cloud & Infrastructure,UK,2024-11-01,FY25,121.6891,4035.25
+Digital Engineering,UK,2024-11-01,FY25,53.4914,6858.75
+Data & Analytics,UK,2024-11-01,FY25,67.0053,4865.45
+Consulting & Advisory,UK,2024-11-01,FY25,19.9507,9366.3
+Managed Services,UK,2024-12-01,FY25,118.5994,5513.75
+Cloud & Infrastructure,UK,2024-12-01,FY25,118.171,3998.32
+Digital Engineering,UK,2024-12-01,FY25,58.0624,6608.76
+Data & Analytics,UK,2024-12-01,FY25,60.5318,5026.0
+Consulting & Advisory,UK,2024-12-01,FY25,20.4308,9471.89
+Managed Services,UK,2025-01-01,FY25,114.2867,5545.58
+Cloud & Infrastructure,UK,2025-01-01,FY25,102.6315,4018.93
+Digital Engineering,UK,2025-01-01,FY25,52.5942,6867.17
+Data & Analytics,UK,2025-01-01,FY25,61.1157,4874.6
+Consulting & Advisory,UK,2025-01-01,FY25,22.753,9396.67
+Managed Services,UK,2025-02-01,FY25,116.7579,5448.79
+Cloud & Infrastructure,UK,2025-02-01,FY25,111.6762,4112.51
+Digital Engineering,UK,2025-02-01,FY25,55.6669,6925.4
+Data & Analytics,UK,2025-02-01,FY25,63.3746,5016.19
+Consulting & Advisory,UK,2025-02-01,FY25,20.3234,9484.35
+Managed Services,UK,2025-03-01,FY25,122.168,5664.14
+Cloud & Infrastructure,UK,2025-03-01,FY25,136.9794,4001.07
+Digital Engineering,UK,2025-03-01,FY25,59.903,6822.32
+Data & Analytics,UK,2025-03-01,FY25,70.7592,4932.84
+Consulting & Advisory,UK,2025-03-01,FY25,23.6858,9574.45
+Managed Services,UK,2025-04-01,FY26,114.7164,5506.88
+Cloud & Infrastructure,UK,2025-04-01,FY26,118.5777,4049.69
+Digital Engineering,UK,2025-04-01,FY26,59.7358,6818.24
+Data & Analytics,UK,2025-04-01,FY26,60.188,5072.84
+Consulting & Advisory,UK,2025-04-01,FY26,21.9039,9345.16
+Managed Services,UK,2025-05-01,FY26,114.0859,5522.43
+Cloud & Infrastructure,UK,2025-05-01,FY26,112.1299,4001.31
+Digital Engineering,UK,2025-05-01,FY26,60.6379,6886.35
+Data & Analytics,UK,2025-05-01,FY26,67.9411,5000.38
+Consulting & Advisory,UK,2025-05-01,FY26,20.5377,9770.24
+Managed Services,UK,2025-06-01,FY26,117.2623,5620.1
+Cloud & Infrastructure,UK,2025-06-01,FY26,126.3641,4043.1
+Digital Engineering,UK,2025-06-01,FY26,57.1248,7018.72
+Data & Analytics,UK,2025-06-01,FY26,64.956,5029.49
+Consulting & Advisory,UK,2025-06-01,FY26,21.3213,9623.12
+Managed Services,UK,2025-07-01,FY26,116.9113,5668.24
+Cloud & Infrastructure,UK,2025-07-01,FY26,116.6508,4025.09
+Digital Engineering,UK,2025-07-01,FY26,56.723,7022.76
+Data & Analytics,UK,2025-07-01,FY26,64.7395,5012.23
+Consulting & Advisory,UK,2025-07-01,FY26,20.8908,9647.48
+Managed Services,UK,2025-08-01,FY26,106.2448,5723.54
+Cloud & Infrastructure,UK,2025-08-01,FY26,121.1735,4147.11
+Digital Engineering,UK,2025-08-01,FY26,56.2013,7081.12
+Data & Analytics,UK,2025-08-01,FY26,67.3234,5087.09
+Consulting & Advisory,UK,2025-08-01,FY26,20.6473,9974.46
+Managed Services,UK,2025-09-01,FY26,117.0738,5663.74
+Cloud & Infrastructure,UK,2025-09-01,FY26,122.8591,4102.91
+Digital Engineering,UK,2025-09-01,FY26,59.2632,7056.63
+Data & Analytics,UK,2025-09-01,FY26,65.6351,5048.83
+Consulting & Advisory,UK,2025-09-01,FY26,20.6557,9867.78
+Managed Services,UK,2025-10-01,FY26,119.1113,5667.76
+Cloud & Infrastructure,UK,2025-10-01,FY26,133.0598,4129.2
+Digital Engineering,UK,2025-10-01,FY26,61.3425,7028.33
+Data & Analytics,UK,2025-10-01,FY26,67.4951,5058.24
+Consulting & Advisory,UK,2025-10-01,FY26,20.9696,9877.56
+Managed Services,UK,2025-11-01,FY26,115.4388,5626.85
+Cloud & Infrastructure,UK,2025-11-01,FY26,121.9361,4187.13
+Digital Engineering,UK,2025-11-01,FY26,61.7216,7172.82
+Data & Analytics,UK,2025-11-01,FY26,72.9435,5150.98
+Consulting & Advisory,UK,2025-11-01,FY26,20.1101,9899.87
+Managed Services,UK,2025-12-01,FY26,109.868,5718.42
+Cloud & Infrastructure,UK,2025-12-01,FY26,123.1047,4082.61
+Digital Engineering,UK,2025-12-01,FY26,53.5525,7151.94
+Data & Analytics,UK,2025-12-01,FY26,68.2841,5077.84
+Consulting & Advisory,UK,2025-12-01,FY26,20.8349,9977.04
+Managed Services,UK,2026-01-01,FY26,113.8898,5674.91
+Cloud & Infrastructure,UK,2026-01-01,FY26,119.177,4103.7
+Digital Engineering,UK,2026-01-01,FY26,53.8461,7223.73
+Data & Analytics,UK,2026-01-01,FY26,77.6734,5045.63
+Consulting & Advisory,UK,2026-01-01,FY26,21.9651,10044.31
+Managed Services,UK,2026-02-01,FY26,116.3883,5756.29
+Cloud & Infrastructure,UK,2026-02-01,FY26,114.0574,4139.76
+Digital Engineering,UK,2026-02-01,FY26,59.9054,7080.03
+Data & Analytics,UK,2026-02-01,FY26,70.7705,5120.19
+Consulting & Advisory,UK,2026-02-01,FY26,20.3479,9960.75
+Managed Services,UK,2026-03-01,FY26,120.0477,5712.89
+Cloud & Infrastructure,UK,2026-03-01,FY26,128.7898,4131.75
+Digital Engineering,UK,2026-03-01,FY26,59.9393,7116.86
+Data & Analytics,UK,2026-03-01,FY26,76.4143,5115.0
+Consulting & Advisory,UK,2026-03-01,FY26,22.1477,10092.25
+Managed Services,USA,2023-04-01,FY24,122.9704,5179.97
+Cloud & Infrastructure,USA,2023-04-01,FY24,110.5403,3858.34
+Digital Engineering,USA,2023-04-01,FY24,58.0273,6399.56
+Data & Analytics,USA,2023-04-01,FY24,60.3005,4598.76
+Consulting & Advisory,USA,2023-04-01,FY24,19.2165,8768.37
+Managed Services,USA,2023-05-01,FY24,116.5296,5159.1
+Cloud & Infrastructure,USA,2023-05-01,FY24,105.3997,3917.11
+Digital Engineering,USA,2023-05-01,FY24,60.3248,6413.46
+Data & Analytics,USA,2023-05-01,FY24,56.6261,4748.95
+Consulting & Advisory,USA,2023-05-01,FY24,21.9864,8887.26
+Managed Services,USA,2023-06-01,FY24,114.4416,5248.97
+Cloud & Infrastructure,USA,2023-06-01,FY24,118.7765,3920.91
+Digital Engineering,USA,2023-06-01,FY24,62.1256,6406.72
+Data & Analytics,USA,2023-06-01,FY24,57.2662,4684.69
+Consulting & Advisory,USA,2023-06-01,FY24,23.0816,8688.77
+Managed Services,USA,2023-07-01,FY24,113.6497,5254.14
+Cloud & Infrastructure,USA,2023-07-01,FY24,120.9567,3825.56
+Digital Engineering,USA,2023-07-01,FY24,64.3718,6447.59
+Data & Analytics,USA,2023-07-01,FY24,57.7114,4826.28
+Consulting & Advisory,USA,2023-07-01,FY24,22.8863,8884.66
+Managed Services,USA,2023-08-01,FY24,113.3051,5362.51
+Cloud & Infrastructure,USA,2023-08-01,FY24,120.4245,3851.67
+Digital Engineering,USA,2023-08-01,FY24,57.771,6450.5
+Data & Analytics,USA,2023-08-01,FY24,58.7647,4781.04
+Consulting & Advisory,USA,2023-08-01,FY24,24.6036,8881.11
+Managed Services,USA,2023-09-01,FY24,127.6123,5165.88
+Cloud & Infrastructure,USA,2023-09-01,FY24,108.2627,3937.06
+Digital Engineering,USA,2023-09-01,FY24,59.1898,6559.99
+Data & Analytics,USA,2023-09-01,FY24,53.8304,4788.74
+Consulting & Advisory,USA,2023-09-01,FY24,19.903,9031.01
+Managed Services,USA,2023-10-01,FY24,121.572,5291.26
+Cloud & Infrastructure,USA,2023-10-01,FY24,124.6285,3885.93
+Digital Engineering,USA,2023-10-01,FY24,64.7558,6544.18
+Data & Analytics,USA,2023-10-01,FY24,53.7952,4680.15
+Consulting & Advisory,USA,2023-10-01,FY24,23.1869,9057.45
+Managed Services,USA,2023-11-01,FY24,116.9965,5353.17
+Cloud & Infrastructure,USA,2023-11-01,FY24,116.4022,3895.68
+Digital Engineering,USA,2023-11-01,FY24,65.6685,6528.07
+Data & Analytics,USA,2023-11-01,FY24,52.84,4721.4
+Consulting & Advisory,USA,2023-11-01,FY24,23.8717,8922.75
+Managed Services,USA,2023-12-01,FY24,129.7033,5281.97
+Cloud & Infrastructure,USA,2023-12-01,FY24,110.5397,3956.69
+Digital Engineering,USA,2023-12-01,FY24,58.4728,6566.34
+Data & Analytics,USA,2023-12-01,FY24,58.946,4744.33
+Consulting & Advisory,USA,2023-12-01,FY24,20.6977,9067.87
+Managed Services,USA,2024-01-01,FY24,113.7125,5264.82
+Cloud & Infrastructure,USA,2024-01-01,FY24,117.6306,3953.14
+Digital Engineering,USA,2024-01-01,FY24,60.3044,6616.63
+Data & Analytics,USA,2024-01-01,FY24,60.1052,4849.39
+Consulting & Advisory,USA,2024-01-01,FY24,21.115,9089.46
+Managed Services,USA,2024-02-01,FY24,117.5718,5322.81
+Cloud & Infrastructure,USA,2024-02-01,FY24,117.2396,3996.15
+Digital Engineering,USA,2024-02-01,FY24,58.4112,6578.13
+Data & Analytics,USA,2024-02-01,FY24,59.9504,4817.14
+Consulting & Advisory,USA,2024-02-01,FY24,21.3534,9136.53
+Managed Services,USA,2024-03-01,FY24,127.5681,5394.03
+Cloud & Infrastructure,USA,2024-03-01,FY24,131.946,3998.23
+Digital Engineering,USA,2024-03-01,FY24,70.5872,6602.05
+Data & Analytics,USA,2024-03-01,FY24,62.2327,4787.15
+Consulting & Advisory,USA,2024-03-01,FY24,26.1433,9207.83
+Managed Services,USA,2024-04-01,FY25,131.5421,5352.1
+Cloud & Infrastructure,USA,2024-04-01,FY25,126.5484,3930.39
+Digital Engineering,USA,2024-04-01,FY25,58.2041,6607.51
+Data & Analytics,USA,2024-04-01,FY25,51.5044,4902.63
+Consulting & Advisory,USA,2024-04-01,FY25,21.4371,9123.88
+Managed Services,USA,2024-05-01,FY25,118.6333,5423.43
+Cloud & Infrastructure,USA,2024-05-01,FY25,129.2395,3895.79
+Digital Engineering,USA,2024-05-01,FY25,63.2333,6588.95
+Data & Analytics,USA,2024-05-01,FY25,59.999,4881.13
+Consulting & Advisory,USA,2024-05-01,FY25,20.2643,9303.52
+Managed Services,USA,2024-06-01,FY25,125.5274,5423.42
+Cloud & Infrastructure,USA,2024-06-01,FY25,121.9661,4042.75
+Digital Engineering,USA,2024-06-01,FY25,61.8121,6811.91
+Data & Analytics,USA,2024-06-01,FY25,58.5317,4890.93
+Consulting & Advisory,USA,2024-06-01,FY25,20.96,9129.98
+Managed Services,USA,2024-07-01,FY25,128.4747,5411.19
+Cloud & Infrastructure,USA,2024-07-01,FY25,127.4455,4032.04
+Digital Engineering,USA,2024-07-01,FY25,62.7781,6638.41
+Data & Analytics,USA,2024-07-01,FY25,64.1685,4916.08
+Consulting & Advisory,USA,2024-07-01,FY25,22.3694,9247.39
+Managed Services,USA,2024-08-01,FY25,117.9074,5473.61
+Cloud & Infrastructure,USA,2024-08-01,FY25,127.0576,4100.67
+Digital Engineering,USA,2024-08-01,FY25,56.7105,6798.64
+Data & Analytics,USA,2024-08-01,FY25,59.167,4890.56
+Consulting & Advisory,USA,2024-08-01,FY25,22.4967,9245.4
+Managed Services,USA,2024-09-01,FY25,121.9627,5424.65
+Cloud & Infrastructure,USA,2024-09-01,FY25,134.9932,4021.66
+Digital Engineering,USA,2024-09-01,FY25,61.6081,6748.33
+Data & Analytics,USA,2024-09-01,FY25,58.3571,4869.46
+Consulting & Advisory,USA,2024-09-01,FY25,21.6954,9266.15
+Managed Services,USA,2024-10-01,FY25,128.2,5361.6
+Cloud & Infrastructure,USA,2024-10-01,FY25,130.8572,4082.76
+Digital Engineering,USA,2024-10-01,FY25,68.5651,6673.04
+Data & Analytics,USA,2024-10-01,FY25,65.3056,4878.0
+Consulting & Advisory,USA,2024-10-01,FY25,24.5312,9382.92
+Managed Services,USA,2024-11-01,FY25,125.314,5370.07
+Cloud & Infrastructure,USA,2024-11-01,FY25,142.2766,4026.65
+Digital Engineering,USA,2024-11-01,FY25,62.4508,6726.02
+Data & Analytics,USA,2024-11-01,FY25,74.5496,4844.68
+Consulting & Advisory,USA,2024-11-01,FY25,18.5063,9392.26
+Managed Services,USA,2024-12-01,FY25,124.3888,5548.31
+Cloud & Infrastructure,USA,2024-12-01,FY25,127.4603,4028.76
+Digital Engineering,USA,2024-12-01,FY25,63.8601,6731.83
+Data & Analytics,USA,2024-12-01,FY25,69.6427,4889.07
+Consulting & Advisory,USA,2024-12-01,FY25,24.2424,9408.01
+Managed Services,USA,2025-01-01,FY25,123.9549,5499.31
+Cloud & Infrastructure,USA,2025-01-01,FY25,114.7363,4062.16
+Digital Engineering,USA,2025-01-01,FY25,62.3398,6921.13
+Data & Analytics,USA,2025-01-01,FY25,60.0777,4938.62
+Consulting & Advisory,USA,2025-01-01,FY25,21.872,9448.81
+Managed Services,USA,2025-02-01,FY25,125.3707,5496.31
+Cloud & Infrastructure,USA,2025-02-01,FY25,117.6133,4075.17
+Digital Engineering,USA,2025-02-01,FY25,60.7961,6898.18
+Data & Analytics,USA,2025-02-01,FY25,66.6124,4907.02
+Consulting & Advisory,USA,2025-02-01,FY25,21.456,9413.77
+Managed Services,USA,2025-03-01,FY25,129.7616,5519.76
+Cloud & Infrastructure,USA,2025-03-01,FY25,140.1549,3997.71
+Digital Engineering,USA,2025-03-01,FY25,60.8483,6947.13
+Data & Analytics,USA,2025-03-01,FY25,67.2992,4963.07
+Consulting & Advisory,USA,2025-03-01,FY25,22.8303,9697.13
+Managed Services,USA,2025-04-01,FY26,121.5136,5622.15
+Cloud & Infrastructure,USA,2025-04-01,FY26,127.9747,4116.38
+Digital Engineering,USA,2025-04-01,FY26,59.1627,6912.44
+Data & Analytics,USA,2025-04-01,FY26,69.9148,4974.41
+Consulting & Advisory,USA,2025-04-01,FY26,21.9444,9436.8
+Managed Services,USA,2025-05-01,FY26,131.9071,5537.99
+Cloud & Infrastructure,USA,2025-05-01,FY26,135.8116,4070.72
+Digital Engineering,USA,2025-05-01,FY26,64.281,6919.13
+Data & Analytics,USA,2025-05-01,FY26,63.6886,4985.39
+Consulting & Advisory,USA,2025-05-01,FY26,22.0831,9436.88
+Managed Services,USA,2025-06-01,FY26,123.8853,5565.84
+Cloud & Infrastructure,USA,2025-06-01,FY26,133.8661,4048.04
+Digital Engineering,USA,2025-06-01,FY26,61.0135,6926.97
+Data & Analytics,USA,2025-06-01,FY26,65.3966,5118.26
+Consulting & Advisory,USA,2025-06-01,FY26,21.4119,9614.99
+Managed Services,USA,2025-07-01,FY26,125.7136,5612.5
+Cloud & Infrastructure,USA,2025-07-01,FY26,136.1797,4091.51
+Digital Engineering,USA,2025-07-01,FY26,65.2332,6903.19
+Data & Analytics,USA,2025-07-01,FY26,69.2646,5065.77
+Consulting & Advisory,USA,2025-07-01,FY26,22.1178,9806.02
+Managed Services,USA,2025-08-01,FY26,122.5551,5583.65
+Cloud & Infrastructure,USA,2025-08-01,FY26,126.1999,4191.79
+Digital Engineering,USA,2025-08-01,FY26,66.0146,6949.55
+Data & Analytics,USA,2025-08-01,FY26,72.1409,5022.1
+Consulting & Advisory,USA,2025-08-01,FY26,19.7224,9945.95
+Managed Services,USA,2025-09-01,FY26,127.9291,5702.32
+Cloud & Infrastructure,USA,2025-09-01,FY26,131.7013,4139.3
+Digital Engineering,USA,2025-09-01,FY26,62.4476,7146.89
+Data & Analytics,USA,2025-09-01,FY26,79.2909,5112.13
+Consulting & Advisory,USA,2025-09-01,FY26,22.8739,9760.4
+Managed Services,USA,2025-10-01,FY26,120.2777,5583.57
+Cloud & Infrastructure,USA,2025-10-01,FY26,125.6198,4145.6
+Digital Engineering,USA,2025-10-01,FY26,71.7934,7076.6
+Data & Analytics,USA,2025-10-01,FY26,77.1592,5021.55
+Consulting & Advisory,USA,2025-10-01,FY26,23.6998,9921.48
+Managed Services,USA,2025-11-01,FY26,134.2227,5660.57
+Cloud & Infrastructure,USA,2025-11-01,FY26,121.8143,4075.97
+Digital Engineering,USA,2025-11-01,FY26,66.9283,7175.71
+Data & Analytics,USA,2025-11-01,FY26,79.1392,5107.46
+Consulting & Advisory,USA,2025-11-01,FY26,22.1389,9854.02
+Managed Services,USA,2025-12-01,FY26,123.8887,5652.44
+Cloud & Infrastructure,USA,2025-12-01,FY26,130.9635,4088.17
+Digital Engineering,USA,2025-12-01,FY26,63.5565,7101.48
+Data & Analytics,USA,2025-12-01,FY26,79.4824,5062.08
+Consulting & Advisory,USA,2025-12-01,FY26,23.6996,9987.22
+Managed Services,USA,2026-01-01,FY26,117.8752,5676.21
+Cloud & Infrastructure,USA,2026-01-01,FY26,126.1763,4091.29
+Digital Engineering,USA,2026-01-01,FY26,59.1304,7209.7
+Data & Analytics,USA,2026-01-01,FY26,76.7861,5146.84
+Consulting & Advisory,USA,2026-01-01,FY26,23.0734,10002.88
+Managed Services,USA,2026-02-01,FY26,133.8788,5785.11
+Cloud & Infrastructure,USA,2026-02-01,FY26,131.7085,4162.88
+Digital Engineering,USA,2026-02-01,FY26,62.8458,7096.69
+Data & Analytics,USA,2026-02-01,FY26,74.6521,5052.28
+Consulting & Advisory,USA,2026-02-01,FY26,22.5662,9755.81
+Managed Services,USA,2026-03-01,FY26,131.1467,5856.97
+Cloud & Infrastructure,USA,2026-03-01,FY26,147.2355,4133.64
+Digital Engineering,USA,2026-03-01,FY26,70.0588,7173.49
+Data & Analytics,USA,2026-03-01,FY26,83.4924,5194.84
+Consulting & Advisory,USA,2026-03-01,FY26,22.894,10142.18
+Managed Services,Singapore,2023-04-01,FY24,59.3471,5289.48
+Cloud & Infrastructure,Singapore,2023-04-01,FY24,56.0935,3885.31
+Digital Engineering,Singapore,2023-04-01,FY24,31.1814,6436.8
+Data & Analytics,Singapore,2023-04-01,FY24,30.3327,4669.19
+Consulting & Advisory,Singapore,2023-04-01,FY24,10.9305,8759.19
+Managed Services,Singapore,2023-05-01,FY24,57.4128,5118.22
+Cloud & Infrastructure,Singapore,2023-05-01,FY24,59.4947,3879.69
+Digital Engineering,Singapore,2023-05-01,FY24,25.0016,6492.97
+Data & Analytics,Singapore,2023-05-01,FY24,29.1801,4629.47
+Consulting & Advisory,Singapore,2023-05-01,FY24,10.413,8764.97
+Managed Services,Singapore,2023-06-01,FY24,59.3411,5217.94
+Cloud & Infrastructure,Singapore,2023-06-01,FY24,62.2338,3902.54
+Digital Engineering,Singapore,2023-06-01,FY24,26.3774,6407.56
+Data & Analytics,Singapore,2023-06-01,FY24,27.6889,4741.05
+Consulting & Advisory,Singapore,2023-06-01,FY24,10.9795,8869.18
+Managed Services,Singapore,2023-07-01,FY24,57.8273,5225.43
+Cloud & Infrastructure,Singapore,2023-07-01,FY24,56.069,3948.74
+Digital Engineering,Singapore,2023-07-01,FY24,31.2348,6533.38
+Data & Analytics,Singapore,2023-07-01,FY24,27.0257,4738.45
+Consulting & Advisory,Singapore,2023-07-01,FY24,10.7881,8943.69
+Managed Services,Singapore,2023-08-01,FY24,55.138,5239.26
+Cloud & Infrastructure,Singapore,2023-08-01,FY24,61.6438,3934.59
+Digital Engineering,Singapore,2023-08-01,FY24,27.7185,6470.69
+Data & Analytics,Singapore,2023-08-01,FY24,31.3624,4625.58
+Consulting & Advisory,Singapore,2023-08-01,FY24,9.5219,9038.45
+Managed Services,Singapore,2023-09-01,FY24,58.9135,5230.47
+Cloud & Infrastructure,Singapore,2023-09-01,FY24,63.3296,3971.35
+Digital Engineering,Singapore,2023-09-01,FY24,29.4676,6520.51
+Data & Analytics,Singapore,2023-09-01,FY24,29.7314,4748.7
+Consulting & Advisory,Singapore,2023-09-01,FY24,11.3381,9134.64
+Managed Services,Singapore,2023-10-01,FY24,63.9522,5306.26
+Cloud & Infrastructure,Singapore,2023-10-01,FY24,66.0777,3915.47
+Digital Engineering,Singapore,2023-10-01,FY24,29.8437,6553.7
+Data & Analytics,Singapore,2023-10-01,FY24,26.5448,4751.24
+Consulting & Advisory,Singapore,2023-10-01,FY24,10.0658,8854.18
+Managed Services,Singapore,2023-11-01,FY24,60.7325,5315.87
+Cloud & Infrastructure,Singapore,2023-11-01,FY24,64.916,3962.1
+Digital Engineering,Singapore,2023-11-01,FY24,30.2069,6542.93
+Data & Analytics,Singapore,2023-11-01,FY24,28.3931,4804.02
+Consulting & Advisory,Singapore,2023-11-01,FY24,10.2766,9140.71
+Managed Services,Singapore,2023-12-01,FY24,62.4868,5350.71
+Cloud & Infrastructure,Singapore,2023-12-01,FY24,53.789,3919.23
+Digital Engineering,Singapore,2023-12-01,FY24,33.204,6496.95
+Data & Analytics,Singapore,2023-12-01,FY24,29.8173,4809.68
+Consulting & Advisory,Singapore,2023-12-01,FY24,10.3326,9147.94
+Managed Services,Singapore,2024-01-01,FY24,64.3256,5196.26
+Cloud & Infrastructure,Singapore,2024-01-01,FY24,58.1662,3996.78
+Digital Engineering,Singapore,2024-01-01,FY24,29.9809,6611.77
+Data & Analytics,Singapore,2024-01-01,FY24,27.7492,4832.14
+Consulting & Advisory,Singapore,2024-01-01,FY24,10.1955,9089.38
+Managed Services,Singapore,2024-02-01,FY24,60.5774,5301.35
+Cloud & Infrastructure,Singapore,2024-02-01,FY24,56.5783,3990.5
+Digital Engineering,Singapore,2024-02-01,FY24,31.4866,6583.68
+Data & Analytics,Singapore,2024-02-01,FY24,30.1005,4797.36
+Consulting & Advisory,Singapore,2024-02-01,FY24,11.4569,9143.52
+Managed Services,Singapore,2024-03-01,FY24,64.8361,5371.27
+Cloud & Infrastructure,Singapore,2024-03-01,FY24,61.6988,3931.3
+Digital Engineering,Singapore,2024-03-01,FY24,34.0165,6663.15
+Data & Analytics,Singapore,2024-03-01,FY24,32.3253,4915.64
+Consulting & Advisory,Singapore,2024-03-01,FY24,12.2075,9058.47
+Managed Services,Singapore,2024-04-01,FY25,59.6748,5465.85
+Cloud & Infrastructure,Singapore,2024-04-01,FY25,61.6618,3924.86
+Digital Engineering,Singapore,2024-04-01,FY25,30.3312,6654.25
+Data & Analytics,Singapore,2024-04-01,FY25,31.3596,4821.96
+Consulting & Advisory,Singapore,2024-04-01,FY25,12.1052,9303.34
+Managed Services,Singapore,2024-05-01,FY25,63.5289,5445.34
+Cloud & Infrastructure,Singapore,2024-05-01,FY25,58.8787,4005.26
+Digital Engineering,Singapore,2024-05-01,FY25,27.364,6689.14
+Data & Analytics,Singapore,2024-05-01,FY25,30.4253,4819.66
+Consulting & Advisory,Singapore,2024-05-01,FY25,10.9916,9128.88
+Managed Services,Singapore,2024-06-01,FY25,66.3889,5310.29
+Cloud & Infrastructure,Singapore,2024-06-01,FY25,60.4779,4020.49
+Digital Engineering,Singapore,2024-06-01,FY25,31.2244,6811.8
+Data & Analytics,Singapore,2024-06-01,FY25,31.0974,4782.6
+Consulting & Advisory,Singapore,2024-06-01,FY25,10.8212,9384.39
+Managed Services,Singapore,2024-07-01,FY25,55.0823,5569.57
+Cloud & Infrastructure,Singapore,2024-07-01,FY25,68.8085,3990.35
+Digital Engineering,Singapore,2024-07-01,FY25,32.402,6588.66
+Data & Analytics,Singapore,2024-07-01,FY25,32.5842,4894.94
+Consulting & Advisory,Singapore,2024-07-01,FY25,11.2956,9443.26
+Managed Services,Singapore,2024-08-01,FY25,57.2474,5491.59
+Cloud & Infrastructure,Singapore,2024-08-01,FY25,65.1587,4035.21
+Digital Engineering,Singapore,2024-08-01,FY25,27.0766,6822.91
+Data & Analytics,Singapore,2024-08-01,FY25,33.0205,4958.56
+Consulting & Advisory,Singapore,2024-08-01,FY25,10.3922,9408.37
+Managed Services,Singapore,2024-09-01,FY25,58.9848,5436.92
+Cloud & Infrastructure,Singapore,2024-09-01,FY25,60.8918,4038.71
+Digital Engineering,Singapore,2024-09-01,FY25,29.6575,6875.87
+Data & Analytics,Singapore,2024-09-01,FY25,32.3906,4889.85
+Consulting & Advisory,Singapore,2024-09-01,FY25,10.8329,9380.86
+Managed Services,Singapore,2024-10-01,FY25,62.0041,5477.68
+Cloud & Infrastructure,Singapore,2024-10-01,FY25,64.9813,3940.31
+Digital Engineering,Singapore,2024-10-01,FY25,32.4374,6786.48
+Data & Analytics,Singapore,2024-10-01,FY25,32.4625,4948.97
+Consulting & Advisory,Singapore,2024-10-01,FY25,11.7195,9334.03
+Managed Services,Singapore,2024-11-01,FY25,68.5467,5443.37
+Cloud & Infrastructure,Singapore,2024-11-01,FY25,63.768,3971.63
+Digital Engineering,Singapore,2024-11-01,FY25,32.3515,6788.15
+Data & Analytics,Singapore,2024-11-01,FY25,33.911,4943.78
+Consulting & Advisory,Singapore,2024-11-01,FY25,10.7969,9245.07
+Managed Services,Singapore,2024-12-01,FY25,58.6913,5498.28
+Cloud & Infrastructure,Singapore,2024-12-01,FY25,62.9895,4062.69
+Digital Engineering,Singapore,2024-12-01,FY25,32.2214,6866.25
+Data & Analytics,Singapore,2024-12-01,FY25,34.0184,4998.98
+Consulting & Advisory,Singapore,2024-12-01,FY25,11.1283,9348.83
+Managed Services,Singapore,2025-01-01,FY25,61.8303,5568.99
+Cloud & Infrastructure,Singapore,2025-01-01,FY25,63.645,4075.25
+Digital Engineering,Singapore,2025-01-01,FY25,31.777,6915.69
+Data & Analytics,Singapore,2025-01-01,FY25,29.8135,4841.63
+Consulting & Advisory,Singapore,2025-01-01,FY25,11.162,9435.47
+Managed Services,Singapore,2025-02-01,FY25,61.4247,5561.91
+Cloud & Infrastructure,Singapore,2025-02-01,FY25,59.8331,4036.13
+Digital Engineering,Singapore,2025-02-01,FY25,28.2889,6823.74
+Data & Analytics,Singapore,2025-02-01,FY25,31.0957,5001.5
+Consulting & Advisory,Singapore,2025-02-01,FY25,10.8697,9433.12
+Managed Services,Singapore,2025-03-01,FY25,67.6529,5620.95
+Cloud & Infrastructure,Singapore,2025-03-01,FY25,63.211,4096.33
+Digital Engineering,Singapore,2025-03-01,FY25,33.8384,6820.52
+Data & Analytics,Singapore,2025-03-01,FY25,34.7516,4969.17
+Consulting & Advisory,Singapore,2025-03-01,FY25,13.126,9557.34
+Managed Services,Singapore,2025-04-01,FY26,57.6756,5630.46
+Cloud & Infrastructure,Singapore,2025-04-01,FY26,66.3812,4079.56
+Digital Engineering,Singapore,2025-04-01,FY26,33.4969,6952.39
+Data & Analytics,Singapore,2025-04-01,FY26,33.2857,4990.65
+Consulting & Advisory,Singapore,2025-04-01,FY26,10.8645,9529.25
+Managed Services,Singapore,2025-05-01,FY26,60.5057,5568.82
+Cloud & Infrastructure,Singapore,2025-05-01,FY26,65.1876,4114.1
+Digital Engineering,Singapore,2025-05-01,FY26,31.6353,6985.64
+Data & Analytics,Singapore,2025-05-01,FY26,33.4873,5034.79
+Consulting & Advisory,Singapore,2025-05-01,FY26,11.8336,9686.2
+Managed Services,Singapore,2025-06-01,FY26,65.2225,5633.29
+Cloud & Infrastructure,Singapore,2025-06-01,FY26,65.2184,4119.36
+Digital Engineering,Singapore,2025-06-01,FY26,30.5074,6870.32
+Data & Analytics,Singapore,2025-06-01,FY26,35.4584,5018.36
+Consulting & Advisory,Singapore,2025-06-01,FY26,11.8224,9719.69
+Managed Services,Singapore,2025-07-01,FY26,64.381,5568.64
+Cloud & Infrastructure,Singapore,2025-07-01,FY26,67.4244,4085.41
+Digital Engineering,Singapore,2025-07-01,FY26,27.4627,7091.13
+Data & Analytics,Singapore,2025-07-01,FY26,35.6932,4955.43
+Consulting & Advisory,Singapore,2025-07-01,FY26,10.608,9708.49
+Managed Services,Singapore,2025-08-01,FY26,62.5666,5619.62
+Cloud & Infrastructure,Singapore,2025-08-01,FY26,58.3594,4133.47
+Digital Engineering,Singapore,2025-08-01,FY26,30.6994,7055.55
+Data & Analytics,Singapore,2025-08-01,FY26,33.518,5005.5
+Consulting & Advisory,Singapore,2025-08-01,FY26,10.9551,9720.12
+Managed Services,Singapore,2025-09-01,FY26,60.9268,5595.74
+Cloud & Infrastructure,Singapore,2025-09-01,FY26,68.4362,4094.5
+Digital Engineering,Singapore,2025-09-01,FY26,28.5207,7005.17
+Data & Analytics,Singapore,2025-09-01,FY26,40.0494,4989.94
+Consulting & Advisory,Singapore,2025-09-01,FY26,10.9723,9752.04
+Managed Services,Singapore,2025-10-01,FY26,69.3621,5627.1
+Cloud & Infrastructure,Singapore,2025-10-01,FY26,64.3899,4130.39
+Digital Engineering,Singapore,2025-10-01,FY26,29.4144,7061.69
+Data & Analytics,Singapore,2025-10-01,FY26,40.8603,5073.62
+Consulting & Advisory,Singapore,2025-10-01,FY26,10.8825,9825.46
+Managed Services,Singapore,2025-11-01,FY26,64.2171,5657.61
+Cloud & Infrastructure,Singapore,2025-11-01,FY26,70.2868,4126.23
+Digital Engineering,Singapore,2025-11-01,FY26,33.029,7080.06
+Data & Analytics,Singapore,2025-11-01,FY26,36.9253,5007.37
+Consulting & Advisory,Singapore,2025-11-01,FY26,12.2933,9716.8
+Managed Services,Singapore,2025-12-01,FY26,65.3369,5725.75
+Cloud & Infrastructure,Singapore,2025-12-01,FY26,64.1043,4085.81
+Digital Engineering,Singapore,2025-12-01,FY26,30.3502,7083.45
+Data & Analytics,Singapore,2025-12-01,FY26,37.612,5178.05
+Consulting & Advisory,Singapore,2025-12-01,FY26,11.9226,9750.52
+Managed Services,Singapore,2026-01-01,FY26,59.2364,5786.48
+Cloud & Infrastructure,Singapore,2026-01-01,FY26,65.5669,4129.72
+Digital Engineering,Singapore,2026-01-01,FY26,32.5015,7189.28
+Data & Analytics,Singapore,2026-01-01,FY26,38.5423,5001.32
+Consulting & Advisory,Singapore,2026-01-01,FY26,11.3933,9818.68
+Managed Services,Singapore,2026-02-01,FY26,60.0948,5790.61
+Cloud & Infrastructure,Singapore,2026-02-01,FY26,68.1014,4087.14
+Digital Engineering,Singapore,2026-02-01,FY26,31.1968,7102.86
+Data & Analytics,Singapore,2026-02-01,FY26,40.0088,5114.83
+Consulting & Advisory,Singapore,2026-02-01,FY26,10.3496,10092.39
+Managed Services,Singapore,2026-03-01,FY26,63.0293,5809.07
+Cloud & Infrastructure,Singapore,2026-03-01,FY26,68.0495,4136.78
+Digital Engineering,Singapore,2026-03-01,FY26,33.7154,7319.99
+Data & Analytics,Singapore,2026-03-01,FY26,38.4571,5072.56
+Consulting & Advisory,Singapore,2026-03-01,FY26,12.4296,10014.66

@@ -3,12 +3,12 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>UAE VAT Calculation & Reconciliation — Bijesh BJ, CMA | Finance & FP&A | SAP FICO | Data Analytics</title>
+<title>UAE VAT Calculation, Return & Reconciliation — Bijesh BJ, CMA | Finance & FP&A | SAP FICO | Data Analytics</title>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='32' fill='%231B2A41'/%3E%3Ctext x='32' y='42' font-family='Arial,sans-serif' font-weight='700' font-size='26' fill='%23D8A94E' text-anchor='middle'%3EBB%3C/text%3E%3C/svg%3E">
-<meta name="description" content="A FY2026 (Jan–Dec) sales & purchase invoice register with FTA VAT return-style summary — output VAT, input VAT, and net payable, reconciled to zero variance." />
+<meta name="description" content="UAE VAT compliance pack: 1,250 invoices mapped to VAT 201, exception testing and turnover reconciliation." />
 <meta property="og:type" content="website">
-<meta property="og:title" content="UAE VAT Calculation & Reconciliation — Bijesh BJ, CMA | Finance & FP&A | SAP FICO | Data Analytics">
-<meta property="og:description" content="A FY2026 (Jan–Dec) sales & purchase invoice register with FTA VAT return-style summary — output VAT, input VAT, and net payable, reconciled to zero variance.">
+<meta property="og:title" content="UAE VAT Calculation, Return & Reconciliation — Bijesh BJ, CMA | Finance & FP&A | SAP FICO | Data Analytics">
+<meta property="og:description" content="UAE VAT compliance pack: 1,250 invoices mapped to VAT 201, exception testing and turnover reconciliation.">
 <meta property="og:url" content="https://cmabijeshbj-web.github.io/projects/uae-vat.html">
 <meta property="og:image" content="https://cmabijeshbj-web.github.io/assets/profile.jpg">
 <meta name="twitter:card" content="summary_large_image">
@@ -21,44 +21,74 @@
 </head>
 <body>
 <div id="site-header-placeholder"></div>
-
 <main>
   <section class="section tight">
     <div class="wrap">
       <a href="../projects.html" class="mono" style="font-size:0.85rem; color:var(--ink-soft); text-decoration:none;">&larr; All Projects</a>
       <span class="eyebrow" style="margin-top:16px;">UAE VAT & Corporate Tax</span>
-      <h1>UAE VAT Calculation & Reconciliation</h1>
-      <p style="max-width:70ch; font-size:1.05rem;">A FY2026 (Jan–Dec) sales & purchase invoice register with FTA VAT return-style summary — output VAT, input VAT, and net payable, reconciled to zero variance.</p>
-      <span class="badge">Training / Demonstration</span>
-      <div class="stat-strip"><div class="stat"><div class="value">1,244</div><div class="label">invoices</div></div><div class="stat"><div class="value">3</div><div class="label">VAT treatments modeled</div></div><div class="stat"><div class="value">AED 0</div><div class="label">reconciliation variance</div></div><div class="stat"><div class="value">FY2026</div><div class="label">tax period</div></div></div>
+      <h1>UAE VAT Calculation, Return & Reconciliation</h1>
+      <p style="max-width:75ch; font-size:1.05rem;">A calendar-2025 VAT compliance pack for a UAE taxable person: 1,250 invoices mapped box-by-box to the FTA VAT 201 return, with exception testing and a turnover reconciliation — net VAT payable AED 178K.</p>
+      <span class="badge">Portfolio Demonstration · Synthetic Data</span>
+      <div class="stat-strip"><div class="stat"><div class="value">1,250</div><div class="label">invoices</div></div><div class="stat"><div class="value">10,307</div><div class="label">live formulas</div></div><div class="stat"><div class="value">4</div><div class="label">quarterly returns</div></div><div class="stat"><div class="value">9 / 9</div><div class="label">checks pass</div></div></div>
     </div>
   </section>
 
   <section class="section tight">
     <div class="wrap">
-      <div class="section-head"><span class="num">01</span><h2>What it does</h2></div>
-      <p style="max-width:70ch;">1,244 sales and purchase invoices for a UAE entity's FY2026 (Jan–Dec) tax period, tagged
-      Standard Rated (5%), Zero Rated, or Exempt per UAE VAT Law. A VAT Return summary sheet mirrors the FTA
-      VAT201 box structure (output VAT, input VAT, net payable), and a reconciliation sheet ties the invoice
-      register back to the return by month — the check cell resolves to exactly AED 0.</p>
-      <table class="ledger-table" style="margin-top:20px;">
-        <thead><tr><th>Doc ID</th><th>Type</th><th>Counterparty</th><th>Treatment</th><th>Net (AED)</th><th>VAT (AED)</th></tr></thead>
-        <tbody>
-          <tr><td>SI-5001</td><td>Sales Invoice</td><td>Solstice Retail Co</td><td>Standard Rated 5%</td><td>86,816.93</td><td>4,340.85</td></tr>
-          <tr><td>SI-5002</td><td>Sales Invoice</td><td>BlueHarbor Financial</td><td>Standard Rated 5%</td><td>34,026.32</td><td>1,701.32</td></tr>
-          <tr><td>SI-5003</td><td>Sales Invoice</td><td>Horizon Insurance</td><td>Zero Rated</td><td>77,632.77</td><td>0.00</td></tr>
-        </tbody>
-      </table>
-      <p class="disclosure">Excerpt shown — full register has 1,244 invoices across 12 months.</p>
+      <div class="section-head"><span class="num">01</span><h2>The business scenario</h2></div>
+      <p style="max-width:75ch;">A UAE mainland trading company files quarterly VAT 201 returns. Management wants the quarterly cash position, confidence that input VAT claims are valid, and proof that VAT-return turnover agrees to the accounts — the first thing the FTA tests in an audit. The workbook builds the return from the invoice register and flags every document that threatens a claim.</p>
     </div>
   </section>
+
   <section class="section tight">
     <div class="wrap">
-      <div class="section-head"><span class="num">02</span><h2>Downloads</h2></div>
+      <div class="section-head"><span class="num">02</span><h2>Headline results</h2></div>
+      <div style="overflow-x:auto"><table class="ledger-table" style="margin-top:14px;"><thead><tr><th>Metric (FY2025)</th><th>Value</th><th>Note</th></tr></thead><tbody><tr><td>Total sales</td><td>AED 36.28M</td><td>17.7% zero-rated exports</td></tr><tr><td>Output VAT (std + reverse charge)</td><td>AED 1.45M</td><td>Boxes 1a–1g and 3</td></tr><tr><td>Input VAT recovered</td><td>AED 1.28M</td><td>97.0% recovery rate</td></tr><tr><td>Net VAT payable</td><td>AED 178K</td><td>Box 14 · payable to FTA</td></tr><tr><td>Effective VAT rate on sales</td><td>3.80%</td><td>Below 5% because exports and exempt supplies are significant</td></tr><tr><td>Non-recoverable input VAT</td><td>AED 40K</td><td>Blocked entertainment and invalid TRNs</td></tr><tr><td>Compliance exceptions</td><td>50 documents</td><td>4.0% of register · VAT at risk AED 94K</td></tr><tr><td>Turnover reconciliation</td><td>0.07% unexplained</td><td>Within the 0.15% tolerance — within tolerance</td></tr></tbody></table></div>
+      <div class="callout" style="margin-top:18px;"><strong>So what?</strong> The business pays AED 178K net across four quarters, but AED 40K of input VAT was lost to blocked or invalid-TRN purchases and 30 documents were posted more than 30 days late. Fixing vendor-TRN validation and cut-off controls is worth more than any rate-planning idea.</div>
+    </div>
+  </section>
+
+  <section class="section tight">
+    <div class="wrap">
+      <div class="section-head"><span class="num">03</span><h2>CFO board pack (PDF)</h2></div>
+      <p style="max-width:75ch;">A four-page landscape board pack is generated automatically from the recalculated workbook — KPI tiles with RAG status, auto-written key messages, variance / bridge charts, detailed tables, risks and recommended actions, and the model-integrity status. Every figure in the PDF is read from the workbook, so the two always tie.</p>
+      <div class="grid grid-2" style="margin-top:14px;">
+        <a href="../assets/downloads/UAE_VAT_Board_Pack_2025.pdf" target="_blank" rel="noopener"><img style="width:100%;border:1px solid var(--rule);border-radius:4px;display:block;" src="../assets/previews/vat-1.jpg" alt="UAE VAT Calculation, Return & Reconciliation board pack, page 1" loading="lazy"></a>
+        <a href="../assets/downloads/UAE_VAT_Board_Pack_2025.pdf" target="_blank" rel="noopener"><img style="width:100%;border:1px solid var(--rule);border-radius:4px;display:block;" src="../assets/previews/vat-2.jpg" alt="UAE VAT Calculation, Return & Reconciliation board pack, page 2" loading="lazy"></a>
+      </div>
+      <div class="btn-row"><a class="btn btn-primary" href="../assets/downloads/UAE_VAT_Board_Pack_2025.pdf" download>⤓ Download the 4-page board pack</a></div>
+    </div>
+  </section>
+
+  <section class="section tight">
+    <div class="wrap">
+      <div class="section-head"><span class="num">04</span><h2>What is inside the workbook</h2></div>
+      <div style="overflow-x:auto"><table class="ledger-table" style="margin-top:14px;"><thead><tr><th>Sheet</th><th>Purpose</th></tr></thead><tbody><tr><td>Exec_Summary</td><td>Period selector (Q1–Q4 / FY), KPI tiles, quarterly table, key messages, two charts</td></tr><tr><td>VAT201_Return</td><td>Box-by-box FTA VAT 201 layout (1a–1g, 3, 4, 5, 8, 9–11, 12–14) for the selected period</td></tr><tr><td>Monthly_Trend</td><td>Monthly sales, output VAT, input VAT and net VAT with chart</td></tr><tr><td>Emirate_Split</td><td>Standard-rated sales by emirate and quarter (place of supply)</td></tr><tr><td>Exceptions</td><td>Invalid TRN, blocked input, late posting — counts, values, VAT at risk, actions</td></tr><tr><td>Turnover_Recon</td><td>VAT-return turnover vs GL revenue with reconciling items and tolerance test</td></tr><tr><td>Register</td><td>1,250 documents with the VAT engine formulas (quarter, VAT, recoverable VAT, exception flag)</td></tr><tr><td>KPI_Dictionary / Checks</td><td>Definitions; 9 integrity checks</td></tr></tbody></table></div>
+    </div>
+  </section>
+
+  <section class="section tight">
+    <div class="wrap">
+      <div class="section-head"><span class="num">05</span><h2>How it is built</h2></div>
+      <ul style="max-width:80ch;padding-left:20px;"><li style="margin:6px 0;">VAT, recoverable input VAT, reverse-charge output/input and exception flags are formulas on every invoice row — nothing is pasted.</li><li style="margin:6px 0;">Select a quarter in Exec_Summary!C4 and the VAT 201 sheet re-cuts every box.</li><li style="margin:6px 0;">Reverse-charge purchases create equal output and input VAT (net zero), exactly as the FTA return treats them.</li><li style="margin:6px 0;">Controls: box 14 = executive net VAT, quarters = full year, monthly = quarterly, emirate split = box 1 total, every document categorised.</li><li style="margin:6px 0;">Rules reflect UAE VAT Law (5% standard rate, zero-rated exports, exempt supplies, blocked entertainment input VAT) — summarised for illustration.</li></ul>
+    </div>
+  </section>
+
+  <section class="section tight">
+    <div class="wrap">
+      <div class="section-head"><span class="num">06</span><h2>Downloads</h2></div>
       <ul class="download-list">
       <li>
-        <div><span class="file-label">UAE_VAT_Calculation_Reconciliation.xlsx</span><span class="file-desc">3-sheet workbook — invoice register, VAT return summary, reconciliation</span></div>
+        <div><span class="file-label">UAE_VAT_Calculation_Reconciliation.xlsx</span><span class="file-desc">9-sheet VAT compliance workbook</span></div>
         <a class="btn btn-outline" href="../assets/downloads/UAE_VAT_Calculation_Reconciliation.xlsx" download>⤓ Download</a>
+      </li>
+      <li>
+        <div><span class="file-label">UAE_VAT_Board_Pack_2025.pdf</span><span class="file-desc">4-page landscape board pack</span></div>
+        <a class="btn btn-outline" href="../assets/downloads/UAE_VAT_Board_Pack_2025.pdf" download>⤓ Download</a>
+      </li>
+      <li>
+        <div><span class="file-label">uae_vat_invoices.csv</span><span class="file-desc">Invoice register — 1,250 rows</span></div>
+        <a class="btn btn-outline" href="../assets/downloads/uae_vat_invoices.csv" download>⤓ Download</a>
       </li>
       </ul>
     </div>

@@ -5,10 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Interactive FP&A Analytics Dashboard — Bijesh BJ, CMA | Finance & FP&A | SAP FICO | Data Analytics</title>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='32' fill='%231B2A41'/%3E%3Ctext x='32' y='42' font-family='Arial,sans-serif' font-weight='700' font-size='26' fill='%23D8A94E' text-anchor='middle'%3EBB%3C/text%3E%3C/svg%3E">
-<meta name="description" content="A Power BI-style interactive dashboard — KPI cards, BU filter, and trend charts — built as a live web page on the same 1,080-row FP&A dataset." />
+<meta name="description" content="Interactive executive dashboard: FY / BU / Region filters drive every KPI, chart, heatmap, bridge and commentary." />
 <meta property="og:type" content="website">
 <meta property="og:title" content="Interactive FP&A Analytics Dashboard — Bijesh BJ, CMA | Finance & FP&A | SAP FICO | Data Analytics">
-<meta property="og:description" content="A Power BI-style interactive dashboard — KPI cards, BU filter, and trend charts — built as a live web page on the same 1,080-row FP&A dataset.">
+<meta property="og:description" content="Interactive executive dashboard: FY / BU / Region filters drive every KPI, chart, heatmap, bridge and commentary.">
 <meta property="og:url" content="https://cmabijeshbj-web.github.io/projects/powerbi-dashboard.html">
 <meta property="og:image" content="https://cmabijeshbj-web.github.io/assets/profile.jpg">
 <meta name="twitter:card" content="summary_large_image">
@@ -21,41 +21,48 @@
 </head>
 <body>
 <div id="site-header-placeholder"></div>
-
 <main>
   <section class="section tight">
     <div class="wrap">
       <a href="../projects.html" class="mono" style="font-size:0.85rem; color:var(--ink-soft); text-decoration:none;">&larr; All Projects</a>
       <span class="eyebrow" style="margin-top:16px;">Power BI / Dashboarding</span>
-      <h1>Interactive FP&A Analytics Dashboard</h1>
-      <p style="max-width:70ch; font-size:1.05rem;">A Power BI-style interactive dashboard — KPI cards, BU filter, and trend charts — built as a live web page on the same 1,080-row FP&A dataset.</p>
-      <span class="badge">Training / Demonstration</span>
-      <div class="stat-strip"><div class="stat"><div class="value">1,080</div><div class="label">underlying data rows</div></div><div class="stat"><div class="value">5</div><div class="label">BUs filterable</div></div><div class="stat"><div class="value">36</div><div class="label">months trended</div></div><div class="stat"><div class="value">Live</div><div class="label">interactive page</div></div></div>
+      <h1>Interactive Executive FP&amp;A Dashboard</h1>
+      <p style="max-width:75ch; font-size:1.05rem;">A Power BI-style executive dashboard with three filters — fiscal year, business unit and region — that drive six KPI tiles, six charts, a BU × region heatmap, a receivables table and auto-written commentary. Built as a live web page on the same data as the FP&amp;A workbook, so every number ties.</p>
+      <span class="badge">Portfolio Demonstration · Synthetic Data</span>
+      <div class="stat-strip"><div class="stat"><div class="value">3</div><div class="label">linked filters</div></div><div class="stat"><div class="value">6</div><div class="label">KPI tiles</div></div><div class="stat"><div class="value">6 + 2</div><div class="label">charts + tables</div></div><div class="stat"><div class="value">1,080</div><div class="label">records behind it</div></div></div>
+      <div class="btn-row"><a class="btn btn-primary" href="powerbi-dashboard-live.html">Open the live dashboard →</a></div>
     </div>
   </section>
 
   <section class="section tight">
     <div class="wrap">
-      <div class="section-head"><span class="num">01</span><h2>What it does</h2></div>
-      <p style="max-width:70ch;">An interactive analytics dashboard styled after a Power BI report — KPI
-      cards, a business-unit filter, and monthly trend charts — built as a live web page (HTML/JS) on the same
-      1,080-row FP&amp;A dataset used in the Variance &amp; KPI project, since Power BI Desktop isn't available
-      in this build environment. Selecting a business unit from the filter live-updates every KPI card and all
-      four charts (Revenue Budget vs Actual, Operating Income trend, Revenue by BU, and Operating Margin % by
-      BU) to that unit's own numbers. The underlying dataset is provided as a CSV so it can also be opened
-      directly in Power BI or Excel.</p>
-      <div class="btn-row">
-        <a class="btn btn-primary" href="powerbi-dashboard-live.html">Open Live Dashboard →</a>
-      </div>
+      <div class="section-head"><span class="num">01</span><h2>What you can do with it</h2></div>
+      <div style="overflow-x:auto"><table class="ledger-table" style="margin-top:14px;"><thead><tr><th>Feature</th><th>What happens when you change a filter</th></tr></thead><tbody><tr><td>KPI tiles</td><td>Revenue, gross margin, operating income, operating margin, revenue per head and budget accuracy — each with variance to budget, RAG dot and YoY growth</td></tr><tr><td>Auto-written commentary</td><td>Plain-English key messages: revenue vs budget, OI shortfall split into volume / cost-rate / opex-rate, weakest and strongest BU and region</td></tr><tr><td>Trend charts</td><td>Monthly revenue and operating income, budget vs actual, for the selected scope</td></tr><tr><td>Variance bridge</td><td>Waterfall from budget OI to actual OI using the same exact decomposition as the Excel workbook</td></tr><tr><td>Segment charts</td><td>Revenue by business unit and operating margin by region</td></tr><tr><td>Heatmap</td><td>Operating margin for every BU × region combination, colour-scaled</td></tr><tr><td>Receivables</td><td>Open-invoice ageing at 31-Mar-2026 and the largest overdue balances, filtered by BU and region</td></tr></tbody></table></div>
     </div>
   </section>
+
   <section class="section tight">
     <div class="wrap">
-      <div class="section-head"><span class="num">02</span><h2>Downloads</h2></div>
+      <div class="section-head"><span class="num">02</span><h2>Built to tie</h2></div>
+      <p style="max-width:75ch;">FY26 revenue $171.7M (-2.3% vs budget) and operating income $39.6M (-8.4%) on the dashboard are identical to the Excel scorecard and the PDF board pack. The dashboard is regenerated by the same build script, so it can never drift from the workbook. The data is also provided as CSV for Power BI or Excel.</p>
+    </div>
+  </section>
+
+  <section class="section tight">
+    <div class="wrap">
+      <div class="section-head"><span class="num">03</span><h2>Downloads</h2></div>
       <ul class="download-list">
       <li>
-        <div><span class="file-label">bu_monthly_pl.csv</span><span class="file-desc">Underlying dataset — 1,080 rows, 5 BUs x 6 regions x 36 months</span></div>
+        <div><span class="file-label">bu_monthly_pl.csv</span><span class="file-desc">FP&A dataset — 1,080 rows (5 BUs × 6 regions × 36 months)</span></div>
         <a class="btn btn-outline" href="../assets/downloads/bu_monthly_pl.csv" download>⤓ Download</a>
+      </li>
+      <li>
+        <div><span class="file-label">FPA_Variance_KPI_Analysis.xlsx</span><span class="file-desc">The Excel scorecard the dashboard ties to</span></div>
+        <a class="btn btn-outline" href="../assets/downloads/FPA_Variance_KPI_Analysis.xlsx" download>⤓ Download</a>
+      </li>
+      <li>
+        <div><span class="file-label">FPA_Board_Pack_FY26.pdf</span><span class="file-desc">4-page board pack</span></div>
+        <a class="btn btn-outline" href="../assets/downloads/FPA_Board_Pack_FY26.pdf" download>⤓ Download</a>
       </li>
       </ul>
     </div>

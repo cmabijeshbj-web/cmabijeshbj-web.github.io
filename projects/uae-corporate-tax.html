@@ -5,10 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>UAE Corporate Tax Computation Model — Bijesh BJ, CMA | Finance & FP&A | SAP FICO | Data Analytics</title>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='32' fill='%231B2A41'/%3E%3Ctext x='32' y='42' font-family='Arial,sans-serif' font-weight='700' font-size='26' fill='%23D8A94E' text-anchor='middle'%3EBB%3C/text%3E%3C/svg%3E">
-<meta name="description" content="Taxable income build-up from accounting profit for FY2025 — disallowed expenses, exempt income, and the 0% / 9% threshold under UAE CT Law." />
+<meta name="description" content="UAE corporate tax computation: ledger-driven add-backs, exempt income, interest limitation, loss relief, 0%/9% bands and rate reconciliation." />
 <meta property="og:type" content="website">
 <meta property="og:title" content="UAE Corporate Tax Computation Model — Bijesh BJ, CMA | Finance & FP&A | SAP FICO | Data Analytics">
-<meta property="og:description" content="Taxable income build-up from accounting profit for FY2025 — disallowed expenses, exempt income, and the 0% / 9% threshold under UAE CT Law.">
+<meta property="og:description" content="UAE corporate tax computation: ledger-driven add-backs, exempt income, interest limitation, loss relief, 0%/9% bands and rate reconciliation.">
 <meta property="og:url" content="https://cmabijeshbj-web.github.io/projects/uae-corporate-tax.html">
 <meta property="og:image" content="https://cmabijeshbj-web.github.io/assets/profile.jpg">
 <meta name="twitter:card" content="summary_large_image">
@@ -21,45 +21,74 @@
 </head>
 <body>
 <div id="site-header-placeholder"></div>
-
 <main>
   <section class="section tight">
     <div class="wrap">
       <a href="../projects.html" class="mono" style="font-size:0.85rem; color:var(--ink-soft); text-decoration:none;">&larr; All Projects</a>
       <span class="eyebrow" style="margin-top:16px;">UAE VAT & Corporate Tax</span>
       <h1>UAE Corporate Tax Computation Model</h1>
-      <p style="max-width:70ch; font-size:1.05rem;">Taxable income build-up from accounting profit for FY2025 — disallowed expenses, exempt income, and the 0% / 9% threshold under UAE CT Law.</p>
-      <span class="badge">Training / Demonstration</span>
-      <div class="stat-strip"><div class="stat"><div class="value">1,090</div><div class="label">adjustment entries</div></div><div class="stat"><div class="value">9%</div><div class="label">standard CT rate applied</div></div><div class="stat"><div class="value">AED 375K</div><div class="label">0% threshold</div></div><div class="stat"><div class="value">FY2025</div><div class="label">period modeled</div></div></div>
+      <p style="max-width:75ch; font-size:1.05rem;">From AED 24.85M of accounting profit to AED 1.50M of corporate tax: a 1,087-line ledger drives add-backs, exempt income, interest limitation, loss relief and the 0% / 9% bands — with an effective-rate reconciliation and sensitivity.</p>
+      <span class="badge">Portfolio Demonstration · Synthetic Data</span>
+      <div class="stat-strip"><div class="stat"><div class="value">1,087</div><div class="label">ledger lines</div></div><div class="stat"><div class="value">3,550</div><div class="label">live formulas</div></div><div class="stat"><div class="value">6.03%</div><div class="label">effective tax rate</div></div><div class="stat"><div class="value">9 / 9</div><div class="label">checks pass</div></div></div>
     </div>
   </section>
 
   <section class="section tight">
     <div class="wrap">
-      <div class="section-head"><span class="num">01</span><h2>What it does</h2></div>
-      <p style="max-width:70ch;">1,090 transaction-level adjusting entries for FY2025 — disallowed expenses
-      (entertainment, fines), add-backs (accounting depreciation, unrealized provisions), deductions (tax
-      depreciation, realized bad debts), and exempt income (dividends, government grants). The computation
-      sheet builds from accounting net profit to taxable income, then applies the UAE CT Law's 0% band up to
-      AED 375,000 and 9% above it.</p>
-      <table class="ledger-table" style="margin-top:20px;">
-        <thead><tr><th>Adj ID</th><th>Description</th><th>Treatment</th><th>Amount (AED)</th><th>Direction</th></tr></thead>
-        <tbody>
-          <tr><td>CT-9001</td><td>Client Entertainment</td><td>Disallowed 50%</td><td>12,673.22</td><td>Add</td></tr>
-          <tr><td>CT-9002</td><td>Exempt Dividend Income</td><td>Exempt Income</td><td>30,202.84</td><td>Add</td></tr>
-          <tr><td>CT-9003</td><td>Related Party Management Fee</td><td>Transfer Pricing Adj.</td><td>5,720.91</td><td>Add</td></tr>
-        </tbody>
-      </table>
-      <p class="disclosure">Excerpt shown — full ledger has 1,090 adjustment entries across FY2025.</p>
+      <div class="section-head"><span class="num">01</span><h2>The business scenario</h2></div>
+      <p style="max-width:75ch;">A UAE mainland company prepares its FY2025 corporate-tax return. The CFO wants to know why the effective rate is below 9%, what drives the add-backs, whether the interest-limitation rule bites, and what tax would look like if profit moves. Every ledger line carries a tax-treatment code, so the computation is traceable from GL to return.</p>
     </div>
   </section>
+
   <section class="section tight">
     <div class="wrap">
-      <div class="section-head"><span class="num">02</span><h2>Downloads</h2></div>
+      <div class="section-head"><span class="num">02</span><h2>Headline results</h2></div>
+      <div style="overflow-x:auto"><table class="ledger-table" style="margin-top:14px;"><thead><tr><th>Metric (FY2025)</th><th>Value</th><th>Note</th></tr></thead><tbody><tr><td>Accounting profit</td><td>AED 24.85M</td><td>Income AED 69.28M less expenses AED 44.43M</td></tr><tr><td>Total adjustments</td><td>-AED 3.67M</td><td>Add-backs AED 440K less exempt income AED 4.11M</td></tr><tr><td>Taxable income</td><td>AED 17.98M</td><td>72% of accounting profit after AED 3.20M loss relief</td></tr><tr><td>Net corporate tax</td><td>AED 1.50M</td><td>After foreign tax credit of AED 85K</td></tr><tr><td>Effective tax rate</td><td>6.03%</td><td>vs 9.00% headline</td></tr><tr><td>Tax saved by exempt income</td><td>AED 370K</td><td>Participation exemption</td></tr><tr><td>Tax cost of non-deductibles</td><td>AED 40K</td><td>Entertainment, provisions, fines, personal items</td></tr><tr><td>Interest headroom</td><td>AED 11.03M</td><td>Net interest within the AED 12M de-minimis</td></tr></tbody></table></div>
+      <div class="callout" style="margin-top:18px;"><strong>So what?</strong> The effective rate is 6.03% rather than 9%, mostly because AED 4.11M of qualifying dividends and gains are exempt and AED 3.20M of losses were used. Because those losses are now exhausted, expect the rate to rise toward 7–8% in FY2026 on the same profit mix.</div>
+    </div>
+  </section>
+
+  <section class="section tight">
+    <div class="wrap">
+      <div class="section-head"><span class="num">03</span><h2>CFO board pack (PDF)</h2></div>
+      <p style="max-width:75ch;">A four-page landscape board pack is generated automatically from the recalculated workbook — KPI tiles with RAG status, auto-written key messages, variance / bridge charts, detailed tables, risks and recommended actions, and the model-integrity status. Every figure in the PDF is read from the workbook, so the two always tie.</p>
+      <div class="grid grid-2" style="margin-top:14px;">
+        <a href="../assets/downloads/UAE_Corporate_Tax_Board_Pack_FY2025.pdf" target="_blank" rel="noopener"><img style="width:100%;border:1px solid var(--rule);border-radius:4px;display:block;" src="../assets/previews/ct-1.jpg" alt="UAE Corporate Tax Computation Model board pack, page 1" loading="lazy"></a>
+        <a href="../assets/downloads/UAE_Corporate_Tax_Board_Pack_FY2025.pdf" target="_blank" rel="noopener"><img style="width:100%;border:1px solid var(--rule);border-radius:4px;display:block;" src="../assets/previews/ct-2.jpg" alt="UAE Corporate Tax Computation Model board pack, page 2" loading="lazy"></a>
+      </div>
+      <div class="btn-row"><a class="btn btn-primary" href="../assets/downloads/UAE_Corporate_Tax_Board_Pack_FY2025.pdf" download>⤓ Download the 4-page board pack</a></div>
+    </div>
+  </section>
+
+  <section class="section tight">
+    <div class="wrap">
+      <div class="section-head"><span class="num">04</span><h2>What is inside the workbook</h2></div>
+      <div style="overflow-x:auto"><table class="ledger-table" style="margin-top:14px;"><thead><tr><th>Sheet</th><th>Purpose</th></tr></thead><tbody><tr><td>Exec_Summary</td><td>KPI tiles, profit-to-taxable-income bridge chart, auto-generated key messages</td></tr><tr><td>CT_Computation</td><td>Accounting profit → adjustments → loss relief → 0% / 9% bands → foreign tax credit → net CT payable</td></tr><tr><td>Rate_Reconciliation</td><td>From the 9% notional tax to the actual payable, driver by driver, with chart</td></tr><tr><td>Interest_Limitation</td><td>30% of tax-EBITDA vs AED 12M de-minimis test and headroom</td></tr><tr><td>Adjustment_Summary</td><td>Every account, treatment code, lines, amount and add-back</td></tr><tr><td>Sensitivity</td><td>CT payable and effective rate for ±10% / ±20% profit</td></tr><tr><td>Parameters / Treatment_Table</td><td>All rates, thresholds and treatment-code factors as editable inputs</td></tr><tr><td>GL_Register / Checks</td><td>1,087 ledger lines with tax engine; 9 integrity checks</td></tr></tbody></table></div>
+    </div>
+  </section>
+
+  <section class="section tight">
+    <div class="wrap">
+      <div class="section-head"><span class="num">05</span><h2>How it is built</h2></div>
+      <ul style="max-width:80ch;padding-left:20px;"><li style="margin:6px 0;">Treatment codes (TAXABLE, EXEMPT, ALLOW, DIS100, DIS50, INTLIM, TP) on each ledger line drive every adjustment through a lookup — fully traceable.</li><li style="margin:6px 0;">Interest-limitation test, donations cap and 75% loss-utilisation cap are formulas with parameters on a single Parameters sheet.</li><li style="margin:6px 0;">Rate reconciliation proves the computation: notional 9% tax ± each driver = net CT payable (checked to AED 0).</li><li style="margin:6px 0;">Sensitivity is closed-form and ties to the base computation.</li><li style="margin:6px 0;">Rules summarised from Federal Decree-Law No. 47 of 2022 for illustration — confirm against current law and Ministerial Decisions before filing.</li></ul>
+    </div>
+  </section>
+
+  <section class="section tight">
+    <div class="wrap">
+      <div class="section-head"><span class="num">06</span><h2>Downloads</h2></div>
       <ul class="download-list">
       <li>
-        <div><span class="file-label">UAE_Corporate_Tax_Computation.xlsx</span><span class="file-desc">2-sheet workbook — adjustments ledger, tax computation</span></div>
+        <div><span class="file-label">UAE_Corporate_Tax_Computation.xlsx</span><span class="file-desc">11-sheet corporate-tax workbook</span></div>
         <a class="btn btn-outline" href="../assets/downloads/UAE_Corporate_Tax_Computation.xlsx" download>⤓ Download</a>
+      </li>
+      <li>
+        <div><span class="file-label">UAE_Corporate_Tax_Board_Pack_FY2025.pdf</span><span class="file-desc">4-page landscape board pack</span></div>
+        <a class="btn btn-outline" href="../assets/downloads/UAE_Corporate_Tax_Board_Pack_FY2025.pdf" download>⤓ Download</a>
+      </li>
+      <li>
+        <div><span class="file-label">uae_ct_adjustments.csv</span><span class="file-desc">General-ledger register — 1,087 lines</span></div>
+        <a class="btn btn-outline" href="../assets/downloads/uae_ct_adjustments.csv" download>⤓ Download</a>
       </li>
       </ul>
     </div>
