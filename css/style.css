@@ -320,7 +320,7 @@ nav.main-nav a.active {
 .hero-photo {
   width: 190px; height: 190px;
   border-radius: 50%;
-  object-fit: cover;
+  object-fit: cover; object-position: 50% 12%;
   border: 3px solid var(--brass);
   box-shadow: 0 0 0 6px rgba(216,169,78,0.12), var(--shadow);
   background: var(--paper-alt);
