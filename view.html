@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="robots" content="noindex" />
+<title>View file — Bijesh BJ, CMA</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='32' fill='%231B2A41'/%3E%3Ctext x='32' y='42' font-family='Arial,sans-serif' font-weight='700' font-size='26' fill='%23D8A94E' text-anchor='middle'%3EBB%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script>
+  (function(){ try{ if(localStorage.getItem('bijesh-portfolio-theme')==='light'){ document.documentElement.setAttribute('data-theme','light'); } }catch(e){} })();
+</script>
+<style>
+.viewer-bar{display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between;margin:6px 0 14px}
+.viewer-bar h1{font-size:1.35rem;margin:0}
+.viewer-badge{font-family:'IBM Plex Mono',monospace;font-size:.75rem;letter-spacing:.06em;text-transform:uppercase;color:var(--brass);border:1px solid var(--brass);padding:3px 9px;border-radius:3px}
+.vtabs{display:flex;gap:4px;flex-wrap:nowrap;overflow-x:auto;border-bottom:1px solid var(--rule);margin-top:8px}
+.vtab{font-family:'IBM Plex Mono',monospace;font-size:.78rem;padding:8px 12px;background:transparent;color:var(--ink-soft);border:1px solid transparent;border-bottom:none;border-radius:4px 4px 0 0;cursor:pointer;white-space:nowrap}
+.vtab.active{background:var(--card);color:var(--ink);border-color:var(--rule)}
+.fbar{display:flex;gap:10px;align-items:center;font-family:'IBM Plex Mono',monospace;font-size:.8rem;border:1px solid var(--rule);border-top:none;background:var(--card);padding:6px 10px;min-height:34px}
+.fbar b{color:var(--brass);min-width:48px}
+.fbar span{overflow-x:auto;white-space:nowrap}
+.vscroll{position:relative;overflow:auto;max-height:70vh;border:1px solid var(--rule);border-top:none;background:#fff}
+table.vt{border-collapse:collapse;table-layout:fixed;font-family:'IBM Plex Sans',Arial,sans-serif;font-size:12px;color:#111}
+table.vt td{padding:3px 6px;height:22px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;border-right:1px solid #eef0f3;border-bottom:1px solid #eef0f3;background:#fff;cursor:cell}
+table.vt td.w{white-space:normal}
+table.vt td.sel{outline:2px solid #1a73e8;outline-offset:-2px}
+table.vt tr.stick td{position:sticky;top:0;z-index:2}
+.vt-rn{background:#f3f4f6!important;color:#6b7280;text-align:center;font-size:11px;position:sticky;left:0}
+.wm{position:absolute;inset:0;pointer-events:none;z-index:5;opacity:.07;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='420' height='260'%3E%3Ctext x='20' y='150' transform='rotate(-24 200 130)' font-family='Arial' font-weight='700' font-size='22' fill='%23000'%3EBijesh BJ, CMA %C2%B7 View only%3C/text%3E%3C/svg%3E")}
+.vwrap{position:relative}
+.vnote{font-size:.85rem;color:var(--ink-soft);margin:12px 0}
+.vcode{background:#0B1622;color:#DCE4EC;border:1px solid #2B3B52;border-radius:4px;padding:16px;overflow:auto;max-height:70vh;font-family:'IBM Plex Mono',monospace;font-size:.8rem;line-height:1.55;white-space:pre}
+.vimgs{display:grid;gap:16px}
+.vimgs img{width:100%;display:block;border:1px solid var(--rule);border-radius:4px;-webkit-user-drag:none}
+.vcard{user-select:none;-webkit-user-select:none}
+@media print{body{display:none!important}}
+</style>
+</head>
+<body>
+<div id="site-header-placeholder"></div>
+<main>
+  <section class="section tight">
+    <div class="wrap vcard">
+      <div class="viewer-bar"><div><a id="back" href="projects.html" style="font-size:.9rem;">&larr; Back to project</a><h1 id="vtitle">Loading…</h1></div><span class="viewer-badge">View only</span></div>
+      <div id="vbody"></div>
+      <p class="vnote" id="vnote"></p>
+    </div>
+  </section>
+</main>
+<div id="site-footer-placeholder"></div>
+<script src="js/site.js"></script>
+<script>
+(function(){
+  var q=new URLSearchParams(location.search).get('f')||'';
+  var body=document.getElementById('vbody'),title=document.getElementById('vtitle'),note=document.getElementById('vnote');
+  var back={fpa:'fpa-variance-kpi',fm:'financial-model',vat:'uae-vat',ct:'uae-corporate-tax',sql:'sql-analysis'}[q.split('-')[0]];
+  if(back) document.getElementById('back').href='projects/'+back+'.html';
+  if(!/^[a-z]+-[a-z]+$/.test(q)){ title.textContent='File not found'; return; }
+  ['copy','cut','contextmenu','dragstart'].forEach(function(ev){ document.querySelector('.vcard').addEventListener(ev,function(e){ e.preventDefault(); }); });
+  document.addEventListener('keydown',function(e){ if((e.ctrlKey||e.metaKey)&&['s','p','c','u'].indexOf(e.key.toLowerCase())>-1) e.preventDefault(); });
+  fetch('assets/view/data/'+q+'.json').then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(d){
+    title.textContent=d.title; document.title=d.title+' — view only';
+    note.textContent='Read-only preview of '+d.file+'. Copying and printing are disabled. Need a working copy? Email cmabijesh.ae@gmail.com to request access.';
+    if(d.kind==='text'){ var pre=document.createElement('pre'); pre.className='vcode'; pre.textContent=d.text; body.appendChild(pre); }
+    else if(d.kind==='images'){ var g=document.createElement('div'); g.className='vimgs'; d.images.forEach(function(s){ var i=document.createElement('img'); i.src=s; i.draggable=false; i.alt=d.title; g.appendChild(i); }); body.appendChild(g); }
+    else sheetViewer(d);
+  }).catch(function(){ title.textContent='This file could not be loaded.'; });
+  function css(s){ var o=[]; if(s.b)o.push('font-weight:700'); if(s.i)o.push('font-style:italic'); if(s.c)o.push('color:'+s.c); if(s.z)o.push('font-size:'+Math.round(s.z*1.1)+'px'); if(s.bg)o.push('background:'+s.bg); if(s.a)o.push('text-align:'+s.a); if(s.bb)o.push('border-bottom:1px solid '+s.bb); if(s.bt)o.push('border-top:1px solid '+s.bt); return o.join(';'); }
+  function sheetViewer(d){
+    var styles=d.styles.map(css), tabs=document.createElement('div'); tabs.className='vtabs';
+    var fb=document.createElement('div'); fb.className='fbar'; fb.innerHTML='<b></b><span>Select a cell to see its formula or value</span>';
+    var wrap=document.createElement('div'); wrap.className='vwrap'; var sc=document.createElement('div'); sc.className='vscroll'; var wm=document.createElement('div'); wm.className='wm'; wrap.appendChild(sc); wrap.appendChild(wm);
+    body.appendChild(tabs); body.appendChild(fb); body.appendChild(wrap);
+    function colL(n){ var s=''; n++; while(n>0){ var m=(n-1)%26; s=String.fromCharCode(65+m)+s; n=Math.floor((n-1)/26); } return s; }
+    function show(i){
+      var sh=d.sheets[i]; [].forEach.call(tabs.children,function(t,k){ t.classList.toggle('active',k===i); });
+      var span={}, hide={};
+      sh.merges.forEach(function(m){ var p=m.split(':'), a=p[0].match(/([A-Z]+)(\d+)/), b=p[1].match(/([A-Z]+)(\d+)/); function cn(s){ var n=0; for(var k=0;k<s.length;k++) n=n*26+s.charCodeAt(k)-64; return n-1; } var c1=cn(a[1]),r1=+a[2]-1,c2=cn(b[1]),r2=+b[2]-1; span[r1+','+c1]=[r2-r1+1,c2-c1+1]; for(var r=r1;r<=r2;r++)for(var c=c1;c<=c2;c++) if(r!==r1||c!==c1) hide[r+','+c]=1; });
+      var h=['<table class="vt"><colgroup><col style="width:40px">']; sh.widths.forEach(function(w){ h.push('<col style="width:'+Math.round(w*7+10)+'px">'); }); h.push('</colgroup><tbody>');
+      sh.rows.forEach(function(row,r){
+        h.push('<tr'+(sh.freeze&&r===sh.freeze-1?' class="stick"':'')+'><td class="vt-rn">'+(r+1)+'</td>');
+        for(var c=0;c<sh.widths.length;c++){
+          if(hide[r+','+c]) continue; var e=row[c]; var sp=span[r+','+c], at=sp?' rowspan="'+sp[0]+'" colspan="'+sp[1]+'"':'';
+          if(!e){ h.push('<td'+at+'></td>'); continue; }
+          var st=d.styles[e[1]]||{};
+          h.push('<td'+at+(st.w?' class="w"':'')+' data-r="'+r+'" data-c="'+c+'" style="'+styles[e[1]]+'">'+String(e[0]).replace(/&/g,'&amp;').replace(/</g,'&lt;')+'</td>');
+        }
+        h.push('</tr>');
+      });
+      h.push('</tbody></table>'); sc.innerHTML=h.join(''); sc.scrollTop=0; sc.scrollLeft=0;
+      sc.onclick=function(ev){ var td=ev.target.closest('td[data-r]'); if(!td) return; var p=sc.querySelector('.sel'); if(p)p.classList.remove('sel'); td.classList.add('sel'); var e=sh.rows[+td.dataset.r][+td.dataset.c]; fb.querySelector('b').textContent=colL(+td.dataset.c)+(+td.dataset.r+1); fb.querySelector('span').textContent=e[2]?e[2]:e[0]; };
+      if(sh.charts){ note.textContent=note.textContent.replace(/ Charts.*$/,'')+' Charts for this sheet appear in the board pack.'; }
+    }
+    d.sheets.forEach(function(sh,i){ var t=document.createElement('button'); t.className='vtab'; t.textContent=sh.name; t.onclick=function(){ show(i); }; tabs.appendChild(t); });
+    show(0);
+  }
+})();
+</script>
+</body>
+</html>
