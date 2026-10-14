@@ -143,8 +143,8 @@ var FOOTER_SITE_URL = "https://cmabijeshbj-web.github.io/";
       '<p class="ra-sub">Enter your email and I will review your request. If approved, I will send the file to you.</p>'+
       '<form novalidate>'+
         '<label>Your email *<input type="email" name="email" required autocomplete="email" placeholder="you@company.com"></label>'+
-        '<label>Name<input type="text" name="name" autocomplete="name" placeholder="Optional"></label>'+
-        '<label>Company / role<input type="text" name="company" placeholder="Optional"></label>'+
+        '<label>Full name *<input type="text" name="name" required autocomplete="name" placeholder="Your full name"></label>'+
+        '<label>Company name *<input type="text" name="company" required autocomplete="organization" placeholder="Your company"></label>'+
         '<input type="text" name="_honey" tabindex="-1" autocomplete="off" style="display:none">'+
         '<button type="submit" class="btn btn-primary">Send request</button>'+
         '<p class="ra-msg" role="status"></p>'+
@@ -166,6 +166,8 @@ var FOOTER_SITE_URL = "https://cmabijeshbj-web.github.io/";
     var f=e.target, msg=modal.querySelector('.ra-msg'), btn=f.querySelector('button[type=submit]');
     var email=f.email.value.trim();
     if(!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)){ msg.textContent='Please enter a valid email address.'; msg.className='ra-msg err'; return; }
+    if(f.name.value.trim().length<2){ msg.textContent='Please enter your full name.'; msg.className='ra-msg err'; f.name.focus(); return; }
+    if(f.company.value.trim().length<2){ msg.textContent='Please enter your company name.'; msg.className='ra-msg err'; f.company.focus(); return; }
     if(f._honey.value){ return; }
     var file=modal.dataset.file; btn.disabled=true; btn.textContent='Sending…'; msg.textContent=''; msg.className='ra-msg';
     var body={ _subject:'Access request: '+file, _template:'table', _captcha:'false', _replyto:email,
