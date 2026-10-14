@@ -112,3 +112,20 @@ var FOOTER_SITE_URL = "https://cmabijeshbj-web.github.io/";
     }
   });
 })();
+
+/* View-only image galleries: lightbox + discourage saving */
+(function(){
+  var lb=null;
+  function close(){ if(lb){ lb.classList.remove('open'); } }
+  document.addEventListener('click',function(e){
+    var a=e.target.closest&&e.target.closest('[data-lightbox]');
+    if(a){
+      e.preventDefault();
+      if(!lb){ lb=document.createElement('div'); lb.className='lightbox'; lb.innerHTML='<img alt="" draggable="false">'; document.body.appendChild(lb); lb.addEventListener('click',close); lb.addEventListener('contextmenu',function(ev){ev.preventDefault();}); }
+      lb.querySelector('img').src=a.getAttribute('href'); lb.classList.add('open'); return;
+    }
+  });
+  document.addEventListener('keydown',function(e){ if(e.key==='Escape') close(); });
+  document.addEventListener('contextmenu',function(e){ if(e.target.closest&&e.target.closest('.view-gallery,.lightbox')) e.preventDefault(); });
+  document.addEventListener('dragstart',function(e){ if(e.target.closest&&e.target.closest('.view-gallery,.lightbox')) e.preventDefault(); });
+})();

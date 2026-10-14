@@ -486,3 +486,13 @@ footer.site-footer a { color: var(--teal-soft); }
 .download-list li:hover { border-color: var(--brass); }
 .download-list .file-label { font-weight: 600; color: var(--navy); }
 .download-list .file-desc { font-size: 0.85rem; color: var(--ink-soft); display: block; margin-top: 2px; }
+
+/* ---------------- View-only galleries ---------------- */
+.view-gallery { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; margin-top: 14px; }
+@media (max-width: 700px) { .view-gallery { grid-template-columns: 1fr; } }
+.view-thumb { display: block; border: 1px solid var(--rule); border-radius: 4px; overflow: hidden; cursor: zoom-in; }
+.view-thumb img, .lightbox img { width: 100%; display: block; -webkit-user-drag: none; user-select: none; -webkit-user-select: none; -webkit-touch-callout: none; }
+.view-note { font-size: 0.85rem; color: var(--ink-soft); margin-top: 10px; }
+.lightbox { position: fixed; inset: 0; background: rgba(5,10,18,0.92); z-index: 1000; display: none; align-items: center; justify-content: center; padding: 24px; cursor: zoom-out; }
+.lightbox.open { display: flex; }
+.lightbox img { max-width: min(1500px, 100%); max-height: 100%; width: auto; height: auto; object-fit: contain; border-radius: 4px; }
