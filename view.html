@@ -48,7 +48,7 @@ table.vt tr.stick td{position:sticky;top:0;z-index:2}
 <main>
   <section class="section tight">
     <div class="wrap vcard">
-      <div class="viewer-bar"><div><a id="back" href="projects.html" style="font-size:.9rem;">&larr; Back to project</a><h1 id="vtitle">Loading…</h1></div><div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap;"><a class="btn btn-primary" href="#" id="vreq" data-request-access style="padding:7px 14px;">Request access</a><span class="viewer-badge">View only</span></div></div>
+      <div class="viewer-bar"><div><a id="back" href="projects.html" style="font-size:.9rem;">&larr; Back to project</a><h1 id="vtitle">Loading…</h1></div><div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap;"><a class="btn btn-primary" href="#" id="vreq" data-request-access data-project="fpa" style="padding:7px 14px;">Request all files</a><span class="viewer-badge">View only</span></div></div>
       <div id="vbody"></div>
       <p class="vnote" id="vnote"></p>
     </div>
@@ -62,13 +62,14 @@ table.vt tr.stick td{position:sticky;top:0;z-index:2}
   var body=document.getElementById('vbody'),title=document.getElementById('vtitle'),note=document.getElementById('vnote');
   var back={fpa:'fpa-variance-kpi',fm:'financial-model',vat:'uae-vat',ct:'uae-corporate-tax',sql:'sql-analysis'}[q.split('-')[0]];
   if(back) document.getElementById('back').href='projects/'+back+'.html';
+  document.getElementById('vreq').setAttribute('data-project',q.split('-')[0]);
   if(!/^[a-z]+-[a-z]+$/.test(q)){ title.textContent='File not found'; return; }
   ['copy','cut','contextmenu','dragstart'].forEach(function(ev){ document.querySelector('.vcard').addEventListener(ev,function(e){ e.preventDefault(); }); });
   document.addEventListener('keydown',function(e){ if((e.ctrlKey||e.metaKey)&&['s','p','c','u'].indexOf(e.key.toLowerCase())>-1) e.preventDefault(); });
   fetch('assets/view/data/'+q+'.json').then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(d){
     title.textContent=d.title; document.title=d.title+' — view only';
-    note.textContent='Read-only preview of '+d.file+'. Copying and printing are disabled. Need a working copy? Click Request access (top right) and enter your email.';
-    document.getElementById('vreq').setAttribute('data-file',d.file);
+    note.textContent='Read-only preview of '+d.file+'. Copying and printing are disabled. Need working copies? Click Request all files (top right) - one request covers every file.';
+    
     if(d.kind==='text'){ var pre=document.createElement('pre'); pre.className='vcode'; pre.textContent=d.text; body.appendChild(pre); }
     else if(d.kind==='images'){ var g=document.createElement('div'); g.className='vimgs'; d.images.forEach(function(s){ var i=document.createElement('img'); i.src=s; i.draggable=false; i.alt=d.title; g.appendChild(i); }); body.appendChild(g); }
     else sheetViewer(d);
@@ -81,7 +82,7 @@ table.vt tr.stick td{position:sticky;top:0;z-index:2}
     var wrap=document.createElement('div'); wrap.className='vwrap'; var sc=document.createElement('div'); sc.className='vscroll'; var wm=document.createElement('div'); wm.className='wm'; wrap.appendChild(sc); wrap.appendChild(wm);
     var hint=document.createElement('div'); hint.className='vhint';
     var many=d.sheets.length>1;
-    hint.innerHTML='<span class="vi">How to view</span><div>'+(many?'This file has <b>'+d.sheets.length+' sheets</b>. Use the <b>coloured tabs</b> just below to switch between them. ':'Scroll to browse the full dataset. ')+'Click any cell to see its <b>formula or value</b> in the bar above the grid. This is a read-only preview; use <b>Request access</b> if you need the file.</div>';
+    hint.innerHTML='<span class="vi">How to view</span><div>'+(many?'This file has <b>'+d.sheets.length+' sheets</b>. Use the <b>coloured tabs</b> just below to switch between them. ':'Scroll to browse the full dataset. ')+'Click any cell to see its <b>formula or value</b> in the bar above the grid. This is a read-only preview; use <b>Request all files</b> (top right) to get working copies.</div>';
     body.appendChild(hint); body.appendChild(tabs); body.appendChild(fb); body.appendChild(wrap);
     function colL(n){ var s=''; n++; while(n>0){ var m=(n-1)%26; s=String.fromCharCode(65+m)+s; n=Math.floor((n-1)/26); } return s; }
     function show(i){

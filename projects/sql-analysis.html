@@ -87,26 +87,27 @@ GROUP BY ageing_bucket ORDER BY ageing_bucket;
     <div class="wrap">
       <div class="section-head"><span class="num">05</span><h2>How it is built</h2></div>
       <ul style="max-width:80ch;padding-left:20px;"><li style="margin:6px 0;">Window functions (LAG, RANK, NTILE, running SUM, moving AVG), CTEs and date arithmetic (julianday) — all tested on SQLite 3 before publishing.</li><li style="margin:6px 0;">Query 1 is a control query: it proves the billing register ties to the FP&A pack ($0 difference).</li><li style="margin:6px 0;">Ageing, DSO, on-time %, concentration and Pareto are standard CFO working-capital and credit-risk metrics.</li><li style="margin:6px 0;">The results workbook is regenerated automatically from the .sql file, so the published numbers never drift from the code.</li></ul>
+    <div class="btn-row"><a class="btn btn-primary" id="req-all" href="#" data-request-access data-project="sql">Request all files →</a></div>
     </div>
   </section>
 
   <section class="section tight">
     <div class="wrap">
       <div class="section-head"><span class="num">06</span><h2>View the files</h2></div>
-      <p style="max-width:75ch;">Open any file in a read-only viewer — browse every sheet, click a cell to see its formula. Files are view-only; need a working copy? Use <b>Request access</b> next to a file and enter your email; I will review it and reply.</p>
+      <p style="max-width:75ch;">Open any file in a read-only viewer — browse every sheet, click a cell to see its formula. Files are view-only; need working copies? One request covers every file.</p>
       <ul class="download-list">
       <li>
         <div><span class="file-label">financial_data_analysis.sql</span><span class="file-desc">14 documented, tested queries (SQLite dialect)</span></div>
-        <span style="display:flex;gap:8px;flex-wrap:wrap;"><a class="btn btn-outline" href="../view.html?f=sql-sql">View →</a><a class="btn btn-ghost" href="#" data-request-access data-file="financial_data_analysis.sql">Request access</a></span></li>
+        <span style="display:flex;gap:8px;flex-wrap:wrap;"><a class="btn btn-outline" href="../view.html?f=sql-sql">View →</a></span></li>
       <li>
         <div><span class="file-label">SQL_Analysis_Results.xlsx</span><span class="file-desc">Formatted results pack — KPI index + 14 query sheets</span></div>
-        <span style="display:flex;gap:8px;flex-wrap:wrap;"><a class="btn btn-outline" href="../view.html?f=sql-xlsx">View →</a><a class="btn btn-ghost" href="#" data-request-access data-file="SQL_Analysis_Results.xlsx">Request access</a></span></li>
+        <span style="display:flex;gap:8px;flex-wrap:wrap;"><a class="btn btn-outline" href="../view.html?f=sql-xlsx">View →</a></span></li>
       <li>
         <div><span class="file-label">sales_transactions.csv</span><span class="file-desc">Billing register — 1,785 invoices</span></div>
-        <span style="display:flex;gap:8px;flex-wrap:wrap;"><a class="btn btn-outline" href="../view.html?f=sql-csv">View →</a><a class="btn btn-ghost" href="#" data-request-access data-file="sales_transactions.csv">Request access</a></span></li>
+        <span style="display:flex;gap:8px;flex-wrap:wrap;"><a class="btn btn-outline" href="../view.html?f=sql-csv">View →</a></span></li>
       <li>
         <div><span class="file-label">bu_monthly_pl.csv</span><span class="file-desc">FP&A monthly table — 1,080 rows</span></div>
-        <span style="display:flex;gap:8px;flex-wrap:wrap;"><a class="btn btn-outline" href="../view.html?f=fpa-csv">View →</a><a class="btn btn-ghost" href="#" data-request-access data-file="bu_monthly_pl.csv">Request access</a></span></li>
+        <span style="display:flex;gap:8px;flex-wrap:wrap;"><a class="btn btn-outline" href="../view.html?f=fpa-csv">View →</a></span></li>
       </ul>
     </div>
   </section>

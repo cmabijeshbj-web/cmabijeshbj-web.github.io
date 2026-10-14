@@ -138,9 +138,9 @@ var FOOTER_SITE_URL = "https://cmabijeshbj-web.github.io/";
     modal=document.createElement('div'); modal.className='ra-overlay';
     modal.innerHTML='<div class="ra-box" role="dialog" aria-modal="true" aria-labelledby="ra-title">'+
       '<button type="button" class="ra-x" aria-label="Close">&times;</button>'+
-      '<h3 id="ra-title">Request access</h3>'+
+      '<h3 id="ra-title">Request access to all files</h3>'+
       '<p class="ra-file"></p>'+
-      '<p class="ra-sub">Enter your email and I will review your request. If approved, I will send the file to you.</p>'+
+      '<p class="ra-sub">One request covers every file. Enter your details and I will review it. If approved, the files are emailed to you.</p>'+
       '<form novalidate>'+
         '<label>Your email *<input type="email" name="email" required autocomplete="email" placeholder="you@company.com"></label>'+
         '<label>Full name *<input type="text" name="name" required autocomplete="name" placeholder="Your full name"></label>'+
@@ -154,10 +154,12 @@ var FOOTER_SITE_URL = "https://cmabijeshbj-web.github.io/";
     modal.querySelector('form').addEventListener('submit',submit);
   }
   function close(){ if(modal) modal.classList.remove('open'); }
+  var TITLES={fpa:'FP&A Performance, Variance & KPI Analysis',fm:'Integrated 3-Statement Financial Model & DCF',vat:'UAE VAT Calculation & Reconciliation',ct:'UAE Corporate Tax Computation Model',sql:'Financial Data Analysis Using SQL',pbi:'Interactive FP&A Analytics Dashboard'};
   function open(file){
     if(!modal) build();
-    modal.querySelector('.ra-file').textContent=file?('File: '+file):'';
-    modal.dataset.file=file||'Project files';
+    var pr=TITLES[file]?file:'fpa';
+    modal.querySelector('.ra-file').textContent='All files for: '+TITLES[pr];
+    modal.dataset.file=pr;
     var f=modal.querySelector('form'); f.style.display=''; f.reset(); modal.querySelector('.ra-msg').textContent=''; modal.querySelector('.ra-msg').className='ra-msg';
     modal.classList.add('open'); setTimeout(function(){ f.email.focus(); },50);
   }
@@ -170,20 +172,20 @@ var FOOTER_SITE_URL = "https://cmabijeshbj-web.github.io/";
     if(f.company.value.trim().length<2){ msg.textContent='Please enter your company name.'; msg.className='ra-msg err'; f.company.focus(); return; }
     if(f._honey.value){ return; }
     var file=modal.dataset.file; btn.disabled=true; btn.textContent='Sending…'; msg.textContent=''; msg.className='ra-msg';
-    var body={ _subject:'Access request: '+file, _template:'table', _captcha:'false', _replyto:email,
-      email:email, name:f.name.value.trim(), company:f.company.value.trim(), file:file, page:location.href, _honey:'' };
-    var req=SCRIPT_URL?fetch(SCRIPT_URL,{method:'POST',headers:{'Content-Type':'text/plain;charset=utf-8'},body:JSON.stringify({email:email,name:body.name,company:body.company,file:file,_honey:''})}).then(function(r){ return r.json(); }).then(function(j){ if(!j.ok) throw 0; return j; })
+    var body={ _subject:'Access request: '+TITLES[file], _template:'table', _captcha:'false', _replyto:email,
+      email:email, name:f.name.value.trim(), company:f.company.value.trim(), project:file, page:location.href, _honey:'' };
+    var req=SCRIPT_URL?fetch(SCRIPT_URL,{method:'POST',headers:{'Content-Type':'text/plain;charset=utf-8'},body:JSON.stringify({email:email,name:body.name,company:body.company,project:file,_honey:''})}).then(function(r){ return r.json(); }).then(function(j){ if(!j.ok) throw 0; return j; })
       :fetch(ENDPOINT,{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(body)}).then(function(r){ if(!r.ok) throw 0; return r.json(); });
     req
       .then(function(){ f.style.display='none'; msg.textContent='Thank you. Your request has been sent. I will review it and reply to '+email+'.'; msg.className='ra-msg ok'; })
       .catch(function(){
         btn.disabled=false; btn.textContent='Send request';
-        msg.innerHTML='Could not send automatically. <a href="mailto:'+OWNER+'?subject='+encodeURIComponent('Access request: '+file)+'&body='+encodeURIComponent('Hi Bijesh, I would like to request access to '+file+'.\n\nMy email: '+email)+'">Click here to send it by email instead.</a>'; msg.className='ra-msg err';
+        msg.innerHTML='Could not send automatically. <a href="mailto:'+OWNER+'?subject='+encodeURIComponent('Access request: '+TITLES[file])+'&body='+encodeURIComponent('Hi Bijesh, I would like to request access to all files of '+TITLES[file]+'.\n\nMy email: '+email)+'">Click here to send it by email instead.</a>'; msg.className='ra-msg err';
       });
   }
   document.addEventListener('click',function(e){
     var t=e.target.closest&&e.target.closest('[data-request-access]');
-    if(t){ e.preventDefault(); open(t.getAttribute('data-file')||''); }
+    if(t){ e.preventDefault(); open(t.getAttribute('data-project')||''); }
   });
   document.addEventListener('keydown',function(e){ if(e.key==='Escape') close(); });
 })();
