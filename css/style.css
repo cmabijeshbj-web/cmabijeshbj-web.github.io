@@ -509,6 +509,6 @@ footer.site-footer a { color: var(--teal-soft); }
 .ra-box input[type=email],.ra-box input[type=text]{display:block;width:100%;margin-top:4px;padding:9px 10px;font:inherit;color:var(--ink);background:var(--paper);border:1px solid var(--rule);border-radius:4px}
 .ra-box input:focus{outline:2px solid var(--brass);outline-offset:0}
 .ra-msg{font-size:.9rem;margin:12px 0 0}
-.ra-msg.ok{color:#2e9e6b}.ra-msg.err{color:#d9604c}
+.ra-msg.ok{color:var(--ink,#dce4ec);line-height:1.6;border-left:3px solid #2e9e6b;padding-left:12px}.ra-msg.err{color:#d9604c}
 .ra-msg a{color:var(--brass)}
 .btn-ghost{background:transparent;border:1px solid var(--rule);color:var(--ink-soft)}

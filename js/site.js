@@ -160,7 +160,7 @@ var FOOTER_SITE_URL = "https://cmabijeshbj-web.github.io/";
     var pr=TITLES[file]?file:'fpa';
     modal.querySelector('.ra-file').textContent='All files for: '+TITLES[pr];
     modal.dataset.file=pr;
-    var f=modal.querySelector('form'); f.style.display=''; f.reset(); modal.querySelector('.ra-msg').textContent=''; modal.querySelector('.ra-msg').className='ra-msg';
+    modal.querySelector('#ra-title').textContent='Request access to all files'; modal.querySelector('.ra-sub').style.display=''; var f=modal.querySelector('form'); f.style.display=''; Array.prototype.forEach.call(f.children,function(c){ if(c.name!=='_honey') c.style.display=''; }); f.reset(); var sb=f.querySelector('button[type=submit]'); sb.disabled=false; sb.textContent='Send request'; modal.querySelector('.ra-msg').textContent=''; modal.querySelector('.ra-msg').className='ra-msg';
     modal.classList.add('open'); setTimeout(function(){ f.email.focus(); },50);
   }
   function submit(e){
@@ -177,7 +177,7 @@ var FOOTER_SITE_URL = "https://cmabijeshbj-web.github.io/";
     var req=SCRIPT_URL?fetch(SCRIPT_URL,{method:'POST',headers:{'Content-Type':'text/plain;charset=utf-8'},body:JSON.stringify({email:email,name:body.name,company:body.company,project:file,_honey:''})}).then(function(r){ return r.json(); }).then(function(j){ if(!j.ok) throw 0; return j; })
       :fetch(ENDPOINT,{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(body)}).then(function(r){ if(!r.ok) throw 0; return r.json(); });
     req
-      .then(function(){ f.style.display='none'; msg.textContent='Thank you. Your request has been sent. I will review it and reply to '+email+'.'; msg.className='ra-msg ok'; })
+      .then(function(){ Array.prototype.forEach.call(f.children,function(c){ if(!c.classList.contains('ra-msg')) c.style.display='none'; }); modal.querySelector('.ra-sub').style.display='none'; modal.querySelector('#ra-title').textContent='Thank you for your request'; msg.innerHTML='Dear '+f.name.value.trim().split(' ')[0]+',<br><br>Thank you for your interest in my work. Your request for <b>'+TITLES[file]+'</b> has been received. I will review it personally and, once approved, the files will be emailed to <b>'+email+'</b>. Please allow a short while, and check your spam folder if it does not arrive.<br><br>I look forward to connecting with you.<br>Bijesh BJ, CMA (USA)'; msg.className='ra-msg ok'; })
       .catch(function(){
         btn.disabled=false; btn.textContent='Send request';
         msg.innerHTML='Could not send automatically. <a href="mailto:'+OWNER+'?subject='+encodeURIComponent('Access request: '+TITLES[file])+'&body='+encodeURIComponent('Hi Bijesh, I would like to request access to all files of '+TITLES[file]+'.\n\nMy email: '+email)+'">Click here to send it by email instead.</a>'; msg.className='ra-msg err';
