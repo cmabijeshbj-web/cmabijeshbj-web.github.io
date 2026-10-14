@@ -16,9 +16,13 @@
 .viewer-bar{display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between;margin:6px 0 14px}
 .viewer-bar h1{font-size:1.35rem;margin:0}
 .viewer-badge{font-family:'IBM Plex Mono',monospace;font-size:.75rem;letter-spacing:.06em;text-transform:uppercase;color:var(--brass);border:1px solid var(--brass);padding:3px 9px;border-radius:3px}
-.vtabs{display:flex;gap:4px;flex-wrap:nowrap;overflow-x:auto;border-bottom:1px solid var(--rule);margin-top:8px}
-.vtab{font-family:'IBM Plex Mono',monospace;font-size:.78rem;padding:8px 12px;background:transparent;color:var(--ink-soft);border:1px solid transparent;border-bottom:none;border-radius:4px 4px 0 0;cursor:pointer;white-space:nowrap}
-.vtab.active{background:var(--card);color:var(--ink);border-color:var(--rule)}
+.vhint{display:flex;gap:12px;align-items:flex-start;background:var(--card);border:1px solid var(--rule);border-left:4px solid var(--brass);border-radius:4px;padding:12px 16px;margin:4px 0 14px;font-size:.95rem;line-height:1.5}
+.vhint b{color:var(--brass)}
+.vhint .vi{flex:none;font-family:'IBM Plex Mono',monospace;font-size:.72rem;letter-spacing:.06em;text-transform:uppercase;color:#0b1622;background:var(--brass);border-radius:3px;padding:3px 8px;margin-top:2px}
+.vtabs{display:flex;gap:6px;flex-wrap:nowrap;overflow-x:auto;border-bottom:1px solid var(--rule);margin-top:8px;padding-bottom:0}
+.vtab{--tc:#5b8def;font-family:'IBM Plex Mono',monospace;font-size:.78rem;padding:9px 14px 8px;background:color-mix(in srgb,var(--tc) 12%,transparent);color:var(--ink);border:1px solid color-mix(in srgb,var(--tc) 35%,transparent);border-top:4px solid var(--tc);border-bottom:none;border-radius:5px 5px 0 0;cursor:pointer;white-space:nowrap;opacity:.82;transition:opacity .15s,background .15s}
+.vtab:hover{opacity:1}
+.vtab.active{opacity:1;background:color-mix(in srgb,var(--tc) 30%,var(--card));font-weight:600;box-shadow:0 -2px 0 0 var(--tc)}
 .fbar{display:flex;gap:10px;align-items:center;font-family:'IBM Plex Mono',monospace;font-size:.8rem;border:1px solid var(--rule);border-top:none;background:var(--card);padding:6px 10px;min-height:34px}
 .fbar b{color:var(--brass);min-width:48px}
 .fbar span{overflow-x:auto;white-space:nowrap}
@@ -44,7 +48,7 @@ table.vt tr.stick td{position:sticky;top:0;z-index:2}
 <main>
   <section class="section tight">
     <div class="wrap vcard">
-      <div class="viewer-bar"><div><a id="back" href="projects.html" style="font-size:.9rem;">&larr; Back to project</a><h1 id="vtitle">Loading…</h1></div><span class="viewer-badge">View only</span></div>
+      <div class="viewer-bar"><div><a id="back" href="projects.html" style="font-size:.9rem;">&larr; Back to project</a><h1 id="vtitle">Loading…</h1></div><div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap;"><a class="btn btn-primary" href="#" id="vreq" data-request-access style="padding:7px 14px;">Request access</a><span class="viewer-badge">View only</span></div></div>
       <div id="vbody"></div>
       <p class="vnote" id="vnote"></p>
     </div>
@@ -63,17 +67,22 @@ table.vt tr.stick td{position:sticky;top:0;z-index:2}
   document.addEventListener('keydown',function(e){ if((e.ctrlKey||e.metaKey)&&['s','p','c','u'].indexOf(e.key.toLowerCase())>-1) e.preventDefault(); });
   fetch('assets/view/data/'+q+'.json').then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(d){
     title.textContent=d.title; document.title=d.title+' — view only';
-    note.textContent='Read-only preview of '+d.file+'. Copying and printing are disabled. Need a working copy? Email cmabijesh.ae@gmail.com to request access.';
+    note.textContent='Read-only preview of '+d.file+'. Copying and printing are disabled. Need a working copy? Click Request access (top right) and enter your email.';
+    document.getElementById('vreq').setAttribute('data-file',d.file);
     if(d.kind==='text'){ var pre=document.createElement('pre'); pre.className='vcode'; pre.textContent=d.text; body.appendChild(pre); }
     else if(d.kind==='images'){ var g=document.createElement('div'); g.className='vimgs'; d.images.forEach(function(s){ var i=document.createElement('img'); i.src=s; i.draggable=false; i.alt=d.title; g.appendChild(i); }); body.appendChild(g); }
     else sheetViewer(d);
   }).catch(function(){ title.textContent='This file could not be loaded.'; });
+  var PAL=['#2f9e8f','#4a7fd4','#8b6fd0','#d09a2e','#3f9d5a','#c9667a','#3aa0c8','#c97b3a'];
   function css(s){ var o=[]; if(s.b)o.push('font-weight:700'); if(s.i)o.push('font-style:italic'); if(s.c)o.push('color:'+s.c); if(s.z)o.push('font-size:'+Math.round(s.z*1.1)+'px'); if(s.bg)o.push('background:'+s.bg); if(s.a)o.push('text-align:'+s.a); if(s.bb)o.push('border-bottom:1px solid '+s.bb); if(s.bt)o.push('border-top:1px solid '+s.bt); return o.join(';'); }
   function sheetViewer(d){
     var styles=d.styles.map(css), tabs=document.createElement('div'); tabs.className='vtabs';
     var fb=document.createElement('div'); fb.className='fbar'; fb.innerHTML='<b></b><span>Select a cell to see its formula or value</span>';
     var wrap=document.createElement('div'); wrap.className='vwrap'; var sc=document.createElement('div'); sc.className='vscroll'; var wm=document.createElement('div'); wm.className='wm'; wrap.appendChild(sc); wrap.appendChild(wm);
-    body.appendChild(tabs); body.appendChild(fb); body.appendChild(wrap);
+    var hint=document.createElement('div'); hint.className='vhint';
+    var many=d.sheets.length>1;
+    hint.innerHTML='<span class="vi">How to view</span><div>'+(many?'This file has <b>'+d.sheets.length+' sheets</b>. Use the <b>coloured tabs</b> just below to switch between them. ':'Scroll to browse the full dataset. ')+'Click any cell to see its <b>formula or value</b> in the bar above the grid. This is a read-only preview; use <b>Request access</b> if you need the file.</div>';
+    body.appendChild(hint); body.appendChild(tabs); body.appendChild(fb); body.appendChild(wrap);
     function colL(n){ var s=''; n++; while(n>0){ var m=(n-1)%26; s=String.fromCharCode(65+m)+s; n=Math.floor((n-1)/26); } return s; }
     function show(i){
       var sh=d.sheets[i]; [].forEach.call(tabs.children,function(t,k){ t.classList.toggle('active',k===i); });
@@ -94,7 +103,7 @@ table.vt tr.stick td{position:sticky;top:0;z-index:2}
       sc.onclick=function(ev){ var td=ev.target.closest('td[data-r]'); if(!td) return; var p=sc.querySelector('.sel'); if(p)p.classList.remove('sel'); td.classList.add('sel'); var e=sh.rows[+td.dataset.r][+td.dataset.c]; fb.querySelector('b').textContent=colL(+td.dataset.c)+(+td.dataset.r+1); fb.querySelector('span').textContent=e[2]?e[2]:e[0]; };
       if(sh.charts){ note.textContent=note.textContent.replace(/ Charts.*$/,'')+' Charts for this sheet appear in the board pack.'; }
     }
-    d.sheets.forEach(function(sh,i){ var t=document.createElement('button'); t.className='vtab'; t.textContent=sh.name; t.onclick=function(){ show(i); }; tabs.appendChild(t); });
+    d.sheets.forEach(function(sh,i){ var t=document.createElement('button'); t.className='vtab'; t.style.setProperty('--tc',PAL[i%PAL.length]); t.textContent=sh.name; t.onclick=function(){ show(i); }; tabs.appendChild(t); });
     show(0);
   }
 })();

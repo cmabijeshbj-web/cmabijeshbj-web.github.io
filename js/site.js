@@ -129,3 +129,57 @@ var FOOTER_SITE_URL = "https://cmabijeshbj-web.github.io/";
   document.addEventListener('contextmenu',function(e){ if(e.target.closest&&e.target.closest('.view-gallery,.lightbox')) e.preventDefault(); });
   document.addEventListener('dragstart',function(e){ if(e.target.closest&&e.target.closest('.view-gallery,.lightbox')) e.preventDefault(); });
 })();
+
+/* Access-request modal: any element with [data-request-access] (optional data-file) opens it */
+(function(){
+  var ENDPOINT='https://formsubmit.co/ajax/cmabijesh.ae@gmail.com', OWNER='cmabijesh.ae@gmail.com', modal=null;
+  function build(){
+    modal=document.createElement('div'); modal.className='ra-overlay';
+    modal.innerHTML='<div class="ra-box" role="dialog" aria-modal="true" aria-labelledby="ra-title">'+
+      '<button type="button" class="ra-x" aria-label="Close">&times;</button>'+
+      '<h3 id="ra-title">Request access</h3>'+
+      '<p class="ra-file"></p>'+
+      '<p class="ra-sub">Enter your email and I will review your request. If approved, I will send the file to you.</p>'+
+      '<form novalidate>'+
+        '<label>Your email *<input type="email" name="email" required autocomplete="email" placeholder="you@company.com"></label>'+
+        '<label>Name<input type="text" name="name" autocomplete="name" placeholder="Optional"></label>'+
+        '<label>Company / role<input type="text" name="company" placeholder="Optional"></label>'+
+        '<input type="text" name="_honey" tabindex="-1" autocomplete="off" style="display:none">'+
+        '<button type="submit" class="btn btn-primary">Send request</button>'+
+        '<p class="ra-msg" role="status"></p>'+
+      '</form></div>';
+    document.body.appendChild(modal);
+    modal.addEventListener('click',function(e){ if(e.target===modal||e.target.classList.contains('ra-x')) close(); });
+    modal.querySelector('form').addEventListener('submit',submit);
+  }
+  function close(){ if(modal) modal.classList.remove('open'); }
+  function open(file){
+    if(!modal) build();
+    modal.querySelector('.ra-file').textContent=file?('File: '+file):'';
+    modal.dataset.file=file||'Project files';
+    var f=modal.querySelector('form'); f.style.display=''; f.reset(); modal.querySelector('.ra-msg').textContent=''; modal.querySelector('.ra-msg').className='ra-msg';
+    modal.classList.add('open'); setTimeout(function(){ f.email.focus(); },50);
+  }
+  function submit(e){
+    e.preventDefault();
+    var f=e.target, msg=modal.querySelector('.ra-msg'), btn=f.querySelector('button[type=submit]');
+    var email=f.email.value.trim();
+    if(!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)){ msg.textContent='Please enter a valid email address.'; msg.className='ra-msg err'; return; }
+    if(f._honey.value){ return; }
+    var file=modal.dataset.file; btn.disabled=true; btn.textContent='Sending…'; msg.textContent=''; msg.className='ra-msg';
+    var body={ _subject:'Access request: '+file, _template:'table', _captcha:'false', _replyto:email,
+      email:email, name:f.name.value.trim(), company:f.company.value.trim(), file:file, page:location.href, _honey:'' };
+    fetch(ENDPOINT,{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(body)})
+      .then(function(r){ if(!r.ok) throw 0; return r.json(); })
+      .then(function(){ f.style.display='none'; msg.textContent='Thank you. Your request has been sent. I will review it and reply to '+email+'.'; msg.className='ra-msg ok'; })
+      .catch(function(){
+        btn.disabled=false; btn.textContent='Send request';
+        msg.innerHTML='Could not send automatically. <a href="mailto:'+OWNER+'?subject='+encodeURIComponent('Access request: '+file)+'&body='+encodeURIComponent('Hi Bijesh, I would like to request access to '+file+'.\n\nMy email: '+email)+'">Click here to send it by email instead.</a>'; msg.className='ra-msg err';
+      });
+  }
+  document.addEventListener('click',function(e){
+    var t=e.target.closest&&e.target.closest('[data-request-access]');
+    if(t){ e.preventDefault(); open(t.getAttribute('data-file')||''); }
+  });
+  document.addEventListener('keydown',function(e){ if(e.key==='Escape') close(); });
+})();
