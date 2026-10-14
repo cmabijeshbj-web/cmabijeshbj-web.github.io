@@ -132,7 +132,7 @@ var FOOTER_SITE_URL = "https://cmabijeshbj-web.github.io/";
 
 /* Access-request modal: any element with [data-request-access] (optional data-file) opens it */
 (function(){
-  var SCRIPT_URL='https://script.google.com/macros/s/AKfycbyaWIU6JF6rmwfItODiGLV5l5GVGYGUadpWVJ-MwhS-Ga3m2BNHOpeUfacUY5xVWqBSeA/exec', /* Google Apps Script web app: one-click approvals */
+  var SCRIPT_URL='https://script.google.com/macros/s/AKfycbzhxyngm6-G_ybBk8JuJI589URUgVgZbCOL-X__BUW_7WaXZRo_wUpOHkgfV5MzpZ5NjA/exec', /* Google Apps Script web app: one-click approvals */
       ENDPOINT='https://formsubmit.co/ajax/cmabijesh.ae@gmail.com', OWNER='cmabijesh.ae@gmail.com', modal=null;
   function build(){
     modal=document.createElement('div'); modal.className='ra-overlay';
