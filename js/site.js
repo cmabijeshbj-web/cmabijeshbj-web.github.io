@@ -132,7 +132,8 @@ var FOOTER_SITE_URL = "https://cmabijeshbj-web.github.io/";
 
 /* Access-request modal: any element with [data-request-access] (optional data-file) opens it */
 (function(){
-  var ENDPOINT='https://formsubmit.co/ajax/cmabijesh.ae@gmail.com', OWNER='cmabijesh.ae@gmail.com', modal=null;
+  var SCRIPT_URL='', /* paste the Google Apps Script Web app URL here to enable one-click approvals */
+      ENDPOINT='https://formsubmit.co/ajax/cmabijesh.ae@gmail.com', OWNER='cmabijesh.ae@gmail.com', modal=null;
   function build(){
     modal=document.createElement('div'); modal.className='ra-overlay';
     modal.innerHTML='<div class="ra-box" role="dialog" aria-modal="true" aria-labelledby="ra-title">'+
@@ -169,8 +170,9 @@ var FOOTER_SITE_URL = "https://cmabijeshbj-web.github.io/";
     var file=modal.dataset.file; btn.disabled=true; btn.textContent='Sending…'; msg.textContent=''; msg.className='ra-msg';
     var body={ _subject:'Access request: '+file, _template:'table', _captcha:'false', _replyto:email,
       email:email, name:f.name.value.trim(), company:f.company.value.trim(), file:file, page:location.href, _honey:'' };
-    fetch(ENDPOINT,{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(body)})
-      .then(function(r){ if(!r.ok) throw 0; return r.json(); })
+    var req=SCRIPT_URL?fetch(SCRIPT_URL,{method:'POST',headers:{'Content-Type':'text/plain;charset=utf-8'},body:JSON.stringify({email:email,name:body.name,company:body.company,file:file,_honey:''})}).then(function(r){ return r.json(); }).then(function(j){ if(!j.ok) throw 0; return j; })
+      :fetch(ENDPOINT,{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(body)}).then(function(r){ if(!r.ok) throw 0; return r.json(); });
+    req
       .then(function(){ f.style.display='none'; msg.textContent='Thank you. Your request has been sent. I will review it and reply to '+email+'.'; msg.className='ra-msg ok'; })
       .catch(function(){
         btn.disabled=false; btn.textContent='Send request';
