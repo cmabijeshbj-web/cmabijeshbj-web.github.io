@@ -8,13 +8,13 @@
 
 // ---- 1. EDIT THIS LIST to add/remove/rename nav links ----
 var NAV_ITEMS = [
-  { href: "index.html",            label: "Home",              sub: "Overview", c: "#E3B341", cl: "#9A6B00" },
-  { href: "about.html",            label: "About",             sub: "Skills", c: "#3CC6B8", cl: "#0B7F75" },
-  { href: "projects.html",         label: "Projects",          sub: "6 case studies", c: "#5EA1F5", cl: "#1D5FBF" },
-  { href: "experience.html",       label: "Experience",        sub: "Career history", group: true, c: "#A98BFA", cl: "#6B46C9" },
-  { href: "certifications.html",   label: "Education & Certs", sub: "CMA (USA)", c: "#4CC38A", cl: "#177A4B" },
-  { href: "resume.html",           label: "Resume",            sub: "Download", c: "#F59E5B", cl: "#B85A0E" },
-  { href: "contact.html",          label: "Contact",           sub: "Get in touch", cta: true, c: "#F0688A", cl: "#B8284F" }
+  { href: "index.html",            label: "Home",              sub: "Overview"},
+  { href: "about.html",            label: "About",             sub: "Skills"},
+  { href: "projects.html",         label: "Projects",          sub: "6 case studies"},
+  { href: "experience.html",       label: "Experience",        sub: "Career history", group: true},
+  { href: "certifications.html",   label: "Education & Certs", sub: "CMA (USA)"},
+  { href: "resume.html",           label: "Resume",            sub: "Download"},
+  { href: "contact.html",          label: "Contact",           sub: "Get in touch", cta: true}
 ];
 
 var SITE_NAME = "Bijesh BJ, CMA (USA)";
@@ -51,7 +51,7 @@ var FOOTER_SITE_URL = "https://cmabijeshbj-web.github.io/";
       if (item.group) c.push('nav-group-start');
       if (item.cta) c.push('nav-cta');
       var cls = c.length ? ' class="' + c.join(' ') + '"' : '';
-      return '<a href="' + prefix + item.href + '"' + cls + ' style="--cd:' + item.c + ';--cl:' + item.cl + '" title="' + item.sub + '">' +
+      return '<a href="' + prefix + item.href + '"' + cls + ' title="' + item.sub + '">' +
         '<span class="nav-label">' + item.label + '</span><span class="nav-sub">' + item.sub.replace(/&/g, '&amp;') + '</span></a>';
     }).join('\n      ');
 
