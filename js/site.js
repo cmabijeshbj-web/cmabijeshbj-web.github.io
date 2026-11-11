@@ -8,13 +8,13 @@
 
 // ---- 1. EDIT THIS LIST to add/remove/rename nav links ----
 var NAV_ITEMS = [
-  { href: "index.html",            label: "Home" },
-  { href: "about.html",            label: "About" },
-  { href: "experience.html",       label: "Experience" },
-  { href: "projects.html",         label: "Projects" },
-  { href: "certifications.html",   label: "Education & Certs" },
-  { href: "resume.html",           label: "Resume" },
-  { href: "contact.html",          label: "Contact" }
+  { href: "index.html",            label: "Home",              sub: "Overview" },
+  { href: "about.html",            label: "About",             sub: "Skills" },
+  { href: "projects.html",         label: "Projects",          sub: "6 case studies" },
+  { href: "experience.html",       label: "Experience",        sub: "Career history", group: true },
+  { href: "certifications.html",   label: "Education & Certs", sub: "CMA (USA)" },
+  { href: "resume.html",           label: "Resume",            sub: "Download" },
+  { href: "contact.html",          label: "Contact",           sub: "Get in touch", cta: true }
 ];
 
 var SITE_NAME = "Bijesh BJ, CMA (USA)";
@@ -46,8 +46,13 @@ var FOOTER_SITE_URL = "https://cmabijeshbj-web.github.io/";
     var prefix = currentDepth();
     var active = currentActiveHref();
     var links = NAV_ITEMS.map(function (item) {
-      var cls = item.href === active ? ' class="active"' : '';
-      return '<a href="' + prefix + item.href + '"' + cls + '>' + item.label + '</a>';
+      var c = [];
+      if (item.href === active) c.push('active');
+      if (item.group) c.push('nav-group-start');
+      if (item.cta) c.push('nav-cta');
+      var cls = c.length ? ' class="' + c.join(' ') + '"' : '';
+      return '<a href="' + prefix + item.href + '"' + cls + ' title="' + item.sub + '">' +
+        '<span class="nav-label">' + item.label + '</span><span class="nav-sub">' + item.sub.replace(/&/g, '&amp;') + '</span></a>';
     }).join('\n      ');
 
     return (
