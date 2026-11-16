@@ -79,7 +79,6 @@ var FOOTER_SITE_URL = "https://cmabijeshbj-web.github.io/";
       '<footer class="site-footer">\n' +
       '  <div class="wrap">\n' +
       '    <p>' + FOOTER_TAGLINE + '</p>\n' +
-      '    <p class="view-counter" id="viewCounter" hidden>Portfolio views: <b id="viewCount">&ndash;</b></p>\n' +
       '    <p>&copy; 2026 ' + SITE_NAME + ' &middot; <a href="mailto:' + FOOTER_EMAIL + '">' + FOOTER_EMAIL + '</a> &middot; <a href="' + FOOTER_SITE_URL + '">' + FOOTER_SITE_URL.replace('https://', '') + '</a></p>\n' +
       '  </div>\n' +
       '</footer>'
@@ -218,10 +217,12 @@ var FOOTER_SITE_URL = "https://cmabijeshbj-web.github.io/";
       .then(function (r) { return r.ok ? r.json() : Promise.reject(); })
       .then(function (d) {
         try { sessionStorage.setItem('pv-counted', '1'); } catch (e) {}
-        var box = document.getElementById('viewCounter'), out = document.getElementById('viewCount');
-        if (owner && box && out && typeof d.value === 'number') {
-          out.textContent = d.value.toLocaleString('en-US');
-          box.hidden = false;
+        var foot = document.querySelector('footer.site-footer .wrap');
+        if (owner && foot && typeof d.value === 'number' && !document.getElementById('viewCounter')) {
+          var p = document.createElement('p');
+          p.className = 'view-counter'; p.id = 'viewCounter';
+          p.innerHTML = 'Portfolio views: <b>' + d.value.toLocaleString('en-US') + '</b>';
+          foot.insertBefore(p, foot.children[1] || null);
         }
       })
       .catch(function () {});
