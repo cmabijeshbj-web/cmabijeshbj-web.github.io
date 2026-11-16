@@ -196,24 +196,33 @@ var FOOTER_SITE_URL = "https://cmabijeshbj-web.github.io/";
   document.addEventListener('keydown',function(e){ if(e.key==='Escape') close(); });
 })();
 
-/* Visible visit counter (abacus.jasoncameron.dev, no sign-up). Counts once per browser session; hidden if the service is unreachable. */
+/* Private visit counter (abacus.jasoncameron.dev, no sign-up).
+   Visitors are counted once per browser session but never see the number.
+   The owner unlocks it once per browser with ?owner=85dac5ee787c (lock again with ?owner=off);
+   owner visits are not counted and the number appears in the footer. */
 (function () {
-  var NS = 'cmabijeshbj-web-github-io', KEY = 'portfolio-views';
+  var NS = 'cmabijeshbj-web-github-io', KEY = 'portfolio-views', TOKEN = '85dac5ee787c';
   var base = 'https://abacus.jasoncameron.dev/';
-  function show(n) {
-    var box = document.getElementById('viewCounter'), out = document.getElementById('viewCount');
-    if (!box || !out || typeof n !== 'number') return;
-    out.textContent = n.toLocaleString('en-US');
-    box.hidden = false;
-  }
+  var owner = false;
+  try {
+    var q = new URLSearchParams(location.search).get('owner');
+    if (q === TOKEN) localStorage.setItem('pv-owner', '1');
+    if (q === 'off') localStorage.removeItem('pv-owner');
+    owner = localStorage.getItem('pv-owner') === '1';
+  } catch (e) {}
   document.addEventListener('DOMContentLoaded', function () {
     var counted = false;
     try { counted = sessionStorage.getItem('pv-counted') === '1'; } catch (e) {}
-    fetch(base + (counted ? 'get/' : 'hit/') + NS + '/' + KEY)
+    var act = (owner || counted) ? 'get/' : 'hit/';
+    fetch(base + act + NS + '/' + KEY)
       .then(function (r) { return r.ok ? r.json() : Promise.reject(); })
       .then(function (d) {
-        show(d.value);
         try { sessionStorage.setItem('pv-counted', '1'); } catch (e) {}
+        var box = document.getElementById('viewCounter'), out = document.getElementById('viewCount');
+        if (owner && box && out && typeof d.value === 'number') {
+          out.textContent = d.value.toLocaleString('en-US');
+          box.hidden = false;
+        }
       })
       .catch(function () {});
   });
