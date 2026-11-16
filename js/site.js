@@ -79,6 +79,7 @@ var FOOTER_SITE_URL = "https://cmabijeshbj-web.github.io/";
       '<footer class="site-footer">\n' +
       '  <div class="wrap">\n' +
       '    <p>' + FOOTER_TAGLINE + '</p>\n' +
+      '    <p class="view-counter" id="viewCounter" hidden>Portfolio views: <b id="viewCount">&ndash;</b></p>\n' +
       '    <p>&copy; 2026 ' + SITE_NAME + ' &middot; <a href="mailto:' + FOOTER_EMAIL + '">' + FOOTER_EMAIL + '</a> &middot; <a href="' + FOOTER_SITE_URL + '">' + FOOTER_SITE_URL.replace('https://', '') + '</a></p>\n' +
       '  </div>\n' +
       '</footer>'
@@ -193,4 +194,27 @@ var FOOTER_SITE_URL = "https://cmabijeshbj-web.github.io/";
     if(t){ e.preventDefault(); open(t.getAttribute('data-project')||''); }
   });
   document.addEventListener('keydown',function(e){ if(e.key==='Escape') close(); });
+})();
+
+/* Visible visit counter (abacus.jasoncameron.dev, no sign-up). Counts once per browser session; hidden if the service is unreachable. */
+(function () {
+  var NS = 'cmabijeshbj-web-github-io', KEY = 'portfolio-views';
+  var base = 'https://abacus.jasoncameron.dev/';
+  function show(n) {
+    var box = document.getElementById('viewCounter'), out = document.getElementById('viewCount');
+    if (!box || !out || typeof n !== 'number') return;
+    out.textContent = n.toLocaleString('en-US');
+    box.hidden = false;
+  }
+  document.addEventListener('DOMContentLoaded', function () {
+    var counted = false;
+    try { counted = sessionStorage.getItem('pv-counted') === '1'; } catch (e) {}
+    fetch(base + (counted ? 'get/' : 'hit/') + NS + '/' + KEY)
+      .then(function (r) { return r.ok ? r.json() : Promise.reject(); })
+      .then(function (d) {
+        show(d.value);
+        try { sessionStorage.setItem('pv-counted', '1'); } catch (e) {}
+      })
+      .catch(function () {});
+  });
 })();
