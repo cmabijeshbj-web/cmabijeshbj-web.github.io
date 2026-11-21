@@ -38,7 +38,7 @@ attributes) controls layout and styling — leave that structure alone,
 just change the words between the tags.
 
 Example — changing your professional summary on the Home page:
-open `index.html`, find the paragraph starting "CMA (USA)-certified
+open `index.html`, find the paragraph starting "CMA-certified
 Finance Professional...", and edit the sentence.
 
 ## Adding a photo anywhere

@@ -12,12 +12,12 @@ var NAV_ITEMS = [
   { href: "about.html",            label: "About",             sub: "Skills"},
   { href: "projects.html",         label: "Projects",          sub: "6 case studies"},
   { href: "experience.html",       label: "Experience",        sub: "Career history", group: true},
-  { href: "certifications.html",   label: "Education & Certs", sub: "CMA (USA)"},
+  { href: "certifications.html",   label: "Education & Certs", sub: "CMA"},
   { href: "resume.html",           label: "Resume",            sub: "Download"},
   { href: "contact.html",          label: "Contact",           sub: "Get in touch", cta: true}
 ];
 
-var SITE_NAME = "Bijesh BJ, CMA (USA)";
+var SITE_NAME = "Bijesh BJ, CMA";
 var SITE_LEDGER_TAG = "FP&A · SAP FICO · UAE VAT &amp; CT";
 var FOOTER_TAGLINE = "Every number tells a story. I turn financial data into insight.";
 var FOOTER_EMAIL = "cmabijesh.ae@gmail.com";
@@ -204,7 +204,7 @@ var FOOTER_SITE_URL = "https://cmabijeshbj-web.github.io/";
     var req=SCRIPT_URL?fetch(SCRIPT_URL,{method:'POST',headers:{'Content-Type':'text/plain;charset=utf-8'},body:JSON.stringify({email:email,name:body.name,company:body.company,project:file,_honey:''})}).then(function(r){ return r.json(); }).then(function(j){ if(!j.ok) throw 0; return j; })
       :fetch(ENDPOINT,{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(body)}).then(function(r){ if(!r.ok) throw 0; return r.json(); });
     req
-      .then(function(){ Array.prototype.forEach.call(f.children,function(c){ if(!c.classList.contains('ra-msg')) c.style.display='none'; }); modal.querySelector('.ra-sub').style.display='none'; modal.querySelector('#ra-title').textContent='Thank you for your request'; msg.innerHTML='Dear '+f.name.value.trim().split(' ')[0]+',<br><br>Thank you for your interest in my work. Your request for <b>'+TITLES[file]+'</b> has been received. I will review it personally and, once approved, the files will be emailed to <b>'+email+'</b>. Please allow a short while, and check your spam folder if it does not arrive.<br><br>I look forward to connecting with you.<br>Bijesh BJ, CMA (USA)'; msg.className='ra-msg ok'; })
+      .then(function(){ Array.prototype.forEach.call(f.children,function(c){ if(!c.classList.contains('ra-msg')) c.style.display='none'; }); modal.querySelector('.ra-sub').style.display='none'; modal.querySelector('#ra-title').textContent='Thank you for your request'; msg.innerHTML='Dear '+f.name.value.trim().split(' ')[0]+',<br><br>Thank you for your interest in my work. Your request for <b>'+TITLES[file]+'</b> has been received. I will review it personally and, once approved, the files will be emailed to <b>'+email+'</b>. Please allow a short while, and check your spam folder if it does not arrive.<br><br>I look forward to connecting with you.<br>Bijesh BJ, CMA'; msg.className='ra-msg ok'; })
       .catch(function(){
         btn.disabled=false; btn.textContent='Send request';
         msg.innerHTML='Could not send automatically. <a href="mailto:'+OWNER+'?subject='+encodeURIComponent('Access request: '+TITLES[file])+'&body='+encodeURIComponent('Hi Bijesh, I would like to request access to all files of '+TITLES[file]+'.\n\nMy email: '+email)+'">Click here to send it by email instead.</a>'; msg.className='ra-msg err';
