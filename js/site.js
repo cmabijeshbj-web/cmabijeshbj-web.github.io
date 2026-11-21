@@ -17,7 +17,7 @@ var NAV_ITEMS = [
   { href: "contact.html",          label: "Contact",           sub: "Get in touch", cta: true}
 ];
 
-var SITE_NAME = "Bijesh BJ, CMA";
+var SITE_NAME = "Bijesh CMA";
 var SITE_LEDGER_TAG = "FP&A · SAP FICO · UAE VAT &amp; CT";
 var FOOTER_TAGLINE = "Every number tells a story. I turn financial data into insight.";
 var FOOTER_EMAIL = "cmabijesh.ae@gmail.com";
