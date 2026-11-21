@@ -111,8 +111,30 @@ var FOOTER_SITE_URL = "https://cmabijeshbj-web.github.io/";
     var navToggle = document.getElementById('navToggle');
     var mainNav = document.getElementById('mainNav');
     if (navToggle && mainNav) {
-      navToggle.addEventListener('click', function () {
-        mainNav.classList.toggle('open');
+      // Phone/tablet menu: open/close, swap icon, close on link tap, Escape, or tap outside
+      navToggle.setAttribute('aria-expanded', 'false');
+      navToggle.setAttribute('aria-controls', 'mainNav');
+      var setMenu = function (open) {
+        mainNav.classList.toggle('open', open);
+        navToggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+        navToggle.textContent = open ? '✕' : '☰';
+      };
+      navToggle.addEventListener('click', function (e) {
+        e.stopPropagation();
+        setMenu(!mainNav.classList.contains('open'));
+      });
+      mainNav.addEventListener('click', function (e) {
+        if (e.target.closest('a')) setMenu(false);
+      });
+      document.addEventListener('keydown', function (e) {
+        if (e.key === 'Escape' && mainNav.classList.contains('open')) setMenu(false);
+      });
+      document.addEventListener('click', function (e) {
+        if (mainNav.classList.contains('open') && !e.target.closest('.site-header')) setMenu(false);
+      });
+      // Switching to desktop width (e.g. rotating a tablet) resets the menu
+      window.addEventListener('resize', function () {
+        if (window.innerWidth > 980 && mainNav.classList.contains('open')) setMenu(false);
       });
     }
   });
